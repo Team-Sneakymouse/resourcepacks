@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/gui/root",
+	"textures": {
+		"texture": "lom:item/gui/skillmenu"
+	}
+}
