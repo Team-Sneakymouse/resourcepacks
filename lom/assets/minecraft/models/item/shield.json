@@ -1,0 +1,16 @@
+{
+	"parent": "item/vanilla/shield",
+	"overrides": [
+		{ "predicate": { "blocking": 1 }, "model": "item/shield_blocking" },
+		{ "predicate": { "custom_model_data": 1, "blocking": 0 }, "model": "lom:item/shields/buckler" },
+		{ "predicate": { "custom_model_data": 1, "blocking": 1 }, "model": "lom:item/shields/buckler_blocking" },
+		{ "predicate": { "custom_model_data": 2, "blocking": 0 }, "model": "lom:item/shields/heater" },
+		{ "predicate": { "custom_model_data": 2, "blocking": 1 }, "model": "lom:item/shields/heater_blocking" },
+		{ "predicate": { "custom_model_data": 3, "blocking": 0 }, "model": "lom:item/shields/targe" },
+		{ "predicate": { "custom_model_data": 3, "blocking": 1 }, "model": "lom:item/shields/targe_blocking" },
+		{ "predicate": { "custom_model_data": 4, "blocking": 0 }, "model": "lom:item/shields/rapier" },
+		{ "predicate": { "custom_model_data": 4, "blocking": 1 }, "model": "lom:item/shields/rapier_blocking" },
+		{ "predicate": { "custom_model_data": 5, "blocking": 0 }, "model": "lom:item/shields/thewall" },
+		{ "predicate": { "custom_model_data": 5, "blocking": 1 }, "model": "lom:item/shields/thewall_blocking" }
+	]
+}

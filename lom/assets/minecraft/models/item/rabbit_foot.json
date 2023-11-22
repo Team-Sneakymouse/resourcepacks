@@ -1,0 +1,12 @@
+{
+	"parent": "item/vanilla/rabbit_foot",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/d20" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/scroll" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/mortar" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/items/wizard_mortar" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "lom:item/items/dwarven_log" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "lom:item/items/dwarven_planks" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "lom:item/items/invisible" }
+	]
+}

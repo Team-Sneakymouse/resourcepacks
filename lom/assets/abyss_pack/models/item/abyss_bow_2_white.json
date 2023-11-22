@@ -1,0 +1,10 @@
+{
+	"parent": "abyss_pack:item/abyss_bow_2",
+	"textures": {
+		"1": "abyss_pack:item/white/abyss_bow",
+		"2": "abyss_pack:item/white/abyss_bow_1",
+		"3": "abyss_pack:item/white/abyss_eff_01",
+		"4": "abyss_pack:item/white/abyss_eff_02",
+		"particle": "abyss_pack:item/white/abyss_bow_1"
+	}
+}

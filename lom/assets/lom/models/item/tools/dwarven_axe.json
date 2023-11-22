@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "lom:item/tools/dwarven_axe"
+	}
+}

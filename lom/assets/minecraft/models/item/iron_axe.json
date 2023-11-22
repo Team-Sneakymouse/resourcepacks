@@ -1,0 +1,4 @@
+{
+	"parent": "item/vanilla/iron_axe",
+	"overrides": [{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/tools/dwarven_axe" }]
+}

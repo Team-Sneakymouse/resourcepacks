@@ -1,0 +1,10 @@
+{
+	"parent": "abyss_pack:item/abyss_wings",
+	"textures": {
+		"0": "abyss_pack:item/white/abyss_wings",
+		"1": "abyss_pack:item/white/abyss_tex_wings",
+		"2": "abyss_pack:item/white/abyss_eff_01",
+		"3": "abyss_pack:item/white/abyss_eff_02",
+		"particle": "abyss_pack:item/white/abyss_wings"
+	}
+}
