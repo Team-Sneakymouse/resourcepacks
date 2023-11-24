@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/gui/shop/shop",
+	"textures": {
+		"texture": "lom:item/gui/shop/jamie_franklin"
+	}
+}

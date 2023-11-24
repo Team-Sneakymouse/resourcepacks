@@ -7,6 +7,17 @@
 		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/items/wizard_mortar" },
 		{ "predicate": { "custom_model_data": 5 }, "model": "lom:item/items/dwarven_log" },
 		{ "predicate": { "custom_model_data": 6 }, "model": "lom:item/items/dwarven_planks" },
-		{ "predicate": { "custom_model_data": 7 }, "model": "lom:item/items/invisible" }
+		{ "predicate": { "custom_model_data": 7 }, "model": "lom:item/items/invisible" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "lom:item/items/coppercoin" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "lom:item/items/fish" },
+		{ "predicate": { "custom_model_data": 10 }, "model": "lom:item/items/goldcoin" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "lom:item/items/goldenore" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "lom:item/items/goo" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "lom:item/items/muk" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "lom:item/items/ore" },
+		{ "predicate": { "custom_model_data": 15 }, "model": "lom:item/items/sand" },
+		{ "predicate": { "custom_model_data": 16 }, "model": "lom:item/items/shell" },
+		{ "predicate": { "custom_model_data": 17 }, "model": "lom:item/items/silvercoin" },
+		{ "predicate": { "custom_model_data": 18 }, "model": "lom:item/items/stone" }
 	]
 }

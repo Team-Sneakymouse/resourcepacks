@@ -203,7 +203,43 @@ Resource pack for the Lords of Minecraft 2 server
 | Trip                   | `jigsaw`, 194         |         |
 | Waterproof Sneaks      | `jigsaw`, 195         |         |
 | Wolfpack               | `jigsaw`, 196         |         |
-
+| Bandit                 | `jigsaw`, 197         |         |
+| Blocks                 | `jigsaw`, 198         |         |
+| Don't Touch            | `jigsaw`, 199         |         |
+| Eating                 | `jigsaw`, 200         |         |
+| Existing               | `jigsaw`, 201         |         |
+| Farm                   | `jigsaw`, 202         |         |
+| Furniture              | `jigsaw`, 203         |         |
+| Gold                   | `jigsaw`, 204         |         |
+| Jumping                | `jigsaw`, 205         |         |
+| Junk                   | `jigsaw`, 206         |         |
+| Mining                 | `jigsaw`, 207         |         |
+| Plot Deed              | `jigsaw`, 208         |         |
+| Run                    | `jigsaw`, 209         |         |
+| Sit                    | `jigsaw`, 210         |         |
+| Slums                  | `jigsaw`, 211         |         |
+| Stone Ore              | `jigsaw`, 212         |         |
+| Store                  | `jigsaw`, 213         |         |
+| Swim                   | `jigsaw`, 214         |         |
+| Thirsty                | `jigsaw`, 215         |         |
+| Tools                  | `jigsaw`, 216         |         |
+| Adrenaline             | `jigsaw`, 217         |         |
+| Bag of Holding         | `jigsaw`, 218         |         |
+| Leap Practice          | `jigsaw`, 219         |         |
+| Lucky Snacker          | `jigsaw`, 220         |         |
+| Piggyback              | `jigsaw`, 221         |         |
+| Punching Quests        | `jigsaw`, 222         |         |
+| Safe Fall              | `jigsaw`, 223         |         |
+| Speed Stones           | `jigsaw`, 224         |         |
+| Splinter Strike        | `jigsaw`, 225         |         |
+| Springs Savings        | `jigsaw`, 226         |         |
+| Trading Quests         | `jigsaw`, 227         |         |
+| Wish                   | `jigsaw`, 228         |         |
+| Placeholder            | `jigsaw`, 229         |         |
+| Back                   | `jigsaw`, 230         |         |
+| Plot Deed 2            | `jigsaw`, 231         |         |
+| Plot Deed 3            | `jigsaw`, 232         |         |
+| Warp Coords            | `jigsaw`, 233         |         |
 </details>
 
 ## GUI
@@ -215,6 +251,11 @@ Resource pack for the Lords of Minecraft 2 server
 |--------------------|-----------------------|---------|
 | Skill Menu         | `jigsaw`, 1001        |         |
 | Skilltree (legacy) | `jigsaw`, 1002        |         |
+| Jimmy Jordonson    | `jigsaw`, 1003        |         |
+| Jimothy Worrywart  | `jigsaw`, 1004        |         |
+| James Barringster  | `jigsaw`, 1005        |         |
+| Jamie Franklin     | `jigsaw`, 1006        |         |
+| Jamthany Jourdain  | `jigsaw`, 1007        |         |
 
 </details>
 
@@ -379,5 +420,15 @@ Resource pack for the Lords of Minecraft 2 server
 | Dwarven Axe          | `iron_axe`, 1         |         |
 | Ancient Pickaxe      | `diamond_pickaxe`, 1  |         |
 | Lumberjack Axe       | `stone_axe`, 1        |         |
-
+| Copper Coin          | `rabbit_foot`, 8      |         |
+| Fish                 | `rabbit_foot`, 9      |         |
+| Gold Coin            | `rabbit_foot`, 10     |         |
+| Golden Ore           | `rabbit_foot`, 11     |         |
+| Goo                  | `rabbit_foot`, 12     |         |
+| Muk                  | `rabbit_foot`, 13     |         |
+| Ore                  | `rabbit_foot`, 14     |         |
+| Sand                 | `rabbit_foot`, 15     |         |
+| Shell                | `rabbit_foot`, 16     |         |
+| Silver Coin          | `rabbit_foot`, 17     |         |
+| Stone                | `rabbit_foot`, 18     |         |
 </details>

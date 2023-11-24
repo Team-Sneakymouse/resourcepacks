@@ -1728,5 +1728,10 @@
 			"ambient/cave/cave18",
 			"ambient/cave/cave19"
 		]
+	},
+	"buy": { "sounds": ["lom:buy"] },
+	"fail_wrong": { "sounds": ["lom:fail_wrong"] },
+	"storejimmy": {
+		"sounds": ["lom:storejimmy1", "lom:storejimmy2", "lom:storejimmy3", "lom:storejimmy4", "lom:storejimmy5"]
 	}
 }

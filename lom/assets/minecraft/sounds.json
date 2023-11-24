@@ -114,5 +114,17 @@
 	"music.under_water": {
 		"replace": true,
 		"sounds": []
+	},
+	"entity.villager.no": {
+		"replace": true,
+		"sounds": []
+	},
+	"entity.villager.yes": {
+		"replace": true,
+		"sounds": []
+	},
+	"entity.villager.trade": {
+		"replace": true,
+		"sounds": []
 	}
 }
