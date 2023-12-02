@@ -47,6 +47,7 @@
 		{ "predicate": { "custom_model_data": 45 }, "model": "lom:item/weapons/lowq_foamer" },
 		{ "predicate": { "custom_model_data": 46 }, "model": "lom:item/weapons/lowq_dirthose" },
 		{ "predicate": { "custom_model_data": 47 }, "model": "lom:item/weapons/lowq_ghostbuster" },
-		{ "predicate": { "custom_model_data": 48 }, "model": "lom:item/weapons/lowq_juicer" }
+		{ "predicate": { "custom_model_data": 48 }, "model": "lom:item/weapons/lowq_juicer" },
+		{ "predicate": { "custom_model_data": 49 }, "model": "lom:item/weapons/rapier" }
 	]
 }

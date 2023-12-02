@@ -431,4 +431,19 @@ Resource pack for the Lords of Minecraft 2 server
 | Shell                | `rabbit_foot`, 16     |         |
 | Silver Coin          | `rabbit_foot`, 17     |         |
 | Stone                | `rabbit_foot`, 18     |         |
+| Paper 1              | `rabbit_foot`, 19     |         |
+| Paper 2              | `rabbit_foot`, 20     |         |
+| Paper 3              | `rabbit_foot`, 21     |         |
+| Deed                 | `rabbit_foot`, 22     |         |
+| Deed Blue            | `rabbit_foot`, 23     |         |
+| Deed Brown           | `rabbit_foot`, 24     |         |
+| Deed Green           | `rabbit_foot`, 25     |         |
+| Deed Grey            | `rabbit_foot`, 26     |         |
+| Deed Orange          | `rabbit_foot`, 27     |         |
+| Deed Orange Blue     | `rabbit_foot`, 28     |         |
+| Deed Pink            | `rabbit_foot`, 29     |         |
+| Deed Red             | `rabbit_foot`, 30     |         |
+| Deed Red Black       | `rabbit_foot`, 31     |         |
+| Deed White Gold      | `rabbit_foot`, 32     |         |
+| Deed Yellow Orange   | `rabbit_foot`, 33     |         |
 </details>

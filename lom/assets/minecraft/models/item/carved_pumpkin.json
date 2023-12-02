@@ -59,6 +59,12 @@
 		{ "predicate": { "custom_model_data": 56 }, "model": "lom:item/hats/captain_helmet" },
 		{ "predicate": { "custom_model_data": 57 }, "model": "lom:item/hats/waluigi" },
 		{ "predicate": { "custom_model_data": 58 }, "model": "lom:item/hats/waluigi_small" },
-		{ "predicate": { "custom_model_data": 59 }, "model": "lom:item/hats/tricorn" }
+		{ "predicate": { "custom_model_data": 59 }, "model": "lom:item/hats/tricorn" },
+		{ "predicate": { "custom_model_data": 60 }, "model": "lom:item/hats/swammy-hat" },
+		{ "predicate": { "custom_model_data": 61 }, "model": "lom:item/hats/lolly" },
+		{ "predicate": { "custom_model_data": 62 }, "model": "lom:item/hats/musketeer" },
+		{ "predicate": { "custom_model_data": 63 }, "model": "lom:item/hats/present" },
+		{ "predicate": { "custom_model_data": 64 }, "model": "lom:item/hats/regalhat" },
+		{ "predicate": { "custom_model_data": 65 }, "model": "lom:item/hats/xantenex-hat" }
 	]
 }
