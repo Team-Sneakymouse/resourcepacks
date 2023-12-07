@@ -191,5 +191,63 @@
 	"block.pointed_dripstone.drip_water": {
 		"replace": true,
 		"sounds": []
+	},
+	"block.mud_bricks.fall": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "stone/step1",
+				"volume": 0.5
+			},
+			{
+				"name": "stone/step2",
+				"volume": 0.5
+			},
+			{
+				"name": "stone/step3",
+				"volume": 0.5
+			},
+			{
+				"name": "stone/step4",
+				"volume": 0.5
+			},
+			{
+				"name": "stone/step5",
+				"volume": 0.5
+			},
+			{
+				"name": "stone/step6",
+				"volume": 0.5
+			}
+		]
+	},
+	"block.mud_bricks.step": {
+		"sounds": [
+			{
+				"name": "step/stone1",
+				"volume": 0.5
+			},
+			{
+				"name": "stone/step2",
+				"volume": 0.5
+			},
+			{
+				"name": "stone/step3",
+				"volume": 0.5
+			},
+			{
+				"name": "stone/step4",
+				"volume": 0.5
+			},
+			{
+				"name": "stone/step5",
+				"volume": 0.5
+			},
+			{
+				"name": "stone/step6",
+				"volume": 0.5
+			}
+		],
+		"subtitle": "subtitles.block.generic.footsteps"
 	}
 }
