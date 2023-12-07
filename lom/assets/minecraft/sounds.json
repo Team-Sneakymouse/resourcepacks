@@ -222,6 +222,7 @@
 		]
 	},
 	"block.mud_bricks.step": {
+		"replace": true,
 		"sounds": [
 			{
 				"name": "step/stone1",
