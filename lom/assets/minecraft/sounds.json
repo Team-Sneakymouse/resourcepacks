@@ -194,61 +194,11 @@
 	},
 	"block.mud_bricks.fall": {
 		"replace": true,
-		"sounds": [
-			{
-				"name": "stone/step1",
-				"volume": 0.5
-			},
-			{
-				"name": "stone/step2",
-				"volume": 0.5
-			},
-			{
-				"name": "stone/step3",
-				"volume": 0.5
-			},
-			{
-				"name": "stone/step4",
-				"volume": 0.5
-			},
-			{
-				"name": "stone/step5",
-				"volume": 0.5
-			},
-			{
-				"name": "stone/step6",
-				"volume": 0.5
-			}
-		]
+		"sounds": ["stone/step1", "stone/step2", "stone/step3", "stone/step4", "stone/step5", "stone/step6"]
 	},
 	"block.mud_bricks.step": {
 		"replace": true,
-		"sounds": [
-			{
-				"name": "step/stone1",
-				"volume": 0.5
-			},
-			{
-				"name": "stone/step2",
-				"volume": 0.5
-			},
-			{
-				"name": "stone/step3",
-				"volume": 0.5
-			},
-			{
-				"name": "stone/step4",
-				"volume": 0.5
-			},
-			{
-				"name": "stone/step5",
-				"volume": 0.5
-			},
-			{
-				"name": "stone/step6",
-				"volume": 0.5
-			}
-		],
+		"sounds": ["stone/step1", "stone/step2", "stone/step3", "stone/step4", "stone/step5", "stone/step6"],
 		"subtitle": "subtitles.block.generic.footsteps"
 	}
 }
