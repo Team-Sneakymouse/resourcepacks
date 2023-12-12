@@ -240,6 +240,68 @@ Resource pack for the Lords of Minecraft 2 server
 | Plot Deed 2            | `jigsaw`, 231         |         |
 | Plot Deed 3            | `jigsaw`, 232         |         |
 | Warp Coords            | `jigsaw`, 233         |         |
+| Lock Closed            | `jigsaw`, 234         |         |
+| Lock Open              | `jigsaw`, 235         |         |
+| Arms of the Beast      | `jigsaw`, 236         |         |
+| Balanced Environment   | `jigsaw`, 237         |         |
+| Basics of Mana         | `jigsaw`, 238         |         |
+| Bloodlust              | `jigsaw`, 239         |         |
+| Breakaway              | `jigsaw`, 240         |         |
+| Burp                   | `jigsaw`, 241         |         |
+| Clean Crew             | `jigsaw`, 242         |         |
+| Clearcasting           | `jigsaw`, 243         |         |
+| Cosmic Invocation      | `jigsaw`, 244         |         |
+| Deep Meditation        | `jigsaw`, 245         |         |
+| Demon Ashes            | `jigsaw`, 246         |         |
+| Diamond Currency       | `jigsaw`, 247         |         |
+| Drinking Buddies       | `jigsaw`, 248         |         |
+| Drinking Quests        | `jigsaw`, 249         |         |
+| Echolocation           | `jigsaw`, 250         |         |
+| Emerald Currency       | `jigsaw`, 251         |         |
+| Evasion                | `jigsaw`, 252         |         |
+| Feeling Warm           | `jigsaw`, 253         |         |
+| Foreman                | `jigsaw`, 254         |         |
+| Ground Bore            | `jigsaw`, 255         |         |
+| Hangover Cure          | `jigsaw`, 256         |         |
+| Holy Beverage          | `jigsaw`, 257         |         |
+| Iron Liver             | `jigsaw`, 258         |         |
+| Keen Adventurer        | `jigsaw`, 259         |         |
+| Keg                    | `jigsaw`, 260         |         |
+| Liquid Courage         | `jigsaw`, 261         |         |
+| Liquid Luck            | `jigsaw`, 262         |         |
+| Mana Battery           | `jigsaw`, 263         |         |
+| Mana Plug              | `jigsaw`, 264         |         |
+| Mana Shield            | `jigsaw`, 265         |         |
+| Mana Surge             | `jigsaw`, 266         |         |
+| Metal Detector         | `jigsaw`, 267         |         |
+| Mind Expansion         | `jigsaw`, 268         |         |
+| Mold Coins             | `jigsaw`, 269         |         |
+| Muscle Cramps          | `jigsaw`, 270         |         |
+| Muscle Tone            | `jigsaw`, 271         |         |
+| Natural Parry          | `jigsaw`, 272         |         |
+| Overflowing Goblets    | `jigsaw`, 273         |         |
+| Party Champion         | `jigsaw`, 274         |         |
+| Portal Purchase        | `jigsaw`, 275         |         |
+| Psychic Mason          | `jigsaw`, 276         |         |
+| Recycle Scraps         | `jigsaw`, 277         |         |
+| Recycling Pro          | `jigsaw`, 278         |         |
+| Refreshing Kick        | `jigsaw`, 279         |         |
+| Routine Buyer          | `jigsaw`, 280         |         |
+| Smelt Sand             | `jigsaw`, 281         |         |
+| Solid Grip             | `jigsaw`, 282         |         |
+| Stay Hydrated          | `jigsaw`, 283         |         |
+| Strong Mind            | `jigsaw`, 284         |         |
+| Summon Chaos           | `jigsaw`, 285         |         |
+| Town Jester            | `jigsaw`, 286         |         |
+| Treasure Map           | `jigsaw`, 287         |         |
+| Treasure Stores        | `jigsaw`, 288         |         |
+| Two for One            | `jigsaw`, 289         |         |
+| Vault Master B2        | `jigsaw`, 290         |         |
+| Water Down             | `jigsaw`, 291         |         |
+| Wizz                   | `jigsaw`, 292         |         |
+| Wood Elf               | `jigsaw`, 293         |         |
+| Zen Mode               | `jigsaw`, 294         |         |
+
 </details>
 
 ## GUI
