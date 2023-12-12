@@ -99,35 +99,35 @@ for frame_file in os.listdir(frames_dir):
         provider_1 = {
             "type": "bitmap",
             "file": f"lom:font/{video_name}/{counter:03}.png",
-            "ascent": 121,
+            "ascent": 116,
             "height": 256,
             "chars": [f"\\uE{counter:03}"]
         }
         provider_2 = {
             "type": "bitmap",
             "file": f"lom:font/{video_name}/{counter:03}.png",
-            "ascent": 131,
+            "ascent": 126,
             "height": 256,
             "chars": [f"\\uE{counter:03}"]
         }
         provider_3 = {
             "type": "bitmap",
             "file": f"lom:font/{video_name}/{counter:03}.png",
-            "ascent": 141,
+            "ascent": 136,
             "height": 256,
             "chars": [f"\\uE{counter:03}"]
         }
         provider_4 = {
             "type": "bitmap",
             "file": f"lom:font/{video_name}/{counter:03}.png",
-            "ascent": 151,
+            "ascent": 146,
             "height": 256,
             "chars": [f"\\uE{counter:03}"]
         }
         provider_5 = {
             "type": "bitmap",
             "file": f"lom:font/{video_name}/{counter:03}.png",
-            "ascent": 161,
+            "ascent": 156,
             "height": 256,
             "chars": [f"\\uE{counter:03}"]
         }
