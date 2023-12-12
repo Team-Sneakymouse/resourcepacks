@@ -1,0 +1,1786 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/000.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/001.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/002.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/003.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/004.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/005.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/006.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/007.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/008.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/009.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/010.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/011.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/012.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/013.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/014.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/015.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/016.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/017.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/018.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/019.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/020.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/021.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/022.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/023.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/024.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/025.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/026.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/027.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/028.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/029.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/030.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/031.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/032.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/033.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/034.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/035.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/036.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/037.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/038.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/039.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/040.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/041.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/042.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/043.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/044.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/045.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/046.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/047.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/048.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/049.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/050.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/051.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/052.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/053.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/054.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/055.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/056.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/057.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/058.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/059.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE059"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/060.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE060"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/061.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE061"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/062.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE062"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/063.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE063"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/064.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE064"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/065.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE065"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/066.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE066"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/067.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE067"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/068.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE068"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/069.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE069"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/070.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE070"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/071.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE071"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/072.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE072"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/073.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE073"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/074.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE074"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/075.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE075"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/076.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE076"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/077.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE077"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/078.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE078"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/079.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE079"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/080.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE080"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/081.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE081"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/082.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE082"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/083.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE083"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/084.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE084"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/085.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE085"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/086.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE086"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/087.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE087"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/088.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE088"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/089.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE089"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/090.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE090"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/091.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE091"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/092.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE092"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/093.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE093"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/094.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE094"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/095.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE095"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/096.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE096"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/097.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE097"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/098.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE098"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/099.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE099"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/100.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE100"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/101.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE101"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/102.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE102"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/103.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE103"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/104.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE104"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/105.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE105"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/106.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE106"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/107.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE107"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/108.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE108"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/109.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE109"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/110.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE110"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/111.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE111"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/112.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE112"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/113.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE113"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/114.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE114"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/115.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE115"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/116.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE116"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/117.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE117"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/118.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE118"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/119.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE119"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/120.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE120"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/121.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE121"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/122.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE122"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/123.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE123"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/124.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE124"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/125.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE125"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/126.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE126"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/127.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE127"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/128.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE128"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/129.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE129"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/130.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE130"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/131.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE131"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/132.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE132"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/133.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE133"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/134.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE134"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/135.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE135"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/136.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE136"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/137.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE137"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/138.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE138"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/139.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE139"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/140.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE140"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/141.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE141"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/142.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE142"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/143.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE143"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/144.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE144"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/145.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE145"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/146.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE146"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/147.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE147"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/148.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE148"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/149.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE149"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/150.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE150"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/151.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE151"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/152.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE152"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/153.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE153"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/154.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE154"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/155.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE155"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/156.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE156"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/157.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE157"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/158.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE158"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/159.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE159"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/160.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE160"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/161.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE161"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/162.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE162"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/163.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE163"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/164.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE164"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/165.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE165"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/166.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE166"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/167.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE167"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/168.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE168"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/169.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE169"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/170.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE170"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/171.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE171"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/172.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE172"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/173.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE173"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/174.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE174"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/175.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE175"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/176.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE176"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/177.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE177"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/178.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE178"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/179.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE179"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/180.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE180"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/181.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE181"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/182.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE182"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/183.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE183"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/184.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE184"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/185.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE185"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/186.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE186"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/187.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE187"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/188.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE188"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/189.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE189"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/190.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE190"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/191.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE191"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/192.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE192"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/193.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE193"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/194.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE194"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/195.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE195"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/196.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE196"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_constitution/197.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE197"
+            ]
+        }
+    ]
+}
