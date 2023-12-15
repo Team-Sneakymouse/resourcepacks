@@ -200,5 +200,21 @@
 		"replace": true,
 		"sounds": ["stone/step1", "stone/step2", "stone/step3", "stone/step4", "stone/step5", "stone/step6"],
 		"subtitle": "subtitles.block.generic.footsteps"
+	},
+	"entity.firework_rocket.blast": {
+		"replace": true,
+		"sounds": []
+	},
+	"entity.firework_rocket.blast_far": {
+		"replace": true,
+		"sounds": []
+	},
+	"entity.firework_rocket.twinkle": {
+		"replace": true,
+		"sounds": []
+	},
+	"entity.firework_rocket.twinkle_far": {
+		"replace": true,
+		"sounds": []
 	}
 }
