@@ -85,8 +85,9 @@ for frame_file in os.listdir(frames_dir):
             new_image.putpixel(pixel, (255, 255, 255, 1))  # Set white pixel with 1% alpha
         
         # Calculate the position to paste the resized image
-        x_offset = (256 - image.width) // 2
-        y_offset = (256 - image.height) // 2
+        # Change the integer at the end to do pixel by pixel moving
+        x_offset = ((256 - image.width) // 2) - 0
+        y_offset = ((256 - image.height) // 2) - 0
         
         # Paste the resized image onto the new blank image
         new_image.paste(image, (x_offset, y_offset))
