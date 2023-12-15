@@ -508,4 +508,5 @@ Resource pack for the Lords of Minecraft 2 server
 | Deed Red Black       | `rabbit_foot`, 31     |         |
 | Deed White Gold      | `rabbit_foot`, 32     |         |
 | Deed Yellow Orange   | `rabbit_foot`, 33     |         |
+| Devilish Apple       | `apple`, 1            |         |
 </details>
