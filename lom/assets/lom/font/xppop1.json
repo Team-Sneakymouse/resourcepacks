@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/000.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE000"
@@ -12,7 +12,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/001.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE001"
@@ -21,7 +21,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/002.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE002"
@@ -30,7 +30,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/003.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE003"
@@ -39,7 +39,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/004.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE004"
@@ -48,7 +48,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/005.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE005"
@@ -57,7 +57,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/006.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE006"
@@ -66,7 +66,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/007.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE007"
@@ -75,7 +75,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/008.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE008"
@@ -84,7 +84,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/009.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE009"
@@ -93,7 +93,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/010.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE010"
@@ -102,7 +102,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/011.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE011"
@@ -111,7 +111,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/012.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE012"
@@ -120,7 +120,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/013.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE013"
@@ -129,7 +129,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/014.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE014"
@@ -138,7 +138,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/015.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE015"
@@ -147,7 +147,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/016.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE016"
@@ -156,7 +156,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/017.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE017"
@@ -165,7 +165,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/018.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE018"
@@ -174,7 +174,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/019.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE019"
@@ -183,7 +183,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/020.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE020"
@@ -192,7 +192,7 @@
         {
             "type": "bitmap",
             "file": "lom:font/xppop1/021.png",
-            "ascent": 126,
+            "ascent": 122,
             "height": 256,
             "chars": [
                 "\uE021"
