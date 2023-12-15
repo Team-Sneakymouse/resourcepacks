@@ -3,5 +3,9 @@
 	"textures": {
 		"layer0": "minecraft:item/apple"
 	},
-	"overrides": [{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/devilishapple" }]
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/devilishapple" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/demonapple" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/demonapple2" }
+	]
 }

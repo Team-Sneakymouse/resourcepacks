@@ -1741,5 +1741,8 @@
 				"stream": true
 			}
 		]
+	},
+	"applelaugh": {
+		"sounds": ["lom:applelaugh"]
 	}
 }
