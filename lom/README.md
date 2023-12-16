@@ -301,6 +301,144 @@ Resource pack for the Lords of Minecraft 2 server
 | Wizz                   | `jigsaw`, 292         |         |
 | Wood Elf               | `jigsaw`, 293         |         |
 | Zen Mode               | `jigsaw`, 294         |         |
+| Alter State            | `jigsaw`, 295         |         |
+| Ancient Texts          | `jigsaw`, 296         |         |
+| Animal Swindler        | `jigsaw`, 297         |         |
+| Architect              | `jigsaw`, 298         |         |
+| Balanced Energies      | `jigsaw`, 299         |         |
+| Best Footwear          | `jigsaw`, 300         |         |
+| Big Business           | `jigsaw`, 301         |         |
+| Big Dig                | `jigsaw`, 302         |         |
+| Big Stakes             | `jigsaw`, 303         |         |
+| Big Talk               | `jigsaw`, 304         |         |
+| Buttery Boy            | `jigsaw`, 305         |         |
+| Call of the Rancher    | `jigsaw`, 306         |         |
+| Campfire               | `jigsaw`, 307         |         |
+| Cauterize              | `jigsaw`, 308         |         |
+| City Investment        | `jigsaw`, 309         |         |
+| Close Allies           | `jigsaw`, 310         |         |
+| Comet Boost            | `jigsaw`, 311         |         |
+| Contractor             | `jigsaw`, 312         |         |
+| Cry                    | `jigsaw`, 313         |         |
+| Crystal Ball Regen     | `jigsaw`, 314         |         |
+| Cure All               | `jigsaw`, 315         |         |
+| Deflect                | `jigsaw`, 316         |         |
+| Disarm                 | `jigsaw`, 317         |         |
+| Dodge Life             | `jigsaw`, 318         |         |
+| Double Cast            | `jigsaw`, 319         |         |
+| Double Income          | `jigsaw`, 320         |         |
+| Dragon Horn            | `jigsaw`, 321         |         |
+| Dreamwork Pages        | `jigsaw`, 322         |         |
+| Dwarven Fury           | `jigsaw`, 323         |         |
+| Elder Maps             | `jigsaw`, 324         |         |
+| Enriched Foods         | `jigsaw`, 325         |         |
+| Evocation              | `jigsaw`, 326         |         |
+| Expanded Palette       | `jigsaw`, 327         |         |
+| Favoritism             | `jigsaw`, 328         |         |
+| Flesh Wound            | `jigsaw`, 329         |         |
+| Font of Power          | `jigsaw`, 330         |         |
+| Food Fight             | `jigsaw`, 331         |         |
+| Forsaken Memories      | `jigsaw`, 332         |         |
+| Fortify Bodies         | `jigsaw`, 333         |         |
+| Friendship Power       | `jigsaw`, 334         |         |
+| Furious Riposte        | `jigsaw`, 335         |         |
+| Galaxy Critical        | `jigsaw`, 336         |         |
+| Gallop                 | `jigsaw`, 337         |         |
+| Gift of Time           | `jigsaw`, 338         |         |
+| Grand Crusade          | `jigsaw`, 339         |         |
+| Grand Library          | `jigsaw`, 340         |         |
+| Growing Bonds          | `jigsaw`, 341         |         |
+| Guild Allowance        | `jigsaw`, 342         |         |
+| Hardened Mind          | `jigsaw`, 343         |         |
+| Harness Stone          | `jigsaw`, 344         |         |
+| Hastey Adventure       | `jigsaw`, 345         |         |
+| Healing Hands          | `jigsaw`, 346         |         |
+| Holy Embrace           | `jigsaw`, 347         |         |
+| Holy Light             | `jigsaw`, 348         |         |
+| Injury Insurance       | `jigsaw`, 349         |         |
+| Iron Sitter            | `jigsaw`, 350         |         |
+| Iron Stomach           | `jigsaw`, 351         |         |
+| Kin Knowledge          | `jigsaw`, 352         |         |
+| Known Associates       | `jigsaw`, 353         |         |
+| Known Crafter          | `jigsaw`, 354         |         |
+| Know the Land          | `jigsaw`, 355         |         |
+| Leadership             | `jigsaw`, 356         |         |
+| Leg Cramp              | `jigsaw`, 357         |         |
+| License to Muk         | `jigsaw`, 358         |         |
+| Lost Change            | `jigsaw`, 359         |         |
+| Lucky Pennies          | `jigsaw`, 360         |         |
+| Magical Guidance       | `jigsaw`, 361         |         |
+| Magical Muk            | `jigsaw`, 362         |         |
+| Magnetic Muk           | `jigsaw`, 363         |         |
+| Main Quest             | `jigsaw`, 364         |         |
+| Mana Funds             | `jigsaw`, 365         |         |
+| Mana Garden            | `jigsaw`, 366         |         |
+| Mana Guard             | `jigsaw`, 367         |         |
+| Mana Hearth            | `jigsaw`, 368         |         |
+| Mana Step              | `jigsaw`, 369         |         |
+| Maximum Effort         | `jigsaw`, 370         |         |
+| Monument               | `jigsaw`, 371         |         |
+| Muk Bucket             | `jigsaw`, 372         |         |
+| Muk Miner              | `jigsaw`, 373         |         |
+| Multitasker            | `jigsaw`, 374         |         |
+| Muscle Supplements     | `jigsaw`, 375         |         |
+| Mystic Crystal Lore    | `jigsaw`, 376         |         |
+| Nepotism               | `jigsaw`, 377         |         |
+| New Friends            | `jigsaw`, 378         |         |
+| Nifty Trick            | `jigsaw`, 379         |         |
+| Nimbility              | `jigsaw`, 380         |         |
+| Nimble Fingers         | `jigsaw`, 381         |         |
+| Old Paintings          | `jigsaw`, 382         |         |
+| One with Muk           | `jigsaw`, 383         |         |
+| Order Allowance        | `jigsaw`, 384         |         |
+| Owed Favors            | `jigsaw`, 385         |         |
+| Phase Being            | `jigsaw`, 386         |         |
+| Portal Pass            | `jigsaw`, 387         |         |
+| Portal Runes           | `jigsaw`, 388         |         |
+| Prepared Mana          | `jigsaw`, 389         |         |
+| Rallying Cheer         | `jigsaw`, 390         |         |
+| Rapid Learning         | `jigsaw`, 391         |         |
+| Rat Den Danger         | `jigsaw`, 392         |         |
+| Ready Set Go           | `jigsaw`, 393         |         |
+| Reaper's Insight       | `jigsaw`, 394         |         |
+| Rental Insurance       | `jigsaw`, 395         |         |
+| Resist Elements        | `jigsaw`, 396         |         |
+| Respect the Tool       | `jigsaw`, 397         |         |
+| Rested Magic           | `jigsaw`, 398         |         |
+| Rewind Time            | `jigsaw`, 399         |         |
+| Sage Advice            | `jigsaw`, 400         |         |
+| Sage Medicine          | `jigsaw`, 401         |         |
+| Secret Knowledge       | `jigsaw`, 402         |         |
+| Secret Weapon          | `jigsaw`, 403         |         |
+| Shovelrythm            | `jigsaw`, 404         |         |
+| Showoff                | `jigsaw`, 405         |         |
+| Snowborn               | `jigsaw`, 406         |         |
+| Special Privileges     | `jigsaw`, 407         |         |
+| Spellblade             | `jigsaw`, 408         |         |
+| Spin Attack            | `jigsaw`, 409         |         |
+| Spirit Cultivation     | `jigsaw`, 410         |         |
+| Spirit Dance           | `jigsaw`, 411         |         |
+| Stage Dive             | `jigsaw`, 412         |         |
+| Star Enterprise        | `jigsaw`, 413         |         |
+| Star Mine              | `jigsaw`, 414         |         |
+| State Bribe            | `jigsaw`, 415         |         |
+| Stonehead              | `jigsaw`, 416         |         |
+| Summon Familiar        | `jigsaw`, 417         |         |
+| Taste for Adventure    | `jigsaw`, 418         |         |
+| The Tomb Maker         | `jigsaw`, 419         |         |
+| Titanium Handle        | `jigsaw`, 420         |         |
+| Tome of Health         | `jigsaw`, 421         |         |
+| Trial by Pain          | `jigsaw`, 422         |         |
+| Two Cents              | `jigsaw`, 423         |         |
+| Upgraded Pockets       | `jigsaw`, 424         |         |
+| Valiant Quests         | `jigsaw`, 425         |         |
+| Valuable Service       | `jigsaw`, 426         |         |
+| Weighted Stones        | `jigsaw`, 427         |         |
+| Well Endowed           | `jigsaw`, 428         |         |
+| Wildcard Quests        | `jigsaw`, 429         |         |
+| Windwalk               | `jigsaw`, 430         |         |
+| World Purse            | `jigsaw`, 431         |         |
+| Young Glory            | `jigsaw`, 432         |         |
 
 </details>
 
