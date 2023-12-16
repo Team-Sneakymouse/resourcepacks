@@ -691,4 +691,7 @@ Resource pack for the Lords of Minecraft 2 server
 | Devilish Apple       | `apple`, 1            |         |
 | Demon Apple          | `apple`, 2            |         |
 | Demon Apple 2        | `apple`, 3            |         |
+| Skill Book           | `rabbit_foot`, 35     |         |
+| Rizz Detector        | `rabbit_foot`, 36     |         |
+| Mud Pie              | `rabbit_foot`, 37     |         |
 </details>

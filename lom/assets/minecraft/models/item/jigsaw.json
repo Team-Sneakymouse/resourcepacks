@@ -433,7 +433,6 @@
 		{ "predicate": { "custom_model_data": 430 }, "model": "lom:item/icons/windwalk" },
 		{ "predicate": { "custom_model_data": 431 }, "model": "lom:item/icons/worldpurse" },
 		{ "predicate": { "custom_model_data": 432 }, "model": "lom:item/icons/youngglory" },
-
 		{ "predicate": { "custom_model_data": 433 }, "model": "lom:item/icons/adaptivedigestion" },
 		{ "predicate": { "custom_model_data": 434 }, "model": "lom:item/icons/advancedstudy" },
 		{ "predicate": { "custom_model_data": 435 }, "model": "lom:item/icons/adventureawaits" },
