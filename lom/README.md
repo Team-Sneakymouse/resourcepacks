@@ -439,6 +439,48 @@ Resource pack for the Lords of Minecraft 2 server
 | Windwalk               | `jigsaw`, 430         |         |
 | World Purse            | `jigsaw`, 431         |         |
 | Young Glory            | `jigsaw`, 432         |         |
+| Adapted Digestion      | `jigsaw`, 433         |         |
+| Advanced Study         | `jigsaw`, 434         |         |
+| Adventure Awaits       | `jigsaw`, 435         |         |
+| Big Splash             | `jigsaw`, 436         |         |
+| Book Pages             | `jigsaw`, 437         |         |
+| Concentration          | `jigsaw`, 438         |         |
+| Dance of the Fish      | `jigsaw`, 439         |         |
+| Dragonfish             | `jigsaw`, 440         |         |
+| Fishing Buddies        | `jigsaw`, 441         |         |
+| Fishing Crate          | `jigsaw`, 442         |         |
+| Fishing Frenzy         | `jigsaw`, 443         |         |
+| Fishing Spear          | `jigsaw`, 444         |         |
+| Fish Nabber            | `jigsaw`, 445         |         |
+| Flipper Pro            | `jigsaw`, 446         |         |
+| Focus Mana             | `jigsaw`, 447         |         |
+| Gathering Fishies      | `jigsaw`, 448         |         |
+| Harmony of the Sea     | `jigsaw`, 449         |         |
+| Hydro Expert           | `jigsaw`, 450         |         |
+| Lifeguard              | `jigsaw`, 451         |         |
+| Lung Capacity          | `jigsaw`, 452         |         |
+| Mage's Deed            | `jigsaw`, 453         |         |
+| Magical Override       | `jigsaw`, 454         |         |
+| Magic in Quests        | `jigsaw`, 455         |         |
+| Manaflow               | `jigsaw`, 456         |         |
+| Monster Gills          | `jigsaw`, 457         |         |
+| Night Fishing          | `jigsaw`, 458         |         |
+| Ocean Knowledge        | `jigsaw`, 459         |         |
+| Perfectionist          | `jigsaw`, 460         |         |
+| Piercing Jabs          | `jigsaw`, 461         |         |
+| Rapid Knowledge        | `jigsaw`, 462         |         |
+| Rare Gems              | `jigsaw`, 463         |         |
+| Release Fish           | `jigsaw`, 464         |         |
+| Sage Fisherman         | `jigsaw`, 465         |         |
+| Spell Mastery          | `jigsaw`, 466         |         |
+| Spell Tenure           | `jigsaw`, 467         |         |
+| Star Oasis             | `jigsaw`, 468         |         |
+| Strong Grip            | `jigsaw`, 469         |         |
+| Swim Instructor        | `jigsaw`, 470         |         |
+| Treasure Hunter        | `jigsaw`, 471         |         |
+| Trophy                 | `jigsaw`, 472         |         |
+| Wizard's Apprentice    | `jigsaw`, 473         |         |
+| Wizard's Spellbook     | `jigsaw`, 474         |         |
 
 </details>
 
