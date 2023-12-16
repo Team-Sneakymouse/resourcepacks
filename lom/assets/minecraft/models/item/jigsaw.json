@@ -295,7 +295,6 @@
 		{ "predicate": { "custom_model_data": 292 }, "model": "lom:item/icons/wizz" },
 		{ "predicate": { "custom_model_data": 293 }, "model": "lom:item/icons/woodelf" },
 		{ "predicate": { "custom_model_data": 294 }, "model": "lom:item/icons/zenmode" },
-
 		{ "predicate": { "custom_model_data": 295 }, "model": "lom:item/icons/alterstate" },
 		{ "predicate": { "custom_model_data": 296 }, "model": "lom:item/icons/ancienttexts" },
 		{ "predicate": { "custom_model_data": 297 }, "model": "lom:item/icons/animalswindler" },
