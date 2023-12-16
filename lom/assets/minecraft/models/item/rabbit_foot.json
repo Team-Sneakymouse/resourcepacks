@@ -33,6 +33,7 @@
 		{ "predicate": { "custom_model_data": 30 }, "model": "lom:item/items/deeds/deedred" },
 		{ "predicate": { "custom_model_data": 31 }, "model": "lom:item/items/deeds/deedredblack" },
 		{ "predicate": { "custom_model_data": 32 }, "model": "lom:item/items/deeds/deedwhitegold" },
-		{ "predicate": { "custom_model_data": 33 }, "model": "lom:item/items/deeds/deedyelloworange" }
+		{ "predicate": { "custom_model_data": 33 }, "model": "lom:item/items/deeds/deedyelloworange" },
+		{ "predicate": { "custom_model_data": 34 }, "model": "lom:item/items/deeds/goldenmuk" }
 	]
 }
