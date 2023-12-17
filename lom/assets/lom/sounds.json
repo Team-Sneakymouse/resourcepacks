@@ -1744,5 +1744,13 @@
 	},
 	"applelaugh": {
 		"sounds": ["lom:applelaugh"]
+	},
+	"end": {
+		"sounds": [
+			{
+				"name": "lom:end",
+				"stream": true
+			}
+		]
 	}
 }
