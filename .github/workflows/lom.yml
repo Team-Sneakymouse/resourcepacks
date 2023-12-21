@@ -16,5 +16,5 @@ jobs:
             --data-urlencode '_MulticraftAPIUser=${{ secrets.MULTICRAFT_USER_LOM }}'
             --data-urlencode 'daemon_id=1'
             --data-urlencode 'script=updateResourcepack'
-            --data-urlencode 'args=lom'
+            --data-urlencode 'args=lom-dev'
             --data-urlencode '_MulticraftAPIKey=${{ secrets.MULTICRAFT_KEY_LOM }}'
