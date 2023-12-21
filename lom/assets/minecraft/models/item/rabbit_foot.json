@@ -37,6 +37,6 @@
 		{ "predicate": { "custom_model_data": 34 }, "model": "lom:item/items/goldenmuk" },
 		{ "predicate": { "custom_model_data": 35 }, "model": "lom:item/items/skillbook" },
 		{ "predicate": { "custom_model_data": 36 }, "model": "lom:item/items/rizzdetector" },
-		{ "predicate": { "custom_model_data": 37 }, "model": "lom:item/items/mudpie" }
+		{ "predicate": { "custom_model_data": 37 }, "model": "lom:item/items/holyhandgrenade" }
 	]
 }

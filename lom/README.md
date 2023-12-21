@@ -688,10 +688,23 @@ Resource pack for the Lords of Minecraft 2 server
 | Deed Red Black       | `rabbit_foot`, 31     |         |
 | Deed White Gold      | `rabbit_foot`, 32     |         |
 | Deed Yellow Orange   | `rabbit_foot`, 33     |         |
+| Golden Muk           | `rabbit_foot`, 34     |         |
 | Devilish Apple       | `apple`, 1            |         |
 | Demon Apple          | `apple`, 2            |         |
 | Demon Apple 2        | `apple`, 3            |         |
 | Skill Book           | `rabbit_foot`, 35     |         |
 | Rizz Detector        | `rabbit_foot`, 36     |         |
 | Mud Pie              | `rotten_flesh`, 1     |         |
+| Holy Handgrenade     | `rabbit_foot`, 37     |         |
+| Rock: Alestone       | `apple`, 4            |         |
+| Rock: Cherryrock     | `apple`, 5            |         |
+| Rock: Eggstone       | `apple`, 6            |         |
+| Rock: Koboldrock     | `apple`, 7            |         |
+| Rock: Moltenflow     | `apple`, 8            |         |
+| Rock: Moonstone      | `apple`, 9            |         |
+| Rock: Mossystone     | `apple`, 10           |         |
+| Rock: Plumrock       | `apple`, 11           |         |
+| Rock: Ramstone       | `apple`, 12           |         |
+| Rock: Riverrock      | `apple`, 13           |         |
+| Rock: Skipstone      | `apple`, 14           |         |
 </details>

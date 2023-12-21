@@ -6,6 +6,17 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/devilishapple" },
 		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/demonapple" },
-		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/demonapple2" }
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/demonapple2" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/items/rocks/rock-alestone" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "lom:item/items/rocks/rock-cherryrock" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "lom:item/items/rocks/rock-eggstone" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "lom:item/items/rocks/rock-koboldrock" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "lom:item/items/rocks/rock-moltenflower" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "lom:item/items/rocks/rock-moonstone" },
+		{ "predicate": { "custom_model_data": 10 }, "model": "lom:item/items/rocks/rock-mossystone" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "lom:item/items/rocks/rock-plumrock" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "lom:item/items/rocks/rock-ramstone" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "lom:item/items/rocks/rock-riverrock" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "lom:item/items/rocks/rock-skipstone" }
 	]
 }
