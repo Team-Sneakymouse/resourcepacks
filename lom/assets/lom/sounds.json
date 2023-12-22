@@ -1752,5 +1752,11 @@
 				"stream": true
 			}
 		]
+	},
+	"skipstone": {
+		"sounds": ["lom:skipstone"]
+	},
+	"cherryrock": {
+		"sounds": ["lom:cherryrock"]
 	}
 }
