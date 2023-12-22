@@ -707,4 +707,5 @@ Resource pack for the Lords of Minecraft 2 server
 | Rock: Ramstone       | `apple`, 12           |         |
 | Rock: Riverrock      | `apple`, 13           |         |
 | Rock: Skipstone      | `apple`, 14           |         |
+| Wood Scraps          | `rabbit_foot`, 38     |         |
 </details>
