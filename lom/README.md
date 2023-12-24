@@ -709,4 +709,5 @@ Resource pack for the Lords of Minecraft 2 server
 | Rock: Skipstone      | `apple`, 14           |         |
 | Wood Scraps          | `rabbit_foot`, 38     |         |
 | Goo Glue             | `apple`, 15           |         |
+| Eggrock Feather      | `music_disc_cat`, 50  |         |
 </details>

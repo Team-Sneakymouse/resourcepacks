@@ -48,6 +48,7 @@
 		{ "predicate": { "custom_model_data": 46 }, "model": "lom:item/weapons/lowq_dirthose" },
 		{ "predicate": { "custom_model_data": 47 }, "model": "lom:item/weapons/lowq_ghostbuster" },
 		{ "predicate": { "custom_model_data": 48 }, "model": "lom:item/weapons/lowq_juicer" },
-		{ "predicate": { "custom_model_data": 49 }, "model": "lom:item/weapons/rapier" }
+		{ "predicate": { "custom_model_data": 49 }, "model": "lom:item/weapons/rapier" },
+		{ "predicate": { "custom_model_data": 50 }, "model": "lom:item/items/eggrock_feather" }
 	]
 }
