@@ -1758,5 +1758,11 @@
 	},
 	"cherryrock": {
 		"sounds": ["lom:cherryrock"]
+	},
+	"eggstone1": {
+		"sounds": ["lom:eggstone1"]
+	},
+	"eggstone2": {
+		"sounds": ["lom:eggstone2"]
 	}
 }
