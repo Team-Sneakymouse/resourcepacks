@@ -711,4 +711,5 @@ Resource pack for the Lords of Minecraft 2 server
 | Goo Glue             | `apple`, 15           |         |
 | Eggrock Feather      | `music_disc_cat`, 50  |         |
 | Christmas Card       | `rabbit_foot`, 39     |         |
+| Snow Shovel          | `music_disc_cat`, 51  |         |
 </details>
