@@ -65,6 +65,8 @@
 		{ "predicate": { "custom_model_data": 62 }, "model": "lom:item/hats/musketeer" },
 		{ "predicate": { "custom_model_data": 63 }, "model": "lom:item/hats/present" },
 		{ "predicate": { "custom_model_data": 64 }, "model": "lom:item/hats/regalhat" },
-		{ "predicate": { "custom_model_data": 65 }, "model": "lom:item/hats/xantenex-hat" }
+		{ "predicate": { "custom_model_data": 65 }, "model": "lom:item/hats/xantenex-hat" },
+		{ "predicate": { "custom_model_data": 66 }, "model": "lom:item/hats/santa_hat_lq" },
+		{ "predicate": { "custom_model_data": 67 }, "model": "lom:item/hats/christmashat" }
 	]
 }

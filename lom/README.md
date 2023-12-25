@@ -567,6 +567,14 @@ Resource pack for the Lords of Minecraft 2 server
 | Waluigi Moustache       | `carved_pumpkin`, 57  |         |
 | Waluigi Moustache Small | `carved_pumpkin`, 58  |         |
 | Tricorn                 | `carved_pumpkin`, 59  |         |
+| Swammy Hat              | `carved_pumpkin`, 60  |         |
+| Lolly                   | `carved_pumpkin`, 61  |         |
+| Musketeer               | `carved_pumpkin`, 62  |         |
+| Present                 | `carved_pumpkin`, 63  |         |
+| Regal Hat               | `carved_pumpkin`, 64  |         |
+| Xantenex Hat            | `carved_pumpkin`, 65  |         |
+| Santa Hat               | `carved_pumpkin`, 66  |         |
+| Christmas Hat           | `carved_pumpkin`, 67  |         |
 
 </details>
 
