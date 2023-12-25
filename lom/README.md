@@ -710,4 +710,5 @@ Resource pack for the Lords of Minecraft 2 server
 | Wood Scraps          | `rabbit_foot`, 38     |         |
 | Goo Glue             | `apple`, 15           |         |
 | Eggrock Feather      | `music_disc_cat`, 50  |         |
+| Christmas Card       | `rabbit_foot`, 39     |         |
 </details>
