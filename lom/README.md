@@ -640,76 +640,77 @@ Resource pack for the Lords of Minecraft 2 server
 <details>
 <summary>Click to expand</summary>
 
-| Name                 | Item, CustomModelData | Comment |
-|----------------------|-----------------------|---------|
-| D20                  | `rabbit_foot`, 1      |         |
-| Scroll               | `rabbit_foot`, 2      |         |
-| Mortar               | `rabbit_foot`, 3      |         |
-| Wizard Mortar        | `rabbit_foot`, 4      |         |
-| Dwarven Log          | `rabbit_foot`, 5      |         |
-| Dwarven Planks       | `rabbit_foot`, 6      |         |
-| Invisible            | `rabbit_foot`, 7      |         |
-| Soggy Bread          | `bread`, 1            |         |
-| Tinder Flame         | `spyglass`, 1         |         |
-| Ale                  | `honey_bottle`, 1     |         |
-| Horn of the Buffalo  | `goat_horn`, 1        |         |
-| Dwarven Shovel       | `iron_shovel`, 1      |         |
-| Abyss Shovel         | `iron_shovel`, 2      |         |
-| Gravedigger          | `iron_shovel`, 3      |         |
-| Abyss Shovel (White) | `iron_shovel`, 4      |         |
-| Abyss Shovel (Black) | `iron_shovel`, 5      |         |
-| Dwarven Pickaxe      | `iron_pickaxe`, 1     |         |
-| Dwarven Axe          | `iron_axe`, 1         |         |
-| Ancient Pickaxe      | `diamond_pickaxe`, 1  |         |
-| Lumberjack Axe       | `stone_axe`, 1        |         |
-| Copper Coin          | `rabbit_foot`, 8      |         |
-| Fish                 | `rabbit_foot`, 9      |         |
-| Gold Coin            | `rabbit_foot`, 10     |         |
-| Golden Ore           | `rabbit_foot`, 11     |         |
-| Goo                  | `rabbit_foot`, 12     |         |
-| Muk                  | `rabbit_foot`, 13     |         |
-| Ore                  | `rabbit_foot`, 14     |         |
-| Sand                 | `rabbit_foot`, 15     |         |
-| Shell                | `rabbit_foot`, 16     |         |
-| Silver Coin          | `rabbit_foot`, 17     |         |
-| Stone                | `rabbit_foot`, 18     |         |
-| Paper 1              | `rabbit_foot`, 19     |         |
-| Paper 2              | `rabbit_foot`, 20     |         |
-| Paper 3              | `rabbit_foot`, 21     |         |
-| Deed                 | `rabbit_foot`, 22     |         |
-| Deed Blue            | `rabbit_foot`, 23     |         |
-| Deed Brown           | `rabbit_foot`, 24     |         |
-| Deed Green           | `rabbit_foot`, 25     |         |
-| Deed Grey            | `rabbit_foot`, 26     |         |
-| Deed Orange          | `rabbit_foot`, 27     |         |
-| Deed Orange Blue     | `rabbit_foot`, 28     |         |
-| Deed Pink            | `rabbit_foot`, 29     |         |
-| Deed Red             | `rabbit_foot`, 30     |         |
-| Deed Red Black       | `rabbit_foot`, 31     |         |
-| Deed White Gold      | `rabbit_foot`, 32     |         |
-| Deed Yellow Orange   | `rabbit_foot`, 33     |         |
-| Golden Muk           | `rabbit_foot`, 34     |         |
-| Devilish Apple       | `apple`, 1            |         |
-| Demon Apple          | `apple`, 2            |         |
-| Demon Apple 2        | `apple`, 3            |         |
-| Skill Book           | `rabbit_foot`, 35     |         |
-| Rizz Detector        | `rabbit_foot`, 36     |         |
-| Mud Pie              | `rotten_flesh`, 1     |         |
-| Holy Handgrenade     | `rabbit_foot`, 37     |         |
-| Rock: Alestone       | `apple`, 4            |         |
-| Rock: Cherryrock     | `apple`, 5            |         |
-| Rock: Eggstone       | `apple`, 6            |         |
-| Rock: Koboldrock     | `apple`, 7            |         |
-| Rock: Moltenflow     | `apple`, 8            |         |
-| Rock: Moonstone      | `apple`, 9            |         |
-| Rock: Mossystone     | `apple`, 10           |         |
-| Rock: Plumrock       | `apple`, 11           |         |
-| Rock: Ramstone       | `apple`, 12           |         |
-| Rock: Riverrock      | `apple`, 13           |         |
-| Rock: Skipstone      | `apple`, 14           |         |
-| Wood Scraps          | `rabbit_foot`, 38     |         |
-| Goo Glue             | `apple`, 15           |         |
-| Eggrock Feather      | `music_disc_cat`, 50  |         |
-| Christmas Card       | `rabbit_foot`, 39     |         |
-| Snow Shovel          | `music_disc_cat`, 51  |         |
+| Name                    | Item, CustomModelData | Comment |
+|-------------------------|-----------------------|---------|
+| D20                     | `rabbit_foot`, 1      |         |
+| Scroll                  | `rabbit_foot`, 2      |         |
+| Mortar                  | `rabbit_foot`, 3      |         |
+| Wizard Mortar           | `rabbit_foot`, 4      |         |
+| Dwarven Log             | `rabbit_foot`, 5      |         |
+| Dwarven Planks          | `rabbit_foot`, 6      |         |
+| Invisible               | `rabbit_foot`, 7      |         |
+| Soggy Bread             | `bread`, 1            |         |
+| Tinder Flame            | `spyglass`, 1         |         |
+| Ale                     | `honey_bottle`, 1     |         |
+| Horn of the Buffalo     | `goat_horn`, 1        |         |
+| Dwarven Shovel          | `iron_shovel`, 1      |         |
+| Abyss Shovel            | `iron_shovel`, 2      |         |
+| Gravedigger             | `iron_shovel`, 3      |         |
+| Abyss Shovel (White)    | `iron_shovel`, 4      |         |
+| Abyss Shovel (Black)    | `iron_shovel`, 5      |         |
+| Dwarven Pickaxe         | `iron_pickaxe`, 1     |         |
+| Dwarven Axe             | `iron_axe`, 1         |         |
+| Ancient Pickaxe         | `diamond_pickaxe`, 1  |         |
+| Lumberjack Axe          | `stone_axe`, 1        |         |
+| Copper Coin             | `rabbit_foot`, 8      |         |
+| Fish                    | `rabbit_foot`, 9      |         |
+| Gold Coin               | `rabbit_foot`, 10     |         |
+| Golden Ore              | `rabbit_foot`, 11     |         |
+| Goo                     | `rabbit_foot`, 12     |         |
+| Muk                     | `rabbit_foot`, 13     |         |
+| Ore                     | `rabbit_foot`, 14     |         |
+| Sand                    | `rabbit_foot`, 15     |         |
+| Shell                   | `rabbit_foot`, 16     |         |
+| Silver Coin             | `rabbit_foot`, 17     |         |
+| Stone                   | `rabbit_foot`, 18     |         |
+| Paper 1                 | `rabbit_foot`, 19     |         |
+| Paper 2                 | `rabbit_foot`, 20     |         |
+| Paper 3                 | `rabbit_foot`, 21     |         |
+| Deed                    | `rabbit_foot`, 22     |         |
+| Deed Blue               | `rabbit_foot`, 23     |         |
+| Deed Brown              | `rabbit_foot`, 24     |         |
+| Deed Green              | `rabbit_foot`, 25     |         |
+| Deed Grey               | `rabbit_foot`, 26     |         |
+| Deed Orange             | `rabbit_foot`, 27     |         |
+| Deed Orange Blue        | `rabbit_foot`, 28     |         |
+| Deed Pink               | `rabbit_foot`, 29     |         |
+| Deed Red                | `rabbit_foot`, 30     |         |
+| Deed Red Black          | `rabbit_foot`, 31     |         |
+| Deed White Gold         | `rabbit_foot`, 32     |         |
+| Deed Yellow Orange      | `rabbit_foot`, 33     |         |
+| Golden Muk              | `rabbit_foot`, 34     |         |
+| Devilish Apple          | `apple`, 1            |         |
+| Demon Apple             | `apple`, 2            |         |
+| Demon Apple 2           | `apple`, 3            |         |
+| Skill Book              | `rabbit_foot`, 35     |         |
+| Rizz Detector           | `rabbit_foot`, 36     |         |
+| Mud Pie                 | `rotten_flesh`, 1     |         |
+| Holy Handgrenade        | `rabbit_foot`, 37     |         |
+| Rock: Alestone          | `apple`, 4            |         |
+| Rock: Cherryrock        | `apple`, 5            |         |
+| Rock: Eggstone          | `apple`, 6            |         |
+| Rock: Koboldrock        | `apple`, 7            |         |
+| Rock: Moltenflow        | `apple`, 8            |         |
+| Rock: Moonstone         | `apple`, 9            |         |
+| Rock: Mossystone        | `apple`, 10           |         |
+| Rock: Plumrock          | `apple`, 11           |         |
+| Rock: Ramstone          | `apple`, 12           |         |
+| Rock: Riverrock         | `apple`, 13           |         |
+| Rock: Skipstone         | `apple`, 14           |         |
+| Wood Scraps             | `rabbit_foot`, 38     |         |
+| Goo Glue                | `apple`, 15           |         |
+| Eggrock Feather         | `music_disc_cat`, 50  |         |
+| Christmas Card          | `rabbit_foot`, 39     |         |
+| Snow Shovel             | `music_disc_cat`, 51  |         |
+| Christmas Card (Closed) | `rabbit_foot`, 40     |         |
 </details>
