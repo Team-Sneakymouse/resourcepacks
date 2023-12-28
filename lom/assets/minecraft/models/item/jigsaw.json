@@ -482,6 +482,7 @@
 		{ "predicate": { "custom_model_data": 1004 }, "model": "lom:item/gui/shop/jimothy_worrywart" },
 		{ "predicate": { "custom_model_data": 1005 }, "model": "lom:item/gui/shop/james_barringster" },
 		{ "predicate": { "custom_model_data": 1006 }, "model": "lom:item/gui/shop/jamie_franklin" },
-		{ "predicate": { "custom_model_data": 1007 }, "model": "lom:item/gui/shop/jamthany_jourdain" }
+		{ "predicate": { "custom_model_data": 1007 }, "model": "lom:item/gui/shop/jamthany_jourdain" },
+		{ "predicate": { "custom_model_data": 1008 }, "model": "lom:item/gui/auctionhouse" }
 	]
 }

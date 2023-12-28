@@ -498,6 +498,7 @@ Resource pack for the Lords of Minecraft 2 server
 | James Barringster  | `jigsaw`, 1005        |         |
 | Jamie Franklin     | `jigsaw`, 1006        |         |
 | Jamthany Jourdain  | `jigsaw`, 1007        |         |
+| Auction House      | `jigsaw`, 1008        |         |
 
 </details>
 
