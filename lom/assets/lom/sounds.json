@@ -1764,5 +1764,8 @@
 	},
 	"eggstone2": {
 		"sounds": ["lom:eggstone2"]
+	},
+	"beckoningbell": {
+		"sounds": ["lom:beckoningbell"]
 	}
 }
