@@ -74,7 +74,7 @@ for frame_file in os.listdir(frames_dir):
         image = Image.open(frame_path)
         
         # Resize the image while maintaining aspect ratio
-        image.thumbnail((256, 256), Image.ANTIALIAS)
+        image.thumbnail((256, 256), Image.LANCZOS)
         
         # Create a new blank image with transparency
         new_image = Image.new("RGBA", (256, 256), (0, 0, 0, 0))  # Initialize with transparent black
