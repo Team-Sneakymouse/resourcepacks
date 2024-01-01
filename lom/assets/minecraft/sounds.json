@@ -84,15 +84,7 @@
 		"replace": true,
 		"sounds": []
 	},
-	"music.game": {
-		"replace": true,
-		"sounds": []
-	},
 	"music.creative": {
-		"replace": true,
-		"sounds": []
-	},
-	"music.end": {
 		"replace": true,
 		"sounds": []
 	},
@@ -101,6 +93,18 @@
 		"sounds": []
 	},
 	"music.dragon": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.end": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.game": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.menu": {
 		"replace": true,
 		"sounds": []
 	},
@@ -124,11 +128,35 @@
 		"replace": true,
 		"sounds": []
 	},
+	"music.overworld.badlands": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.bamboo_jungle": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.cherry_grove": {
+		"replace": true,
+		"sounds": []
+	},
 	"music.overworld.deep_dark": {
 		"replace": true,
 		"sounds": []
 	},
+	"music.overworld.desert": {
+		"replace": true,
+		"sounds": []
+	},
 	"music.overworld.dripstone_caves": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.flower_forest": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.forest": {
 		"replace": true,
 		"sounds": []
 	},
@@ -144,7 +172,7 @@
 		"replace": true,
 		"sounds": []
 	},
-	"music.overworld.jungle_and_forest": {
+	"music.overworld.jungle": {
 		"replace": true,
 		"sounds": []
 	},
@@ -164,6 +192,10 @@
 		"replace": true,
 		"sounds": []
 	},
+	"music.overworld.sparse_jungle": {
+		"replace": true,
+		"sounds": []
+	},
 	"music.overworld.stony_peaks": {
 		"replace": true,
 		"sounds": []
@@ -172,10 +204,11 @@
 		"replace": true,
 		"sounds": []
 	},
-	"music.under_water": {
+	"music.under_wat": {
 		"replace": true,
 		"sounds": []
 	},
+
 	"entity.villager.no": {
 		"replace": true,
 		"sounds": []
