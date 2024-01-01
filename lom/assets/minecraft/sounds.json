@@ -194,11 +194,11 @@
 	},
 	"block.mud_bricks.fall": {
 		"replace": true,
-		"sounds": ["stone/step1", "stone/step2", "stone/step3", "stone/step4", "stone/step5", "stone/step6"]
+		"sounds": ["step/stone1", "step/stone2", "step/stone3", "step/stone4", "step/stone5", "step/stone6"]
 	},
 	"block.mud_bricks.step": {
 		"replace": true,
-		"sounds": ["stone/step1", "stone/step2", "stone/step3", "stone/step4", "stone/step5", "stone/step6"],
+		"sounds": ["step/stone1", "step/stone2", "step/stone3", "step/stone4", "step/stone5", "step/stone6"],
 		"subtitle": "subtitles.block.generic.footsteps"
 	},
 	"entity.firework_rocket.blast": {
