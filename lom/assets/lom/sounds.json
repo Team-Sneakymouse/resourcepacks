@@ -1767,5 +1767,8 @@
 	},
 	"beckoningbell": {
 		"sounds": ["lom:beckoningbell"]
+	},
+	"gasp": {
+		"sounds": ["lom:gasp"]
 	}
 }
