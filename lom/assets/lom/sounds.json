@@ -1770,5 +1770,8 @@
 	},
 	"gasp": {
 		"sounds": ["lom:gasp"]
+	},
+	"cooking": {
+		"sounds": ["lom:cooking"]
 	}
 }
