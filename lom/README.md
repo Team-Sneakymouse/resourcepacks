@@ -722,4 +722,8 @@ Resource pack for the Lords of Minecraft 2 server
 | Christmas Card          | `rabbit_foot`, 39     |         |
 | Snow Shovel             | `music_disc_cat`, 51  |         |
 | Christmas Card (Closed) | `rabbit_foot`, 40     |         |
+| Diamond                 | `rabbit_foot`, 41     |         |
+| Holy Ankh               | `rabbit_foot`, 42     |         |
+| Star Shard              | `rabbit_foot`, 43     |         |
+| Dragon Coin             | `rabbit_foot`, 44     |         |
 </details>
