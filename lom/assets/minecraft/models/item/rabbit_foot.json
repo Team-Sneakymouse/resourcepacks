@@ -41,6 +41,7 @@
 		{ "predicate": { "custom_model_data": 38 }, "model": "lom:item/items/woodscraps" },
 		{ "predicate": { "custom_model_data": 39 }, "model": "lom:item/items/christmascard" },
 		{ "predicate": { "custom_model_data": 40 }, "model": "lom:item/items/christmascard2" },
-		{ "predicate": { "custom_model_data": 41 }, "model": "lom:item/items/diamond" }
+		{ "predicate": { "custom_model_data": 41 }, "model": "lom:item/items/diamond" },
+		{ "predicate": { "custom_model_data": 42 }, "model": "lom:item/items/holyankh" }
 	]
 }
