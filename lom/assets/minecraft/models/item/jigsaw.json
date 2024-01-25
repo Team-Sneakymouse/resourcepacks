@@ -484,6 +484,8 @@
 		{ "predicate": { "custom_model_data": 1006 }, "model": "lom:item/gui/shop/jamie_franklin" },
 		{ "predicate": { "custom_model_data": 1007 }, "model": "lom:item/gui/shop/jamthany_jourdain" },
 		{ "predicate": { "custom_model_data": 1008 }, "model": "lom:item/gui/auctionhouse" },
-		{ "predicate": { "custom_model_data": 1009 }, "model": "lom:item/gui/bankui" }
+		{ "predicate": { "custom_model_data": 1009 }, "model": "lom:item/gui/bankui" },
+
+		{ "predicate": { "custom_model_data": 2001 }, "model": "lom:item/icons/quests/quest1a" }
 	]
 }
