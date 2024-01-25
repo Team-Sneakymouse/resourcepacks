@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/icons/quests/quest",
+	"textures": {
+		"layer0": "lom:item/icons/quests/quest16a"
+	}
+}
