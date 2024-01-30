@@ -1774,7 +1774,10 @@
 	"cooking": {
 		"sounds": ["lom:cooking"]
 	},
-	"cardreveal": {
+	"items/cardreveal": {
 		"sounds": ["lom:items/cardreveal"]
+	},
+	"items/wrench": {
+		"sounds": ["lom:items/wrench"]
 	}
 }
