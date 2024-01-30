@@ -1779,5 +1779,23 @@
 	},
 	"items/wrench": {
 		"sounds": ["lom:items/wrench"]
+	},
+	"sfx.ignite": {
+		"sounds": ["lom:sfx/ignite1", "lom:sfx/ignite2", "lom:sfx/ignite3", "lom:sfx/ignite4", "lom:sfx/ignite5"]
+	},
+	"sfx.ignite1": {
+		"sounds": ["lom:sfx/ignite1"]
+	},
+	"sfx.ignite2": {
+		"sounds": ["lom:sfx/ignite2"]
+	},
+	"sfx.ignite3": {
+		"sounds": ["lom:sfx/ignite3"]
+	},
+	"sfx.ignite4": {
+		"sounds": ["lom:sfx/ignite4"]
+	},
+	"sfx.ignite5": {
+		"sounds": ["lom:sfx/ignite5"]
 	}
 }
