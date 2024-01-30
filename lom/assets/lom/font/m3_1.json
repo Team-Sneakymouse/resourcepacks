@@ -1,0 +1,1318 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/000.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/001.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/002.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/003.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/004.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/005.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/006.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/007.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/008.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/009.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/010.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/011.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/012.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/013.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/014.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/015.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/016.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/017.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/018.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/019.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/020.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/021.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/022.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/023.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/024.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/025.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/026.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/027.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/028.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/029.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/030.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/031.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/032.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/033.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/034.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/035.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/036.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/037.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/038.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/039.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/040.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/041.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/042.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/043.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/044.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/045.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/046.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/047.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/048.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/049.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/050.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/051.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/052.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/053.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/054.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/055.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/056.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/057.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/058.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/059.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE059"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/060.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE060"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/061.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE061"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/062.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE062"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/063.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE063"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/064.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE064"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/065.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE065"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/066.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE066"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/067.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE067"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/068.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE068"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/069.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE069"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/070.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE070"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/071.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE071"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/072.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE072"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/073.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE073"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/074.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE074"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/075.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE075"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/076.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE076"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/077.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE077"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/078.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE078"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/079.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE079"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/080.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE080"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/081.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE081"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/082.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE082"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/083.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE083"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/084.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE084"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/085.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE085"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/086.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE086"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/087.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE087"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/088.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE088"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/089.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE089"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/090.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE090"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/091.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE091"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/092.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE092"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/093.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE093"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/094.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE094"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/095.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE095"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/096.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE096"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/097.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE097"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/098.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE098"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/099.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE099"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/100.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE100"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/101.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE101"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/102.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE102"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/103.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE103"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/104.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE104"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/105.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE105"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/106.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE106"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/107.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE107"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/108.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE108"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/109.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE109"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/110.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE110"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/111.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE111"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/112.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE112"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/113.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE113"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/114.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE114"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/115.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE115"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/116.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE116"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/117.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE117"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/118.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE118"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/119.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE119"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/120.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE120"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/121.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE121"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/122.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE122"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/123.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE123"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/124.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE124"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/125.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE125"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/126.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE126"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/127.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE127"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/128.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE128"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/129.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE129"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/130.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE130"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/131.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE131"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/132.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE132"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/133.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE133"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/134.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE134"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/135.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE135"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/136.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE136"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/137.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE137"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/138.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE138"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/139.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE139"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/140.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE140"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/141.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE141"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/142.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE142"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/143.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE143"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/144.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE144"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/m3/145.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE145"
+            ]
+        }
+    ]
+}
