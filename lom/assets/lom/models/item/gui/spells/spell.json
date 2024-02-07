@@ -1,0 +1,19 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "no_texture"
+	},
+	"groups": [
+		{
+			"name": "icon",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		}
+	],
+	"display": {
+		"gui": {
+			"scale": [2, 2, 1]
+		}
+	}
+}
