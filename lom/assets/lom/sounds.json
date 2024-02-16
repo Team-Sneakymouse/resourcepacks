@@ -1803,5 +1803,11 @@
 	},
 	"sfx.parry": {
 		"sounds": ["lom:sfx/parry1", "lom:sfx/parry2", "lom:sfx/parry3", "lom:sfx/parry4"]
+	},
+	"sfx.dwarvenfury": {
+		"sounds": ["lom:sfx/dwarvenfury"]
+	},
+	"sfx.skillcooldown": {
+		"sounds": ["lom:sfx/skillcooldown"]
 	}
 }
