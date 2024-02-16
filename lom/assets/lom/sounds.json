@@ -1797,5 +1797,11 @@
 	},
 	"sfx.ignite5": {
 		"sounds": ["lom:sfx/ignite5"]
+	},
+	"sfx.evade": {
+		"sounds": ["lom:sfx/evade1", "lom:sfx/evade2", "lom:sfx/evade3", "lom:sfx/evade4"]
+	},
+	"sfx.parry": {
+		"sounds": ["lom:sfx/parry1", "lom:sfx/parry2", "lom:sfx/parry3", "lom:sfx/parry4"]
 	}
 }
