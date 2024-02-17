@@ -1809,5 +1809,9 @@
 	},
 	"sfx.skillcooldown": {
 		"sounds": ["lom:sfx/skillcooldown"]
+	},
+	"entity.drink": {
+		"sounds": ["random/drink"],
+		"subtitle": "subtitles.entity.generic.drink"
 	}
 }

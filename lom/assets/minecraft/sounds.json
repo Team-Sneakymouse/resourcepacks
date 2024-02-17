@@ -249,5 +249,9 @@
 	"entity.firework_rocket.twinkle_far": {
 		"replace": true,
 		"sounds": []
+	},
+	"entity.generic.drink": {
+		"replace": true,
+		"sounds": []
 	}
 }
