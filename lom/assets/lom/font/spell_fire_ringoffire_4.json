@@ -1,0 +1,553 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/000.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/001.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/002.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/003.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/004.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/005.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/006.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/007.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/008.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/009.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/010.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/011.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/012.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/013.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/014.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/015.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/016.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/017.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/018.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/019.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/020.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/021.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/022.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/023.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/024.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/025.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/026.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/027.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/028.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/029.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/030.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/031.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/032.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/033.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/034.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/035.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/036.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/037.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/038.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/039.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/040.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/041.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/042.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/043.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/044.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/045.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/046.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/047.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/048.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/049.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/050.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/051.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/052.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/053.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/054.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/055.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/056.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/057.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/058.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/059.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE059"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/spell_fire_ringoffire/060.png",
+            "ascent": 146,
+            "height": 256,
+            "chars": [
+                "\uE060"
+            ]
+        }
+    ]
+}
