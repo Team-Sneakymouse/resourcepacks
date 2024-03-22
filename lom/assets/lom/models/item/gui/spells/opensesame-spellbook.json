@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/gui/spellbook",
+	"textures": {
+		"texture": "lom:item/gui/spells/opensesame-spellbook"
+	}
+}
