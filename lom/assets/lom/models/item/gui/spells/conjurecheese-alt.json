@@ -1,6 +1,6 @@
 {
 	"parent": "lom:item/gui/spell",
 	"textures": {
-		"layer0": "lom:item/gui/spells/opensesame"
+		"layer0": "lom:item/gui/spells/conjurecheese-alt"
 	}
 }
