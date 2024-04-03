@@ -1813,5 +1813,8 @@
 	"entity.drink": {
 		"sounds": ["random/drink"],
 		"subtitle": "subtitles.entity.generic.drink"
+	},
+	"sfx.falldown": {
+		"sounds": ["lom:sfx/falldown"]
 	}
 }
