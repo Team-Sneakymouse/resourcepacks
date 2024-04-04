@@ -1816,5 +1816,8 @@
 	},
 	"sfx.falldown": {
 		"sounds": ["lom:sfx/falldown"]
+	},
+	"spells.stoneform.end": {
+		"sounds": ["lom:spells/stoneform.end"]
 	}
 }
