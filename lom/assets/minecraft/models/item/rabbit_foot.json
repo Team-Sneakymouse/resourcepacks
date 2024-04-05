@@ -49,6 +49,7 @@
 		{ "predicate": { "custom_model_data": 46 }, "model": "lom:item/items/pearl" },
 		{ "predicate": { "custom_model_data": 47 }, "model": "lom:item/items/pearl2" },
 		{ "predicate": { "custom_model_data": 48 }, "model": "lom:item/items/pearl3" },
-		{ "predicate": { "custom_model_data": 49 }, "model": "lom:item/items/peasanttear" }
+		{ "predicate": { "custom_model_data": 49 }, "model": "lom:item/items/peasanttear" },
+		{ "predicate": { "custom_model_data": 50 }, "model": "lom:item/items/mintleaf" }
 	]
 }
