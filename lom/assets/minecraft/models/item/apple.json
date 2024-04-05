@@ -20,6 +20,7 @@
 		{ "predicate": { "custom_model_data": 14 }, "model": "lom:item/items/rocks/rock-skipstone" },
 		{ "predicate": { "custom_model_data": 15 }, "model": "lom:item/items/googlue" },
 		{ "predicate": { "custom_model_data": 16 }, "model": "lom:item/items/eurobutter" },
-		{ "predicate": { "custom_model_data": 17 }, "model": "lom:item/items/cocolatecoin" }
+		{ "predicate": { "custom_model_data": 17 }, "model": "lom:item/items/cocolatecoin" },
+		{ "predicate": { "custom_model_data": 18 }, "model": "lom:item/items/butter" }
 	]
 }
