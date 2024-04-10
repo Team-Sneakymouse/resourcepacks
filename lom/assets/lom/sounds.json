@@ -1819,5 +1819,8 @@
 	},
 	"spells.stoneform.end": {
 		"sounds": ["lom:spells/stoneform.end"]
+	},
+	"paladin.deploy": {
+		"sounds": ["lom:paladin.deploy"]
 	}
 }
