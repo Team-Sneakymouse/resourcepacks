@@ -1115,6 +1115,27 @@
 		{ "predicate": { "custom_model_data": 3524 }, "model": "lom:item/gui/spells/stoneform-alt" },
 		{ "predicate": { "custom_model_data": 3525 }, "model": "lom:item/gui/spells/summonreagents-spellbook" },
 		{ "predicate": { "custom_model_data": 3526 }, "model": "lom:item/gui/spells/summonreagents" },
-		{ "predicate": { "custom_model_data": 3527 }, "model": "lom:item/gui/spells/summonreagents-alt" }
+		{ "predicate": { "custom_model_data": 3527 }, "model": "lom:item/gui/spells/summonreagents-alt" },
+
+		{ "predicate": { "custom_model_data": 4001 }, "model": "lom:item/gui/daquestions/daquestion01" },
+		{ "predicate": { "custom_model_data": 4002 }, "model": "lom:item/gui/daquestions/daquestion02" },
+		{ "predicate": { "custom_model_data": 4003 }, "model": "lom:item/gui/daquestions/daquestion03" },
+		{ "predicate": { "custom_model_data": 4004 }, "model": "lom:item/gui/daquestions/daquestion04" },
+		{ "predicate": { "custom_model_data": 4005 }, "model": "lom:item/gui/daquestions/daquestion05" },
+		{ "predicate": { "custom_model_data": 4006 }, "model": "lom:item/gui/daquestions/daquestion06" },
+		{ "predicate": { "custom_model_data": 4007 }, "model": "lom:item/gui/daquestions/daquestion07" },
+		{ "predicate": { "custom_model_data": 4008 }, "model": "lom:item/gui/daquestions/daquestion08" },
+		{ "predicate": { "custom_model_data": 4009 }, "model": "lom:item/gui/daquestions/daquestion09" },
+		{ "predicate": { "custom_model_data": 4010 }, "model": "lom:item/gui/daquestions/daquestion10" },
+		{ "predicate": { "custom_model_data": 4011 }, "model": "lom:item/gui/daquestions/daquestion11" },
+		{ "predicate": { "custom_model_data": 4012 }, "model": "lom:item/gui/daquestions/daquestion12" },
+		{ "predicate": { "custom_model_data": 4013 }, "model": "lom:item/gui/daquestions/daquestion13" },
+		{ "predicate": { "custom_model_data": 4014 }, "model": "lom:item/gui/daquestions/daquestion14" },
+		{ "predicate": { "custom_model_data": 4015 }, "model": "lom:item/gui/daquestions/daquestion15" },
+		{ "predicate": { "custom_model_data": 4016 }, "model": "lom:item/gui/daquestions/daquestion16" },
+		{ "predicate": { "custom_model_data": 4017 }, "model": "lom:item/gui/daquestions/daquestion17" },
+		{ "predicate": { "custom_model_data": 4018 }, "model": "lom:item/gui/daquestions/daquestion18" },
+		{ "predicate": { "custom_model_data": 4019 }, "model": "lom:item/gui/daquestions/daquestion19" },
+		{ "predicate": { "custom_model_data": 4020 }, "model": "lom:item/gui/daquestions/daquestion20" }
 	]
 }
