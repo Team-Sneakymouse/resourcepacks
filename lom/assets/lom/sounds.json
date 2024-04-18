@@ -1822,5 +1822,8 @@
 	},
 	"paladin.deploy": {
 		"sounds": ["lom:paladin.deploy"]
+	},
+	"arcane.scrying": {
+		"sounds": ["lom:spells/arcane.scrying"]
 	}
 }
