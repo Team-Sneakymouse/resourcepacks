@@ -1825,5 +1825,51 @@
 	},
 	"arcane.scrying": {
 		"sounds": ["lom:spells/arcane.scrying"]
+	},
+
+	"music.curse.ascended": {
+		"sounds": ["lom:music/curse/curse.ascended"]
+	},
+	"music.curse.bells": {
+		"sounds": ["lom:music/curse/curse.bells"]
+	},
+	"music.curse.brass": {
+		"sounds": ["lom:music/curse/curse.brass"]
+	},
+	"music.curse.death": {
+		"sounds": ["lom:music/curse/curse.death"]
+	},
+	"music.curse.fantasy": {
+		"sounds": ["lom:music/curse/curse.fantasy"]
+	},
+	"music.curse.forest": {
+		"sounds": ["lom:music/curse/curse.forest"]
+	},
+	"music.curse.glass": {
+		"sounds": ["lom:music/curse/curse.glass"]
+	},
+	"music.curse.jazz": {
+		"sounds": ["lom:music/curse/curse.jazz"]
+	},
+	"music.curse.mindsmith": {
+		"sounds": ["lom:music/curse/curse.mindsmith"]
+	},
+	"music.curse.old": {
+		"sounds": ["lom:music/curse/curse.old"]
+	},
+	"music.curse.rage": {
+		"sounds": ["lom:music/curse/curse.rage"]
+	},
+	"music.curse.reflection": {
+		"sounds": ["lom:music/curse/curse.reflection"]
+	},
+	"music.curse.spooky": {
+		"sounds": ["lom:music/curse/curse.spooky"]
+	},
+	"music.curse.wallow": {
+		"sounds": ["lom:music/curse/curse.wallow"]
+	},
+	"music.curse.welcome": {
+		"sounds": ["lom:music/curse/curse.welcome"]
 	}
 }
