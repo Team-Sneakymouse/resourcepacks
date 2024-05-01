@@ -1161,6 +1161,7 @@
 		{ "predicate": { "custom_model_data": 2124 }, "model": "lom:item/icons/quests/quest25d" },
 		{ "predicate": { "custom_model_data": 2125 }, "model": "lom:item/icons/quests/quest25e" },
 
+		{ "predicate": { "custom_model_data": 3000 }, "model": "lom:item/gui/6rows" },
 		{ "predicate": { "custom_model_data": 3001 }, "model": "lom:item/gui/skillmenu" },
 		{ "predicate": { "custom_model_data": 3002 }, "model": "lom:item/gui/skilltree" },
 		{ "predicate": { "custom_model_data": 3003 }, "model": "lom:item/gui/shop/jimmy_jordonson" },
