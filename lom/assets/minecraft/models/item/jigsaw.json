@@ -517,6 +517,11 @@
 		{ "predicate": { "custom_model_data": 514 }, "model": "lom:item/icons/grayscale/magic_trueshot" },
 		{ "predicate": { "custom_model_data": 515 }, "model": "lom:item/icons/grayscale/magic_wisdom" },
 		{ "predicate": { "custom_model_data": 516 }, "model": "lom:item/icons/grayscale/magic_wormhole" },
+		{ "predicate": { "custom_model_data": 517 }, "model": "lom:item/icons/grayscale/question" },
+		{ "predicate": { "custom_model_data": 518 }, "model": "lom:item/icons/grayscale/questiona" },
+		{ "predicate": { "custom_model_data": 519 }, "model": "lom:item/icons/grayscale/questionanswer" },
+		{ "predicate": { "custom_model_data": 520 }, "model": "lom:item/icons/grayscale/questionb" },
+		{ "predicate": { "custom_model_data": 521 }, "model": "lom:item/icons/grayscale/questionc" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/icons/1111" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/icons/aerialdodge" },
@@ -1034,6 +1039,11 @@
 		{ "predicate": { "custom_model_data": 1514 }, "model": "lom:item/icons/magic_trueshot" },
 		{ "predicate": { "custom_model_data": 1515 }, "model": "lom:item/icons/magic_wisdom" },
 		{ "predicate": { "custom_model_data": 1516 }, "model": "lom:item/icons/magic_wormhole" },
+		{ "predicate": { "custom_model_data": 1517 }, "model": "lom:item/icons/question" },
+		{ "predicate": { "custom_model_data": 1518 }, "model": "lom:item/icons/questiona" },
+		{ "predicate": { "custom_model_data": 1519 }, "model": "lom:item/icons/questionanswer" },
+		{ "predicate": { "custom_model_data": 1520 }, "model": "lom:item/icons/questionb" },
+		{ "predicate": { "custom_model_data": 1521 }, "model": "lom:item/icons/questionc" },
 
 		{ "predicate": { "custom_model_data": 2001 }, "model": "lom:item/icons/quests/quest1a" },
 		{ "predicate": { "custom_model_data": 2002 }, "model": "lom:item/icons/quests/quest1b" },
