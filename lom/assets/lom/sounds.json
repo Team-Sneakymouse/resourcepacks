@@ -1871,5 +1871,26 @@
 	},
 	"music.curse.welcome": {
 		"sounds": ["lom:music/curse/curse.welcome"]
+	},
+	"laughingwind": {
+		"sounds": ["lom:laughingwind"]
+	},
+	"m1": {
+		"sounds": ["lom:m1"]
+	},
+	"m2": {
+		"sounds": ["lom:m2"]
+	},
+	"memeresponsibly": {
+		"sounds": ["lom:memeresponsibly"]
+	},
+	"mindsmith": {
+		"sounds": ["lom:mindsmith"]
+	},
+	"mindsmith2": {
+		"sounds": ["lom:mindsmith2"]
+	},
+	"quake": {
+		"sounds": ["lom:quake"]
 	}
 }
