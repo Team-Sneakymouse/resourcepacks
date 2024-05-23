@@ -1,0 +1,373 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/000.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/001.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/002.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/003.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/004.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/005.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/006.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/007.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/008.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/009.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/010.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/011.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/012.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/013.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/014.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/015.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/016.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/017.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/018.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/019.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/020.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/021.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/022.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/023.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/024.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/025.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/026.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/027.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/028.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/029.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/030.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/031.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/032.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/033.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/034.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/035.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/036.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/037.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/038.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/039.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/emergencylights/040.png",
+            "ascent": 126,
+            "height": 256,
+            "chars": [
+                "\uE040"
+            ]
+        }
+    ]
+}
