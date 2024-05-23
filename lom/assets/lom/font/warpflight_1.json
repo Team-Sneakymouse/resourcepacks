@@ -1,0 +1,625 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/000.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/001.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/002.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/003.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/004.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/005.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/006.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/007.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/008.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/009.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/010.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/011.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/012.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/013.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/014.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/015.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/016.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/017.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/018.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/019.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/020.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/021.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/022.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/023.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/024.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/025.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/026.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/027.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/028.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/029.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/030.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/031.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/032.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/033.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/034.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/035.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/036.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/037.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/038.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/039.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/040.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/041.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/042.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/043.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/044.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/045.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/046.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/047.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/048.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/049.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/050.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/051.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/052.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/053.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/054.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/055.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/056.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/057.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/058.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/059.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE059"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/060.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE060"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/061.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE061"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/062.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE062"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/063.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE063"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/064.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE064"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/065.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE065"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/066.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE066"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/067.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE067"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/warpflight/068.png",
+            "ascent": 116,
+            "height": 256,
+            "chars": [
+                "\uE068"
+            ]
+        }
+    ]
+}
