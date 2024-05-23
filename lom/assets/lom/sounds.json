@@ -1895,5 +1895,8 @@
 	},
 	"enlarge": {
 		"sounds": ["lom:enlarge"]
+	},
+	"sneakymon.00001": {
+		"sounds": ["lom:sneakymon/00001"]
 	}
 }

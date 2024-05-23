@@ -1,0 +1,4 @@
+{
+	"parent": "item/vanilla/clock",
+	"overrides": [{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/sneakymon/00001" }]
+}
