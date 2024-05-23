@@ -1,0 +1,490 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/000.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/001.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/002.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/003.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/004.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/005.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/006.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/007.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/008.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/009.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/010.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/011.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/012.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/013.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/014.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/015.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/016.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/017.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/018.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/019.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/020.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/021.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/022.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/023.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/024.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/025.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/026.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/027.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/028.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/029.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/030.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/031.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/032.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/033.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/034.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/035.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/036.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/037.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/038.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/039.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/040.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/041.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/042.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/043.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/044.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/045.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/046.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/047.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/048.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/049.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/050.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/051.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/052.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/holywash/053.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE053"
+            ]
+        }
+    ]
+}
