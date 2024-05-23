@@ -1,0 +1,103 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "lom:font/chainlightning/000.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/chainlightning/001.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/chainlightning/002.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/chainlightning/003.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/chainlightning/004.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/chainlightning/005.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/chainlightning/006.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/chainlightning/007.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/chainlightning/008.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/chainlightning/009.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/chainlightning/010.png",
+            "ascent": 156,
+            "height": 256,
+            "chars": [
+                "\uE010"
+            ]
+        }
+    ]
+}
