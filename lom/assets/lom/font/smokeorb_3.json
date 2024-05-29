@@ -1,0 +1,463 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/000.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/001.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/002.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/003.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/004.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/005.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/006.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/007.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/008.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/009.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/010.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/011.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/012.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/013.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/014.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/015.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/016.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/017.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/018.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/019.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/020.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/021.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/022.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/023.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/024.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/025.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/026.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/027.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/028.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/029.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/030.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/031.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/032.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/033.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/034.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/035.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/036.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/037.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/038.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/039.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/040.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/041.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/042.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/043.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/044.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/045.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/046.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/047.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/048.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/049.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/smokeorb/050.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE050"
+            ]
+        }
+    ]
+}
