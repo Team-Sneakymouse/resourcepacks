@@ -1,0 +1,67 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "lom:font/thunderaura/000.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/thunderaura/001.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/thunderaura/002.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/thunderaura/003.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/thunderaura/004.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/thunderaura/005.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/thunderaura/006.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE006"
+            ]
+        }
+    ]
+}
