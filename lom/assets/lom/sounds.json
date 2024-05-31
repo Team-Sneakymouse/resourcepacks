@@ -1898,5 +1898,78 @@
 	},
 	"sneakymon.00001": {
 		"sounds": ["lom:sneakymon/00001"]
+	},
+
+	"spells.arcane.conjure": {
+		"sounds": ["lom:spells/arcane.conjure"]
+	},
+	"spells.arcane.ripple": {
+		"sounds": ["lom:spells/arcane.ripple"]
+	},
+	"spells.dark.devillightning": {
+		"sounds": ["lom:spells/dark.devillightning"]
+	},
+	"spells.dark.evileye": {
+		"sounds": ["lom:spells/dark.evileye"]
+	},
+	"spells.earth.circle": {
+		"sounds": ["lom:spells/earth.circle"]
+	},
+	"spells.fire.skull": {
+		"sounds": ["lom:spells/fire.skull"]
+	},
+	"spells.fire.tornado": {
+		"sounds": ["lom:spells/fire.tornado"]
+	},
+	"spells.general.agilitylines": {
+		"sounds": ["lom:spells/general.agilitylines"]
+	},
+	"spells.general.timeripple": {
+		"sounds": ["lom:spells/general.timeripple"]
+	},
+	"spells.holy.angeldust": {
+		"sounds": ["lom:spells/holy.angeldust"]
+	},
+	"spells.thunder.aura": {
+		"sounds": ["lom:spells/thunder.aura"]
+	},
+	"spells.thunder.chainlightning": {
+		"sounds": ["lom:spells/thunder.chainlightning"]
+	},
+	"spells.thunder.charge": {
+		"sounds": ["lom:spells/thunder.charge"]
+	},
+	"spells.thunder.energyblast": {
+		"sounds": ["lom:spells/thunder.energyblast"]
+	},
+	"spells.thunder.window": {
+		"sounds": ["lom:spells/thunder.window"]
+	},
+	"spells.wind.smokecloud": {
+		"sounds": ["lom:spells/wind.smokecloud"]
+	},
+	"spells.wind.smokeorb": {
+		"sounds": ["lom:spells/wind.smokeorb"]
+	},
+	"spells.wind.smokering": {
+		"sounds": ["lom:spells/wind.smokering"]
+	},
+	"daq.firedragon": {
+		"sounds": ["lom:magic/daqfiredragon"]
+	},
+	"daq.icedragon": {
+		"sounds": ["lom:magic/daqicedragon"]
+	},
+	"daq.earthdragon": {
+		"sounds": ["lom:magic/daqearthdragon"]
+	},
+	"daq.arcanedragon": {
+		"sounds": ["lom:magic/daqfiredragon"]
+	},
+	"daq.lightdragon": {
+		"sounds": ["lom:magic/daqfiredragon"]
+	},
+	"daq.darkdragon": {
+		"sounds": ["lom:magic/daqfiredragon"]
 	}
 }
