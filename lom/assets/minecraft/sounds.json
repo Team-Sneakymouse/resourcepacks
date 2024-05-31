@@ -253,5 +253,9 @@
 	"entity.generic.drink": {
 		"replace": true,
 		"sounds": []
+	},
+	"block.beacon.ambient": {
+		"replace": true,
+		"sounds": []
 	}
 }
