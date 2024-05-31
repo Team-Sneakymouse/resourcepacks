@@ -1961,12 +1961,12 @@
 		"sounds": ["lom:magic/daqearthdragon"]
 	},
 	"daq.arcanedragon": {
-		"sounds": ["lom:magic/daqfiredragon"]
+		"sounds": ["lom:magic/daqarcanedragon"]
 	},
 	"daq.lightdragon": {
-		"sounds": ["lom:magic/daqfiredragon"]
+		"sounds": ["lom:magic/daqlightdragon"]
 	},
 	"daq.darkdragon": {
-		"sounds": ["lom:magic/daqfiredragon"]
+		"sounds": ["lom:magic/daqdarkdragon"]
 	}
 }
