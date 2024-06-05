@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/vanilla/candle",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/blocks/ring_chandelier" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/blocks/chandelier_goth" }
+	]
+}
