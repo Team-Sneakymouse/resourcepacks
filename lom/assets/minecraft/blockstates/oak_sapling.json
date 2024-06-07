@@ -1,0 +1,37 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+	"multipart": [
+		{
+			"apply": [
+				{ "model": "flowers:block/tulip_stem_0_0", "weight": 31 },
+				{ "model": "flowers:block/tulip_stem_0_0", "y": 90, "weight": 31 },
+				{ "model": "flowers:block/tulip_stem_0_1", "weight": 31 },
+				{ "model": "flowers:block/tulip_stem_0_1", "y": 90, "weight": 31 },
+				{ "model": "flowers:block/tulip_stem_0_2", "weight": 31 },
+				{ "model": "flowers:block/tulip_stem_0_2", "y": 90, "weight": 31 },
+				{ "model": "flowers:block/tulip_stem_0_3", "weight": 32 },
+				{ "model": "flowers:block/tulip_stem_0_3", "y": 90, "weight": 32 }
+			]
+		},
+		{
+			"apply": [
+				{ "model": "flowers:block/tulip_stem_1_3", "weight": 31 },
+				{ "model": "flowers:block/tulip_stem_1_3", "y": 90, "weight": 31 },
+				{ "model": "flowers:block/tulip_stem_1_2", "weight": 31 },
+				{ "model": "flowers:block/tulip_stem_1_2", "y": 90, "weight": 31 },
+				{ "model": "flowers:block/tulip_stem_1_1", "weight": 31 },
+				{ "model": "flowers:block/tulip_stem_1_1", "y": 90, "weight": 31 },
+				{ "model": "flowers:block/tulip_stem_1_0", "weight": 32 },
+				{ "model": "flowers:block/tulip_stem_1_0", "y": 90, "weight": 32 }
+			]
+		},
+		{
+			"apply": [
+				{ "model": "flowers:block/red_tulip_head" },
+				{ "model": "flowers:block/red_tulip_head", "y": 90 },
+				{ "model": "flowers:block/red_tulip_head", "y": 180 },
+				{ "model": "flowers:block/red_tulip_head", "y": 270 }
+			]
+		}
+	]
+}

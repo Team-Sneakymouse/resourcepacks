@@ -1,0 +1,21 @@
+{
+	"variants": {
+		"half=lower": [
+			{ "model": "flowers:block/lilac_bottom1" },
+			{ "model": "flowers:block/lilac_bottom1", "y": 90 },
+			{ "model": "flowers:block/lilac_bottom1", "y": 180 },
+			{ "model": "flowers:block/lilac_bottom1", "y": 270 }
+		],
+		"half=upper": [
+			{ "model": "flowers:block/lilac_top1" },
+			{ "model": "flowers:block/lilac_top1", "y": 90 },
+			{ "model": "flowers:block/lilac_top1", "y": 180 },
+			{ "model": "flowers:block/lilac_top1", "y": 270 },
+			{ "model": "flowers:block/lilac_top2" },
+			{ "model": "flowers:block/lilac_top3" },
+			{ "model": "flowers:block/lilac_top3", "y": 90 },
+			{ "model": "flowers:block/lilac_top3", "y": 180 },
+			{ "model": "flowers:block/lilac_top3", "y": 270 }
+		]
+	}
+}

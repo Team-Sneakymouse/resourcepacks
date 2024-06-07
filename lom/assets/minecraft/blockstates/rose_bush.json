@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"half=lower": [
+			{ "model": "flowers:block/rose_bush_bottom1", "weight": 2 },
+			{ "model": "flowers:block/rose_bush_bottom2" }
+		],
+		"half=upper": [
+			{ "model": "flowers:block/rose_bush_top1" },
+			{ "model": "flowers:block/rose_bush_top2" }
+		]
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+	"multipart": [
+        { "apply": { "model": "minecraft:block/flower_pot" } },
+        { "apply": [{ "model": "flowers:block/potted_wither_rose" }] }
+    ]
+}

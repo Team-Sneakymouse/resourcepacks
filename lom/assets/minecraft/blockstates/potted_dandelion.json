@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "flowers:block/potted_daffodil" },
+			{ "model": "flowers:block/potted_daffodil", "y": 90 },
+			{ "model": "flowers:block/potted_daffodil", "y": 180 },
+			{ "model": "flowers:block/potted_daffodil", "y": 270 }
+		]
+	}
+}

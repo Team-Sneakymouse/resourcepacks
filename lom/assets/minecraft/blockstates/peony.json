@@ -1,0 +1,15 @@
+{
+	"variants": {
+		"half=lower": [
+			{ "model": "flowers:block/peony_bottom1" },
+			{ "model": "flowers:block/peony_bottom1", "y": 180 },
+			{ "model": "flowers:block/peony_bottom2" },
+			{ "model": "flowers:block/peony_bottom2", "y": 180 }
+		],
+		"half=upper": [
+			{ "model": "flowers:block/peony_top1" },
+			{ "model": "flowers:block/peony_top2" },
+			{ "model": "flowers:block/peony_top3" }
+		]
+	}
+}

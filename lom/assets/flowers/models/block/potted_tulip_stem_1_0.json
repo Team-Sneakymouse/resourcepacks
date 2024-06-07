@@ -1,0 +1,19 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "flowers:block/oak_sapling"
+	},
+	"elements": [
+		{
+			"from": [8, 4, 4],
+			"to": [8, 15, 12],
+			"shade": false,
+			"rotation": { "angle": -45, "axis": "y", "origin": [8.025, 9.5, 8] },
+			"faces": {
+				"east": { "uv": [0, 5, 8, 16], "texture": "#particle" },
+				"west": { "uv": [0, 5, 8, 16], "texture": "#particle" }
+			}
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+	"variants": {
+		"": [
+			{ "model": "flowers:block/spruce_sapling" },
+			{ "model": "flowers:block/spruce_sapling", "y": 90 },
+			{ "model": "flowers:block/spruce_sapling", "y": 180 },
+			{ "model": "flowers:block/spruce_sapling", "y": 270 }
+		]
+	}
+}

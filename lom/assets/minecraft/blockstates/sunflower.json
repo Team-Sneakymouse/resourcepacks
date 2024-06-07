@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"half=lower": [
+			{ "model": "flowers:block/sunflower_bottom1" },
+			{ "model": "flowers:block/sunflower_bottom1", "y": 90 },
+			{ "model": "flowers:block/sunflower_bottom1", "y": 180 },
+			{ "model": "flowers:block/sunflower_bottom1", "y": 270 }
+		],
+		"half=upper": [
+			{ "model": "flowers:block/sunflower_top1" },
+			{ "model": "flowers:block/sunflower_top2" },
+			{ "model": "flowers:block/sunflower_top3" },
+			{ "model": "flowers:block/sunflower_top4" },
+			{ "model": "flowers:block/sunflower_top5" },
+			{ "model": "flowers:block/sunflower_top6" }
+		]
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+	"ambientocclusion": false,
+	"textures": {
+		"plant": "flowers:block/acacia_sapling",
+		"particle": "minecraft:block/flower_pot"
+	},
+	"elements": [
+		{
+			"from": [5.0186, 4, 7.99047],
+			"to": [11.0186, 12, 7.99047],
+			"shade": false,
+			"rotation": { "angle": 0, "axis": "y", "origin": [8.01822, 11.25, 8.01509] },
+			"faces": {
+				"north": { "uv": [8, 8, 14, 16], "texture": "#plant" },
+				"south": { "uv": [8, 8, 14, 16], "texture": "#plant" }
+			}
+		},
+		{
+			"from": [8.0186, 4, 5.04047],
+			"to": [8.0186, 12, 11.04047],
+			"shade": false,
+			"rotation": { "angle": 0, "axis": "y", "origin": [8.01822, 11.25, 8.01509] },
+			"faces": {
+				"east": { "uv": [8, 8, 14, 16], "texture": "#plant" },
+				"west": { "uv": [8, 8, 14, 16], "texture": "#plant" }
+			}
+		},
+		{
+			"from": [5.5, 12, 5.5],
+			"to": [10.5, 17, 10.5],
+			"rotation": { "angle": -45, "axis": "y", "origin": [8.01822, 11.25, 8.01509] },
+			"faces": {
+				"north": { "uv": [0, 5, 5, 10], "texture": "#plant" },
+				"east": { "uv": [5, 5, 0, 10], "texture": "#plant" },
+				"south": { "uv": [0, 5, 5, 10], "texture": "#plant" },
+				"west": { "uv": [5, 5, 0, 10], "texture": "#plant" },
+				"up": { "uv": [5, 5, 0, 0], "texture": "#plant" },
+				"down": { "uv": [5, 10, 0, 15], "texture": "#plant" }
+			}
+		},
+		{
+			"from": [5.5, 11, 5.5],
+			"to": [10.5, 12, 10.5],
+			"rotation": { "angle": -45, "axis": "y", "origin": [8.01822, 11.25, 8.01509] },
+			"faces": {
+				"north": { "uv": [5, 0, 10, 1], "texture": "#plant" },
+				"east": { "uv": [10, 0, 5, 1], "texture": "#plant" },
+				"south": { "uv": [5, 0, 10, 1], "texture": "#plant" },
+				"west": { "uv": [10, 0, 5, 1], "texture": "#plant" }
+			}
+		}
+	]
+}

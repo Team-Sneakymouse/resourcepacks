@@ -1,0 +1,53 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "flowers:block/acacia_sapling"
+	},
+	"elements": [
+		{
+			"from": [5.5, 10, 5.5],
+			"to": [10.5, 15, 10.5],
+			"rotation": { "angle": 0, "axis": "y", "origin": [8, 12.5, 8] },
+			"faces": {
+				"north": { "uv": [0, 5, 5, 10], "texture": "#particle" },
+				"east": { "uv": [5, 5, 0, 10], "texture": "#particle" },
+				"south": { "uv": [0, 5, 5, 10], "texture": "#particle" },
+				"west": { "uv": [5, 5, 0, 10], "texture": "#particle" },
+				"up": { "uv": [5, 5, 0, 0], "texture": "#particle" },
+				"down": { "uv": [5, 10, 0, 15], "texture": "#particle" }
+			}
+		},
+		{
+			"from": [5.5, 9, 5.5],
+			"to": [10.5, 10, 10.5],
+			"rotation": { "angle": 0, "axis": "y", "origin": [8, 11.5, 8] },
+			"faces": {
+				"north": { "uv": [5, 0, 10, 1], "texture": "#particle" },
+				"east": { "uv": [10, 0, 5, 1], "texture": "#particle" },
+				"south": { "uv": [5, 0, 10, 1], "texture": "#particle" },
+				"west": { "uv": [10, 0, 5, 1], "texture": "#particle" }
+			}
+		},
+		{
+			"from": [5.04893, 0, 7.99741],
+			"to": [11.04893, 10, 7.99741],
+			"shade": false,
+			"rotation": { "angle": -45, "axis": "y", "origin": [8, 0, 8] },
+			"faces": {
+				"north": { "uv": [8, 6, 14, 16], "texture": "#particle" },
+				"south": { "uv": [8, 6, 14, 16], "texture": "#particle" }
+			}
+		},
+		{
+			"from": [7.99893, 0, 4.99741],
+			"to": [7.99893, 10, 10.99741],
+			"shade": false,
+			"rotation": { "angle": -45, "axis": "y", "origin": [8, 0, 8] },
+			"faces": {
+				"east": { "uv": [8, 6, 14, 16], "texture": "#particle" },
+				"west": { "uv": [8, 6, 14, 16], "texture": "#particle" }
+			}
+		}
+	]
+}

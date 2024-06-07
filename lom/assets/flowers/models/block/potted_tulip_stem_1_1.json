@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+	"parent": "flowers:block/potted_tulip_stem_1_0",
+	"textures": {
+		"particle": "flowers:block/oak_sapling"
+	}
+}

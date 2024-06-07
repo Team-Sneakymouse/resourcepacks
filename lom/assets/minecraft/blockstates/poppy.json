@@ -1,0 +1,15 @@
+{
+	"variants": {
+		"": [
+			{ "model": "flowers:block/poppy1", "weight": 4 },
+			{ "model": "flowers:block/poppy2" },
+			{ "model": "flowers:block/poppy2", "y": 90 },
+			{ "model": "flowers:block/poppy2", "y": 180 },
+			{ "model": "flowers:block/poppy2", "y": 270 },
+			{ "model": "flowers:block/poppy3" },
+			{ "model": "flowers:block/poppy3", "y": 90 },
+			{ "model": "flowers:block/poppy3", "y": 180 },
+			{ "model": "flowers:block/poppy3", "y": 270 }
+		]
+	}
+}

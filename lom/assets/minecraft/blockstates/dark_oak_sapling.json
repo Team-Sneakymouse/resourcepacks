@@ -1,0 +1,11 @@
+{
+	"credit": "Made by Ensis",
+	"variants": {
+		"": [
+			{ "model": "flowers:block/dark_oak_sapling", "y": 0 },
+			{ "model": "flowers:block/dark_oak_sapling", "y": 90 },
+			{ "model": "flowers:block/dark_oak_sapling", "y": 180 },
+			{ "model": "flowers:block/dark_oak_sapling", "y": 270 }
+		]
+	}
+}
