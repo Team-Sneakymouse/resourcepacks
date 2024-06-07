@@ -50,6 +50,13 @@
 		{ "predicate": { "custom_model_data": 47 }, "model": "lom:item/items/pearl2" },
 		{ "predicate": { "custom_model_data": 48 }, "model": "lom:item/items/pearl3" },
 		{ "predicate": { "custom_model_data": 49 }, "model": "lom:item/items/peasanttear" },
-		{ "predicate": { "custom_model_data": 50 }, "model": "lom:item/items/mintleaf" }
+		{ "predicate": { "custom_model_data": 50 }, "model": "lom:item/items/mintleaf" },
+		{ "predicate": { "custom_model_data": 51 }, "model": "lom:item/items/petalarcane" },
+		{ "predicate": { "custom_model_data": 52 }, "model": "lom:item/items/petaldark" },
+		{ "predicate": { "custom_model_data": 53 }, "model": "lom:item/items/petalearth" },
+		{ "predicate": { "custom_model_data": 54 }, "model": "lom:item/items/petalfire" },
+		{ "predicate": { "custom_model_data": 55 }, "model": "lom:item/items/petalice" },
+		{ "predicate": { "custom_model_data": 56 }, "model": "lom:item/items/petallight" },
+		{ "predicate": { "custom_model_data": 57 }, "model": "lom:item/items/seeds" }
 	]
 }
