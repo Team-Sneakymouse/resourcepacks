@@ -1,0 +1,7 @@
+{
+	"__comment": "Designed by Manifusion with Cubik Studio - https://cubik.studio",
+	"parent": "lom:item/hats/mama2",
+	"textures": {
+		"TEX_Mama_Hat": "lom:item/hats/tex_mama_hat6"
+	}
+}
