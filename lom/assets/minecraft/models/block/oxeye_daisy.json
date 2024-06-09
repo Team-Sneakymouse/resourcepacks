@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "flowers:item/oxeye_daisy",
-		"particle": "flowers:item/oxeye_daisy"
+		"0": "flowers:block/oxeye_daisy",
+		"particle": "flowers:block/oxeye_daisy"
 	},
 	"elements": [
 		{
