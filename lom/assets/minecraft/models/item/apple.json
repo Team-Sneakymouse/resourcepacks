@@ -24,6 +24,11 @@
 		{ "predicate": { "custom_model_data": 18 }, "model": "lom:item/items/butter" },
 		{ "predicate": { "custom_model_data": 19 }, "model": "lom:item/items/worms" },
 		{ "predicate": { "custom_model_data": 20 }, "model": "lom:item/items/grapes" },
-		{ "predicate": { "custom_model_data": 21 }, "model": "lom:item/items/pickle" }
+		{ "predicate": { "custom_model_data": 21 }, "model": "lom:item/items/pickle" },
+		{ "predicate": { "custom_model_data": 22 }, "model": "lom:item/items/cheese" },
+		{ "predicate": { "custom_model_data": 23 }, "model": "lom:item/items/cheesemorsel" },
+		{ "predicate": { "custom_model_data": 24 }, "model": "lom:item/items/normalcheese" },
+		{ "predicate": { "custom_model_data": 25 }, "model": "lom:item/items/radicalcheese" },
+		{ "predicate": { "custom_model_data": 26 }, "model": "lom:item/items/epiccheese" }
 	]
 }

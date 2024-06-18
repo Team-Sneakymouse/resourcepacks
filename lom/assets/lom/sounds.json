@@ -1968,5 +1968,11 @@
 	},
 	"daq.darkdragon": {
 		"sounds": ["lom:magic/daqdarkdragon"]
+	},
+	"cheesespawn": {
+		"sounds": ["lom:cheesespawn"]
+	},
+	"cheesesong": {
+		"sounds": ["lom:music/cheesesong"]
 	}
 }
