@@ -257,5 +257,13 @@
 	"block.beacon.ambient": {
 		"replace": true,
 		"sounds": []
+	},
+	"entity.goat.ambient": {
+		"replace": true,
+		"sounds": []
+	},
+	"entity.goat.screaming.ambient": {
+		"replace": true,
+		"sounds": []
 	}
 }
