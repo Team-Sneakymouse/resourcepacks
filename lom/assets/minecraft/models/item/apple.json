@@ -29,6 +29,7 @@
 		{ "predicate": { "custom_model_data": 23 }, "model": "lom:item/items/cheesemorsel" },
 		{ "predicate": { "custom_model_data": 24 }, "model": "lom:item/items/normalcheese" },
 		{ "predicate": { "custom_model_data": 25 }, "model": "lom:item/items/radicalcheese" },
-		{ "predicate": { "custom_model_data": 26 }, "model": "lom:item/items/epiccheese" }
+		{ "predicate": { "custom_model_data": 26 }, "model": "lom:item/items/epiccheese" },
+		{ "predicate": { "custom_model_data": 27 }, "model": "lom:item/items/devilsfoodcake" }
 	]
 }
