@@ -1974,5 +1974,8 @@
 	},
 	"cheesesong": {
 		"sounds": ["lom:music/cheesesong"]
+	},
+	"devilsharp": {
+		"sounds": ["lom:devilsharp"]
 	}
 }
