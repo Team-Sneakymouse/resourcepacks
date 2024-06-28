@@ -265,5 +265,13 @@
 	"entity.goat.screaming.ambient": {
 		"replace": true,
 		"sounds": []
+	},
+	"entity.generic.eat": {
+		"replace": true,
+		"sounds": []
+	},
+	"entity.player.burp": {
+		"replace": true,
+		"sounds": []
 	}
 }
