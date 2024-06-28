@@ -1977,5 +1977,8 @@
 	},
 	"devilsharp": {
 		"sounds": ["lom:devilsharp"]
+	},
+	"brewpotion": {
+		"sounds": ["lom:brewpotion"]
 	}
 }
