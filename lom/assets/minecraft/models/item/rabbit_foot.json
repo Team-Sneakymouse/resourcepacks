@@ -60,6 +60,8 @@
 		{ "predicate": { "custom_model_data": 57 }, "model": "lom:item/items/seeds" },
 		{ "predicate": { "custom_model_data": 58 }, "model": "lom:item/items/ashes" },
 		{ "predicate": { "custom_model_data": 59 }, "model": "lom:item/items/soulstone" },
-		{ "predicate": { "custom_model_data": 60 }, "model": "lom:item/items/glassshards" }
+		{ "predicate": { "custom_model_data": 60 }, "model": "lom:item/items/glassshards" },
+		{ "predicate": { "custom_model_data": 61 }, "model": "lom:item/items/spellthread" },
+		{ "predicate": { "custom_model_data": 62 }, "model": "lom:item/items/spellthreaddirty" }
 	]
 }
