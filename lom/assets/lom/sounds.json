@@ -1980,5 +1980,71 @@
 	},
 	"brewpotion": {
 		"sounds": ["lom:brewpotion"]
+	},
+	"daq.talk4a": {
+		"sounds": ["lom:magic/daqtalk4a"]
+	},
+	"daq.talk4b": {
+		"sounds": ["lom:magic/daqtalk4b"]
+	},
+	"daq.talk4c": {
+		"sounds": ["lom:magic/daqtalk4c"]
+	},
+	"daq.talk4d": {
+		"sounds": ["lom:magic/daqtalk4d"]
+	},
+	"daq.talk5a": {
+		"sounds": ["lom:magic/daqtalk5a"]
+	},
+	"daq.talk5b": {
+		"sounds": ["lom:magic/daqtalk5b"]
+	},
+	"daq.talk5c": {
+		"sounds": ["lom:magic/daqtalk5c"]
+	},
+	"daq.talk5d": {
+		"sounds": ["lom:magic/daqtalk5d"]
+	},
+	"daq.talk5e": {
+		"sounds": ["lom:magic/daqtalk5e"]
+	},
+	"daq.talk5f": {
+		"sounds": ["lom:magic/daqtalk5f"]
+	},
+	"daq.talk5g": {
+		"sounds": ["lom:magic/daqtalk5g"]
+	},
+	"daq.talk5h": {
+		"sounds": ["lom:magic/daqtalk5h"]
+	},
+	"daq.talk21a": {
+		"sounds": ["lom:magic/daqtalk21a"]
+	},
+	"daq.talk22a": {
+		"sounds": ["lom:magic/daqtalk22a"]
+	},
+	"daq.talk23a": {
+		"sounds": ["lom:magic/daqtalk23a"]
+	},
+	"daq.talk23b": {
+		"sounds": ["lom:magic/daqtalk23b"]
+	},
+	"daq.talk23c": {
+		"sounds": ["lom:magic/daqtalk23c"]
+	},
+	"daq.talk23d": {
+		"sounds": ["lom:magic/daqtalk23d"]
+	},
+	"daq.talk23e": {
+		"sounds": ["lom:magic/daqtalk23e"]
+	},
+	"daq.talk23f": {
+		"sounds": ["lom:magic/daqtalk23f"]
+	},
+	"daq.talk23fb": {
+		"sounds": ["lom:magic/daqtalk23fb"]
+	},
+	"daq.talk23g": {
+		"sounds": ["lom:magic/daqtalk23g"]
 	}
 }
