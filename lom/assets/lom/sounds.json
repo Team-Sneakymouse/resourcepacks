@@ -1811,8 +1811,16 @@
 		"sounds": ["lom:sfx/skillcooldown"]
 	},
 	"entity.drink": {
-		"sounds": ["random/drink"],
+		"sounds": ["minecraft:random/drink"],
 		"subtitle": "subtitles.entity.generic.drink"
+	},
+	"entity.eat": {
+		"sounds": ["minecraft:random/eat1", "minecraft:random/eat2", "minecraft:random/eat3"],
+		"subtitle": "subtitles.entity.generic.eat"
+	},
+	"player.burp": {
+		"sounds": ["minecraft:random/burp"],
+		"subtitle": "subtitles.entity.player.burp"
 	},
 	"sfx.falldown": {
 		"sounds": ["lom:sfx/falldown"]
