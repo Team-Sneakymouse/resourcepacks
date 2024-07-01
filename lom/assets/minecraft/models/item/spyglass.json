@@ -1,14 +1,7 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/spyglass"
-  },
-    "overrides": [
-		{
-			"predicate": {
-				"custom_model_data":1
-			},
-			"model":"lom:item/items/tinderflame_in_hand"
-		}
-    ]
+	"parent": "item/vanilla/spyglass",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/tinderflame_in_hand" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/tools/magnifyingglass" }
+	]
 }
