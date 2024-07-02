@@ -53,6 +53,7 @@
 		{ "predicate": { "custom_model_data": 51 }, "model": "lom:item/tools/snow_shovel" },
 		{ "predicate": { "custom_model_data": 52 }, "model": "lom:item/items/deckofcards" },
 		{ "predicate": { "custom_model_data": 53 }, "model": "lom:item/items/scryingorb" },
-		{ "predicate": { "custom_model_data": 54 }, "model": "lom:item/tools/flare" }
+		{ "predicate": { "custom_model_data": 54 }, "model": "lom:item/tools/flare" },
+		{ "predicate": { "custom_model_data": 55 }, "model": "lom:item/tools/magnifyingglass" }
 	]
 }
