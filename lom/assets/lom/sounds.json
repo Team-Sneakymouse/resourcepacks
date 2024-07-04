@@ -2054,5 +2054,11 @@
 	},
 	"daq.talk23g": {
 		"sounds": ["lom:magic/daqtalk23g"]
+	},
+	"sfx.clothingequip": {
+		"sounds": ["lom:sfx/clothingequip"]
+	},
+	"sfx.clothingunequip": {
+		"sounds": ["lom:sfx/clothingunequip"]
 	}
 }
