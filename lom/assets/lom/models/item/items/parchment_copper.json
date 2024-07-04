@@ -1,6 +1,32 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
 		"layer0": "lom:item/items/parchment_copper"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 91, 0],
+			"translation": [0, 1.25, 0.25],
+			"scale": [0.67, 0.67, 0.67]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 91, 0],
+			"translation": [0, 1.25, 0.25],
+			"scale": [0.67, 0.67, 0.67]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, 91],
+			"translation": [1.25, 2.5, 0],
+			"scale": [0.73, 0.73, 0.73]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, -90],
+			"translation": [1.25, 2.5, 0],
+			"scale": [0.73, 0.73, 0.73]
+		},
+		"head": {
+			"translation": [0, 9, 0]
+		}
 	}
 }
