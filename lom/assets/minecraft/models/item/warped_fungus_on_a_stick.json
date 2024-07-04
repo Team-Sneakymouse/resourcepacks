@@ -2,6 +2,21 @@
 	"parent": "item/vanilla/warped_fungus_on_a_stick",
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/tools/wrench" },
-		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/cookiebox" }
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/cookiebox" },
+
+		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/badges/water" },
+		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/items/badges/fire" },
+		{ "predicate": { "custom_model_data": 1003 }, "model": "lom:item/items/badges/campfire" },
+		{ "predicate": { "custom_model_data": 1004 }, "model": "lom:item/items/badges/treasure" },
+		{ "predicate": { "custom_model_data": 1005 }, "model": "lom:item/items/badges/magic" },
+		{ "predicate": { "custom_model_data": 1006 }, "model": "lom:item/items/badges/grandpaladinorder" },
+		{ "predicate": { "custom_model_data": 1007 }, "model": "lom:item/items/badges/rope" },
+		{ "predicate": { "custom_model_data": 1008 }, "model": "lom:item/items/badges/banana" },
+		{ "predicate": { "custom_model_data": 1009 }, "model": "lom:item/items/badges/cute" },
+		{ "predicate": { "custom_model_data": 1010 }, "model": "lom:item/items/badges/mining" },
+		{ "predicate": { "custom_model_data": 1011 }, "model": "lom:item/items/badges/earth" },
+		{ "predicate": { "custom_model_data": 1012 }, "model": "lom:item/items/badges/mountain" },
+		{ "predicate": { "custom_model_data": 1013 }, "model": "lom:item/items/badges/devil" },
+		{ "predicate": { "custom_model_data": 1014 }, "model": "lom:item/items/badges/cookie" }
 	]
 }
