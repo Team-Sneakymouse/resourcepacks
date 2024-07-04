@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/items/badge",
+	"textures": {
+		"layer0": "lom:item/items/badges/banana"
+	}
+}

@@ -1195,6 +1195,7 @@
 		{ "predicate": { "custom_model_data": 3009 }, "model": "lom:item/gui/bankui" },
 		{ "predicate": { "custom_model_data": 3010 }, "model": "lom:item/gui/spellbook" },
 		{ "predicate": { "custom_model_data": 3011 }, "model": "lom:item/gui/scrying" },
+		{ "predicate": { "custom_model_data": 3012 }, "model": "lom:item/gui/scootsash" },
 
 		{ "predicate": { "custom_model_data": 3501 }, "model": "lom:item/gui/spells/blossom-spellbook" },
 		{ "predicate": { "custom_model_data": 3502 }, "model": "lom:item/gui/spells/blossom" },

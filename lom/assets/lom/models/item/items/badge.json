@@ -1,0 +1,18 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "lom:item/items/notexture"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 1, 1],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 2.2, 1.13],
+			"scale": [0.25, 0.25, 0.25]
+		}
+	}
+}
