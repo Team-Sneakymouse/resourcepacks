@@ -2,6 +2,6 @@
 	"parent": "item/vanilla/warped_fungus_on_a_stick",
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/tools/wrench" },
-		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/scootsbrandcookie" }
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/cookiebox" }
 	]
 }
