@@ -32,6 +32,7 @@
 		{ "predicate": { "custom_model_data": 26 }, "model": "lom:item/items/epiccheese" },
 		{ "predicate": { "custom_model_data": 27 }, "model": "lom:item/items/devilsfoodcake" },
 		{ "predicate": { "custom_model_data": 28 }, "model": "lom:item/items/honey" },
-		{ "predicate": { "custom_model_data": 29 }, "model": "lom:item/items/honeycomb" }
+		{ "predicate": { "custom_model_data": 29 }, "model": "lom:item/items/honeycomb" },
+		{ "predicate": { "custom_model_data": 30 }, "model": "lom:item/items/silvermacaroon" }
 	]
 }
