@@ -18,5 +18,7 @@
 		{ "predicate": { "custom_model_data": 1012 }, "model": "lom:item/items/badges/mountain" },
 		{ "predicate": { "custom_model_data": 1013 }, "model": "lom:item/items/badges/devil" },
 		{ "predicate": { "custom_model_data": 1014 }, "model": "lom:item/items/badges/cookie" }
+
+
 	]
 }

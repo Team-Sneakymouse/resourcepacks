@@ -66,6 +66,7 @@
 		{ "predicate": { "custom_model_data": 63 }, "model": "lom:item/items/spellcards" },
 		{ "predicate": { "custom_model_data": 64 }, "model": "lom:item/items/parchment_copper" },
 		{ "predicate": { "custom_model_data": 65 }, "model": "lom:item/items/parchment_silver" },
-		{ "predicate": { "custom_model_data": 66 }, "model": "lom:item/items/parchment_gold" }
+		{ "predicate": { "custom_model_data": 66 }, "model": "lom:item/items/parchment_gold" },
+		{ "predicate": { "custom_model_data": 67 }, "model": "lom:item/items/badges/dirty" }
 	]
 }
