@@ -3,6 +3,7 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/tools/wrench" },
 		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/cookiebox" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/tools/scootsash" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/badges/water" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/items/badges/fire" },
@@ -18,7 +19,5 @@
 		{ "predicate": { "custom_model_data": 1012 }, "model": "lom:item/items/badges/mountain" },
 		{ "predicate": { "custom_model_data": 1013 }, "model": "lom:item/items/badges/devil" },
 		{ "predicate": { "custom_model_data": 1014 }, "model": "lom:item/items/badges/cookie" }
-
-
 	]
 }
