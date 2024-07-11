@@ -2063,5 +2063,8 @@
 	},
 	"sfx.shakebox": {
 		"sounds": ["lom:sfx/shakebox"]
+	},
+	"darkvalebell": {
+		"sounds": ["lom:darkvalebell"]
 	}
 }
