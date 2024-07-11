@@ -273,5 +273,13 @@
 	"entity.player.burp": {
 		"replace": true,
 		"sounds": []
+	},
+	"entity.lightning_bolt.impact": {
+		"replace": true,
+		"sounds": []
+	},
+	"entity.lightning_bolt.thunder": {
+		"replace": true,
+		"sounds": []
 	}
 }
