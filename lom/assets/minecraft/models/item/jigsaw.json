@@ -1198,6 +1198,8 @@
 		{ "predicate": { "custom_model_data": 3012 }, "model": "lom:item/gui/scootsash" },
 		{ "predicate": { "custom_model_data": 3013 }, "model": "lom:item/gui/confirmpurchase" },
 
+		{ "predicate": { "custom_model_data": 3101 }, "model": "lom:item/gui/npcs/darrius" },
+
 		{ "predicate": { "custom_model_data": 3501 }, "model": "lom:item/gui/spells/blossom-spellbook" },
 		{ "predicate": { "custom_model_data": 3502 }, "model": "lom:item/gui/spells/blossom" },
 		{ "predicate": { "custom_model_data": 3503 }, "model": "lom:item/gui/spells/blossom-alt" },
