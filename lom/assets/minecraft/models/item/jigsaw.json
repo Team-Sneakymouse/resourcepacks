@@ -1199,6 +1199,13 @@
 		{ "predicate": { "custom_model_data": 3013 }, "model": "lom:item/gui/confirmpurchase" },
 
 		{ "predicate": { "custom_model_data": 3101 }, "model": "lom:item/gui/npcs/darrius" },
+		{ "predicate": { "custom_model_data": 3102 }, "model": "lom:item/gui/npcs/darrius1" },
+		{ "predicate": { "custom_model_data": 3103 }, "model": "lom:item/gui/npcs/darrius2alt" },
+		{ "predicate": { "custom_model_data": 3104 }, "model": "lom:item/gui/npcs/darrius2" },
+		{ "predicate": { "custom_model_data": 3105 }, "model": "lom:item/gui/npcs/darrius3alt" },
+		{ "predicate": { "custom_model_data": 3106 }, "model": "lom:item/gui/npcs/darrius3" },
+		{ "predicate": { "custom_model_data": 3107 }, "model": "lom:item/gui/npcs/darrius4alt" },
+		{ "predicate": { "custom_model_data": 3108 }, "model": "lom:item/gui/npcs/darrius4" },
 
 		{ "predicate": { "custom_model_data": 3501 }, "model": "lom:item/gui/spells/blossom-spellbook" },
 		{ "predicate": { "custom_model_data": 3502 }, "model": "lom:item/gui/spells/blossom" },
