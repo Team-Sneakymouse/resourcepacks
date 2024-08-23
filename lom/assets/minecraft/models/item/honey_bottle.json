@@ -4,6 +4,6 @@
 		"layer0": "item/honey_bottle"
 	},
 	"overrides": [
-		{ "predicate": {  "custom_model_data": 1 }, "model": "lom:item/items/ale"}
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/ale" }
 	]
 }

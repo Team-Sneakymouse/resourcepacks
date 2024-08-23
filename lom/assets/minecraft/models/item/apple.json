@@ -76,6 +76,7 @@
 		{ "predicate": { "custom_model_data": 70 }, "model": "lom:item/items/food/mushroom_stew" },
 		{ "predicate": { "custom_model_data": 71 }, "model": "lom:item/items/food/beetroot_soup" },
 		{ "predicate": { "custom_model_data": 72 }, "model": "lom:item/items/food/rabbit_stew" },
-		{ "predicate": { "custom_model_data": 73 }, "model": "lom:item/items/food/suspicious_stew" }
+		{ "predicate": { "custom_model_data": 73 }, "model": "lom:item/items/food/suspicious_stew" },
+		{ "predicate": { "custom_model_data": 74 }, "model": "lom:item/items/dwarven_ale" }
 	]
 }
