@@ -2066,5 +2066,11 @@
 	},
 	"darkvalebell": {
 		"sounds": ["lom:darkvalebell"]
+	},
+	"jukebox.champs1": {
+		"sounds": ["lom:music/champs1"]
+	},
+	"jukebox.champs2": {
+		"sounds": ["lom:music/champs2"]
 	}
 }
