@@ -281,5 +281,13 @@
 	"entity.lightning_bolt.thunder": {
 		"replace": true,
 		"sounds": []
+	},
+	"block.lava.ambient": {
+		"replace": true,
+		"sounds": []
+	},
+	"block.lava.pop": {
+		"replace": true,
+		"sounds": []
 	}
 }
