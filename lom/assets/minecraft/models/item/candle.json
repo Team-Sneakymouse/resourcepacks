@@ -3,6 +3,8 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/blocks/ring_chandelier" },
 		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/blocks/chandelier_goth" },
-		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/blocks/candelabra" }
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/blocks/candelabra" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/blocks/rat_hole2" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "lom:item/blocks/rat_hole" }
 	]
 }
