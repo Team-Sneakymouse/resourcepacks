@@ -12,9 +12,9 @@ jobs:
           args: >-
             --location '${{  secrets.MULTICRAFT_API }}'
             --header 'Content-Type: application/x-www-form-urlencoded'
-            --data-urlencode '_MulticraftAPIMethod=runScript'
             --data-urlencode '_MulticraftAPIUser=${{ secrets.MULTICRAFT_USER_LOM }}'
+            --data-urlencode '_MulticraftAPIMethod=runScript'
             --data-urlencode 'daemon_id=1'
             --data-urlencode 'script=updateResourcepack'
-            --data-urlencode 'args=lom-dev'
+            --data-urlencode 'args=lom'
             --data-urlencode '_MulticraftAPIKey=${{ secrets.MULTICRAFT_KEY_LOM }}'
