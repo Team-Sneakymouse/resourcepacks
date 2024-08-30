@@ -2072,5 +2072,8 @@
 	},
 	"jukebox.champs2": {
 		"sounds": ["lom:music/champs2"]
+	},
+	"block.lava.pop": {
+		"sounds": ["minecraft:liquid/lavapop"]
 	}
 }
