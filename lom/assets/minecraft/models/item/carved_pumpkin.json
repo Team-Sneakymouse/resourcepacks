@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/carved_pumpkin",
+	"parent": "minecraft:item/vanilla/carved_pumpkin",
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/hats/beard" },
 		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/hats/dwarven_beard" },
