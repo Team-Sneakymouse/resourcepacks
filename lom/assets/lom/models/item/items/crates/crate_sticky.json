@@ -7,7 +7,7 @@
 		"inner": "block/bee_nest_front_honey",
 		"outer": "block/honey_block_top",
 		"inner_top": "block/honeycomb_block",
-		"item": "lom:item/items/dwarven_ale"
+		"item": "lom:item/items/invisible"
 	},
 	"elements": [
 		{

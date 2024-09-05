@@ -7,7 +7,7 @@
 		"6": "lom:item/items/crates/grove/vines_front_grove",
 		"7": "lom:item/items/crates/label",
 		"particle": "lom:item/items/crates/grove/grove",
-		"item": "lom:item/items/dwarven_ale"
+		"item": "lom:item/items/invisible"
 	},
 	"elements": [
 		{

@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/items/crates/crate_darkvale",
+	"textures": {
+		"item": "lom:item/items/ashes"
+	}
+}

@@ -3,10 +3,10 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"5": "lom:item/items/crates/label",
-		"inner": "block/cherry_planks",
+		"inner": "block/chiseled_stone_bricks",
 		"outer": "block/stone_bricks",
-		"particle": "block/cherry_planks",
-		"item": "lom:item/items/dwarven_ale"
+		"particle": "block/chiseled_stone_bricks",
+		"item": "lom:item/items/invisible"
 	},
 	"elements": [
 		{

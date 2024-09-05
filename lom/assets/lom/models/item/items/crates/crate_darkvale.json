@@ -11,7 +11,7 @@
 		"corner": "block/bone_block_side",
 		"gems2": "lom:item/items/crates/darkvale/gems2",
 		"particle": "block/nether_bricks",
-		"item": "lom:item/items/dwarven_ale"
+		"item": "lom:item/items/invisible"
 	},
 	"elements": [
 		{

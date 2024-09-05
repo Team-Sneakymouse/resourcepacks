@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/items/crates/crate_goattown",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/crates/crate_goatmilk" }
+	]
+}

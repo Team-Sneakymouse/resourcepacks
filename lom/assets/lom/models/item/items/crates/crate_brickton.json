@@ -6,7 +6,7 @@
 		"3": "lom:item/items/crates/brickton/bricks",
 		"4": "lom:item/items/crates/brickton/brickton",
 		"particle": "lom:item/items/brickton/bricks",
-		"item": "lom:item/items/dwarven_ale"
+		"item": "lom:item/items/invisible"
 	},
 	"elements": [
 		{

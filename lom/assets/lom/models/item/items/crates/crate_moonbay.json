@@ -8,7 +8,7 @@
 		"inner": "block/acacia_planks",
 		"outer": "block/orange_glazed_terracotta",
 		"deco": "item/tropical_fish",
-		"item": "lom:item/items/dwarven_ale"
+		"item": "lom:item/items/invisible"
 	},
 	"elements": [
 		{

@@ -6,7 +6,7 @@
 		"inner": "block/soul_soil",
 		"particle": "block/soul_soil",
 		"outer": "block/stripped_spruce_log",
-		"item": "lom:item/items/dwarven_ale"
+		"item": "lom:item/items/invisible"
 	},
 	"elements": [
 		{

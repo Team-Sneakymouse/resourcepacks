@@ -5,7 +5,7 @@
 		"particle": "lom:item/items/crates/base",
 		"texture": "lom:item/items/crates/base",
 		"label": "lom:item/items/crates/label",
-		"item": "lom:item/items/dwarven_ale"
+		"item": "lom:item/items/invisible"
 	},
 	"elements": [
 		{

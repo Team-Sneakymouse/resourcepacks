@@ -1,0 +1,9 @@
+{
+	"parent": "lom:item/items/crates/crate_darkvale",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/crates/crate_devilishapple" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/crates/crate_ashes" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/crates/crate_bone" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/items/crates/crate_darkpetal" }
+	]
+}

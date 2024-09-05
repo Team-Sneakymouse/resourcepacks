@@ -1,0 +1,9 @@
+{
+	"parent": "lom:item/items/crates/crate_dwarven",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/crates/crate_stone" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/crates/crate_ore" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/crates/crate_goldore" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/items/crates/crate_icepetal" }
+	]
+}

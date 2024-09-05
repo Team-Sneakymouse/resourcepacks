@@ -1,15 +1,8 @@
 {
-	"parent": "item/vanilla/shulker_box",
+	"parent": "lom:item/items/crates/crate_stock",
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/crates/crate_stock" },
-		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/crates/crate_brickton" },
-		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/crates/crate_darkvale" },
-		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/items/crates/crate_dwarven" },
-		{ "predicate": { "custom_model_data": 5 }, "model": "lom:item/items/crates/crate_goattown" },
-		{ "predicate": { "custom_model_data": 6 }, "model": "lom:item/items/crates/crate_grove" },
-		{ "predicate": { "custom_model_data": 7 }, "model": "lom:item/items/crates/crate_moonbay" },
-		{ "predicate": { "custom_model_data": 8 }, "model": "lom:item/items/crates/crate_slums" },
-		{ "predicate": { "custom_model_data": 9 }, "model": "lom:item/items/crates/crate_southshire" },
-		{ "predicate": { "custom_model_data": 10 }, "model": "lom:item/items/crates/crate_sticky" }
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/crates/crate_cheese" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/crates/crate_emptybottle" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/crates/crate_lightpetal" }
 	]
 }

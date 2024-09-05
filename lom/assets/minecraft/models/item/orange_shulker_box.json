@@ -1,0 +1,10 @@
+{
+	"parent": "lom:item/items/crates/crate_moonbay",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/crates/crate_rawpearl" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/crates/crate_finepearl" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/crates/crate_exquisitepearl" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/items/crates/crate_worms" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "lom:item/items/crates/crate_shell" }
+	]
+}

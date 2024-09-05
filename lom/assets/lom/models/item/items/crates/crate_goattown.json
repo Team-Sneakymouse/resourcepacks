@@ -9,7 +9,7 @@
 		"inner_top": "block/stripped_cherry_log_top",
 		"particle": "block/cherry_planks",
 		"inner_front": "lom:block/cherry_door_bottom",
-		"item": "lom:item/items/dwarven_ale"
+		"item": "lom:item/items/invisible"
 	},
 	"elements": [
 		{
