@@ -2078,5 +2078,11 @@
 	},
 	"drink.clink": {
 		"sounds": ["lom:sfx/drink.clink1", "lom:sfx/drink.clink2"]
+	},
+	"emote.sparkle": {
+		"sounds": ["lom:sfx/emote.sparkle"]
+	},
+	"emote.angry": {
+		"sounds": ["lom:sfx/emote.angry"]
 	}
 }
