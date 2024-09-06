@@ -2075,5 +2075,8 @@
 	},
 	"block.lava.pop": {
 		"sounds": ["minecraft:liquid/lavapop"]
+	},
+	"drink.clink": {
+		"sounds": ["lom:sfx/drink.clink1", "lom:sfx/drink.clink2"]
 	}
 }
