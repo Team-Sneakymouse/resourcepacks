@@ -78,6 +78,11 @@
 		{ "predicate": { "custom_model_data": 72 }, "model": "lom:item/items/food/rabbit_stew" },
 		{ "predicate": { "custom_model_data": 73 }, "model": "lom:item/items/food/suspicious_stew" },
 		{ "predicate": { "custom_model_data": 74 }, "model": "lom:item/items/dwarven_ale" },
-		{ "predicate": { "custom_model_data": 75 }, "model": "lom:item/items/ale" }
+		{ "predicate": { "custom_model_data": 75 }, "model": "lom:item/items/ale" },
+		{ "predicate": { "custom_model_data": 76 }, "model": "lom:item/items/blood_bottle" },
+		{ "predicate": { "custom_model_data": 77 }, "model": "lom:item/items/oil_bottle" },
+		{ "predicate": { "custom_model_data": 78 }, "model": "lom:item/items/soap_bottle" },
+		{ "predicate": { "custom_model_data": 79 }, "model": "lom:item/items/sprinkle_bottle" },
+		{ "predicate": { "custom_model_data": 80 }, "model": "lom:item/items/wine_bottle" }
 	]
 }
