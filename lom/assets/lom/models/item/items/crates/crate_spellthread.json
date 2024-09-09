@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/items/crates/crate_southshire",
+	"textures": {
+		"item": "lom:item/items/spellthread"
+	}
+}

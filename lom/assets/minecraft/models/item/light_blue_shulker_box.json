@@ -2,6 +2,7 @@
 	"parent": "lom:item/items/crates/crate_southshire",
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/crates/crate_arcanepetal" },
-		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/crates/crate_spellthread" }
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/crates/crate_spellthread" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/crates/crate_sprinklebottle" }
 	]
 }
