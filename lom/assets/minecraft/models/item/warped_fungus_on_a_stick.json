@@ -9,6 +9,7 @@
 		{ "predicate": { "custom_model_data": 6 }, "model": "lom:item/items/muk_trophy_gold" },
 		{ "predicate": { "custom_model_data": 7 }, "model": "lom:item/tools/sciencewand" },
 		{ "predicate": { "custom_model_data": 8 }, "model": "lom:item/tools/honey_wand" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "lom:item/tools/crowbar" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/badges/water" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/items/badges/fire" },
