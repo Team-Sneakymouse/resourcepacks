@@ -1,4 +1,7 @@
 {
 	"parent": "item/vanilla/fire_charge",
-	"overrides": [{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/entities/demon1" }]
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/entities/demon1" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/entities/sprite_test1" }
+	]
 }
