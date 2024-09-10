@@ -68,6 +68,12 @@
 		{ "predicate": { "custom_model_data": 65 }, "model": "lom:item/items/parchment_silver" },
 		{ "predicate": { "custom_model_data": 66 }, "model": "lom:item/items/parchment_gold" },
 		{ "predicate": { "custom_model_data": 67 }, "model": "lom:item/items/badges/dirty" },
+		{ "predicate": { "custom_model_data": 68 }, "model": "lom:item/items/loan_penny" },
+		{ "predicate": { "custom_model_data": 69 }, "model": "lom:item/items/loan_silver" },
+		{ "predicate": { "custom_model_data": 70 }, "model": "lom:item/items/loan_gold" },
+		{ "predicate": { "custom_model_data": 71 }, "model": "lom:item/items/note_penny" },
+		{ "predicate": { "custom_model_data": 72 }, "model": "lom:item/items/note_silver" },
+		{ "predicate": { "custom_model_data": 73 }, "model": "lom:item/items/note_gold" },
 
 		{ "predicate": { "custom_model_data": 1000 }, "model": "lom:item/items/crates/crate_stock" },
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/crates/crate_cheese" },
