@@ -2084,5 +2084,17 @@
 	},
 	"emote.angry": {
 		"sounds": ["lom:sfx/emote.angry"]
+	},
+	"crowbar.wood": {
+		"sounds": [
+			"lom:sfx/crowbar.wood1",
+			"lom:sfx/crowbar.wood2",
+			"lom:sfx/crowbar.wood3",
+			"lom:sfx/crowbar.wood4",
+			"lom:sfx/crowbar.wood5",
+			"lom:sfx/crowbar.wood6",
+			"lom:sfx/crowbar.wood7",
+			"lom:sfx/crowbar.wood8"
+		]
 	}
 }
