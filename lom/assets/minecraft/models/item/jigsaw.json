@@ -1243,6 +1243,7 @@
 		{ "predicate": { "custom_model_data": 3015 }, "model": "lom:item/gui/bankui2" },
 		{ "predicate": { "custom_model_data": 3016 }, "model": "lom:item/gui/bankui3" },
 		{ "predicate": { "custom_model_data": 3017 }, "model": "lom:item/gui/icons/banknote" },
+		{ "predicate": { "custom_model_data": 3018 }, "model": "lom:item/gui/storeui" },
 
 		{ "predicate": { "custom_model_data": 3101 }, "model": "lom:item/gui/npcs/darrius" },
 		{ "predicate": { "custom_model_data": 3102 }, "model": "lom:item/gui/npcs/darrius1" },
@@ -1252,14 +1253,6 @@
 		{ "predicate": { "custom_model_data": 3106 }, "model": "lom:item/gui/npcs/darrius3" },
 		{ "predicate": { "custom_model_data": 3107 }, "model": "lom:item/gui/npcs/darrius4alt" },
 		{ "predicate": { "custom_model_data": 3108 }, "model": "lom:item/gui/npcs/darrius4" },
-
-		{ "predicate": { "custom_model_data": 3201 }, "model": "lom:item/gui/store/storeui_gui1" },
-		{ "predicate": { "custom_model_data": 3202 }, "model": "lom:item/gui/store/storeui_gui2" },
-		{ "predicate": { "custom_model_data": 3203 }, "model": "lom:item/gui/store/storeui_gui3" },
-		{ "predicate": { "custom_model_data": 3204 }, "model": "lom:item/gui/store/storeui_gui4" },
-		{ "predicate": { "custom_model_data": 3205 }, "model": "lom:item/gui/store/storeui_gui5" },
-		{ "predicate": { "custom_model_data": 3206 }, "model": "lom:item/gui/store/storeui_gui6" },
-		{ "predicate": { "custom_model_data": 3207 }, "model": "lom:item/gui/store/storeui_gui7" },
 
 		{ "predicate": { "custom_model_data": 3501 }, "model": "lom:item/gui/spells/blossom-spellbook" },
 		{ "predicate": { "custom_model_data": 3502 }, "model": "lom:item/gui/spells/blossom" },

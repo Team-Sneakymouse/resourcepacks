@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/vanilla/red_stained_glass_pane",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 10 }, "model": "lom:item/gui/icons/sale10" },
+		{ "predicate": { "custom_model_data": 20 }, "model": "lom:item/gui/icons/sale20" },
+		{ "predicate": { "custom_model_data": 30 }, "model": "lom:item/gui/icons/sale30" },
+		{ "predicate": { "custom_model_data": 50 }, "model": "lom:item/gui/icons/sale50" }
+	]
+}

@@ -1,6 +1,6 @@
 {
 	"parent": "lom:item/gui/6rows",
 	"textures": {
-		"texture": "lom:item/gui/store/storeui_gui5"
+		"texture": "lom:item/gui/storeui"
 	}
 }
