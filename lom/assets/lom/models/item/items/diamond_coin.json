@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "lom:item/items/silvercoin"
+		"layer0": "lom:item/items/diamond_coin"
 	}
 }
