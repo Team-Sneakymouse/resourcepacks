@@ -1254,6 +1254,17 @@
 		{ "predicate": { "custom_model_data": 3107 }, "model": "lom:item/gui/npcs/darrius4alt" },
 		{ "predicate": { "custom_model_data": 3108 }, "model": "lom:item/gui/npcs/darrius4" },
 
+		{ "predicate": { "custom_model_data": 3201 }, "model": "lom:item/gui/crates/crate_brickton" },
+		{ "predicate": { "custom_model_data": 3202 }, "model": "lom:item/gui/crates/crate_darkvale" },
+		{ "predicate": { "custom_model_data": 3203 }, "model": "lom:item/gui/crates/crate_dwarven" },
+		{ "predicate": { "custom_model_data": 3204 }, "model": "lom:item/gui/crates/crate_generic" },
+		{ "predicate": { "custom_model_data": 3205 }, "model": "lom:item/gui/crates/crate_goattown" },
+		{ "predicate": { "custom_model_data": 3206 }, "model": "lom:item/gui/crates/crate_grove" },
+		{ "predicate": { "custom_model_data": 3207 }, "model": "lom:item/gui/crates/crate_moonbay" },
+		{ "predicate": { "custom_model_data": 3208 }, "model": "lom:item/gui/crates/crate_slums" },
+		{ "predicate": { "custom_model_data": 3209 }, "model": "lom:item/gui/crates/crate_southshire" },
+		{ "predicate": { "custom_model_data": 3210 }, "model": "lom:item/gui/crates/crate_sticky" },
+
 		{ "predicate": { "custom_model_data": 3501 }, "model": "lom:item/gui/spells/blossom-spellbook" },
 		{ "predicate": { "custom_model_data": 3502 }, "model": "lom:item/gui/spells/blossom" },
 		{ "predicate": { "custom_model_data": 3503 }, "model": "lom:item/gui/spells/blossom-alt" },

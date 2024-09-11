@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/gui/4rows",
+	"textures": {
+		"texture": "lom:item/gui/crates/crate_brickton"
+	}
+}
