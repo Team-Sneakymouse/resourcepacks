@@ -2,6 +2,13 @@
 	"parent": "item/vanilla/fire_charge",
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/entities/demon1" },
-		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/entities/sprite_test1" }
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/entities/sprite_test1" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/entities/spells/boltbomb" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/entities/spells/firebomb" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "lom:item/entities/spells/icesword" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "lom:item/entities/spells/lightningshock" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "lom:item/entities/spells/purpledevilcircle" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "lom:item/entities/spells/smokescreen" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "lom:item/entities/spells/sparkblast" }
 	]
 }
