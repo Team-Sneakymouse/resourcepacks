@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures" : {
-    "layer0" : "lom:item/hats/simplehats/hatbag_epic"
-  }
-}
