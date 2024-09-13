@@ -241,14 +241,6 @@
 			}
 		}
 	],
-	"overrides": [
-		{
-			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "lom:item/hats/simplehats/shinymagikarp"
-		}
-	],
 	"display": {
 		"thirdperson_righthand": {
 			"scale": [0.3, 0.3, 0.3]

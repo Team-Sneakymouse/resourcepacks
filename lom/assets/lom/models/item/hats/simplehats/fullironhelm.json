@@ -4,12 +4,6 @@
 	"textures": {
 		"2": "lom:item/hats/simplehats/fullironhelm"
 	},
-	"overrides":[
-	{"predicate": {"custom_model_data": 1},
-      "model": "lom:item/hats/simplehats/fullgoldhelm"},
-	{"predicate": {"custom_model_data": 2},
-      "model": "lom:item/hats/simplehats/fulldiamondhelm"}
-	],
 	"elements": [
 		{
 			"from": [2.1, 2, 2.9],

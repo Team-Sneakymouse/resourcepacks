@@ -4,12 +4,6 @@
 	"textures": {
 		"0": "lom:item/hats/simplehats/tvhead"
 	},
-	"overrides":[
-	{"predicate": {"custom_model_data": 1},
-      "model": "lom:item/hats/simplehats/tvheadrat"},
-	{"predicate": {"custom_model_data": 2},
-      "model": "lom:item/hats/simplehats/tvheadstatic"}
-	],
 	"elements": [
 		{
 			"from": [-2.22, 0.75, 0.7],

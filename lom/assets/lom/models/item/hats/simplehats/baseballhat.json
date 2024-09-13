@@ -32,14 +32,6 @@
 			}
 		}
 	],
-	"overrides": [
-		{
-			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "lom:item/hats/simplehats/capbackwards"
-		}
-	],
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, -0.5, 0],

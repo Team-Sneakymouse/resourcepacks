@@ -4,12 +4,6 @@
 	"textures": {
 		"1": "lom:item/hats/simplehats/beehead"
 	},
-	"overrides":[
-	{"predicate": {"custom_model_data": 1},
-      "model": "lom:item/hats/simplehats/beehatpride"},
-	{"predicate": {"custom_model_data": 2},
-      "model": "lom:item/hats/simplehats/beehattrans"}
-	],
 	"elements": [
 		{
 			"from": [0, 0, 2],
