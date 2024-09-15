@@ -1,5 +1,5 @@
 {
-	"parent": "item/vanilla/fire_charge",
+	"parent": "item/vanilla/clay_ball",
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/entities/demon1" },
 		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/entities/sprite_test1" },
@@ -10,6 +10,7 @@
 		{ "predicate": { "custom_model_data": 7 }, "model": "lom:item/entities/spells/purpledevilcircle" },
 		{ "predicate": { "custom_model_data": 8 }, "model": "lom:item/entities/spells/smokescreen" },
 		{ "predicate": { "custom_model_data": 9 }, "model": "lom:item/entities/spells/sparkblast" },
-		{ "predicate": { "custom_model_data": 10 }, "model": "lom:item/entities/spells/lightslash" }
+		{ "predicate": { "custom_model_data": 10 }, "model": "lom:item/entities/spells/lightslash" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "lom:item/entities/spells/bubblepop" }
 	]
 }
