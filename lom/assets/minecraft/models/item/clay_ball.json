@@ -11,6 +11,7 @@
 		{ "predicate": { "custom_model_data": 8 }, "model": "lom:item/entities/spells/smokescreen" },
 		{ "predicate": { "custom_model_data": 9 }, "model": "lom:item/entities/spells/sparkblast" },
 		{ "predicate": { "custom_model_data": 10 }, "model": "lom:item/entities/spells/lightslash" },
-		{ "predicate": { "custom_model_data": 11 }, "model": "lom:item/entities/spells/bubblepop" }
+		{ "predicate": { "custom_model_data": 11 }, "model": "lom:item/entities/spells/bubblepop" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "lom:item/entities/moonshark" }
 	]
 }
