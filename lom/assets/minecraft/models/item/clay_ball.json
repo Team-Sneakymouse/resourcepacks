@@ -12,6 +12,11 @@
 		{ "predicate": { "custom_model_data": 9 }, "model": "lom:item/entities/spells/sparkblast" },
 		{ "predicate": { "custom_model_data": 10 }, "model": "lom:item/entities/spells/lightslash" },
 		{ "predicate": { "custom_model_data": 11 }, "model": "lom:item/entities/spells/bubblepop" },
-		{ "predicate": { "custom_model_data": 12 }, "model": "lom:item/entities/moonshark" }
+		{ "predicate": { "custom_model_data": 12 }, "model": "lom:item/entities/moonshark" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "lom:item/entities/puddle1" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "lom:item/entities/puddle2" },
+		{ "predicate": { "custom_model_data": 15 }, "model": "lom:item/entities/puddle3" },
+		{ "predicate": { "custom_model_data": 16 }, "model": "lom:item/entities/puddle4" },
+		{ "predicate": { "custom_model_data": 17 }, "model": "lom:item/entities/puddle5" }
 	]
 }
