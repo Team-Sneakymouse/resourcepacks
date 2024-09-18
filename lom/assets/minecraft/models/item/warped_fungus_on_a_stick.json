@@ -10,6 +10,11 @@
 		{ "predicate": { "custom_model_data": 7 }, "model": "lom:item/tools/sciencewand" },
 		{ "predicate": { "custom_model_data": 8 }, "model": "lom:item/tools/honey_wand" },
 		{ "predicate": { "custom_model_data": 9 }, "model": "lom:item/tools/crowbar" },
+		{ "predicate": { "custom_model_data": 10 }, "model": "lom:item/tools/guitar" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "lom:item/tools/harmonica" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "lom:item/tools/ocarina" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "lom:item/tools/bongos" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "lom:item/tools/trumpet" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/badges/water" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/items/badges/fire" },
