@@ -75,6 +75,7 @@
 		{ "predicate": { "custom_model_data": 72 }, "model": "lom:item/items/note_silver" },
 		{ "predicate": { "custom_model_data": 73 }, "model": "lom:item/items/note_gold" },
 		{ "predicate": { "custom_model_data": 74 }, "model": "lom:item/items/mithril_coin" },
+		{ "predicate": { "custom_model_data": 75 }, "model": "lom:item/items/envelope" },
 
 		{ "predicate": { "custom_model_data": 1000 }, "model": "lom:item/items/crates/crate_stock" },
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/crates/crate_cheese" },
