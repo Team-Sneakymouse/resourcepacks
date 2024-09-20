@@ -17,6 +17,8 @@
 		{ "predicate": { "custom_model_data": 14 }, "model": "lom:item/entities/puddle2" },
 		{ "predicate": { "custom_model_data": 15 }, "model": "lom:item/entities/puddle3" },
 		{ "predicate": { "custom_model_data": 16 }, "model": "lom:item/entities/puddle4" },
-		{ "predicate": { "custom_model_data": 17 }, "model": "lom:item/entities/puddle5" }
+		{ "predicate": { "custom_model_data": 17 }, "model": "lom:item/entities/puddle5" },
+		{ "predicate": { "custom_model_data": 18 }, "model": "lom:item/entities/puddle_sprinkles" },
+		{ "predicate": { "custom_model_data": 19 }, "model": "lom:item/entities/puddle_wine" }
 	]
 }
