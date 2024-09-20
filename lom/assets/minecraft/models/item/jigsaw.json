@@ -1244,6 +1244,7 @@
 		{ "predicate": { "custom_model_data": 3016 }, "model": "lom:item/gui/bankui3" },
 		{ "predicate": { "custom_model_data": 3017 }, "model": "lom:item/gui/icons/banknote" },
 		{ "predicate": { "custom_model_data": 3018 }, "model": "lom:item/gui/storeui" },
+		{ "predicate": { "custom_model_data": 3019 }, "model": "lom:item/gui/storeui_tomorrow" },
 
 		{ "predicate": { "custom_model_data": 3101 }, "model": "lom:item/gui/npcs/darrius" },
 		{ "predicate": { "custom_model_data": 3102 }, "model": "lom:item/gui/npcs/darrius1" },
