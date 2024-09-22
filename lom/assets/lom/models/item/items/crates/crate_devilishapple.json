@@ -1,6 +1,6 @@
 {
 	"parent": "lom:item/items/crates/crate_darkvale",
 	"textures": {
-		"item": "lom:item/items/devilishapple"
+		"item": "lom:item/items/demonapple2"
 	}
 }
