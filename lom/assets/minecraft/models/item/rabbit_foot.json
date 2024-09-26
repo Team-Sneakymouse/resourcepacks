@@ -76,6 +76,12 @@
 		{ "predicate": { "custom_model_data": 73 }, "model": "lom:item/items/note_gold" },
 		{ "predicate": { "custom_model_data": 74 }, "model": "lom:item/items/mithril_coin" },
 		{ "predicate": { "custom_model_data": 75 }, "model": "lom:item/items/envelope" },
+		{ "predicate": { "custom_model_data": 76 }, "model": "lom:item/items/writs/arcane_writ" },
+		{ "predicate": { "custom_model_data": 77 }, "model": "lom:item/items/writs/dark_writ" },
+		{ "predicate": { "custom_model_data": 78 }, "model": "lom:item/items/writs/earth_writ" },
+		{ "predicate": { "custom_model_data": 79 }, "model": "lom:item/items/writs/fire_writ" },
+		{ "predicate": { "custom_model_data": 80 }, "model": "lom:item/items/writs/ice_writ" },
+		{ "predicate": { "custom_model_data": 81 }, "model": "lom:item/items/writs/light_writ" },
 
 		{ "predicate": { "custom_model_data": 1000 }, "model": "lom:item/items/crates/crate_stock" },
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/crates/crate_cheese" },
