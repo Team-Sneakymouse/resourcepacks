@@ -2257,5 +2257,11 @@
 	},
 	"prayer.light7": {
 		"sounds": ["lom:prayer/light7"]
+	},
+	"sfx.toast": {
+		"sounds": ["lom:sfx/toast"]
+	},
+	"openpresent": {
+		"sounds": ["lom:openpresent"]
 	}
 }
