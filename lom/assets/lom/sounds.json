@@ -2081,9 +2081,6 @@
 			"lom:sfx/crowbar.wood8"
 		]
 	},
-	"choir.pray": {
-		"sounds": ["lom:pray1", "lom:pray2", "lom:pray3", "lom:pray4", "lom:pray5", "lom:pray6"]
-	},
 	"spooky.dr_entry01": {
 		"sounds": ["lom:spooky/dr_entry01"]
 	},
