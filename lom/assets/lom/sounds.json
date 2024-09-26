@@ -1682,22 +1682,6 @@
 			}
 		]
 	},
-	"dvilno": {
-		"sounds": [
-			{
-				"name": "lom:dvilno",
-				"stream": true
-			}
-		]
-	},
-	"dvilyes": {
-		"sounds": [
-			{
-				"name": "lom:dvilyes",
-				"stream": true
-			}
-		]
-	},
 	"dvilcall": {
 		"sounds": [
 			{
