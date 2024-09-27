@@ -2263,5 +2263,9 @@
 	},
 	"openpresent": {
 		"sounds": ["lom:openpresent"]
+	},
+	"music.rockytalky": {
+		"sounds": ["lom:music/rockytalky"],
+		"stream": true
 	}
 }
