@@ -76,6 +76,7 @@
 		{ "predicate": { "custom_model_data": 73 }, "model": "lom:item/hats/horns_prp1" },
 		{ "predicate": { "custom_model_data": 74 }, "model": "lom:item/hats/ribbon_black" },
 		{ "predicate": { "custom_model_data": 75 }, "model": "lom:item/hats/devil_horns3" },
+		{ "predicate": { "custom_model_data": 76 }, "model": "lom:item/hats/devil_horns_ribbon" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/hats/somehats/axe_hat" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/hats/somehats/beret_red" },
