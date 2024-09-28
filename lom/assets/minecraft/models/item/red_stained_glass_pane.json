@@ -4,6 +4,14 @@
 		{ "predicate": { "custom_model_data": 10 }, "model": "lom:item/gui/icons/sale10" },
 		{ "predicate": { "custom_model_data": 20 }, "model": "lom:item/gui/icons/sale20" },
 		{ "predicate": { "custom_model_data": 30 }, "model": "lom:item/gui/icons/sale30" },
-		{ "predicate": { "custom_model_data": 50 }, "model": "lom:item/gui/icons/sale50" }
+		{ "predicate": { "custom_model_data": 50 }, "model": "lom:item/gui/icons/sale50" },
+		{ "predicate": { "custom_model_data": 101 }, "model": "lom:item/gui/icons/dragoncoin1" },
+		{ "predicate": { "custom_model_data": 102 }, "model": "lom:item/gui/icons/dragoncoin2" },
+		{ "predicate": { "custom_model_data": 103 }, "model": "lom:item/gui/icons/dragoncoin3" },
+		{ "predicate": { "custom_model_data": 104 }, "model": "lom:item/gui/icons/dragoncoin5" },
+		{ "predicate": { "custom_model_data": 105 }, "model": "lom:item/gui/icons/dragoncoin10" },
+		{ "predicate": { "custom_model_data": 106 }, "model": "lom:item/gui/icons/dragoncoin25" },
+		{ "predicate": { "custom_model_data": 107 }, "model": "lom:item/gui/icons/dragoncoin50" },
+		{ "predicate": { "custom_model_data": 108 }, "model": "lom:item/gui/icons/dragoncoin100" }
 	]
 }
