@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/items/crates/crate_stock",
+	"textures": {
+		"item": "minecraft:item/glass_bottle"
+	}
+}

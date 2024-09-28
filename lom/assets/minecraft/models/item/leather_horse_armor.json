@@ -1,0 +1,4 @@
+{
+	"parent": "minecraft:item/vanilla/leather_horse_armor",
+	"overrides": [{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/hats/somehats/gift_hat_tint" }]
+}

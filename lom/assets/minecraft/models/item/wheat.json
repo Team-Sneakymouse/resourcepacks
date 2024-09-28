@@ -1,0 +1,15 @@
+{
+	"parent": "item/vanilla/wheat",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/plushies/oldmanwillakers" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/plushies/dani" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/plushies/momo" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/items/plushies/dvzjimmy" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "lom:item/items/plushies/kobold" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "lom:item/items/plushies/stoneform" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "lom:item/items/plushies/laz" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "lom:item/items/plushies/demonyanba" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "lom:item/items/plushies/thanebarry" },
+		{ "predicate": { "custom_model_data": 666 }, "model": "lom:item/items/plushies/msdvil" }
+	]
+}

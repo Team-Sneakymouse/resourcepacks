@@ -1,0 +1,9 @@
+{
+	"parent": "lom:item/items/crates/crate_grove",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/crates/crate_grapes" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/crates/crate_seeds" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/crates/crate_earthpetal" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/items/crates/crate_winebottle" }
+	]
+}

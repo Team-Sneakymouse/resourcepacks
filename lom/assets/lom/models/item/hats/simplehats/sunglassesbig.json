@@ -4,10 +4,6 @@
 	"textures": {
 		"0": "lom:item/hats/simplehats/sunglassesbig"
 	},
-	"overrides":[
-	{"predicate": {"custom_model_data": 1},
-      "model": "lom:item/hats/simplehats/rimglasses"}
-	],
 	"elements": [
 		{
 			"from": [1.5, 4.5, 0],

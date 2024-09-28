@@ -471,6 +471,11 @@
 		"head": {
 			"rotation": [0, 0, -90.5],
 			"translation": [0, -5.25, -8]
+		},
+		"gui": {
+			"rotation": [0, 30, -45],
+			"translation": [-2, -2, 0],
+			"scale": [0.6, 0.6, 0.6]
 		}
 	}
 }

@@ -4,12 +4,6 @@
 	"textures": {
 		"1": "lom:item/hats/simplehats/vikinghatbeard"
 	},
-	"overrides":[
-	{"predicate": {"custom_model_data": 1},
-      "model": "lom:item/hats/simplehats/vikinghat"},
-	{"predicate": {"custom_model_data": 2},
-      "model": "lom:item/hats/simplehats/dwarfbeard"}
-	],
 	"elements": [
 		{
 			"from": [3, -1, 14],

@@ -1,7 +1,7 @@
 {
 	"parent": "item/vanilla/warped_fungus_on_a_stick",
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/tools/wrench" },
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/tools/beeg_wrench" },
 		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/cookiebox" },
 		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/tools/scootsash" },
 		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/items/muk_trophy_bronze" },
@@ -9,6 +9,12 @@
 		{ "predicate": { "custom_model_data": 6 }, "model": "lom:item/items/muk_trophy_gold" },
 		{ "predicate": { "custom_model_data": 7 }, "model": "lom:item/tools/sciencewand" },
 		{ "predicate": { "custom_model_data": 8 }, "model": "lom:item/tools/honey_wand" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "lom:item/tools/crowbar" },
+		{ "predicate": { "custom_model_data": 10 }, "model": "lom:item/tools/guitar" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "lom:item/tools/harmonica" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "lom:item/tools/ocarina" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "lom:item/tools/bongos" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "lom:item/tools/trumpet" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/badges/water" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/items/badges/fire" },
@@ -23,6 +29,8 @@
 		{ "predicate": { "custom_model_data": 1011 }, "model": "lom:item/items/badges/earth" },
 		{ "predicate": { "custom_model_data": 1012 }, "model": "lom:item/items/badges/mountain" },
 		{ "predicate": { "custom_model_data": 1013 }, "model": "lom:item/items/badges/devil" },
-		{ "predicate": { "custom_model_data": 1014 }, "model": "lom:item/items/badges/cookie" }
+		{ "predicate": { "custom_model_data": 1014 }, "model": "lom:item/items/badges/cookie" },
+
+		{ "predicate": { "custom_model_data": 2001 }, "model": "lom:item/tools/crate_labelled" }
 	]
 }

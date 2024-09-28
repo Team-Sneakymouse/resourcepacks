@@ -727,3 +727,7 @@ Resource pack for the Lords of Minecraft 2 server
 | Star Shard              | `rabbit_foot`, 43     |         |
 | Dragon Coin             | `rabbit_foot`, 44     |         |
 </details>
+
+## Blocks
+
+Custom doors by [Gothiclily](https://www.planetminecraft.com/texture-pack/gothiclily-s-doors/)

@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "lom:item/gui/icons/sale10"
+	},
+	"display": {
+		"gui": {
+			"translation": [0, 2, 0],
+			"scale": [2, 2, 1]
+		}
+	}
+}

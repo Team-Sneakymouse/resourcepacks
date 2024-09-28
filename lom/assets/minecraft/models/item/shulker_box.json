@@ -1,0 +1,9 @@
+{
+	"parent": "lom:item/items/crates/crate_stock",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/crates/crate_cheese" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/crates/crate_emptybottle" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/crates/crate_lightpetal" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/items/crates/crate_oilbottle" }
+	]
+}

@@ -5,20 +5,6 @@
 		"0": "lom:item/hats/simplehats/teddy_bear",
 		"particle": "lom:item/hats/simplehats/teddy_bear"
 	},
-	"overrides":[
-	{"predicate": {"custom_model_data": 1},
-      "model": "lom:item/hats/simplehats/teddy_bear_bee"},
-	{"predicate": {"custom_model_data": 2},
-      "model": "lom:item/hats/simplehats/teddy_bear_rembo"},
-	{"predicate": {"custom_model_data": 3},
-      "model": "lom:item/hats/simplehats/teddy_bear_ryu"},
-	{"predicate": {"custom_model_data": 4},
-      "model": "lom:item/hats/simplehats/teddy_bear_ken"},
-	{"predicate": {"custom_model_data": 5},
-      "model": "lom:item/hats/simplehats/teddy_bear_scary"},
-	{"predicate": {"custom_model_data": 6},
-      "model": "lom:item/hats/simplehats/teddy_bear_panda"}
-	],
 	"elements": [
 		{
 			"from": [5, 0, 4.5],
