@@ -82,7 +82,10 @@
 		{ "predicate": { "custom_model_data": 79 }, "model": "lom:item/items/writs/fire_writ" },
 		{ "predicate": { "custom_model_data": 80 }, "model": "lom:item/items/writs/ice_writ" },
 		{ "predicate": { "custom_model_data": 81 }, "model": "lom:item/items/writs/light_writ" },
-		{ "predicate": { "custom_model_data": 82 }, "model": "lom:item/items/scroll3" },
+		{ "predicate": { "custom_model_data": 82 }, "model": "lom:item/items/scroll4" },
+		{ "predicate": { "custom_model_data": 83 }, "model": "lom:item/items/dragoncoin_3d_silver" },
+		{ "predicate": { "custom_model_data": 84 }, "model": "lom:item/items/dragoncoin_3d_gold" },
+		{ "predicate": { "custom_model_data": 85 }, "model": "lom:item/items/dragoncoin_3d" },
 
 		{ "predicate": { "custom_model_data": 1000 }, "model": "lom:item/items/crates/crate_stock" },
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/crates/crate_cheese" },
