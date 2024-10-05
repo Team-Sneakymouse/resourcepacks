@@ -1,6 +1,0 @@
-{
-	"parent": "lom:item/gui/icons/sale",
-	"textures": {
-		"layer0": "lom:item/gui/icons/sale20"
-	}
-}

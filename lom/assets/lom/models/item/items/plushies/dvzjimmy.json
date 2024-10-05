@@ -1,8 +1,0 @@
-{
-	"parent": "lom:item/items/plushie",
-	"texture_size": [64, 64],
-	"textures": {
-		"1": "lom:item/items/plushies/dvzjimmy",
-		"particle": "lom:item/items/plushies/dvzjimmy"
-	}
-}

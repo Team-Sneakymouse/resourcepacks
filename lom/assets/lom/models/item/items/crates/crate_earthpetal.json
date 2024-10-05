@@ -1,6 +1,0 @@
-{
-	"parent": "lom:item/items/crates/crate_grove",
-	"textures": {
-		"item": "lom:item/items/petalearth"
-	}
-}

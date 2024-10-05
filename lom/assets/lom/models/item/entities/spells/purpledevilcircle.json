@@ -1,8 +1,0 @@
-{
-	"credit": "Made by MsDvil",
-	"parent": "lom:item/entities/template_big",
-	"textures": {
-		"0": "lom:item/entities/spells/purpledevilcircle",
-		"particle": "lom:item/entities/spells/purpledevilcircle"
-	}
-}

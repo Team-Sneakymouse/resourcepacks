@@ -1,6 +1,0 @@
-{
-	"parent": "lom:item/gui/button_wide",
-	"textures": {
-		"texture": "lom:item/gui/npcs/darrius4alt"
-	}
-}

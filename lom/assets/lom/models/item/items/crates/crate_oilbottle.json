@@ -1,6 +1,0 @@
-{
-	"parent": "lom:item/items/crates/crate_stock",
-	"textures": {
-		"item": "lom:item/items/oil_bottle"
-	}
-}

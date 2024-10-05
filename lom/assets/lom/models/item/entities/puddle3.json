@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "lom:item/entities/puddle1",
-	"textures": {
-		"0": "lom:item/entities/puddle3",
-		"particle": "lom:item/entities/puddle3"
-	}
-}

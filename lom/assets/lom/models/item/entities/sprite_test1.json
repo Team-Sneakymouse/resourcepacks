@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "lom:item/entities/template_big",
-	"textures": {
-		"0": "lom:item/entities/sprite_test1",
-		"particle": "lom:item/entities/sprite_test1"
-	}
-}

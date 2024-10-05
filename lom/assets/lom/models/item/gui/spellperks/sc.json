@@ -1,6 +1,0 @@
-{
-	"parent": "lom:item/gui/spellperk",
-	"textures": {
-		"layer0": "lom:item/gui/spellperks/sc"
-	}
-}

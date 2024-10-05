@@ -1,6 +1,0 @@
-{
-	"parent": "lom:item/gui/spell",
-	"textures": {
-		"layer0": "lom:item/gui/spells/summonreagents-alt"
-	}
-}

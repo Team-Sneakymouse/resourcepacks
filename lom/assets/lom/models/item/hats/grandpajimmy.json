@@ -1,7 +1,0 @@
-{
-	"__comment": "Designed by Manifusion with Cubik Studio - https://cubik.studio, texture modified by Mezrus",
-	"parent": "lom:item/hats/jimmy_the_rat",
-	"textures": {
-		"TEX_JimmyTheRat": "lom:item/hats/mez_grandpajimmy"
-	}
-}

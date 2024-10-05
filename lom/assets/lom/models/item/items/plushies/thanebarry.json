@@ -1,8 +1,0 @@
-{
-	"parent": "lom:item/items/plushie_slim",
-	"texture_size": [64, 64],
-	"textures": {
-		"1": "lom:item/items/plushies/thanebarry",
-		"particle": "lom:item/items/plushies/thanebarry"
-	}
-}
