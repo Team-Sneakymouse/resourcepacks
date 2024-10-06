@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/gui/6rows-bottom",
+	"textures": {
+		"texture": "lom:item/gui/admin_menu3"
+	}
+}

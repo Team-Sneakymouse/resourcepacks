@@ -1264,6 +1264,9 @@
 		{ "predicate": { "custom_model_data": 3017 }, "model": "lom:item/gui/icons/banknote" },
 		{ "predicate": { "custom_model_data": 3018 }, "model": "lom:item/gui/storeui" },
 		{ "predicate": { "custom_model_data": 3019 }, "model": "lom:item/gui/storeui_tomorrow" },
+		{ "predicate": { "custom_model_data": 3020 }, "model": "lom:item/gui/admin_menu1" },
+		{ "predicate": { "custom_model_data": 3021 }, "model": "lom:item/gui/admin_menu2" },
+		{ "predicate": { "custom_model_data": 3022 }, "model": "lom:item/gui/admin_menu3" },
 
 		{ "predicate": { "custom_model_data": 3101 }, "model": "lom:item/gui/npcs/darrius" },
 		{ "predicate": { "custom_model_data": 3102 }, "model": "lom:item/gui/npcs/darrius1" },
