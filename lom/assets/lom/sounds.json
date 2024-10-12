@@ -2267,5 +2267,17 @@
 	"music.rockytalky": {
 		"sounds": ["lom:music/rockytalky"],
 		"stream": true
+	},
+	"sfx.gpostinger1": {
+		"sounds": ["lom:sfx/gpostinger1"]
+	},
+	"sfx.gpostinger2": {
+		"sounds": ["lom:sfx/gpostinger2"]
+	},
+	"sfx.gpostinger3": {
+		"sounds": ["lom:sfx/gpostinger3"]
+	},
+	"sfx.gpostinger4": {
+		"sounds": ["lom:sfx/gpostinger4"]
 	}
 }
