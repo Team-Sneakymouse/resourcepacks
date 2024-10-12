@@ -20,6 +20,9 @@
 		{ "predicate": { "custom_model_data": 17 }, "model": "lom:item/entities/puddle5" },
 		{ "predicate": { "custom_model_data": 18 }, "model": "lom:item/entities/puddle_sprinkles" },
 		{ "predicate": { "custom_model_data": 19 }, "model": "lom:item/entities/puddle_wine" },
+		{ "predicate": { "custom_model_data": 20 }, "model": "lom:item/entities/stinklines1" },
+		{ "predicate": { "custom_model_data": 21 }, "model": "lom:item/entities/stinklines2" },
+		{ "predicate": { "custom_model_data": 22 }, "model": "lom:item/entities/stinklines3" },
 
 		{ "predicate": { "custom_model_data": 101 }, "model": "lom:item/entities/torture_machines/electric_chair" },
 		{ "predicate": { "custom_model_data": 102 }, "model": "lom:item/entities/torture_machines/punish_bracelets" },
