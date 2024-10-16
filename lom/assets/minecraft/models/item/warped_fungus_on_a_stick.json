@@ -15,6 +15,9 @@
 		{ "predicate": { "custom_model_data": 12 }, "model": "lom:item/tools/ocarina" },
 		{ "predicate": { "custom_model_data": 13 }, "model": "lom:item/tools/bongos" },
 		{ "predicate": { "custom_model_data": 14 }, "model": "lom:item/tools/trumpet" },
+		{ "predicate": { "custom_model_data": 15 }, "model": "lom:item/tools/dorf_boi_colour_dinkymon" },
+		{ "predicate": { "custom_model_data": 16 }, "model": "lom:item/tools/dorf_boi_colour_willybattle" },
+		{ "predicate": { "custom_model_data": 17 }, "model": "lom:item/tools/dorf_boi_colour_superthanebros" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/badges/water" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/items/badges/fire" },

@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by Woalium",
+	"parent": "lom:item/tools/dorf_boi_colour",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "lom:item/tools/dorf_boi_colour/dorf_boi_colour",
+		"2": "lom:item/tools/dorf_boi_colour/willybattle"
+	}
+}
