@@ -1,0 +1,12 @@
+{
+	"parent": "item/vanilla/crossbow",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/weapons/gpo_bazooka" },
+		{ "predicate": { "custom_model_data": 1, "pulling": 1 }, "model": "lom:item/weapons/gpo_bazooka0" },
+		{ "predicate": { "custom_model_data": 1, "pulling": 1, "pull": 0.1 }, "model": "lom:item/weapons/gpo_bazooka1" },
+		{ "predicate": { "custom_model_data": 1, "pulling": 1, "pull": 0.55 }, "model": "lom:item/weapons/gpo_bazooka2" },
+		{ "predicate": { "custom_model_data": 1, "pulling": 1, "pull": 1.0 }, "model": "lom:item/weapons/gpo_bazooka3" },
+		{ "predicate": { "custom_model_data": 1, "charged": 1 }, "model": "lom:item/weapons/gpo_bazooka_charged" },
+		{ "predicate": { "custom_model_data": 1, "charged": 1, "firework": 1 }, "model": "lom:item/weapons/gpo_bazooka_charged" }
+	]
+}
