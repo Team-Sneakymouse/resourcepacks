@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench by eranos123",
+	"parent": "lom:item/weapons/gpo_bazooka",
+	"textures": {
+		"0": "lom:item/weapons/bazooka_ahnk",
+		"2": "block/anvil",
+		"7": "block/black_concrete",
+		"8": "block/red_terracotta",
+		"button1": "block/red_stained_glass",
+		"button2": "block/yellow_stained_glass",
+		"button3": "block/black_stained_glass"
+	}
+}
