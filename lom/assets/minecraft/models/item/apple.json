@@ -83,6 +83,16 @@
 		{ "predicate": { "custom_model_data": 77 }, "model": "lom:item/items/oil_bottle" },
 		{ "predicate": { "custom_model_data": 78 }, "model": "lom:item/items/soap_bottle" },
 		{ "predicate": { "custom_model_data": 79 }, "model": "lom:item/items/sprinkle_bottle" },
-		{ "predicate": { "custom_model_data": 80 }, "model": "lom:item/items/wine_bottle" }
+		{ "predicate": { "custom_model_data": 80 }, "model": "lom:item/items/wine_bottle" },
+		{ "predicate": { "custom_model_data": 81 }, "model": "lom:item/items/halloween/candyapple" },
+		{ "predicate": { "custom_model_data": 82 }, "model": "lom:item/items/halloween/candycorn" },
+		{ "predicate": { "custom_model_data": 83 }, "model": "lom:item/items/halloween/chocolate" },
+		{ "predicate": { "custom_model_data": 84 }, "model": "lom:item/items/halloween/crystalcandy" },
+		{ "predicate": { "custom_model_data": 85 }, "model": "lom:item/items/halloween/dragoncandy" },
+		{ "predicate": { "custom_model_data": 86 }, "model": "lom:item/items/halloween/eyecandy" },
+		{ "predicate": { "custom_model_data": 87 }, "model": "lom:item/items/halloween/ghostcandy" },
+		{ "predicate": { "custom_model_data": 88 }, "model": "lom:item/items/halloween/ghostmallow" },
+		{ "predicate": { "custom_model_data": 89 }, "model": "lom:item/items/halloween/spidercandy" },
+		{ "predicate": { "custom_model_data": 90 }, "model": "lom:item/items/halloween/venomcandy" }
 	]
 }
