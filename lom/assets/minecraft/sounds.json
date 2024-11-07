@@ -289,5 +289,9 @@
 	"block.lava.pop": {
 		"replace": true,
 		"sounds": []
+	},
+	"block.fire.ambient": {
+		"replace": true,
+		"sounds": []
 	}
 }
