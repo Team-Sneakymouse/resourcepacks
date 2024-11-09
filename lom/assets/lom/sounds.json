@@ -2281,9 +2281,9 @@
 		"sounds": ["lom:sfx/gpostinger4"]
 	},
 	"wpndagger": {
-		"sounds": ["wpnDagger1", "wpnDagger2", "wpnDagger3", "wpnDagger4"]
+		"sounds": ["lom:wpndagger1", "lom:wpndagger2", "lom:wpndagger3", "lom:wpndagger4"]
 	},
 	"wpnsword": {
-		"sounds": ["wpnSword1", "wpnSword2", "wpnSword3", "wpnSword4"]
+		"sounds": ["lom:wpnsword1", "lom:wpnsword2", "lom:wpnsword3", "lom:wpnsword4"]
 	}
 }
