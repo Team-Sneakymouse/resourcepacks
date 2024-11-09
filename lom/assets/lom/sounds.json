@@ -2280,10 +2280,10 @@
 	"sfx.gpostinger4": {
 		"sounds": ["lom:sfx/gpostinger4"]
 	},
-	"wpnDagger": {
+	"wpndagger": {
 		"sounds": ["wpnDagger1", "wpnDagger2", "wpnDagger3", "wpnDagger4"]
 	},
-	"wpSword": {
-		"sounds": ["wpSword1", "wpSword2", "wpSword3", "wpSword4"]
+	"wpnsword": {
+		"sounds": ["wpnSword1", "wpnSword2", "wpnSword3", "wpnSword4"]
 	}
 }
