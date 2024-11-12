@@ -1,5 +1,5 @@
 {
-	"parent": "lom:item/gui/6rows-bottom",
+	"parent": "lom:item/gui/6rows-menuspell",
 	"textures": {
 		"texture": "lom:item/gui/wardrobe"
 	}
