@@ -24,6 +24,9 @@
 		{ "predicate": { "custom_model_data": 21 }, "model": "lom:item/entities/stinklines2" },
 		{ "predicate": { "custom_model_data": 22 }, "model": "lom:item/entities/stinklines3" },
 		{ "predicate": { "custom_model_data": 23 }, "model": "lom:item/entities/spells/purpleaura" },
+		{ "predicate": { "custom_model_data": 24 }, "model": "lom:item/entities/groundsmash" },
+		{ "predicate": { "custom_model_data": 25 }, "model": "lom:item/entities/crack1" },
+		{ "predicate": { "custom_model_data": 26 }, "model": "lom:item/entities/crack2" },
 
 		{ "predicate": { "custom_model_data": 101 }, "model": "lom:item/entities/torture_machines/electric_chair" },
 		{ "predicate": { "custom_model_data": 102 }, "model": "lom:item/entities/torture_machines/punish_bracelets" },

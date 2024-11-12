@@ -1,0 +1,8 @@
+{
+	"credit": "Made by MsDvil",
+	"parent": "lom:item/entities/template_floor",
+	"textures": {
+		"0": "lom:item/entities/crack1",
+		"particle": "lom:item/entities/crack1"
+	}
+}
