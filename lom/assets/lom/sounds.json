@@ -2285,5 +2285,11 @@
 	},
 	"wpnsword": {
 		"sounds": ["lom:wpnsword1", "lom:wpnsword2", "lom:wpnsword3", "lom:wpnsword4"]
+	},
+	"vidwindow.summon": {
+		"sounds": ["lom:sfx/vidwindow.summon"]
+	},
+	"vidwindow.dismiss": {
+		"sounds": ["lom:sfx/vidwindow.dismiss"]
 	}
 }
