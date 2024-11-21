@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench by MsDvil",
+	"parent": "lom:item/hats/scouter",
+	"display": {
+		"head": {
+			"translation": [0, -30, 0.25],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}
