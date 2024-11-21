@@ -2297,5 +2297,11 @@
 	},
 	"flareloop": {
 		"sounds": ["lom:flareloop"]
+	},
+	"airshipflyby": {
+		"sounds": ["lom:airshipflyby"]
+	},
+	"airshipdrop": {
+		"sounds": ["lom:airshipdrop"]
 	}
 }
