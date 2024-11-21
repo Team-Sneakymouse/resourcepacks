@@ -2291,5 +2291,11 @@
 	},
 	"vidwindow.dismiss": {
 		"sounds": ["lom:sfx/vidwindow.dismiss"]
+	},
+	"flarestart": {
+		"sounds": ["lom:flarestart"]
+	},
+	"flareloop": {
+		"sounds": ["lom:flareloop"]
 	}
 }
