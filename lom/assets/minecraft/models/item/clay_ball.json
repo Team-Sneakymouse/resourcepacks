@@ -51,6 +51,8 @@
 		{ "predicate": { "custom_model_data": 118 }, "model": "lom:item/entities/torture_machines/opened_ironmaiden" },
 		{ "predicate": { "custom_model_data": 119 }, "model": "lom:item/entities/torture_machines/chain_wall" },
 		{ "predicate": { "custom_model_data": 120 }, "model": "lom:item/entities/torture_machines/iron_cage" },
+		{ "predicate": { "custom_model_data": 121 }, "model": "lom:item/entities/airshipsilhouette" },
+		{ "predicate": { "custom_model_data": 122 }, "model": "lom:item/entities/airshipsilhouette-iso" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/entities/vidwindows/scanner_details" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/entities/vidwindows/scanner_main" },
