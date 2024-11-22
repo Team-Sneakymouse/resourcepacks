@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench by ron_fairham",
+	"parent": "lom:item/tools/scryingorb",
+	"textures": {
+		"0": "lom:item/tools/scryingorb_tint",
+		"particle": "lom:item/tools/scryingorb_tint"
+	}
+}
