@@ -2303,5 +2303,8 @@
 	},
 	"airshipdrop": {
 		"sounds": ["lom:airshipdrop"]
+	},
+	"scanner.boot": {
+		"sounds": [{ "name": "lom:scanner.boot", "stream": true }]
 	}
 }
