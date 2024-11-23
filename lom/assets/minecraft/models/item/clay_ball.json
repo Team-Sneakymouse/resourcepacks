@@ -92,6 +92,8 @@
 		{ "predicate": { "custom_model_data": 1033 }, "model": "lom:item/entities/vidwindows/scanner-zombieattack-details" },
 		{ "predicate": { "custom_model_data": 1034 }, "model": "lom:item/entities/vidwindows/scanner-zombieattack-main" },
 		{ "predicate": { "custom_model_data": 1035 }, "model": "lom:item/entities/vidwindows/scanner-scan" },
-		{ "predicate": { "custom_model_data": 1036 }, "model": "lom:item/entities/vidwindows/scanner-scanbar" }
+		{ "predicate": { "custom_model_data": 1036 }, "model": "lom:item/entities/vidwindows/scanner-scanbar" },
+		{ "predicate": { "custom_model_data": 1037 }, "model": "lom:item/entities/vidwindows/scanner-failed" },
+		{ "predicate": { "custom_model_data": 1038 }, "model": "lom:item/entities/vidwindows/scanner-failed2" }
 	]
 }

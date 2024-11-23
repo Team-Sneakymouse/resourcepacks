@@ -2306,5 +2306,8 @@
 	},
 	"scanner.boot": {
 		"sounds": [{ "name": "lom:scanner.boot", "stream": true }]
+	},
+	"scanner.fail": {
+		"sounds": [{ "name": "lom:scanner.fail", "stream": true }]
 	}
 }
