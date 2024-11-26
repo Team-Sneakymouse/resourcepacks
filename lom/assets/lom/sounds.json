@@ -2309,5 +2309,8 @@
 	},
 	"scanner.fail": {
 		"sounds": [{ "name": "lom:scanner.fail", "stream": true }]
+	},
+	"sfx.paladincrate": {
+		"sounds": ["lom:sfx/paladincrate"]
 	}
 }
