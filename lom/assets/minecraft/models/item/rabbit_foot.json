@@ -109,6 +109,7 @@
 		{ "predicate": { "custom_model_data": 1502 }, "model": "lom:item/items/crates/crate_mudpie" },
 		{ "predicate": { "custom_model_data": 1600 }, "model": "lom:item/items/crates/crate_brickton" },
 		{ "predicate": { "custom_model_data": 1601 }, "model": "lom:item/items/crates/crate_firepetal" },
+		{ "predicate": { "custom_model_data": 1602 }, "model": "lom:item/items/crates/crate_holyankh" },
 		{ "predicate": { "custom_model_data": 1700 }, "model": "lom:item/items/crates/crate_moonbay" },
 		{ "predicate": { "custom_model_data": 1701 }, "model": "lom:item/items/crates/crate_rawpearl" },
 		{ "predicate": { "custom_model_data": 1702 }, "model": "lom:item/items/crates/crate_finepearl" },
