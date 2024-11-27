@@ -23,6 +23,7 @@
 		{ "predicate": { "custom_model_data": 20 }, "model": "lom:item/hats/scouter-low" },
 		{ "predicate": { "custom_model_data": 21 }, "model": "lom:item/hats/scouter-high" },
 		{ "predicate": { "custom_model_data": 22 }, "model": "lom:item/weapons/foamer" },
+		{ "predicate": { "custom_model_data": 23 }, "model": "lom:item/tools/paladin_wrench" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/badges/water" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/items/badges/fire" },

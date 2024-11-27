@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench by becktyrion",
+	"parent": "lom:item/tools/beeg_wrench",
+	"textures": {
+		"0": "block/black_concrete",
+		"1": "block/black_concrete_powder",
+		"2": "block/red_concrete",
+		"3": "block/red_concrete_powder",
+		"4": "block/nether_wart_block",
+		"6": "block/gold_block",
+		"particle": "block/black_concrete"
+	}
+}
