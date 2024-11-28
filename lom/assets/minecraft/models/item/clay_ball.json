@@ -65,6 +65,7 @@
 		{ "predicate": { "custom_model_data": 204 }, "model": "lom:item/entities/racks/racks_decorruptor" },
 		{ "predicate": { "custom_model_data": 205 }, "model": "lom:item/entities/racks/racks_foamer" },
 		{ "predicate": { "custom_model_data": 206 }, "model": "lom:item/entities/racks/racks_runeblade" },
+		{ "predicate": { "custom_model_data": 207 }, "model": "lom:item/entities/racks/racks_runeblade2" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/entities/vidwindows/scanner_details" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/entities/vidwindows/scanner_main" },
