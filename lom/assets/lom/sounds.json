@@ -2318,5 +2318,8 @@
 	},
 	"paladincannonshutdown": {
 		"sounds": ["lom:paladincannonshutdown"]
+	},
+	"ui.button.click": {
+		"sounds": ["lom:click"]
 	}
 }
