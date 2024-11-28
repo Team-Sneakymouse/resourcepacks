@@ -2312,5 +2312,11 @@
 	},
 	"sfx.paladincrate": {
 		"sounds": ["lom:sfx/paladincrate"]
+	},
+	"paladincannon": {
+		"sounds": ["lom:paladincannon"]
+	},
+	"paladincannonshutdown": {
+		"sounds": ["lom:paladincannonshutdown"]
 	}
 }
