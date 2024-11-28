@@ -31,6 +31,7 @@
 		{ "predicate": { "custom_model_data": 28 }, "model": "lom:item/entities/vidwindows/scanner_main" },
 		{ "predicate": { "custom_model_data": 29 }, "model": "lom:item/entities/vidwindows/scanner_prompt1" },
 		{ "predicate": { "custom_model_data": 30 }, "model": "lom:item/entities/spideregg" },
+		{ "predicate": { "custom_model_data": 31 }, "model": "lom:item/entities/racks" },
 
 		{ "predicate": { "custom_model_data": 101 }, "model": "lom:item/entities/torture_machines/electric_chair" },
 		{ "predicate": { "custom_model_data": 102 }, "model": "lom:item/entities/torture_machines/punish_bracelets" },
@@ -57,6 +58,13 @@
 		{ "predicate": { "custom_model_data": 123 }, "model": "lom:item/entities/scanblue" },
 		{ "predicate": { "custom_model_data": 124 }, "model": "lom:item/entities/scanblue2" },
 		{ "predicate": { "custom_model_data": 125 }, "model": "lom:item/entities/scanblue3" },
+
+		{ "predicate": { "custom_model_data": 201 }, "model": "lom:item/entities/racks/racks_flamethrower" },
+		{ "predicate": { "custom_model_data": 202 }, "model": "lom:item/entities/racks/racks_wrench" },
+		{ "predicate": { "custom_model_data": 203 }, "model": "lom:item/entities/racks/racks_hammer" },
+		{ "predicate": { "custom_model_data": 204 }, "model": "lom:item/entities/racks/racks_decorruptor" },
+		{ "predicate": { "custom_model_data": 205 }, "model": "lom:item/entities/racks/racks_foamer" },
+		{ "predicate": { "custom_model_data": 206 }, "model": "lom:item/entities/racks/racks_runeblade" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/entities/vidwindows/scanner_details" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/entities/vidwindows/scanner_main" },
