@@ -2313,13 +2313,19 @@
 	"sfx.paladincrate": {
 		"sounds": ["lom:sfx/paladincrate"]
 	},
-	"paladincannon": {
-		"sounds": ["lom:paladincannon"]
+	"ui.button.click": {
+		"sounds": ["lom:click"]
+	},
+	"paladincannonserverblast": {
+		"sounds": ["lom:paladincannonserverblast"]
+	},
+	"paladincannonlaunch": {
+		"sounds": ["lom:paladincannonlaunch"]
+	},
+	"paladincannonmusic": {
+		"sounds": ["lom:paladincannonmusic"]
 	},
 	"paladincannonshutdown": {
 		"sounds": ["lom:paladincannonshutdown"]
-	},
-	"ui.button.click": {
-		"sounds": ["lom:click"]
 	}
 }
