@@ -32,6 +32,7 @@
 		{ "predicate": { "custom_model_data": 29 }, "model": "lom:item/entities/vidwindows/scanner_prompt1" },
 		{ "predicate": { "custom_model_data": 30 }, "model": "lom:item/entities/spideregg" },
 		{ "predicate": { "custom_model_data": 31 }, "model": "lom:item/entities/racks" },
+		{ "predicate": { "custom_model_data": 32 }, "model": "lom:item/entities/banana" },
 
 		{ "predicate": { "custom_model_data": 101 }, "model": "lom:item/entities/torture_machines/electric_chair" },
 		{ "predicate": { "custom_model_data": 102 }, "model": "lom:item/entities/torture_machines/punish_bracelets" },

@@ -2327,5 +2327,8 @@
 	},
 	"paladincannonshutdown": {
 		"sounds": ["lom:paladincannonshutdown"]
+	},
+	"bananaslip": {
+		"sounds": ["lom:bananaslip"]
 	}
 }
