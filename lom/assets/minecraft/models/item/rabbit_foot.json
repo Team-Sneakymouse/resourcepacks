@@ -36,7 +36,7 @@
 		{ "predicate": { "custom_model_data": 33 }, "model": "lom:item/items/deeds/deedyelloworange" },
 		{ "predicate": { "custom_model_data": 34 }, "model": "lom:item/items/goldenmuk" },
 		{ "predicate": { "custom_model_data": 35 }, "model": "lom:item/items/skillbook" },
-		{ "predicate": { "custom_model_data": 36 }, "model": "lom:item/items/rizzdetector" },
+		{ "predicate": { "custom_model_data": 36 }, "model": "lom:item/tools/paladin_radio" },
 		{ "predicate": { "custom_model_data": 37 }, "model": "lom:item/items/holyhandgrenade" },
 		{ "predicate": { "custom_model_data": 38 }, "model": "lom:item/items/woodscraps" },
 		{ "predicate": { "custom_model_data": 39 }, "model": "lom:item/items/christmascard" },
