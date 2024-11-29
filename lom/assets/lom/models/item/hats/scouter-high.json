@@ -3,7 +3,7 @@
 	"parent": "lom:item/hats/scouter",
 	"display": {
 		"head": {
-			"translation": [0, -34, 0.25],
+			"translation": [0, 10, 0.25],
 			"scale": [1.6, 1.6, 1.6]
 		}
 	}
