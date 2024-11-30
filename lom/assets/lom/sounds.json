@@ -2330,5 +2330,14 @@
 	},
 	"bananaslip": {
 		"sounds": ["lom:bananaslip"]
+	},
+	"godfatherash": {
+		"sounds": ["lom:godfatherash"]
+	},
+	"knock": {
+		"sounds": ["lom:knock"]
+	},
+	"sfx.manners": {
+		"sounds": ["lom:sfx/manners1", "lom:sfx/manners2", "lom:sfx/manners3"]
 	}
 }
