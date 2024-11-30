@@ -2081,53 +2081,6 @@
 			"lom:sfx/crowbar.wood8"
 		]
 	},
-	"spooky.dr_entry01": {
-		"sounds": ["lom:spooky/dr_entry01"]
-	},
-	"spooky.dr_entry03": {
-		"sounds": ["lom:spooky/dr_entry03"]
-	},
-	"spooky.heretic": {
-		"sounds": ["lom:spooky/heretic"]
-	},
-	"spooky.murderphineas": {
-		"sounds": [
-			"lom:spooky/murderphineascomeoutandplay1",
-			"lom:spooky/murderphineascomeoutandplay2",
-			"lom:spooky/murderphineascomeoutandplay3",
-			"lom:spooky/murderphineascomeoutcomeoutwhereveryouare",
-			"lom:spooky/murderphineascomeoutcomeoutwhereveryouare2",
-			"lom:spooky/murderphineasdeathiseternal",
-			"lom:spooky/murderphineasdeathiseternal2",
-			"lom:spooky/murderphineasdoyouwanttoplaywithme1",
-			"lom:spooky/murderphineasdoyouwanttoplaywithme2",
-			"lom:spooky/murderphineasihear",
-			"lom:spooky/murderphineasillneverstoplookinglaugh",
-			"lom:spooky/murderphineasimgoingtofindyou",
-			"lom:spooky/murderphineasineedyouineedit",
-			"lom:spooky/murderphineasiseeyou",
-			"lom:spooky/murderphineasismellyou",
-			"lom:spooky/murderphineasismellyou2",
-			"lom:spooky/murderphineaspleasedonthidefromme",
-			"lom:spooky/murderphineaspleasedonthidefromme2",
-			"lom:spooky/murderphineasthereisnoescapefrommywarmth",
-			"lom:spooky/murderphineaswhereareyou",
-			"lom:spooky/murderphineasyoucanthideforever",
-			"lom:spooky/murderphineasyoullneverescape"
-		]
-	},
-	"spooky.murderrawb": {
-		"sounds": [
-			"lom:spooky/murderrawbcomebackhere",
-			"lom:spooky/murderrawbgetoverhere",
-			"lom:spooky/murderrawbimgoingtomelt",
-			"lom:spooky/murderrawbimgonnagetyou",
-			"lom:spooky/murderrawbthereyouare"
-		]
-	},
-	"spooky.myersmotif1": {
-		"sounds": ["lom:spooky/myersmotif1"]
-	},
 	"spooky.rawbmurderbell": {
 		"sounds": [
 			"lom:spooky/rawbmurderbell1",
