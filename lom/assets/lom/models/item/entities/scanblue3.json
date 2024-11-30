@@ -1,0 +1,7 @@
+{
+	"parent": "lom:item/entities/template_floor",
+	"textures": {
+		"0": "lom:item/entities/scanblue3",
+		"particle": "lom:item/entities/scanblue3"
+	}
+}

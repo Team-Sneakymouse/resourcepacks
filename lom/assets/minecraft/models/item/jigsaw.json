@@ -1270,6 +1270,7 @@
 		{ "predicate": { "custom_model_data": 3023 }, "model": "lom:item/gui/wardrobe" },
 		{ "predicate": { "custom_model_data": 3024 }, "model": "lom:item/gui/mail" },
 		{ "predicate": { "custom_model_data": 3025 }, "model": "lom:item/gui/inventory" },
+		{ "predicate": { "custom_model_data": 3026 }, "model": "lom:item/gui/equipment" },
 
 		{ "predicate": { "custom_model_data": 3101 }, "model": "lom:item/gui/npcs/darrius" },
 		{ "predicate": { "custom_model_data": 3102 }, "model": "lom:item/gui/npcs/darrius1" },

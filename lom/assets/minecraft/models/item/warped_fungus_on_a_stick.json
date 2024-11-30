@@ -18,6 +18,13 @@
 		{ "predicate": { "custom_model_data": 15 }, "model": "lom:item/tools/dorf_boi_colour_dinkymon" },
 		{ "predicate": { "custom_model_data": 16 }, "model": "lom:item/tools/dorf_boi_colour_willybattle" },
 		{ "predicate": { "custom_model_data": 17 }, "model": "lom:item/tools/dorf_boi_colour_superthanebros" },
+		{ "predicate": { "custom_model_data": 18 }, "model": "lom:item/weapons/lowq_decorruptor" },
+		{ "predicate": { "custom_model_data": 19 }, "model": "lom:item/hats/scouter" },
+		{ "predicate": { "custom_model_data": 20 }, "model": "lom:item/hats/scouter-low" },
+		{ "predicate": { "custom_model_data": 21 }, "model": "lom:item/hats/scouter-high" },
+		{ "predicate": { "custom_model_data": 22 }, "model": "lom:item/weapons/foamer" },
+		{ "predicate": { "custom_model_data": 23 }, "model": "lom:item/tools/paladin_wrench" },
+		{ "predicate": { "custom_model_data": 24 }, "model": "lom:item/weapons/manners" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/badges/water" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/items/badges/fire" },

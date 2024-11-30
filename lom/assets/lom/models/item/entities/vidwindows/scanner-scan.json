@@ -1,0 +1,8 @@
+{
+	"credit": "Made by rawb",
+	"parent": "lom:item/entities/template_big",
+	"textures": {
+		"0": "lom:item/entities/vidwindows/scanner-scan",
+		"particle": "lom:item/entities/vidwindows/scanner-scan"
+	}
+}

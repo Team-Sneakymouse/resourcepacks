@@ -2285,5 +2285,59 @@
 	},
 	"wpnsword": {
 		"sounds": ["lom:wpnsword1", "lom:wpnsword2", "lom:wpnsword3", "lom:wpnsword4"]
+	},
+	"vidwindow.summon": {
+		"sounds": ["lom:sfx/vidwindow.summon"]
+	},
+	"vidwindow.dismiss": {
+		"sounds": ["lom:sfx/vidwindow.dismiss"]
+	},
+	"flarestart": {
+		"sounds": ["lom:flarestart"]
+	},
+	"flareloop": {
+		"sounds": ["lom:flareloop"]
+	},
+	"airshipflyby": {
+		"sounds": ["lom:airshipflyby"]
+	},
+	"airshipdrop": {
+		"sounds": ["lom:airshipdrop"]
+	},
+	"scanner.boot": {
+		"sounds": [{ "name": "lom:scanner.boot", "stream": true }]
+	},
+	"scanner.fail": {
+		"sounds": [{ "name": "lom:scanner.fail", "stream": true }]
+	},
+	"sfx.paladincrate": {
+		"sounds": ["lom:sfx/paladincrate"]
+	},
+	"ui.button.click": {
+		"sounds": ["lom:click"]
+	},
+	"paladincannonserverblast": {
+		"sounds": ["lom:paladincannonserverblast"]
+	},
+	"paladincannonlaunch": {
+		"sounds": ["lom:paladincannonlaunch"]
+	},
+	"paladincannonmusic": {
+		"sounds": ["lom:paladincannonmusic"]
+	},
+	"paladincannonshutdown": {
+		"sounds": ["lom:paladincannonshutdown"]
+	},
+	"bananaslip": {
+		"sounds": ["lom:bananaslip"]
+	},
+	"godfatherash": {
+		"sounds": ["lom:godfatherash"]
+	},
+	"knock": {
+		"sounds": ["lom:knock"]
+	},
+	"sfx.manners": {
+		"sounds": ["lom:sfx/manners1", "lom:sfx/manners2", "lom:sfx/manners3"]
 	}
 }

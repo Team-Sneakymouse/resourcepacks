@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/gui/3rows-bottom",
+	"textures": {
+		"texture": "lom:item/gui/equipment"
+	}
+}
