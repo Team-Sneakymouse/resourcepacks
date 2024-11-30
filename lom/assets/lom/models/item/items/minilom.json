@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "lom/item/items/minilom",
-		"particle": "lom/item/items/minilom"
+		"0": "lom:item/items/minilom",
+		"particle": "lom:item/items/minilom"
 	},
 	"elements": [
 		{
