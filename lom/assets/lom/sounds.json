@@ -2292,5 +2292,21 @@
 	},
 	"sfx.manners": {
 		"sounds": ["lom:sfx/manners1", "lom:sfx/manners2", "lom:sfx/manners3"]
+	},
+	"grovetreecreak": {
+		"sounds": [
+			"lom:grovetreecreak1",
+			"lom:grovetreecreak2",
+			"lom:grovetreecreak3",
+			"lom:grovetreecreak4",
+			"lom:grovetreecreak5",
+			"lom:grovetreecreak6",
+			"lom:grovetreecreak7",
+			"lom:grovetreecreak8",
+			"lom:grovetreecreak9"
+		]
+	},
+	"magictreehum": {
+		"sounds": ["lom:magictreehum"]
 	}
 }
