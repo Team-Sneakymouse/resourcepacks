@@ -2308,5 +2308,49 @@
 	},
 	"magictreehum": {
 		"sounds": ["lom:magictreehum"]
+	},
+
+	"boilingriver": {
+		"sounds": ["lom:environment/boilingriver"]
+	},
+	"deathcube": {
+		"sounds": ["lom:environment/deathcube"]
+	},
+	"demonstone": {
+		"sounds": ["lom:environment/demonstone"]
+	},
+	"giantscryingorb": {
+		"sounds": ["lom:environment/giantscryingorb"]
+	},
+	"gravitywell": {
+		"sounds": [
+			"lom:environment/gravitywell1",
+			"lom:environment/gravitywell2",
+			"lom:environment/gravitywell3"
+		]
+	},
+	"harshwinds": {
+		"sounds": [
+			"lom:environment/harshwinds1",
+			"lom:environment/harshwinds2",
+			"lom:environment/harshwinds3",
+			"lom:environment/harshwinds4",
+			"lom:environment/harshwinds5"
+		]
+	},
+	"moodring": {
+		"sounds": ["lom:environment/moodring"]
+	},
+	"rockslide": {
+		"sounds": [
+			"lom:environment/rockslide1",
+			"lom:environment/rockslide2"
+		]
+	},
+	"spirtfield": {
+		"sounds": ["lom:environment/spirtfield"]
+	},
+	"staticelectricity": {
+		"sounds": ["lom:environment/staticelectricity"]
 	}
 }
