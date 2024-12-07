@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by MsDvil",
 	"textures": {
 		"0": "lom:item/weapons/manners",
 		"particle": "lom:item/weapons/manners"
@@ -125,12 +125,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, 91, 0],
-			"translation": [1.75, 5, -7]
+			"rotation": [59, 91, 0],
+			"translation": [1.75, 8.75, 2.5]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [0, -91, 0],
-			"translation": [-1.75, 5, -7]
+			"rotation": [59, -91, 0],
+			"translation": [-1.75, 8.75, 2.5]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 95, 0],
