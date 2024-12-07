@@ -1,0 +1,73 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "lom:item/hats/aviators",
+		"particle": "lom:item/hats/aviators"
+	},
+	"elements": [
+		{
+			"name": "glasses",
+			"from": [0, 0, 0],
+			"to": [16, 8.25, 0.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 8.25, 16, 16], "texture": "#0"},
+				"south": {"uv": [16, 8.25, 0, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "temple1",
+			"from": [0, -0.25, 0],
+			"to": [0.2, 8, 12.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 0, 0]},
+			"faces": {
+				"east": {"uv": [2.25, 0, 15, 8.25], "texture": "#0"},
+				"west": {"uv": [15, 0, 2.25, 8.25], "texture": "#0"}
+			}
+		},
+		{
+			"name": "temple2",
+			"from": [15.75, -0.25, 0],
+			"to": [15.95, 8, 12.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 0, 0]},
+			"faces": {
+				"east": {"uv": [2.25, 0, 15, 8.25], "texture": "#0"},
+				"west": {"uv": [15, 0, 2.25, 8.25], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [42, 0, 0],
+			"translation": [-2.25, 0, 1.75],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [42, 0, 0],
+			"translation": [-2.25, 0, 1.75],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"translation": [3.25, 0, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_lefthand": {
+			"translation": [3.25, 0, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"ground": {
+			"translation": [0, 3.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"translation": [0, 4, 0]
+		},
+		"head": {
+			"translation": [0, 0.75, -0.4],
+			"scale": [0.84, 0.84, 0.84]
+		},
+		"fixed": {
+			"translation": [0, 4.25, 5.75]
+		}
+	}
+}
