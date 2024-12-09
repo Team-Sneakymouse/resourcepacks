@@ -2352,5 +2352,12 @@
 	},
 	"staticelectricity": {
 		"sounds": ["lom:environment/staticelectricity"]
+	},
+	"skate": {
+		"sounds": [
+			"lom:skate1",
+			"lom:skate2",
+			"lom:skate3"
+		]
 	}
 }
