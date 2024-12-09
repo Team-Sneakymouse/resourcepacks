@@ -1,0 +1,176 @@
+{
+	"prayer.arcane1": {
+		"sounds": ["lom:prayer/arcane1"]
+	},
+	"prayer.arcane2": {
+		"sounds": ["lom:prayer/arcane2"]
+	},
+	"prayer.arcane3": {
+		"sounds": ["lom:prayer/arcane3"]
+	},
+	"prayer.arcane4": {
+		"sounds": ["lom:prayer/arcane4"]
+	},
+	"prayer.dark1": {
+		"sounds": ["lom:prayer/dark1"]
+	},
+	"prayer.dark2": {
+		"sounds": ["lom:prayer/dark2"]
+	},
+	"prayer.dark3": {
+		"sounds": ["lom:prayer/dark3"]
+	},
+	"prayer.dark4": {
+		"sounds": ["lom:prayer/dark4"]
+	},
+	"prayer.dark5": {
+		"sounds": ["lom:prayer/dark5"]
+	},
+	"prayer.earth1": {
+		"sounds": ["lom:prayer/earth1"]
+	},
+	"prayer.earth2": {
+		"sounds": ["lom:prayer/earth2"]
+	},
+	"prayer.earth3": {
+		"sounds": ["lom:prayer/earth3"]
+	},
+	"prayer.earth4": {
+		"sounds": ["lom:prayer/earth4"]
+	},
+	"prayer.earth5": {
+		"sounds": ["lom:prayer/earth5"]
+	},
+	"prayer.earth6": {
+		"sounds": ["lom:prayer/earth6"]
+	},
+	"prayer.earth7": {
+		"sounds": ["lom:prayer/earth7"]
+	},
+	"prayer.earth8": {
+		"sounds": ["lom:prayer/earth8"]
+	},
+	"prayer.fire1": {
+		"sounds": ["lom:prayer/fire1"]
+	},
+	"prayer.fire2": {
+		"sounds": ["lom:prayer/fire2"]
+	},
+	"prayer.fire3": {
+		"sounds": ["lom:prayer/fire3"]
+	},
+	"prayer.fire4": {
+		"sounds": ["lom:prayer/fire4"]
+	},
+	"prayer.fire5": {
+		"sounds": ["lom:prayer/fire5"]
+	},
+	"prayer.fire6": {
+		"sounds": ["lom:prayer/fire6"]
+	},
+	"prayer.fire7": {
+		"sounds": ["lom:prayer/fire7"]
+	},
+	"prayer.ice1": {
+		"sounds": ["lom:prayer/ice1"]
+	},
+	"prayer.ice2": {
+		"sounds": ["lom:prayer/ice2"]
+	},
+	"prayer.ice3": {
+		"sounds": ["lom:prayer/ice3"]
+	},
+	"prayer.ice4": {
+		"sounds": ["lom:prayer/ice4"]
+	},
+	"prayer.ice5": {
+		"sounds": ["lom:prayer/ice5"]
+	},
+	"prayer.ice6": {
+		"sounds": ["lom:prayer/ice6"]
+	},
+	"prayer.ice7": {
+		"sounds": ["lom:prayer/ice7"]
+	},
+	"prayer.ice8": {
+		"sounds": ["lom:prayer/ice8"]
+	},
+	"prayer.ice9": {
+		"sounds": ["lom:prayer/ice9"]
+	},
+	"prayer.light1": {
+		"sounds": ["lom:prayer/light1"]
+	},
+	"prayer.light2": {
+		"sounds": ["lom:prayer/light2"]
+	},
+	"prayer.light3": {
+		"sounds": ["lom:prayer/light3"]
+	},
+	"prayer.light4": {
+		"sounds": ["lom:prayer/light4"]
+	},
+	"prayer.light5": {
+		"sounds": ["lom:prayer/light5"]
+	},
+	"prayer.light6": {
+		"sounds": ["lom:prayer/light6"]
+	},
+	"prayer.light7": {
+		"sounds": ["lom:prayer/light7"]
+	},
+	"buy": {
+		"sounds": ["lom:buy"]
+	},
+	"fail_wrong": {
+		"sounds": ["lom:fail_wrong"]
+	},
+	"gasp": {
+		"sounds": ["lom:gasp"]
+	},
+	"arcane.scrying": {
+		"sounds": ["lom:spells/arcane.scrying"]
+	},
+	"sfx.falldown": {
+		"sounds": ["lom:sfx/falldown"]
+	},
+	"openpresent": {
+		"sounds": ["lom:openpresent"]
+	},
+	"sfx.evade": {
+		"sounds": ["lom:sfx/evade1", "lom:sfx/evade2", "lom:sfx/evade3", "lom:sfx/evade4"]
+	},
+	"sfx.parry": {
+		"sounds": ["lom:sfx/parry1", "lom:sfx/parry2", "lom:sfx/parry3", "lom:sfx/parry4"]
+	},
+	"sfx.dwarvenfury": {
+		"sounds": ["lom:sfx/dwarvenfury"]
+	},
+	"sfx.skillcooldown": {
+		"sounds": ["lom:sfx/skillcooldown"]
+	},
+	"entity.drink": {
+		"sounds": ["minecraft:random/drink"],
+		"subtitle": "subtitles.entity.generic.drink"
+	},
+	"entity.eat": {
+		"sounds": ["minecraft:random/eat1", "minecraft:random/eat2", "minecraft:random/eat3"],
+		"subtitle": "subtitles.entity.generic.eat"
+	},
+	"player.burp": {
+		"sounds": ["minecraft:random/burp"],
+		"subtitle": "subtitles.entity.player.burp"
+	},
+	"drink.clink": {
+		"sounds": ["lom:sfx/drink.clink1", "lom:sfx/drink.clink2"]
+	},
+	"sfx.clothingequip": {
+		"sounds": ["lom:sfx/clothingequip"]
+	},
+	"sfx.clothingunequip": {
+		"sounds": ["lom:sfx/clothingunequip"]
+	},
+	
+
+
+}

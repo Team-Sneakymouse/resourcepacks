@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench by nnScale",
+	"parent": "item/weapons/syringe",
+	"textures": {
+		"0": "item/weapons/syringe_empty",
+		"particle": "item/weapons/syringe_empty"
+	}
+}

@@ -1,0 +1,2616 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"textures": {
+		"flame_bow_exterior": "item/weapons/dvz_emerald_bow_exterior",
+		"flame_bow_interior": "item/weapons/dvz_emerald_bow_interior"
+	},
+	"elements": [
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 2, 7.25],
+			"to": [8.5, 3.25, 7.5],
+			"faces": {
+				"north": {"uv": [7.5, 12.75, 8.5, 14], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.5, 12.75, 8.75, 14], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 12.75, 8.5, 14], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.25, 12.75, 7.5, 14], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.25, 8.5, 7.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.5, 7.5, 7.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 4.75, 7.25],
+			"to": [8.5, 5.25, 7.375],
+			"faces": {
+				"north": {"uv": [7.5, 10.75, 8.5, 11.25], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.625, 10.75, 8.75, 11.25], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 10.75, 8.5, 11.25], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.25, 10.75, 7.375, 11.25], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.25, 8.5, 7.375], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.375, 7.5, 7.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 11.25, 7.25],
+			"to": [8.5, 11.375, 7.75],
+			"faces": {
+				"north": {"uv": [7.5, 4.625, 8.5, 4.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.25, 4.625, 8.75, 4.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 4.625, 8.5, 4.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.25, 4.625, 7.75, 4.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.25, 8.5, 7.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.75, 7.5, 7.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 11.375, 7.25],
+			"to": [8.5, 11.5, 7.625],
+			"faces": {
+				"north": {"uv": [7.5, 4.5, 8.5, 4.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.375, 4.5, 8.75, 4.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 4.5, 8.5, 4.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.25, 4.5, 7.625, 4.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.25, 8.5, 7.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.625, 7.5, 7.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 11.5, 7.25],
+			"to": [8.5, 11.75, 7.375],
+			"faces": {
+				"north": {"uv": [7.5, 4.25, 8.5, 4.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.625, 4.25, 8.75, 4.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 4.25, 8.5, 4.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.25, 4.25, 7.375, 4.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.25, 8.5, 7.375], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.375, 7.5, 7.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 13.125, 7.25],
+			"to": [8.5, 13.25, 7.625],
+			"faces": {
+				"north": {"uv": [7.5, 2.75, 8.5, 2.875], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.375, 2.75, 8.75, 2.875], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 2.75, 8.5, 2.875], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.25, 2.75, 7.625, 2.875], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.25, 8.5, 7.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.625, 7.5, 7.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 13.25, 7.25],
+			"to": [8.5, 14.375, 7.5],
+			"faces": {
+				"north": {"uv": [7.5, 1.625, 8.5, 2.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.5, 1.625, 8.75, 2.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 1.625, 8.5, 2.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.25, 1.625, 7.5, 2.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.25, 8.5, 7.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.5, 7.5, 7.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 1.875, 7.375],
+			"to": [8.5, 2, 7.625],
+			"faces": {
+				"north": {"uv": [7.5, 14, 8.5, 14.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.375, 14, 8.625, 14.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 14, 8.5, 14.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.375, 14, 7.625, 14.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.375, 8.5, 7.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.625, 7.5, 7.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 3.25, 7.375],
+			"to": [8.5, 3.625, 7.625],
+			"faces": {
+				"north": {"uv": [7.5, 12.375, 8.5, 12.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.375, 12.375, 8.625, 12.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 12.375, 8.5, 12.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.375, 12.375, 7.625, 12.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.375, 8.5, 7.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.625, 7.5, 7.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 4.875, 7.375],
+			"to": [8.5, 5.375, 7.5],
+			"faces": {
+				"north": {"uv": [7.5, 10.625, 8.5, 11.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.5, 10.625, 8.625, 11.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 10.625, 8.5, 11.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.375, 10.625, 7.5, 11.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.375, 8.5, 7.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.5, 7.5, 7.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 11.125, 7.375],
+			"to": [8.5, 11.25, 8],
+			"faces": {
+				"north": {"uv": [7.5, 4.75, 8.5, 4.875], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8, 4.75, 8.625, 4.875], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 4.75, 8.5, 4.875], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.375, 4.75, 8, 4.875], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.375, 8.5, 8], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8, 7.5, 7.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 12.875, 7.375],
+			"to": [8.5, 13, 7.75],
+			"faces": {
+				"north": {"uv": [7.5, 3, 8.5, 3.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.25, 3, 8.625, 3.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 3, 8.5, 3.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.375, 3, 7.75, 3.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.375, 8.5, 7.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.75, 7.5, 7.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 13, 7.375],
+			"to": [8.5, 13.125, 7.625],
+			"faces": {
+				"north": {"uv": [7.5, 2.875, 8.5, 3], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.375, 2.875, 8.625, 3], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 2.875, 8.5, 3], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.375, 2.875, 7.625, 3], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.375, 8.5, 7.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.625, 7.5, 7.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 14.375, 7.375],
+			"to": [8.5, 14.625, 7.5],
+			"faces": {
+				"north": {"uv": [7.5, 1.375, 8.5, 1.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.5, 1.375, 8.625, 1.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 1.375, 8.5, 1.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.375, 1.375, 7.5, 1.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.375, 8.5, 7.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.5, 7.5, 7.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 1.5, 7.5],
+			"to": [8.5, 1.875, 7.625],
+			"faces": {
+				"north": {"uv": [7.5, 14.125, 8.5, 14.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.375, 14.125, 8.5, 14.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 14.125, 8.5, 14.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.5, 14.125, 7.625, 14.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.5, 8.5, 7.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.625, 7.5, 7.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 3.125, 7.5],
+			"to": [8.5, 3.25, 7.625],
+			"faces": {
+				"north": {"uv": [7.5, 12.75, 8.5, 12.875], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.375, 12.75, 8.5, 12.875], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 12.75, 8.5, 12.875], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.5, 12.75, 7.625, 12.875], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.5, 8.5, 7.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.625, 7.5, 7.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 3.625, 7.5],
+			"to": [8.5, 3.75, 7.875],
+			"faces": {
+				"north": {"uv": [7.5, 12.25, 8.5, 12.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.125, 12.25, 8.5, 12.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 12.25, 8.5, 12.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.5, 12.25, 7.875, 12.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.5, 8.5, 7.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.875, 7.5, 7.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 5, 7.5],
+			"to": [8.5, 5.375, 7.625],
+			"faces": {
+				"north": {"uv": [7.5, 10.625, 8.5, 11], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.375, 10.625, 8.5, 11], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 10.625, 8.5, 11], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.5, 10.625, 7.625, 11], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.5, 8.5, 7.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.625, 7.5, 7.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 11, 7.5],
+			"to": [8.5, 11.125, 8.25],
+			"faces": {
+				"north": {"uv": [7.5, 4.875, 8.5, 5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.75, 4.875, 8.5, 5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 4.875, 8.5, 5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.5, 4.875, 8.25, 5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.5, 8.5, 8.25], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.25, 7.5, 7.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 12.625, 7.5],
+			"to": [8.5, 12.75, 8],
+			"faces": {
+				"north": {"uv": [7.5, 3.25, 8.5, 3.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8, 3.25, 8.5, 3.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 3.25, 8.5, 3.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.5, 3.25, 8, 3.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.5, 8.5, 8], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8, 7.5, 7.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 12.75, 7.5],
+			"to": [8.5, 12.875, 7.875],
+			"faces": {
+				"north": {"uv": [7.5, 3.125, 8.5, 3.25], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.125, 3.125, 8.5, 3.25], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 3.125, 8.5, 3.25], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.5, 3.125, 7.875, 3.25], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.5, 8.5, 7.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.875, 7.5, 7.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 14.5, 7.5],
+			"to": [8.5, 14.875, 7.625],
+			"faces": {
+				"north": {"uv": [7.5, 1.125, 8.5, 1.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.375, 1.125, 8.5, 1.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 1.125, 8.5, 1.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.5, 1.125, 7.625, 1.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.5, 8.5, 7.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.625, 7.5, 7.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 3.375, 7.625],
+			"to": [8.5, 3.625, 7.75],
+			"faces": {
+				"north": {"uv": [7.5, 12.375, 8.5, 12.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.25, 12.375, 8.375, 12.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 12.375, 8.5, 12.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.625, 12.375, 7.75, 12.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.625, 8.5, 7.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.75, 7.5, 7.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 3.75, 7.625],
+			"to": [8.5, 3.875, 8],
+			"faces": {
+				"north": {"uv": [7.5, 12.125, 8.5, 12.25], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8, 12.125, 8.375, 12.25], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 12.125, 8.5, 12.25], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.625, 12.125, 8, 12.25], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.625, 8.5, 8], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8, 7.5, 7.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 5.125, 7.625],
+			"to": [8.5, 5.5, 7.875],
+			"faces": {
+				"north": {"uv": [7.5, 10.5, 8.5, 10.875], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.125, 10.5, 8.375, 10.875], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 10.5, 8.5, 10.875], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.625, 10.5, 7.875, 10.875], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.625, 8.5, 7.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 7.875, 7.5, 7.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 12.5, 7.625],
+			"to": [8.5, 12.625, 8],
+			"faces": {
+				"north": {"uv": [7.5, 3.375, 8.5, 3.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8, 3.375, 8.375, 3.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 3.375, 8.5, 3.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.625, 3.375, 8, 3.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.625, 8.5, 8], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8, 7.5, 7.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 3.875, 7.75],
+			"to": [8.5, 4.125, 8.125],
+			"faces": {
+				"north": {"uv": [7.5, 11.875, 8.5, 12.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.875, 11.875, 8.25, 12.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 11.875, 8.5, 12.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.75, 11.875, 8.125, 12.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.75, 8.5, 8.125], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.125, 7.5, 7.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 10.875, 7.75],
+			"to": [8.5, 11, 8.375],
+			"faces": {
+				"north": {"uv": [7.5, 5, 8.5, 5.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.625, 5, 8.25, 5.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 5, 8.5, 5.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.75, 5, 8.375, 5.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.75, 8.5, 8.375], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.375, 7.5, 7.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 12.375, 7.75],
+			"to": [8.5, 12.5, 8.125],
+			"faces": {
+				"north": {"uv": [7.5, 3.5, 8.5, 3.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.875, 3.5, 8.25, 3.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 3.5, 8.5, 3.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.75, 3.5, 8.125, 3.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.75, 8.5, 8.125], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.125, 7.5, 7.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 4.125, 7.875],
+			"to": [8.5, 4.25, 8.25],
+			"faces": {
+				"north": {"uv": [7.5, 11.75, 8.5, 11.875], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.75, 11.75, 8.125, 11.875], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 11.75, 8.5, 11.875], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.875, 11.75, 8.25, 11.875], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.875, 8.5, 8.25], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.25, 7.5, 7.875], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 5.25, 7.875],
+			"to": [8.5, 5.625, 8.125],
+			"faces": {
+				"north": {"uv": [7.5, 10.375, 8.5, 10.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.875, 10.375, 8.125, 10.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 10.375, 8.5, 10.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.875, 10.375, 8.125, 10.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.875, 8.5, 8.125], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.125, 7.5, 7.875], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 12.25, 7.875],
+			"to": [8.5, 12.375, 8.25],
+			"faces": {
+				"north": {"uv": [7.5, 3.625, 8.5, 3.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.75, 3.625, 8.125, 3.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 3.625, 8.5, 3.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.875, 3.625, 8.25, 3.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 7.875, 8.5, 8.25], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.25, 7.5, 7.875], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 4.25, 8],
+			"to": [8.5, 4.375, 8.375],
+			"faces": {
+				"north": {"uv": [7.5, 11.625, 8.5, 11.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.625, 11.625, 8, 11.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 11.625, 8.5, 11.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8, 11.625, 8.375, 11.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8, 8.5, 8.375], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.375, 7.5, 8], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 7.125, 8],
+			"to": [8.5, 7.375, 8.625],
+			"faces": {
+				"north": {"uv": [7.5, 8.625, 8.5, 8.875], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.375, 8.625, 8, 8.875], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 8.625, 8.5, 8.875], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8, 8.625, 8.625, 8.875], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8, 8.5, 8.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.625, 7.5, 8], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 7.375, 8],
+			"to": [8.5, 7.625, 8.5],
+			"faces": {
+				"north": {"uv": [7.5, 8.375, 8.5, 8.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.5, 8.375, 8, 8.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 8.375, 8.5, 8.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8, 8.375, 8.5, 8.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8, 8.5, 8.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.5, 7.5, 8], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 7.625, 8],
+			"to": [8.5, 9.25, 8.375],
+			"faces": {
+				"north": {"uv": [7.5, 6.75, 8.5, 8.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.625, 6.75, 8, 8.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 6.75, 8.5, 8.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8, 6.75, 8.375, 8.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8, 8.5, 8.375], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.375, 7.5, 8], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 10.75, 8],
+			"to": [8.5, 10.875, 8.875],
+			"faces": {
+				"north": {"uv": [7.5, 5.125, 8.5, 5.25], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 5.125, 8, 5.25], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 5.125, 8.5, 5.25], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8, 5.125, 8.875, 5.25], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8, 8.5, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.875, 7.5, 8], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 12, 8],
+			"to": [8.5, 12.25, 8.375],
+			"faces": {
+				"north": {"uv": [7.5, 3.75, 8.5, 4], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.625, 3.75, 8, 4], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 3.75, 8.5, 4], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8, 3.75, 8.375, 4], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8, 8.5, 8.375], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.375, 7.5, 8], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 4, 8.125],
+			"to": [8.5, 4.125, 8.25],
+			"faces": {
+				"north": {"uv": [7.5, 11.875, 8.5, 12], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.75, 11.875, 7.875, 12], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 11.875, 8.5, 12], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.125, 11.875, 8.25, 12], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.125, 8.5, 8.25], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.25, 7.5, 8.125], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 4.375, 8.125],
+			"to": [8.5, 4.625, 8.5],
+			"faces": {
+				"north": {"uv": [7.5, 11.375, 8.5, 11.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.5, 11.375, 7.875, 11.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 11.375, 8.5, 11.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.125, 11.375, 8.5, 11.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.125, 8.5, 8.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.5, 7.5, 8.125], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 5.375, 8.125],
+			"to": [8.5, 5.75, 8.25],
+			"faces": {
+				"north": {"uv": [7.5, 10.25, 8.5, 10.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.75, 10.25, 7.875, 10.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 10.25, 8.5, 10.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.125, 10.25, 8.25, 10.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.125, 8.5, 8.25], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.25, 7.5, 8.125], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 9.25, 8.125],
+			"to": [8.5, 9.375, 8.75],
+			"faces": {
+				"north": {"uv": [7.5, 6.625, 8.5, 6.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 6.625, 7.875, 6.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 6.625, 8.5, 6.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.125, 6.625, 8.75, 6.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.125, 8.5, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.75, 7.5, 8.125], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 10.625, 8.125],
+			"to": [8.5, 10.75, 8.875],
+			"faces": {
+				"north": {"uv": [7.5, 5.25, 8.5, 5.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 5.25, 7.875, 5.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 5.25, 8.5, 5.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.125, 5.25, 8.875, 5.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.125, 8.5, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.875, 7.5, 8.125], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 11.875, 8.125],
+			"to": [8.5, 12, 8.5],
+			"faces": {
+				"north": {"uv": [7.5, 4, 8.5, 4.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.5, 4, 7.875, 4.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 4, 8.5, 4.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.125, 4, 8.5, 4.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.125, 8.5, 8.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.5, 7.5, 8.125], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 4.625, 8.25],
+			"to": [8.5, 4.875, 8.625],
+			"faces": {
+				"north": {"uv": [7.5, 11.125, 8.5, 11.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.375, 11.125, 7.75, 11.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 11.125, 8.5, 11.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.25, 11.125, 8.625, 11.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.25, 8.5, 8.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.625, 7.5, 8.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 5.5, 8.25],
+			"to": [8.5, 6, 8.375],
+			"faces": {
+				"north": {"uv": [7.5, 10, 8.5, 10.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.625, 10, 7.75, 10.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 10, 8.5, 10.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.25, 10, 8.375, 10.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.25, 8.5, 8.375], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.375, 7.5, 8.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 6.875, 8.25],
+			"to": [8.5, 7.125, 8.75],
+			"faces": {
+				"north": {"uv": [7.5, 8.875, 8.5, 9.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 8.875, 7.75, 9.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 8.875, 8.5, 9.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.25, 8.875, 8.75, 9.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.25, 8.5, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.75, 7.5, 8.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 9.375, 8.25],
+			"to": [8.5, 9.5, 8.75],
+			"faces": {
+				"north": {"uv": [7.5, 6.5, 8.5, 6.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 6.5, 7.75, 6.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 6.5, 8.5, 6.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.25, 6.5, 8.75, 6.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.25, 8.5, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.75, 7.5, 8.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 10.5, 8.25],
+			"to": [8.5, 10.625, 8.875],
+			"faces": {
+				"north": {"uv": [7.5, 5.375, 8.5, 5.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 5.375, 7.75, 5.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 5.375, 8.5, 5.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.25, 5.375, 8.875, 5.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.25, 8.5, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.875, 7.5, 8.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 11.625, 8.25],
+			"to": [8.5, 11.75, 8.625],
+			"faces": {
+				"north": {"uv": [7.5, 4.25, 8.5, 4.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.375, 4.25, 7.75, 4.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 4.25, 8.5, 4.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.25, 4.25, 8.625, 4.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.25, 8.5, 8.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.625, 7.5, 8.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 11.75, 8.25],
+			"to": [8.5, 11.875, 8.5],
+			"faces": {
+				"north": {"uv": [7.5, 4.125, 8.5, 4.25], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.5, 4.125, 7.75, 4.25], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 4.125, 8.5, 4.25], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.25, 4.125, 8.5, 4.25], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.25, 8.5, 8.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.5, 7.5, 8.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 4.875, 8.375],
+			"to": [8.5, 5.125, 8.625],
+			"faces": {
+				"north": {"uv": [7.5, 10.875, 8.5, 11.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.375, 10.875, 7.625, 11.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 10.875, 8.5, 11.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.375, 10.875, 8.625, 11.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.375, 8.5, 8.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.625, 7.5, 8.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 5.625, 8.375],
+			"to": [8.5, 6.625, 8.875],
+			"faces": {
+				"north": {"uv": [7.5, 9.375, 8.5, 10.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 9.375, 7.625, 10.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 9.375, 8.5, 10.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.375, 9.375, 8.875, 10.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.375, 8.5, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.875, 7.5, 8.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 6.625, 8.375],
+			"to": [8.5, 6.875, 8.75],
+			"faces": {
+				"north": {"uv": [7.5, 9.125, 8.5, 9.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 9.125, 7.625, 9.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 9.125, 8.5, 9.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.375, 9.125, 8.75, 9.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.375, 8.5, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.75, 7.5, 8.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 8.875, 8.375],
+			"to": [8.5, 9.25, 8.5],
+			"faces": {
+				"north": {"uv": [7.5, 6.75, 8.5, 7.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.5, 6.75, 7.625, 7.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 6.75, 8.5, 7.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.375, 6.75, 8.5, 7.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.375, 8.5, 8.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.5, 7.5, 8.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 9.5, 8.375],
+			"to": [8.5, 10.5, 8.75],
+			"faces": {
+				"north": {"uv": [7.5, 5.5, 8.5, 6.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 5.5, 7.625, 6.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 5.5, 8.5, 6.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.375, 5.5, 8.75, 6.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.375, 8.5, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.75, 7.5, 8.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 11.375, 8.375],
+			"to": [8.5, 11.5, 8.75],
+			"faces": {
+				"north": {"uv": [7.5, 4.5, 8.5, 4.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 4.5, 7.625, 4.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 4.5, 8.5, 4.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.375, 4.5, 8.75, 4.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.375, 8.5, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.75, 7.5, 8.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 11.5, 8.375],
+			"to": [8.5, 11.625, 8.625],
+			"faces": {
+				"north": {"uv": [7.5, 4.375, 8.5, 4.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.375, 4.375, 7.625, 4.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 4.375, 8.5, 4.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.375, 4.375, 8.625, 4.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.375, 8.5, 8.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.625, 7.5, 8.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 5.125, 8.5],
+			"to": [8.5, 5.625, 8.75],
+			"faces": {
+				"north": {"uv": [7.5, 10.375, 8.5, 10.875], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 10.375, 7.5, 10.875], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 10.375, 8.5, 10.875], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.5, 10.375, 8.75, 10.875], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.5, 8.5, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.75, 7.5, 8.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 9, 8.5],
+			"to": [8.5, 9.25, 8.625],
+			"faces": {
+				"north": {"uv": [7.5, 6.75, 8.5, 7], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.375, 6.75, 7.5, 7], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 6.75, 8.5, 7], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.5, 6.75, 8.625, 7], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.5, 8.5, 8.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.625, 7.5, 8.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 10.875, 8.5],
+			"to": [8.5, 11, 8.875],
+			"faces": {
+				"north": {"uv": [7.5, 5, 8.5, 5.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 5, 7.5, 5.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 5, 8.5, 5.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.5, 5, 8.875, 5.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.5, 8.5, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.875, 7.5, 8.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 11, 8.5],
+			"to": [8.5, 11.375, 8.75],
+			"faces": {
+				"north": {"uv": [7.5, 4.625, 8.5, 5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 4.625, 7.5, 5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 4.625, 8.5, 5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.5, 4.625, 8.75, 5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.5, 8.5, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.75, 7.5, 8.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 5, 8.625],
+			"to": [8.5, 5.125, 8.75],
+			"faces": {
+				"north": {"uv": [7.5, 10.875, 8.5, 11], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 10.875, 7.375, 11], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 10.875, 8.5, 11], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.625, 10.875, 8.75, 11], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.625, 8.5, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.75, 7.5, 8.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 5.5, 8.75],
+			"to": [8.5, 5.625, 8.875],
+			"faces": {
+				"north": {"uv": [7.5, 10.375, 8.5, 10.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 10.375, 7.25, 10.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 10.375, 8.5, 10.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.75, 10.375, 8.875, 10.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.75, 8.5, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.875, 7.5, 8.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.5, 9.875, 8.75],
+			"to": [8.5, 10.5, 8.875],
+			"faces": {
+				"north": {"uv": [7.5, 5.5, 8.5, 6.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 5.5, 7.25, 6.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.5, 5.5, 8.5, 6.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.75, 5.5, 8.875, 6.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.5, 8.75, 8.5, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.5, 8.875, 7.5, 8.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 2.25, 7.5],
+			"to": [8.375, 3.125, 7.625],
+			"faces": {
+				"north": {"uv": [7.625, 12.875, 8.375, 13.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.375, 12.875, 8.5, 13.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 12.875, 8.375, 13.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.5, 12.875, 7.625, 13.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 7.5, 8.375, 7.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 7.625, 7.625, 7.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 13.25, 7.5],
+			"to": [8.375, 14.125, 7.625],
+			"faces": {
+				"north": {"uv": [7.625, 1.875, 8.375, 2.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.375, 1.875, 8.5, 2.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 1.875, 8.375, 2.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.5, 1.875, 7.625, 2.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 7.5, 8.375, 7.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 7.625, 7.625, 7.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 3.125, 7.625],
+			"to": [8.375, 3.375, 7.75],
+			"faces": {
+				"north": {"uv": [7.625, 12.625, 8.375, 12.875], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.25, 12.625, 8.375, 12.875], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 12.625, 8.375, 12.875], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.625, 12.625, 7.75, 12.875], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 7.625, 8.375, 7.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 7.75, 7.625, 7.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 13, 7.625],
+			"to": [8.375, 13.25, 7.75],
+			"faces": {
+				"north": {"uv": [7.625, 2.75, 8.375, 3], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.25, 2.75, 8.375, 3], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 2.75, 8.375, 3], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.625, 2.75, 7.75, 3], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 7.625, 8.375, 7.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 7.75, 7.625, 7.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 3.375, 7.75],
+			"to": [8.375, 3.625, 7.875],
+			"faces": {
+				"north": {"uv": [7.625, 12.375, 8.375, 12.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.125, 12.375, 8.25, 12.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 12.375, 8.375, 12.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.75, 12.375, 7.875, 12.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 7.75, 8.375, 7.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 7.875, 7.625, 7.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 12.875, 7.75],
+			"to": [8.375, 13, 7.875],
+			"faces": {
+				"north": {"uv": [7.625, 3, 8.375, 3.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.125, 3, 8.25, 3.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 3, 8.375, 3.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.75, 3, 7.875, 3.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 7.75, 8.375, 7.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 7.875, 7.625, 7.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 3.625, 7.875],
+			"to": [8.375, 3.75, 8],
+			"faces": {
+				"north": {"uv": [7.625, 12.25, 8.375, 12.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8, 12.25, 8.125, 12.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 12.25, 8.375, 12.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.875, 12.25, 8, 12.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 7.875, 8.375, 8], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8, 7.625, 7.875], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 12.75, 7.875],
+			"to": [8.375, 12.875, 8],
+			"faces": {
+				"north": {"uv": [7.625, 3.125, 8.375, 3.25], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8, 3.125, 8.125, 3.25], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 3.125, 8.375, 3.25], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.875, 3.125, 8, 3.25], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 7.875, 8.375, 8], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8, 7.625, 7.875], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 3.75, 8],
+			"to": [8.375, 3.875, 8.125],
+			"faces": {
+				"north": {"uv": [7.625, 12.125, 8.375, 12.25], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.875, 12.125, 8, 12.25], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 12.125, 8.375, 12.25], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8, 12.125, 8.125, 12.25], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8, 8.375, 8.125], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.125, 7.625, 8], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 12.5, 8],
+			"to": [8.375, 12.75, 8.125],
+			"faces": {
+				"north": {"uv": [7.625, 3.25, 8.375, 3.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.875, 3.25, 8, 3.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 3.25, 8.375, 3.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8, 3.25, 8.125, 3.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8, 8.375, 8.125], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.125, 7.625, 8], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 3.875, 8.125],
+			"to": [8.375, 4, 8.25],
+			"faces": {
+				"north": {"uv": [7.625, 12, 8.375, 12.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.75, 12, 7.875, 12.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 12, 8.375, 12.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.125, 12, 8.25, 12.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.125, 8.375, 8.25], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.25, 7.625, 8.125], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 12.375, 8.125],
+			"to": [8.375, 12.5, 8.25],
+			"faces": {
+				"north": {"uv": [7.625, 3.5, 8.375, 3.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.75, 3.5, 7.875, 3.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 3.5, 8.375, 3.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.125, 3.5, 8.25, 3.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.125, 8.375, 8.25], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.25, 7.625, 8.125], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 4, 8.25],
+			"to": [8.375, 4.25, 8.375],
+			"faces": {
+				"north": {"uv": [7.625, 11.75, 8.375, 12], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.625, 11.75, 7.75, 12], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 11.75, 8.375, 12], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.25, 11.75, 8.375, 12], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.25, 8.375, 8.375], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.375, 7.625, 8.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 12.25, 8.25],
+			"to": [8.375, 12.375, 8.375],
+			"faces": {
+				"north": {"uv": [7.625, 3.625, 8.375, 3.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.625, 3.625, 7.75, 3.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 3.625, 8.375, 3.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.25, 3.625, 8.375, 3.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.25, 8.375, 8.375], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.375, 7.625, 8.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 4.25, 8.375],
+			"to": [8.375, 4.375, 8.5],
+			"faces": {
+				"north": {"uv": [7.625, 11.625, 8.375, 11.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.5, 11.625, 7.625, 11.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 11.625, 8.375, 11.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.375, 11.625, 8.5, 11.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.375, 8.375, 8.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.5, 7.625, 8.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 7.625, 8.375],
+			"to": [8.375, 8.875, 8.5],
+			"faces": {
+				"north": {"uv": [7.625, 7.125, 8.375, 8.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.5, 7.125, 7.625, 8.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 7.125, 8.375, 8.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.375, 7.125, 8.5, 8.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.375, 8.375, 8.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.5, 7.625, 8.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 12, 8.375],
+			"to": [8.375, 12.25, 8.5],
+			"faces": {
+				"north": {"uv": [7.625, 3.75, 8.375, 4], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.5, 3.75, 7.625, 4], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 3.75, 8.375, 4], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.375, 3.75, 8.5, 4], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.375, 8.375, 8.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.5, 7.625, 8.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 4.375, 8.5],
+			"to": [8.375, 4.625, 8.625],
+			"faces": {
+				"north": {"uv": [7.625, 11.375, 8.375, 11.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.375, 11.375, 7.5, 11.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 11.375, 8.375, 11.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.5, 11.375, 8.625, 11.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.5, 8.375, 8.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.625, 7.625, 8.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 7.375, 8.5],
+			"to": [8.375, 7.625, 8.625],
+			"faces": {
+				"north": {"uv": [7.625, 8.375, 8.375, 8.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.375, 8.375, 7.5, 8.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 8.375, 8.375, 8.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.5, 8.375, 8.625, 8.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.5, 8.375, 8.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.625, 7.625, 8.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 8.875, 8.5],
+			"to": [8.375, 9, 8.625],
+			"faces": {
+				"north": {"uv": [7.625, 7, 8.375, 7.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.375, 7, 7.5, 7.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 7, 8.375, 7.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.5, 7, 8.625, 7.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.5, 8.375, 8.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.625, 7.625, 8.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 11.75, 8.5],
+			"to": [8.375, 12, 8.625],
+			"faces": {
+				"north": {"uv": [7.625, 4, 8.375, 4.25], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.375, 4, 7.5, 4.25], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 4, 8.375, 4.25], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.5, 4, 8.625, 4.25], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.5, 8.375, 8.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.625, 7.625, 8.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 4.625, 8.625],
+			"to": [8.375, 5, 8.75],
+			"faces": {
+				"north": {"uv": [7.625, 11, 8.375, 11.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 11, 7.375, 11.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 11, 8.375, 11.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.625, 11, 8.75, 11.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.625, 8.375, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.75, 7.625, 8.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 7.125, 8.625],
+			"to": [8.375, 7.375, 8.75],
+			"faces": {
+				"north": {"uv": [7.625, 8.625, 8.375, 8.875], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 8.625, 7.375, 8.875], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 8.625, 8.375, 8.875], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.625, 8.625, 8.75, 8.875], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.625, 8.375, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.75, 7.625, 8.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 9, 8.625],
+			"to": [8.375, 9.25, 8.75],
+			"faces": {
+				"north": {"uv": [7.625, 6.75, 8.375, 7], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 6.75, 7.375, 7], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 6.75, 8.375, 7], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.625, 6.75, 8.75, 7], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.625, 8.375, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.75, 7.625, 8.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 11.5, 8.625],
+			"to": [8.375, 11.75, 8.75],
+			"faces": {
+				"north": {"uv": [7.625, 4.25, 8.375, 4.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 4.25, 7.375, 4.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 4.25, 8.375, 4.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.625, 4.25, 8.75, 4.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.625, 8.375, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.75, 7.625, 8.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 5, 8.75],
+			"to": [8.375, 5.5, 8.875],
+			"faces": {
+				"north": {"uv": [7.625, 10.5, 8.375, 11], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 10.5, 7.25, 11], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 10.5, 8.375, 11], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.75, 10.5, 8.875, 11], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.75, 8.375, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.875, 7.625, 8.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 6.625, 8.75],
+			"to": [8.375, 7.125, 8.875],
+			"faces": {
+				"north": {"uv": [7.625, 8.875, 8.375, 9.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 8.875, 7.25, 9.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 8.875, 8.375, 9.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.75, 8.875, 8.875, 9.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.75, 8.375, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.875, 7.625, 8.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 9.25, 8.75],
+			"to": [8.375, 9.875, 8.875],
+			"faces": {
+				"north": {"uv": [7.625, 6.125, 8.375, 6.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 6.125, 7.25, 6.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 6.125, 8.375, 6.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.75, 6.125, 8.875, 6.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.75, 8.375, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.875, 7.625, 8.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 11, 8.75],
+			"to": [8.375, 11.5, 8.875],
+			"faces": {
+				"north": {"uv": [7.625, 4.5, 8.375, 5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 4.5, 7.25, 5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 4.5, 8.375, 5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.75, 4.5, 8.875, 5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.75, 8.375, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 8.875, 7.625, 8.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 5.5, 8.875],
+			"to": [8.375, 6.625, 9],
+			"faces": {
+				"north": {"uv": [7.625, 9.375, 8.375, 10.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7, 9.375, 7.125, 10.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 9.375, 8.375, 10.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.875, 9.375, 9, 10.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.875, 8.375, 9], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 9, 7.625, 8.875], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.625, 9.875, 8.875],
+			"to": [8.375, 11, 9],
+			"faces": {
+				"north": {"uv": [7.625, 5, 8.375, 6.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7, 5, 7.125, 6.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.625, 5, 8.375, 6.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.875, 5, 9, 6.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.625, 8.875, 8.375, 9], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.375, 9, 7.625, 8.875], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 2.75, 7.625],
+			"to": [8.25, 3.125, 7.75],
+			"faces": {
+				"north": {"uv": [7.75, 12.875, 8.25, 13.25], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.25, 12.875, 8.375, 13.25], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 12.875, 8.25, 13.25], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.625, 12.875, 7.75, 13.25], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 7.625, 8.25, 7.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 7.75, 7.75, 7.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 13.25, 7.625],
+			"to": [8.25, 13.625, 7.75],
+			"faces": {
+				"north": {"uv": [7.75, 2.375, 8.25, 2.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.25, 2.375, 8.375, 2.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 2.375, 8.25, 2.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.625, 2.375, 7.75, 2.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 7.625, 8.25, 7.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 7.75, 7.75, 7.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 3.25, 7.75],
+			"to": [8.25, 3.375, 7.875],
+			"faces": {
+				"north": {"uv": [7.75, 12.625, 8.25, 12.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.125, 12.625, 8.25, 12.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 12.625, 8.25, 12.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.75, 12.625, 7.875, 12.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 7.75, 8.25, 7.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 7.875, 7.75, 7.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 13, 7.75],
+			"to": [8.25, 13.25, 7.875],
+			"faces": {
+				"north": {"uv": [7.75, 2.75, 8.25, 3], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8.125, 2.75, 8.25, 3], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 2.75, 8.25, 3], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.75, 2.75, 7.875, 3], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 7.75, 8.25, 7.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 7.875, 7.75, 7.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 3.5, 7.875],
+			"to": [8.25, 3.625, 8],
+			"faces": {
+				"north": {"uv": [7.75, 12.375, 8.25, 12.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8, 12.375, 8.125, 12.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 12.375, 8.25, 12.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.875, 12.375, 8, 12.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 7.875, 8.25, 8], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8, 7.75, 7.875], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 12.875, 7.875],
+			"to": [8.25, 13, 8],
+			"faces": {
+				"north": {"uv": [7.75, 3, 8.25, 3.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [8, 3, 8.125, 3.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 3, 8.25, 3.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [7.875, 3, 8, 3.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 7.875, 8.25, 8], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8, 7.75, 7.875], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 3.625, 8],
+			"to": [8.25, 3.75, 8.125],
+			"faces": {
+				"north": {"uv": [7.75, 12.25, 8.25, 12.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.875, 12.25, 8, 12.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 12.25, 8.25, 12.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8, 12.25, 8.125, 12.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8, 8.25, 8.125], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.125, 7.75, 8], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 3.75, 8.125],
+			"to": [8.25, 3.875, 8.25],
+			"faces": {
+				"north": {"uv": [7.75, 12.125, 8.25, 12.25], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.75, 12.125, 7.875, 12.25], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 12.125, 8.25, 12.25], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.125, 12.125, 8.25, 12.25], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.125, 8.25, 8.25], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.25, 7.75, 8.125], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 12.5, 8.125],
+			"to": [8.25, 12.625, 8.25],
+			"faces": {
+				"north": {"uv": [7.75, 3.375, 8.25, 3.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.75, 3.375, 7.875, 3.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 3.375, 8.25, 3.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.125, 3.375, 8.25, 3.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.125, 8.25, 8.25], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.25, 7.75, 8.125], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 12.375, 8.25],
+			"to": [8.25, 12.5, 8.375],
+			"faces": {
+				"north": {"uv": [7.75, 3.5, 8.25, 3.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.625, 3.5, 7.75, 3.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 3.5, 8.25, 3.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.25, 3.5, 8.375, 3.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.25, 8.25, 8.375], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.375, 7.75, 8.25], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 4.125, 8.375],
+			"to": [8.25, 4.25, 8.5],
+			"faces": {
+				"north": {"uv": [7.75, 11.75, 8.25, 11.875], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.5, 11.75, 7.625, 11.875], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 11.75, 8.25, 11.875], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.375, 11.75, 8.5, 11.875], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.375, 8.25, 8.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.5, 7.75, 8.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 12.25, 8.375],
+			"to": [8.25, 12.375, 8.5],
+			"faces": {
+				"north": {"uv": [7.75, 3.625, 8.25, 3.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.5, 3.625, 7.625, 3.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 3.625, 8.25, 3.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.375, 3.625, 8.5, 3.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.375, 8.25, 8.5], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.5, 7.75, 8.375], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 4.25, 8.5],
+			"to": [8.25, 4.375, 8.625],
+			"faces": {
+				"north": {"uv": [7.75, 11.625, 8.25, 11.75], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.375, 11.625, 7.5, 11.75], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 11.625, 8.25, 11.75], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.5, 11.625, 8.625, 11.75], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.5, 8.25, 8.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.625, 7.75, 8.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 7.625, 8.5],
+			"to": [8.25, 8.875, 8.625],
+			"faces": {
+				"north": {"uv": [7.75, 7.125, 8.25, 8.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.375, 7.125, 7.5, 8.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 7.125, 8.25, 8.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.5, 7.125, 8.625, 8.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.5, 8.25, 8.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.625, 7.75, 8.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 12, 8.5],
+			"to": [8.25, 12.125, 8.625],
+			"faces": {
+				"north": {"uv": [7.75, 3.875, 8.25, 4], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.375, 3.875, 7.5, 4], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 3.875, 8.25, 4], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.5, 3.875, 8.625, 4], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.5, 8.25, 8.625], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.625, 7.75, 8.5], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 4.5, 8.625],
+			"to": [8.25, 4.625, 8.75],
+			"faces": {
+				"north": {"uv": [7.75, 11.375, 8.25, 11.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 11.375, 7.375, 11.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 11.375, 8.25, 11.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.625, 11.375, 8.75, 11.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.625, 8.25, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.75, 7.75, 8.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 7.375, 8.625],
+			"to": [8.25, 7.5, 8.75],
+			"faces": {
+				"north": {"uv": [7.75, 8.5, 8.25, 8.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 8.5, 7.375, 8.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 8.5, 8.25, 8.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.625, 8.5, 8.75, 8.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.625, 8.25, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.75, 7.75, 8.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 8.875, 8.625],
+			"to": [8.25, 9, 8.75],
+			"faces": {
+				"north": {"uv": [7.75, 7, 8.25, 7.125], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 7, 7.375, 7.125], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 7, 8.25, 7.125], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.625, 7, 8.75, 7.125], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.625, 8.25, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.75, 7.75, 8.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 11.75, 8.625],
+			"to": [8.25, 11.875, 8.75],
+			"faces": {
+				"north": {"uv": [7.75, 4.125, 8.25, 4.25], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.25, 4.125, 7.375, 4.25], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 4.125, 8.25, 4.25], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.625, 4.125, 8.75, 4.25], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.625, 8.25, 8.75], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.75, 7.75, 8.625], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 4.75, 8.75],
+			"to": [8.25, 5, 8.875],
+			"faces": {
+				"north": {"uv": [7.75, 11, 8.25, 11.25], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 11, 7.25, 11.25], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 11, 8.25, 11.25], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.75, 11, 8.875, 11.25], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.75, 8.25, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.875, 7.75, 8.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 7.125, 8.75],
+			"to": [8.25, 7.375, 8.875],
+			"faces": {
+				"north": {"uv": [7.75, 8.625, 8.25, 8.875], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 8.625, 7.25, 8.875], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 8.625, 8.25, 8.875], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.75, 8.625, 8.875, 8.875], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.75, 8.25, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.875, 7.75, 8.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 9.125, 8.75],
+			"to": [8.25, 9.25, 8.875],
+			"faces": {
+				"north": {"uv": [7.75, 6.75, 8.25, 6.875], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 6.75, 7.25, 6.875], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 6.75, 8.25, 6.875], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.75, 6.75, 8.875, 6.875], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.75, 8.25, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.875, 7.75, 8.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 11.5, 8.75],
+			"to": [8.25, 11.625, 8.875],
+			"faces": {
+				"north": {"uv": [7.75, 4.375, 8.25, 4.5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7.125, 4.375, 7.25, 4.5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 4.375, 8.25, 4.5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.75, 4.375, 8.875, 4.5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.75, 8.25, 8.875], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 8.875, 7.75, 8.75], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 5.125, 8.875],
+			"to": [8.25, 5.5, 9],
+			"faces": {
+				"north": {"uv": [7.75, 10.5, 8.25, 10.875], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7, 10.5, 7.125, 10.875], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 10.5, 8.25, 10.875], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.875, 10.5, 9, 10.875], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.875, 8.25, 9], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 9, 7.75, 8.875], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 6.625, 8.875],
+			"to": [8.25, 7, 9],
+			"faces": {
+				"north": {"uv": [7.75, 9, 8.25, 9.375], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7, 9, 7.125, 9.375], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 9, 8.25, 9.375], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.875, 9, 9, 9.375], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.875, 8.25, 9], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 9, 7.75, 8.875], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 9.375, 8.875],
+			"to": [8.25, 9.875, 9],
+			"faces": {
+				"north": {"uv": [7.75, 6.125, 8.25, 6.625], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7, 6.125, 7.125, 6.625], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 6.125, 8.25, 6.625], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.875, 6.125, 9, 6.625], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.875, 8.25, 9], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 9, 7.75, 8.875], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_exterio",
+			"from": [7.75, 11, 8.875],
+			"to": [8.25, 11.375, 9],
+			"faces": {
+				"north": {"uv": [7.75, 4.625, 8.25, 5], "texture": "#flame_bow_exterior"},
+				"east": {"uv": [7, 4.625, 7.125, 5], "texture": "#flame_bow_exterior"},
+				"south": {"uv": [7.75, 4.625, 8.25, 5], "texture": "#flame_bow_exterior"},
+				"west": {"uv": [8.875, 4.625, 9, 5], "texture": "#flame_bow_exterior"},
+				"up": {"uv": [7.75, 8.875, 8.25, 9], "texture": "#flame_bow_exterior"},
+				"down": {"uv": [8.25, 9, 7.75, 8.875], "texture": "#flame_bow_exterior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 4.375, 6.375],
+			"to": [8.25, 4.5, 6.5],
+			"faces": {
+				"north": {"uv": [7.75, 11.5, 8.25, 11.625], "texture": "#flame_bow_interior"},
+				"east": {"uv": [9.5, 11.5, 9.625, 11.625], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 11.5, 8.25, 11.625], "texture": "#flame_bow_interior"},
+				"west": {"uv": [6.375, 11.5, 6.5, 11.625], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 6.375, 8.25, 6.5], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 6.5, 7.75, 6.375], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 4.5, 6.5],
+			"to": [8.25, 4.625, 6.75],
+			"faces": {
+				"north": {"uv": [7.75, 11.375, 8.25, 11.5], "texture": "#flame_bow_interior"},
+				"east": {"uv": [9.25, 11.375, 9.5, 11.5], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 11.375, 8.25, 11.5], "texture": "#flame_bow_interior"},
+				"west": {"uv": [6.5, 11.375, 6.75, 11.5], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 6.5, 8.25, 6.75], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 6.75, 7.75, 6.5], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11.75, 6.5],
+			"to": [8.25, 11.875, 6.875],
+			"faces": {
+				"north": {"uv": [7.75, 4.125, 8.25, 4.25], "texture": "#flame_bow_interior"},
+				"east": {"uv": [9.125, 4.125, 9.5, 4.25], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4.125, 8.25, 4.25], "texture": "#flame_bow_interior"},
+				"west": {"uv": [6.5, 4.125, 6.875, 4.25], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 6.5, 8.25, 6.875], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 6.875, 7.75, 6.5], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11.875, 6.5],
+			"to": [8.25, 12, 6.625],
+			"faces": {
+				"north": {"uv": [7.75, 4, 8.25, 4.125], "texture": "#flame_bow_interior"},
+				"east": {"uv": [9.375, 4, 9.5, 4.125], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4, 8.25, 4.125], "texture": "#flame_bow_interior"},
+				"west": {"uv": [6.5, 4, 6.625, 4.125], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 6.5, 8.25, 6.625], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 6.625, 7.75, 6.5], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 4.625, 6.625],
+			"to": [8.25, 4.875, 7],
+			"faces": {
+				"north": {"uv": [7.75, 11.125, 8.25, 11.375], "texture": "#flame_bow_interior"},
+				"east": {"uv": [9, 11.125, 9.375, 11.375], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 11.125, 8.25, 11.375], "texture": "#flame_bow_interior"},
+				"west": {"uv": [6.625, 11.125, 7, 11.375], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 6.625, 8.25, 7], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7, 7.75, 6.625], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11.625, 6.625],
+			"to": [8.25, 11.75, 7.125],
+			"faces": {
+				"north": {"uv": [7.75, 4.25, 8.25, 4.375], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.875, 4.25, 9.375, 4.375], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4.25, 8.25, 4.375], "texture": "#flame_bow_interior"},
+				"west": {"uv": [6.625, 4.25, 7.125, 4.375], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 6.625, 8.25, 7.125], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.125, 7.75, 6.625], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 4.875, 6.75],
+			"to": [8.25, 5, 7.25],
+			"faces": {
+				"north": {"uv": [7.75, 11, 8.25, 11.125], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.75, 11, 9.25, 11.125], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 11, 8.25, 11.125], "texture": "#flame_bow_interior"},
+				"west": {"uv": [6.75, 11, 7.25, 11.125], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 6.75, 8.25, 7.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.25, 7.75, 6.75], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11.375, 6.75],
+			"to": [8.25, 11.625, 7.25],
+			"faces": {
+				"north": {"uv": [7.75, 4.375, 8.25, 4.625], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.75, 4.375, 9.25, 4.625], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4.375, 8.25, 4.625], "texture": "#flame_bow_interior"},
+				"west": {"uv": [6.75, 4.375, 7.25, 4.625], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 6.75, 8.25, 7.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.25, 7.75, 6.75], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 5, 6.875],
+			"to": [8.25, 5.25, 7.25],
+			"faces": {
+				"north": {"uv": [7.75, 10.75, 8.25, 11], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.75, 10.75, 9.125, 11], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 10.75, 8.25, 11], "texture": "#flame_bow_interior"},
+				"west": {"uv": [6.875, 10.75, 7.25, 11], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 6.875, 8.25, 7.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.25, 7.75, 6.875], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11.25, 6.875],
+			"to": [8.25, 11.375, 7.25],
+			"faces": {
+				"north": {"uv": [7.75, 4.625, 8.25, 4.75], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.75, 4.625, 9.125, 4.75], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4.625, 8.25, 4.75], "texture": "#flame_bow_interior"},
+				"west": {"uv": [6.875, 4.625, 7.25, 4.75], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 6.875, 8.25, 7.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.25, 7.75, 6.875], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 3.25, 7],
+			"to": [8.25, 3.75, 7.375],
+			"faces": {
+				"north": {"uv": [7.75, 12.25, 8.25, 12.75], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.625, 12.25, 9, 12.75], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 12.25, 8.25, 12.75], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7, 12.25, 7.375, 12.75], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7, 8.25, 7.375], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.375, 7.75, 7], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 4.75, 7],
+			"to": [8.25, 4.875, 7.125],
+			"faces": {
+				"north": {"uv": [7.75, 11.125, 8.25, 11.25], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.875, 11.125, 9, 11.25], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 11.125, 8.25, 11.25], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7, 11.125, 7.125, 11.25], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7, 8.25, 7.125], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.125, 7.75, 7], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 5.25, 7],
+			"to": [8.25, 5.5, 7.375],
+			"faces": {
+				"north": {"uv": [7.75, 10.5, 8.25, 10.75], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.625, 10.5, 9, 10.75], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 10.5, 8.25, 10.75], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7, 10.5, 7.375, 10.75], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7, 8.25, 7.375], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.375, 7.75, 7], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 5.5, 7],
+			"to": [8.25, 5.625, 7.25],
+			"faces": {
+				"north": {"uv": [7.75, 10.375, 8.25, 10.5], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.75, 10.375, 9, 10.5], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 10.375, 8.25, 10.5], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7, 10.375, 7.25, 10.5], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7, 8.25, 7.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.25, 7.75, 7], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 10.75, 7],
+			"to": [8.25, 11.25, 7.125],
+			"faces": {
+				"north": {"uv": [7.75, 4.75, 8.25, 5.25], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.875, 4.75, 9, 5.25], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4.75, 8.25, 5.25], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7, 4.75, 7.125, 5.25], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7, 8.25, 7.125], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.125, 7.75, 7], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 12.75, 7],
+			"to": [8.25, 12.875, 7.5],
+			"faces": {
+				"north": {"uv": [7.75, 3.125, 8.25, 3.25], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.5, 3.125, 9, 3.25], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 3.125, 8.25, 3.25], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7, 3.125, 7.5, 3.25], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7, 8.25, 7.5], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.5, 7.75, 7], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 12.875, 7],
+			"to": [8.25, 13.125, 7.375],
+			"faces": {
+				"north": {"uv": [7.75, 2.875, 8.25, 3.125], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.625, 2.875, 9, 3.125], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 2.875, 8.25, 3.125], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7, 2.875, 7.375, 3.125], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7, 8.25, 7.375], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.375, 7.75, 7], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 13.125, 7],
+			"to": [8.25, 13.25, 7.25],
+			"faces": {
+				"north": {"uv": [7.75, 2.75, 8.25, 2.875], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.75, 2.75, 9, 2.875], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 2.75, 8.25, 2.875], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7, 2.75, 7.25, 2.875], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7, 8.25, 7.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.25, 7.75, 7], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 2.75, 7.125],
+			"to": [8.25, 3.25, 7.25],
+			"faces": {
+				"north": {"uv": [7.75, 12.75, 8.25, 13.25], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.75, 12.75, 8.875, 13.25], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 12.75, 8.25, 13.25], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.125, 12.75, 7.25, 13.25], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.125, 8.25, 7.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.25, 7.75, 7.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 3.75, 7.125],
+			"to": [8.25, 4, 7.625],
+			"faces": {
+				"north": {"uv": [7.75, 12, 8.25, 12.25], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.375, 12, 8.875, 12.25], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 12, 8.25, 12.25], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.125, 12, 7.625, 12.25], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.125, 8.25, 7.625], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.625, 7.75, 7.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 10.875, 7.125],
+			"to": [8.25, 11, 7.75],
+			"faces": {
+				"north": {"uv": [7.75, 5, 8.25, 5.125], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.25, 5, 8.875, 5.125], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 5, 8.25, 5.125], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.125, 5, 7.75, 5.125], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.125, 8.25, 7.75], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.75, 7.75, 7.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11, 7.125],
+			"to": [8.25, 11.125, 7.5],
+			"faces": {
+				"north": {"uv": [7.75, 4.875, 8.25, 5], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.5, 4.875, 8.875, 5], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4.875, 8.25, 5], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.125, 4.875, 7.5, 5], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.125, 8.25, 7.5], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.5, 7.75, 7.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11.125, 7.125],
+			"to": [8.25, 11.25, 7.375],
+			"faces": {
+				"north": {"uv": [7.75, 4.75, 8.25, 4.875], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.625, 4.75, 8.875, 4.875], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4.75, 8.25, 4.875], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.125, 4.75, 7.375, 4.875], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.125, 8.25, 7.375], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.375, 7.75, 7.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 12.375, 7.125],
+			"to": [8.25, 12.5, 7.75],
+			"faces": {
+				"north": {"uv": [7.75, 3.5, 8.25, 3.625], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.25, 3.5, 8.875, 3.625], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 3.5, 8.25, 3.625], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.125, 3.5, 7.75, 3.625], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.125, 8.25, 7.75], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.75, 7.75, 7.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 12.5, 7.125],
+			"to": [8.25, 12.625, 7.625],
+			"faces": {
+				"north": {"uv": [7.75, 3.375, 8.25, 3.5], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.375, 3.375, 8.875, 3.5], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 3.375, 8.25, 3.5], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.125, 3.375, 7.625, 3.5], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.125, 8.25, 7.625], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.625, 7.75, 7.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 12.625, 7.125],
+			"to": [8.25, 12.75, 7.5],
+			"faces": {
+				"north": {"uv": [7.75, 3.25, 8.25, 3.375], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.5, 3.25, 8.875, 3.375], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 3.25, 8.25, 3.375], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.125, 3.25, 7.5, 3.375], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.125, 8.25, 7.5], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.5, 7.75, 7.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 13.25, 7.125],
+			"to": [8.25, 13.875, 7.25],
+			"faces": {
+				"north": {"uv": [7.75, 2.125, 8.25, 2.75], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.75, 2.125, 8.875, 2.75], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 2.125, 8.25, 2.75], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.125, 2.125, 7.25, 2.75], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.125, 8.25, 7.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.25, 7.75, 7.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 4, 7.25],
+			"to": [8.25, 4.25, 7.75],
+			"faces": {
+				"north": {"uv": [7.75, 11.75, 8.25, 12], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.25, 11.75, 8.75, 12], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 11.75, 8.25, 12], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.25, 11.75, 7.75, 12], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.25, 8.25, 7.75], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.75, 7.75, 7.25], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 12.25, 7.25],
+			"to": [8.25, 12.375, 7.875],
+			"faces": {
+				"north": {"uv": [7.75, 3.625, 8.25, 3.75], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.125, 3.625, 8.75, 3.75], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 3.625, 8.25, 3.75], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.25, 3.625, 7.875, 3.75], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.25, 8.25, 7.875], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.875, 7.75, 7.25], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 3.625, 7.375],
+			"to": [8.25, 3.75, 7.5],
+			"faces": {
+				"north": {"uv": [7.75, 12.25, 8.25, 12.375], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.5, 12.25, 8.625, 12.375], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 12.25, 8.25, 12.375], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.375, 12.25, 7.5, 12.375], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.375, 8.25, 7.5], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.5, 7.75, 7.375], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 4.25, 7.375],
+			"to": [8.25, 4.375, 8],
+			"faces": {
+				"north": {"uv": [7.75, 11.625, 8.25, 11.75], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8, 11.625, 8.625, 11.75], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 11.625, 8.25, 11.75], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.375, 11.625, 8, 11.75], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.375, 8.25, 8], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8, 7.75, 7.375], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 5.375, 7.375],
+			"to": [8.25, 5.625, 7.625],
+			"faces": {
+				"north": {"uv": [7.75, 10.375, 8.25, 10.625], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.375, 10.375, 8.625, 10.625], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 10.375, 8.25, 10.625], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.375, 10.375, 7.625, 10.625], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.375, 8.25, 7.625], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.625, 7.75, 7.375], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 7, 7.375],
+			"to": [8.25, 7.125, 8.25],
+			"faces": {
+				"north": {"uv": [7.75, 8.875, 8.25, 9], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.75, 8.875, 8.625, 9], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 8.875, 8.25, 9], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.375, 8.875, 8.25, 9], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.375, 8.25, 8.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.25, 7.75, 7.375], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 12.125, 7.375],
+			"to": [8.25, 12.25, 8],
+			"faces": {
+				"north": {"uv": [7.75, 3.75, 8.25, 3.875], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8, 3.75, 8.625, 3.875], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 3.75, 8.25, 3.875], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.375, 3.75, 8, 3.875], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.375, 8.25, 8], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8, 7.75, 7.375], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 4.375, 7.5],
+			"to": [8.25, 4.5, 8.125],
+			"faces": {
+				"north": {"uv": [7.75, 11.5, 8.25, 11.625], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.875, 11.5, 8.5, 11.625], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 11.5, 8.25, 11.625], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.5, 11.5, 8.125, 11.625], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.5, 8.25, 8.125], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.125, 7.75, 7.5], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 9.25, 7.5],
+			"to": [8.25, 9.375, 8.125],
+			"faces": {
+				"north": {"uv": [7.75, 6.625, 8.25, 6.75], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.875, 6.625, 8.5, 6.75], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 6.625, 8.25, 6.75], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.5, 6.625, 8.125, 6.75], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.5, 8.25, 8.125], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.125, 7.75, 7.5], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11.875, 7.5],
+			"to": [8.25, 12, 8.125],
+			"faces": {
+				"north": {"uv": [7.75, 4, 8.25, 4.125], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.875, 4, 8.5, 4.125], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4, 8.25, 4.125], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.5, 4, 8.125, 4.125], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.5, 8.25, 8.125], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.125, 7.75, 7.5], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 12, 7.5],
+			"to": [8.25, 12.125, 8],
+			"faces": {
+				"north": {"uv": [7.75, 3.875, 8.25, 4], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8, 3.875, 8.5, 4], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 3.875, 8.25, 4], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.5, 3.875, 8, 4], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.5, 8.25, 8], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8, 7.75, 7.5], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 3.875, 7.625],
+			"to": [8.25, 4, 7.75],
+			"faces": {
+				"north": {"uv": [7.75, 12, 8.25, 12.125], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.25, 12, 8.375, 12.125], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 12, 8.25, 12.125], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.625, 12, 7.75, 12.125], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.625, 8.25, 7.75], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.75, 7.75, 7.625], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 4.5, 7.625],
+			"to": [8.25, 4.875, 8.125],
+			"faces": {
+				"north": {"uv": [7.75, 11.125, 8.25, 11.5], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.875, 11.125, 8.375, 11.5], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 11.125, 8.25, 11.5], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.625, 11.125, 8.125, 11.5], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.625, 8.25, 8.125], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.125, 7.75, 7.625], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 5.5, 7.625],
+			"to": [8.25, 5.625, 7.875],
+			"faces": {
+				"north": {"uv": [7.75, 10.375, 8.25, 10.5], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.125, 10.375, 8.375, 10.5], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 10.375, 8.25, 10.5], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.625, 10.375, 7.875, 10.5], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.625, 8.25, 7.875], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.875, 7.75, 7.625], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 7.125, 7.625],
+			"to": [8.25, 7.25, 8],
+			"faces": {
+				"north": {"uv": [7.75, 8.75, 8.25, 8.875], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8, 8.75, 8.375, 8.875], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 8.75, 8.25, 8.875], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.625, 8.75, 8, 8.875], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.625, 8.25, 8], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8, 7.75, 7.625], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 7.875, 7.625],
+			"to": [8.25, 8.625, 8],
+			"faces": {
+				"north": {"uv": [7.75, 7.375, 8.25, 8.125], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8, 7.375, 8.375, 8.125], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 7.375, 8.25, 8.125], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.625, 7.375, 8, 8.125], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.625, 8.25, 8], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8, 7.75, 7.625], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 9.125, 7.625],
+			"to": [8.25, 9.25, 8],
+			"faces": {
+				"north": {"uv": [7.75, 6.75, 8.25, 6.875], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8, 6.75, 8.375, 6.875], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 6.75, 8.25, 6.875], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.625, 6.75, 8, 6.875], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.625, 8.25, 8], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8, 7.75, 7.625], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 10.75, 7.625],
+			"to": [8.25, 10.875, 8],
+			"faces": {
+				"north": {"uv": [7.75, 5.125, 8.25, 5.25], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8, 5.125, 8.375, 5.25], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 5.125, 8.25, 5.25], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.625, 5.125, 8, 5.25], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.625, 8.25, 8], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8, 7.75, 7.625], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11.5, 7.625],
+			"to": [8.25, 11.625, 8.375],
+			"faces": {
+				"north": {"uv": [7.75, 4.375, 8.25, 4.5], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.625, 4.375, 8.375, 4.5], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4.375, 8.25, 4.5], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.625, 4.375, 8.375, 4.5], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.625, 8.25, 8.375], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.375, 7.75, 7.625], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11.625, 7.625],
+			"to": [8.25, 11.875, 8.25],
+			"faces": {
+				"north": {"uv": [7.75, 4.125, 8.25, 4.375], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.75, 4.125, 8.375, 4.375], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4.125, 8.25, 4.375], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.625, 4.125, 8.25, 4.375], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.625, 8.25, 8.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.25, 7.75, 7.625], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 4.125, 7.75],
+			"to": [8.25, 4.25, 7.875],
+			"faces": {
+				"north": {"uv": [7.75, 11.75, 8.25, 11.875], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8.125, 11.75, 8.25, 11.875], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 11.75, 8.25, 11.875], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.75, 11.75, 7.875, 11.875], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.75, 8.25, 7.875], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 7.875, 7.75, 7.75], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 4.875, 7.75],
+			"to": [8.25, 5.125, 8.375],
+			"faces": {
+				"north": {"uv": [7.75, 10.875, 8.25, 11.125], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.625, 10.875, 8.25, 11.125], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 10.875, 8.25, 11.125], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.75, 10.875, 8.375, 11.125], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.75, 8.25, 8.375], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.375, 7.75, 7.75], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 5.625, 7.75],
+			"to": [8.25, 5.75, 8.125],
+			"faces": {
+				"north": {"uv": [7.75, 10.25, 8.25, 10.375], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.875, 10.25, 8.25, 10.375], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 10.25, 8.25, 10.375], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.75, 10.25, 8.125, 10.375], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.75, 8.25, 8.125], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.125, 7.75, 7.75], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 7.25, 7.75],
+			"to": [8.25, 7.875, 8],
+			"faces": {
+				"north": {"uv": [7.75, 8.125, 8.25, 8.75], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8, 8.125, 8.25, 8.75], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 8.125, 8.25, 8.75], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.75, 8.125, 8, 8.75], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.75, 8.25, 8], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8, 7.75, 7.75], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 8.625, 7.75],
+			"to": [8.25, 9.125, 8],
+			"faces": {
+				"north": {"uv": [7.75, 6.875, 8.25, 7.375], "texture": "#flame_bow_interior"},
+				"east": {"uv": [8, 6.875, 8.25, 7.375], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 6.875, 8.25, 7.375], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.75, 6.875, 8, 7.375], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.75, 8.25, 8], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8, 7.75, 7.75], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11.25, 7.75],
+			"to": [8.25, 11.375, 8.5],
+			"faces": {
+				"north": {"uv": [7.75, 4.625, 8.25, 4.75], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.5, 4.625, 8.25, 4.75], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4.625, 8.25, 4.75], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.75, 4.625, 8.5, 4.75], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.75, 8.25, 8.5], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.5, 7.75, 7.75], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11.375, 7.75],
+			"to": [8.25, 11.5, 8.375],
+			"faces": {
+				"north": {"uv": [7.75, 4.5, 8.25, 4.625], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.625, 4.5, 8.25, 4.625], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4.5, 8.25, 4.625], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.75, 4.5, 8.375, 4.625], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.75, 8.25, 8.375], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.375, 7.75, 7.75], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 5.125, 7.875],
+			"to": [8.25, 5.25, 8.5],
+			"faces": {
+				"north": {"uv": [7.75, 10.75, 8.25, 10.875], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.5, 10.75, 8.125, 10.875], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 10.75, 8.25, 10.875], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.875, 10.75, 8.5, 10.875], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.875, 8.25, 8.5], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.5, 7.75, 7.875], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 5.75, 7.875],
+			"to": [8.25, 5.875, 8.25],
+			"faces": {
+				"north": {"uv": [7.75, 10.125, 8.25, 10.25], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.75, 10.125, 8.125, 10.25], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 10.125, 8.25, 10.25], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.875, 10.125, 8.25, 10.25], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.875, 8.25, 8.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.25, 7.75, 7.875], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 9.375, 7.875],
+			"to": [8.25, 9.5, 8.25],
+			"faces": {
+				"north": {"uv": [7.75, 6.5, 8.25, 6.625], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.75, 6.5, 8.125, 6.625], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 6.5, 8.25, 6.625], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.875, 6.5, 8.25, 6.625], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.875, 8.25, 8.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.25, 7.75, 7.875], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 10.625, 7.875],
+			"to": [8.25, 10.75, 8.125],
+			"faces": {
+				"north": {"uv": [7.75, 5.25, 8.25, 5.375], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.875, 5.25, 8.125, 5.375], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 5.25, 8.25, 5.375], "texture": "#flame_bow_interior"},
+				"west": {"uv": [7.875, 5.25, 8.125, 5.375], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 7.875, 8.25, 8.125], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.125, 7.75, 7.875], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 5.875, 8],
+			"to": [8.25, 6, 8.25],
+			"faces": {
+				"north": {"uv": [7.75, 10, 8.25, 10.125], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.75, 10, 8, 10.125], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 10, 8.25, 10.125], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8, 10, 8.25, 10.125], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8, 8.25, 8.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.25, 7.75, 8], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 10.5, 8],
+			"to": [8.25, 10.625, 8.25],
+			"faces": {
+				"north": {"uv": [7.75, 5.375, 8.25, 5.5], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.75, 5.375, 8, 5.5], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 5.375, 8.25, 5.5], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8, 5.375, 8.25, 5.5], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8, 8.25, 8.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.25, 7.75, 8], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11.125, 8],
+			"to": [8.25, 11.25, 8.5],
+			"faces": {
+				"north": {"uv": [7.75, 4.75, 8.25, 4.875], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.5, 4.75, 8, 4.875], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4.75, 8.25, 4.875], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8, 4.75, 8.5, 4.875], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8, 8.25, 8.5], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.5, 7.75, 8], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 4.625, 8.125],
+			"to": [8.25, 4.875, 8.25],
+			"faces": {
+				"north": {"uv": [7.75, 11.125, 8.25, 11.375], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.75, 11.125, 7.875, 11.375], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 11.125, 8.25, 11.375], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8.125, 11.125, 8.25, 11.375], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8.125, 8.25, 8.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.25, 7.75, 8.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 5.25, 8.125],
+			"to": [8.25, 5.375, 8.5],
+			"faces": {
+				"north": {"uv": [7.75, 10.625, 8.25, 10.75], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.5, 10.625, 7.875, 10.75], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 10.625, 8.25, 10.75], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8.125, 10.625, 8.5, 10.75], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8.125, 8.25, 8.5], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.5, 7.75, 8.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 6, 8.125],
+			"to": [8.25, 6.25, 8.375],
+			"faces": {
+				"north": {"uv": [7.75, 9.75, 8.25, 10], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.625, 9.75, 7.875, 10], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 9.75, 8.25, 10], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8.125, 9.75, 8.375, 10], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8.125, 8.25, 8.375], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.375, 7.75, 8.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 6.75, 8.125],
+			"to": [8.25, 6.875, 8.375],
+			"faces": {
+				"north": {"uv": [7.75, 9.125, 8.25, 9.25], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.625, 9.125, 7.875, 9.25], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 9.125, 8.25, 9.25], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8.125, 9.125, 8.375, 9.25], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8.125, 8.25, 8.375], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.375, 7.75, 8.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 6.875, 8.125],
+			"to": [8.25, 7, 8.25],
+			"faces": {
+				"north": {"uv": [7.75, 9, 8.25, 9.125], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.75, 9, 7.875, 9.125], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 9, 8.25, 9.125], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8.125, 9, 8.25, 9.125], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8.125, 8.25, 8.25], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.25, 7.75, 8.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 9.5, 8.125],
+			"to": [8.25, 9.75, 8.375],
+			"faces": {
+				"north": {"uv": [7.75, 6.25, 8.25, 6.5], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.625, 6.25, 7.875, 6.5], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 6.25, 8.25, 6.5], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8.125, 6.25, 8.375, 6.5], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8.125, 8.25, 8.375], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.375, 7.75, 8.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 10.25, 8.125],
+			"to": [8.25, 10.5, 8.375],
+			"faces": {
+				"north": {"uv": [7.75, 5.5, 8.25, 5.75], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.625, 5.5, 7.875, 5.75], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 5.5, 8.25, 5.75], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8.125, 5.5, 8.375, 5.75], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8.125, 8.25, 8.375], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.375, 7.75, 8.125], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 5.375, 8.25],
+			"to": [8.25, 5.5, 8.5],
+			"faces": {
+				"north": {"uv": [7.75, 10.5, 8.25, 10.625], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.5, 10.5, 7.75, 10.625], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 10.5, 8.25, 10.625], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8.25, 10.5, 8.5, 10.625], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8.25, 8.25, 8.5], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.5, 7.75, 8.25], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 6.25, 8.25],
+			"to": [8.25, 6.75, 8.375],
+			"faces": {
+				"north": {"uv": [7.75, 9.25, 8.25, 9.75], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.625, 9.25, 7.75, 9.75], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 9.25, 8.25, 9.75], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8.25, 9.25, 8.375, 9.75], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8.25, 8.25, 8.375], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.375, 7.75, 8.25], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 9.75, 8.25],
+			"to": [8.25, 10.25, 8.375],
+			"faces": {
+				"north": {"uv": [7.75, 5.75, 8.25, 6.25], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.625, 5.75, 7.75, 6.25], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 5.75, 8.25, 6.25], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8.25, 5.75, 8.375, 6.25], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8.25, 8.25, 8.375], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.375, 7.75, 8.25], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 11, 8.25],
+			"to": [8.25, 11.125, 8.5],
+			"faces": {
+				"north": {"uv": [7.75, 4.875, 8.25, 5], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.5, 4.875, 7.75, 5], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 4.875, 8.25, 5], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8.25, 4.875, 8.5, 5], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8.25, 8.25, 8.5], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.5, 7.75, 8.25], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 5.5, 8.375],
+			"to": [8.25, 5.625, 8.5],
+			"faces": {
+				"north": {"uv": [7.75, 10.375, 8.25, 10.5], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.5, 10.375, 7.625, 10.5], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 10.375, 8.25, 10.5], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8.375, 10.375, 8.5, 10.5], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8.375, 8.25, 8.5], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.5, 7.75, 8.375], "texture": "#flame_bow_interior"}
+			}
+		},
+		{
+			"name": "flame_bow_Interio",
+			"from": [7.75, 10.875, 8.375],
+			"to": [8.25, 11, 8.5],
+			"faces": {
+				"north": {"uv": [7.75, 5, 8.25, 5.125], "texture": "#flame_bow_interior"},
+				"east": {"uv": [7.5, 5, 7.625, 5.125], "texture": "#flame_bow_interior"},
+				"south": {"uv": [7.75, 5, 8.25, 5.125], "texture": "#flame_bow_interior"},
+				"west": {"uv": [8.375, 5, 8.5, 5.125], "texture": "#flame_bow_interior"},
+				"up": {"uv": [7.75, 8.375, 8.25, 8.5], "texture": "#flame_bow_interior"},
+				"down": {"uv": [8.25, 8.5, 7.75, 8.375], "texture": "#flame_bow_interior"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0.2, -0.4],
+			"scale": [2.5, 2.5, 2.5]
+		},
+		"ground": {
+			"rotation": [0, 0, 0],
+			"translation": [0, -5.6, 0],
+			"scale": [2.5, 2.5, 2.5]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 0, 0]
+		},
+		"firstperson": {
+			"rotation": [-1, 125, 20],
+			"translation": [2.6, 3.3, -0.7],
+			"scale": [4, 4, 4]
+		},
+		"gui": {
+			"rotation": [90, -135, 90],
+			"translation": [0, -0.1, 0.8],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"thirdperson_righthand": {
+			"scale": [2, 2, 2],
+			"rotation": [0, 180, 0],
+			"translation": [0, -2.375, 2]
+		},
+		"thirdperson_lefthand": {
+			"scale": [2, 2, 2],
+			"rotation": [0, 180, 0],
+			"translation": [0, -2.375, 2]
+		},
+		"firstperson_righthand": {
+			"scale": [1.5, 1.5, 1.5],
+			"rotation": [0, 180, 45],
+			"translation": [0, 3.5, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [1.5, 1.5, 1.5],
+			"rotation": [0, 180, 45],
+			"translation": [0, 3.5, 0]
+		}
+	}
+}

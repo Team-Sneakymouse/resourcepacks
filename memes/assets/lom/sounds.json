@@ -1,0 +1,35 @@
+{
+	"m1": {
+		"sounds": ["lom:m1"]
+	},
+	"m2": {
+		"sounds": ["lom:m2"]
+	},
+	"memeresponsibly": {
+		"sounds": ["lom:memeresponsibly"]
+	},
+	"mindsmith": {
+		"sounds": ["lom:mindsmith"]
+	},
+	"mindsmith2": {
+		"sounds": ["lom:mindsmith2"]
+	},
+	"sfx.ignite": {
+		"sounds": ["lom:sfx/ignite1", "lom:sfx/ignite2", "lom:sfx/ignite3", "lom:sfx/ignite4", "lom:sfx/ignite5"]
+	},
+	"sfx.ignite1": {
+		"sounds": ["lom:sfx/ignite1"]
+	},
+	"sfx.ignite2": {
+		"sounds": ["lom:sfx/ignite2"]
+	},
+	"sfx.ignite3": {
+		"sounds": ["lom:sfx/ignite3"]
+	},
+	"sfx.ignite4": {
+		"sounds": ["lom:sfx/ignite4"]
+	},
+	"sfx.ignite5": {
+		"sounds": ["lom:sfx/ignite5"]
+	},
+}

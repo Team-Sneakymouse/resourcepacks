@@ -1,0 +1,188 @@
+{
+	"sawmillaccident": {
+		"sounds": ["lom:sawmillaccident"]
+	},
+	"beckoningbell": {
+		"sounds": ["lom:beckoningbell"]
+	},
+	"goblinaction": {
+		"sounds": [
+			{
+				"name": "lom:goblinaction1",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinaction2",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinaction3",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinaction4",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinaction5",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinaction6",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinaction7",
+				"stream": true
+			}
+		]
+	},
+	"goblinhurt": {
+		"sounds": [
+			{
+				"name": "lom:goblinhurt1",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinhurt2",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinhurt3",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinhurt4",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinhurt5",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinhurt6",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinhurt7",
+				"stream": true
+			}
+		]
+	},
+	"goblindie": {
+		"sounds": [
+			{
+				"name": "lom:goblindie1",
+				"stream": true
+			},
+			{
+				"name": "lom:goblindie2",
+				"stream": true
+			},
+			{
+				"name": "lom:goblindie3",
+				"stream": true
+			}
+		]
+	},
+	"goblinspawn": {
+		"sounds": [
+			{
+				"name": "lom:goblinspawn1",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinspawn2",
+				"stream": true
+			},
+			{
+				"name": "lom:goblinspawn3",
+				"stream": true
+			}
+		]
+	},
+	"goblinkaboomready": {
+		"sounds": [
+			{
+				"name": "lom:goblinkaboomready",
+				"stream": true
+			}
+		]
+	},
+	"goblinkaboomfire": {
+		"sounds": [
+			{
+				"name": "lom:goblinkaboomfire",
+				"stream": true
+			}
+		]
+	},
+	"daragorfirebreath": {
+		"sounds": ["lom:daragorfirebreath1", "lom:daragorfirebreath2", "lom:daragorfirebreath3"]
+	},
+	"grovetreecreak": {
+		"sounds": [
+			"lom:grovetreecreak1",
+			"lom:grovetreecreak2",
+			"lom:grovetreecreak3",
+			"lom:grovetreecreak4",
+			"lom:grovetreecreak5",
+			"lom:grovetreecreak6",
+			"lom:grovetreecreak7",
+			"lom:grovetreecreak8",
+			"lom:grovetreecreak9"
+		]
+	},
+	"magictreehum": {
+		"sounds": ["lom:magictreehum"]
+	},
+	"boilingriver": {
+		"sounds": ["lom:environment/boilingriver"]
+	},
+	"deathcube": {
+		"sounds": ["lom:environment/deathcube"]
+	},
+	"demonstone": {
+		"sounds": ["lom:environment/demonstone"]
+	},
+	"giantscryingorb": {
+		"sounds": ["lom:environment/giantscryingorb"]
+	},
+	"gravitywell": {
+		"sounds": [
+			"lom:environment/gravitywell1",
+			"lom:environment/gravitywell2",
+			"lom:environment/gravitywell3"
+		]
+	},
+	"harshwinds": {
+		"sounds": [
+			"lom:environment/harshwinds1",
+			"lom:environment/harshwinds2",
+			"lom:environment/harshwinds3",
+			"lom:environment/harshwinds4",
+			"lom:environment/harshwinds5"
+		]
+	},
+	"moodring": {
+		"sounds": ["lom:environment/moodring"]
+	},
+	"rockslide": {
+		"sounds": [
+			"lom:environment/rockslide1",
+			"lom:environment/rockslide2"
+		]
+	},
+	"spirtfield": {
+		"sounds": ["lom:environment/spirtfield"]
+	},
+	"staticelectricity": {
+		"sounds": ["lom:environment/staticelectricity"]
+	},
+		"darkvalebell": {
+		"sounds": ["lom:darkvalebell"]
+	},
+	"quake": {
+		"sounds": ["lom:quake"]
+	},
+}

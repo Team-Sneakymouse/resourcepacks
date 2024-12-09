@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/gui/root",
+  "textures": {
+    "texture": "item/gui/skilltree"
+  }
+}

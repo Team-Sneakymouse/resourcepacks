@@ -1,0 +1,184 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/000.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE000"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/001.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/002.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/003.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE003"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/004.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE004"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/005.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE005"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/006.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE006"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/007.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE007"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/008.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE008"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/009.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE009"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/010.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE010"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/011.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE011"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/012.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE012"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/013.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE013"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/014.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE014"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/015.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE015"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/016.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE016"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/017.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE017"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/018.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE018"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "dvz:font/black_bars/019.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE019"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+	"activatebow": {
+		"sounds": ["lom:activatebow"]
+	},
+	"activateshield": {
+		"sounds": ["lom:activateshield"]
+	},
+	"activatesword": {
+		"sounds": ["lom:activatesword"]
+	},
+	"items/cardreveal": {
+		"sounds": ["lom:items/cardreveal"]
+	},
+	"items/wrench": {
+		"sounds": ["lom:items/wrench"]
+	},
+	"toolaxehit": {
+		"sounds": ["lom:toolaxehit1", "lom:toolaxehit2"]
+	},
+	"toolwoodchop": {
+		"sounds": ["lom:toolwoodchop1", "lom:toolwoodchop2", "lom:toolwoodchop3", "lom:toolwoodchop4"]
+	},
+	"axe.chop": {
+		"sounds": ["lom:axe/axe.chop1", "lom:axe/axe.chop2", "lom:axe/axe.chop3", "lom:axe/axe.chop4", "lom:axe/axe.chop5"]
+	},
+	"axe.timber": {
+		"sounds": ["lom:axe/axe.timber1", "lom:axe/axe.timber2", "lom:axe/axe.timber3", "lom:axe/axe.timber4", "lom:axe/axe.timber5"]
+	},
+	"pickaxe.mine": {
+		"sounds": [
+			"lom:pickaxe/pickaxe.mine1",
+			"lom:pickaxe/pickaxe.mine2",
+			"lom:pickaxe/pickaxe.mine3",
+			"lom:pickaxe/pickaxe.mine4",
+			"lom:pickaxe/pickaxe.mine5"
+		]
+	},
+	"pickaxe.break": {
+		"sounds": [
+			"lom:pickaxe/pickaxe.break1",
+			"lom:pickaxe/pickaxe.break2",
+			"lom:pickaxe/pickaxe.break3",
+			"lom:pickaxe/pickaxe.break4",
+			"lom:pickaxe/pickaxe.break5"
+		]
+	},
+	"bow.reload": {
+		"sounds": ["lom:bow.reload"]
+	},
+	"sword.prepare": {
+		"sounds": ["lom:sword.prepare"]
+	},
+	"d20": {
+		"sounds": [
+			{
+				"name": "lom:misc/d20",
+				"stream": true
+			}
+		]
+	},
+	"general.offcooldown": {
+		"sounds": ["lom:general.offcooldown"]
+	},
+	"coin": {
+		"sounds": [
+			{
+				"name": "lom:misc/coin"
+			}
+		]
+	},
+	"coinflip": {
+		"sounds": [
+			{
+				"name": "lom:misc/coinflip"
+			}
+		]
+	},
+	"wpnmonstersmash": {
+		"sounds": ["lom:wpnmonstersmash1", "lom:wpnmonstersmash2", "lom:wpnmonstersmash3", "lom:wpnmonstersmash4"]
+	},
+	"wpnmonstersmashbig": {
+		"sounds": ["lom:wpnmonstersmashbig1", "lom:wpnmonstersmashbig2", "lom:wpnmonstersmashbig3"]
+	},
+	"wpnwarhammer": {
+		"sounds": ["lom:wpnwarhammer1", "lom:wpnwarhammer2", "lom:wpnwarhammer3", "lom:wpnwarhammer4"]
+	},
+	"wpncrossbow": {
+		"sounds": ["lom:wpncrossbow1", "lom:wpncrossbow2", "lom:wpncrossbow3", "lom:wpncrossbow4"]
+	},
+	"emeraldbowfire": {
+		"sounds": ["lom:emeraldbowfire1", "lom:emeraldbowfire2", "lom:emeraldbowfire3"]
+	},
+	"emeraldbowdraw": {
+		"sounds": ["lom:emeraldbowdraw"]
+	},
+	"hatdragonwarrior": {
+		"sounds": ["lom:hatdragonwarrior"]
+	},
+	"hatdragonsbreath": {
+		"sounds": ["lom:hatdragonsbreath"]
+	},
+	"hatpharaoh": {
+		"sounds": ["lom:hatpharaoh"]
+	},
+	"hatwolfhunter": {
+		"sounds": ["lom:hatwolfhunter"]
+	},
+	"general.offcooldown": {
+		"sounds": ["lom:general.offcooldown"]
+	},
+	"general.hitding": {
+		"sounds": ["lom:general.hitding"]
+	},
+	"wpnwarpweaver": {
+		"sounds": ["lom:wpnwarpweaver"]
+	},
+	"wpnplunder": {
+		"sounds": ["lom:wpnplunder"]
+	},
+	"wpnsos": {
+		"sounds": ["lom:wpnsos"]
+	},
+	"magiccoil": {
+		"sounds": ["lom:magiccoil"]
+	},
+	"wpnbuffalohorn": {
+		"sounds": ["lom:wpnbuffalohorn"]
+	},
+	"wpnproc": {
+		"sounds": ["name": "lom:wpnproc"]
+	},
+	"warhammercharge": {
+		"sounds": ["lom:warhammercharge"]
+	},
+	"warhammerrankup": {
+		"sounds": ["lom:warhammerrankup"]
+	},
+	"runebladerunedash": {
+		"sounds": ["lom:runebladerunedash"]
+	},
+	"wpnenchantedlamp": {
+		"sounds": ["lom:wpnenchantedlamp"]
+	},
+	"roaminflamethrower": {
+		"sounds": ["lom:roaminflamethrower"]
+	},
+	"roaminheal": {
+		"sounds": ["lom:roaminheal"]
+	},
+	"applelaugh": {
+		"sounds": ["lom:applelaugh"]
+	},
+	"skipstone": {
+		"sounds": ["lom:skipstone"]
+	},
+	"cherryrock": {
+		"sounds": ["lom:cherryrock"]
+	},
+	"eggstone1": {
+		"sounds": ["lom:eggstone1"]
+	},
+	"eggstone2": {
+		"sounds": ["lom:eggstone2"]
+	},
+	"sfx.gpostinger1": {
+		"sounds": ["lom:sfx/gpostinger1"]
+	},
+	"sfx.gpostinger2": {
+		"sounds": ["lom:sfx/gpostinger2"]
+	},
+	"sfx.gpostinger3": {
+		"sounds": ["lom:sfx/gpostinger3"]
+	},
+	"sfx.gpostinger4": {
+		"sounds": ["lom:sfx/gpostinger4"]
+	},
+	"wpndagger": {
+		"sounds": ["lom:wpndagger1", "lom:wpndagger2", "lom:wpndagger3", "lom:wpndagger4"]
+	},
+	"wpnsword": {
+		"sounds": ["lom:wpnsword1", "lom:wpnsword2", "lom:wpnsword3", "lom:wpnsword4"]
+	},
+	"sfx.shakebox": {
+		"sounds": ["lom:sfx/shakebox"]
+	},
+	"crowbar.wood": {
+		"sounds": [
+			"lom:sfx/crowbar.wood1",
+			"lom:sfx/crowbar.wood2",
+			"lom:sfx/crowbar.wood3",
+			"lom:sfx/crowbar.wood4",
+			"lom:sfx/crowbar.wood5",
+			"lom:sfx/crowbar.wood6",
+			"lom:sfx/crowbar.wood7",
+			"lom:sfx/crowbar.wood8"
+		]
+	},
+	"sfx.manners": {
+		"sounds": ["lom:sfx/manners1", "lom:sfx/manners2", "lom:sfx/manners3"]
+	},
+}

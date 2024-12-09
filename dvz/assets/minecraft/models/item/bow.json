@@ -1,0 +1,98 @@
+{
+	"parent": "item/vanilla/bow",
+	"overrides": [
+		{ "predicate": { "pulling": 1 }, "model": "item/bow_pulling_0" },
+		{ "predicate": { "pulling": 1, "pull": 0.65 }, "model": "item/bow_pulling_1" },
+		{ "predicate": { "pulling": 1, "pull": 0.9 }, "model": "item/bow_pulling_2" },
+
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "abyss_pack:item/abyss_bow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1,
+				"pulling": 1
+			},
+			"model": "abyss_pack:item/abyss_bow_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1,
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "abyss_pack:item/abyss_bow_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1,
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "abyss_pack:item/abyss_bow_2"
+		},
+
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "abyss_pack:item/abyss_bow_white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2,
+				"pulling": 1
+			},
+			"model": "abyss_pack:item/abyss_bow_0_white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2,
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "abyss_pack:item/abyss_bow_1_white"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2,
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "abyss_pack:item/abyss_bow_2_white"
+		},
+
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "abyss_pack:item/abyss_bow_black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3,
+				"pulling": 1
+			},
+			"model": "abyss_pack:item/abyss_bow_0_black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3,
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "abyss_pack:item/abyss_bow_1_black"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3,
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "abyss_pack:item/abyss_bow_2_black"
+		}
+	]
+}

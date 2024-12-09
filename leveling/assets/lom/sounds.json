@@ -1,0 +1,18 @@
+{
+	"levelupdings": {
+		"sounds": [
+			{
+				"name": "lom:levelupdings",
+				"stream": true
+			}
+		]
+	},
+	"musical.levelup": {
+		"sounds": [
+			{
+				"name": "lom:musical.levelup",
+				"stream": true
+			}
+		]
+	},
+}

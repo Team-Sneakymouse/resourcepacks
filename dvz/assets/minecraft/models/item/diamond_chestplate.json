@@ -1,0 +1,7 @@
+{
+	"parent": "item/vanilla/diamond_chestplate",
+	"overrides": [
+		{ "predicate": { "trim_type": 0.1 }, "model": "minecraft:item/diamond_chestplate_quartz_trim" },
+		{ "predicate": { "custom_model_data": 1 }, "model": "item/tools/dwarven_chestplate" }
+	]
+}
