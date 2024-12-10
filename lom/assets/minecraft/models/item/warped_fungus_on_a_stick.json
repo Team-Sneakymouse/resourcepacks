@@ -25,6 +25,7 @@
 		{ "predicate": { "custom_model_data": 22 }, "model": "lom:item/weapons/foamer" },
 		{ "predicate": { "custom_model_data": 23 }, "model": "lom:item/tools/paladin_wrench" },
 		{ "predicate": { "custom_model_data": 24 }, "model": "lom:item/weapons/manners" },
+		{ "predicate": { "custom_model_data": 25 }, "model": "lom:item/tools/racingflag" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/badges/water" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/items/badges/fire" },
