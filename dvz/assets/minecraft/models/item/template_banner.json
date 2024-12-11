@@ -1,0 +1,10 @@
+{
+	"parent": "item/vanilla/template_banner",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 95, 25],
+			"translation": [0.5, 2, 2],
+			"scale": [1.375, 1.375, 1.375]
+		}
+	}
+}

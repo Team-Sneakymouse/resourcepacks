@@ -1,0 +1,8 @@
+{
+	"parent": "item/vanilla/warped_fungus_on_a_stick",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 19 }, "model": "item/hats/scouter" },
+		{ "predicate": { "custom_model_data": 20 }, "model": "item/hats/scouter-low" },
+		{ "predicate": { "custom_model_data": 21 }, "model": "item/hats/scouter-high" }
+	]
+}

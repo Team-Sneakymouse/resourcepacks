@@ -1,0 +1,18 @@
+{
+	"entity.arrow.shoot": {
+		"replace": true,
+		"sounds": ["lom:random/custom.bow"],
+		"subtitle": "subtitles.entity.arrow.shoot"
+	},
+	"entity.skeleton.shoot": {
+		"replace": true,
+		"sounds": ["lom:random/custom.bow"],
+		"subtitle": "subtitles.entity.skeleton.shoot"
+	},
+	"entity.arrow.hit": {
+		"replace": true,
+		"sounds": ["lom:random/custom.bowhit1", "lom:random/custom.bowhit2", "lom:random/custom.bowhit3", "lom:random/custom.bowhit4"],
+		"subtitle": "subtitles.entity.arrow.hit"
+	},
+	
+}

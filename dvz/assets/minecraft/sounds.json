@@ -1,0 +1,1871 @@
+{
+	"ambient.cave": {
+		"replace": true,
+		"sounds": []
+	},
+	"weather.rain": {
+		"replace": true,
+		"sounds": []
+	},
+	"weather.rain.above": {
+		"replace": true,
+		"sounds": []
+	},
+	"entity.player.death": {
+		"replace": true,
+		"sounds": []
+	},
+	"entity.villager.ambient": {
+		"replace": true,
+		"sounds": []
+	},
+	"item.goat_horn.sound.0": {
+		"replace": true,
+		"sounds": []
+	},
+	"activatebow": {
+		"sounds": ["activatebow"]
+	},
+	"activateshield": {
+		"sounds": ["activateshield"]
+	},
+	"activatesword": {
+		"sounds": ["activatesword"]
+	},
+	"toolaxehit": {
+		"sounds": ["toolaxehit1", "toolaxehit2"]
+	},
+	"toolwoodchop": {
+		"sounds": ["toolwoodchop1", "toolwoodchop2", "toolwoodchop3", "toolwoodchop4"]
+	},
+	"axe.chop": {
+		"sounds": ["axe/axe.chop1", "axe/axe.chop2", "axe/axe.chop3", "axe/axe.chop4", "axe/axe.chop5"]
+	},
+	"axe.timber": {
+		"sounds": ["axe/axe.timber1", "axe/axe.timber2", "axe/axe.timber3", "axe/axe.timber4", "axe/axe.timber5"]
+	},
+	"pickaxe.mine": {
+		"sounds": [
+			"pickaxe/pickaxe.mine1",
+			"pickaxe/pickaxe.mine2",
+			"pickaxe/pickaxe.mine3",
+			"pickaxe/pickaxe.mine4",
+			"pickaxe/pickaxe.mine5"
+		]
+	},
+	"pickaxe.break": {
+		"sounds": [
+			"pickaxe/pickaxe.break1",
+			"pickaxe/pickaxe.break2",
+			"pickaxe/pickaxe.break3",
+			"pickaxe/pickaxe.break4",
+			"pickaxe/pickaxe.break5"
+		]
+	},
+	"pop": {
+		"sounds": [
+			{
+				"name": "misc/pop",
+				"stream": true
+			}
+		]
+	},
+	"d20": {
+		"sounds": [
+			{
+				"name": "misc/d20",
+				"stream": true
+			}
+		]
+	},
+	"wpnmonstersmash": {
+		"sounds": ["wpnmonstersmash1", "wpnmonstersmash2", "wpnmonstersmash3", "wpnmonstersmash4"]
+	},
+	"wpnmonstersmashbig": {
+		"sounds": ["wpnmonstersmashbig1", "wpnmonstersmashbig2", "wpnmonstersmashbig3"]
+	},
+	"wpnwarhammer": {
+		"sounds": ["wpnwarhammer1", "wpnwarhammer2", "wpnwarhammer3", "wpnwarhammer4"]
+	},
+	"wpncrossbow": {
+		"sounds": ["wpncrossbow1", "wpncrossbow2", "wpncrossbow3", "wpncrossbow4"]
+	},
+	"emeraldbowfire": {
+		"sounds": ["emeraldbowfire1", "emeraldbowfire2", "emeraldbowfire3"]
+	},
+	"emeraldbowdraw": {
+		"sounds": ["emeraldbowdraw"]
+	},
+	"hatdragonwarrior": {
+		"sounds": ["hatdragonwarrior"]
+	},
+	"hatdragonsbreath": {
+		"sounds": ["hatdragonsbreath"]
+	},
+	"hatpharaoh": {
+		"sounds": ["hatpharaoh"]
+	},
+	"hatwolfhunter": {
+		"sounds": ["hatwolfhunter"]
+	},
+	"general.offcooldown": {
+		"sounds": ["general.offcooldown"]
+	},
+	"doomeventbarnyard": {
+		"sounds": [
+			{
+				"name": "doomeventbarnyard",
+				"stream": true
+			}
+		]
+	},
+	"doomeventbopen": {
+		"sounds": [
+			{
+				"name": "doomeventbopen",
+				"stream": true
+			}
+		]
+	},
+	"doomeventkrungor": {
+		"sounds": [
+			{
+				"name": "doomeventkrungor",
+				"stream": true
+			}
+		]
+	},
+	"doomevent1": {
+		"sounds": [
+			{
+				"name": "doomevent1",
+				"stream": true
+			}
+		]
+	},
+	"doomevent2": {
+		"sounds": [
+			{
+				"name": "doomevent2",
+				"stream": true
+			}
+		]
+	},
+	"doomevent3": {
+		"sounds": [
+			{
+				"name": "doomevent3",
+				"stream": true
+			}
+		]
+	},
+	"doomevent4": {
+		"sounds": [
+			{
+				"name": "doomevent4",
+				"stream": true
+			}
+		]
+	},
+	"doomevent5": {
+		"sounds": [
+			{
+				"name": "doomevent5",
+				"stream": true
+			}
+		]
+	},
+	"wpnwarpweaver": {
+		"sounds": ["wpnwarpweaver"]
+	},
+	"wpnplunder": {
+		"sounds": ["wpnplunder"]
+	},
+	"wind": {
+		"sounds": ["wind"]
+	},
+	"wpnsos": {
+		"sounds": [
+			{
+				"name": "wpnsos",
+				"stream": true
+			}
+		]
+	},
+	"magiccoil": {
+		"sounds": [
+			{
+				"name": "magiccoil",
+				"stream": true
+			}
+		]
+	},
+	"wpnbuffalohorn": {
+		"sounds": [
+			{
+				"name": "wpnbuffalohorn",
+				"stream": true
+			}
+		]
+	},
+	"wpnproc": {
+		"sounds": [
+			{
+				"name": "wpnproc",
+				"stream": true
+			}
+		]
+	},
+	"general.hitding": {
+		"sounds": [
+			{
+				"name": "general.hitding",
+				"stream": false
+			}
+		]
+	},
+	"warhammercharge": {
+		"sounds": [
+			{
+				"name": "warhammercharge",
+				"stream": false
+			}
+		]
+	},
+	"warhammerrankup": {
+		"sounds": [
+			{
+				"name": "warhammerrankup",
+				"stream": false
+			}
+		]
+	},
+	"runebladerunedash": {
+		"sounds": [
+			{
+				"name": "runebladerunedash",
+				"stream": false
+			}
+		]
+	},
+	"wpnenchantedlamp": {
+		"sounds": ["wpnenchantedlamp"]
+	},
+	"coin": {
+		"sounds": [
+			{
+				"name": "misc/coin"
+			}
+		]
+	},
+	"coinflip": {
+		"sounds": [
+			{
+				"name": "misc/coinflip"
+			}
+		]
+	},
+	"maliceintro": {
+		"sounds": [
+			{
+				"name": "maliceintro",
+				"stream": true
+			}
+		]
+	},
+	"malicegeneral": {
+		"sounds": [
+			{
+				"name": "malicegeneral1",
+				"stream": true
+			},
+			{
+				"name": "malicegeneral2",
+				"stream": true
+			},
+			{
+				"name": "malicegeneral3",
+				"stream": true
+			},
+			{
+				"name": "malicegeneral4",
+				"stream": true
+			},
+			{
+				"name": "malicegeneral5",
+				"stream": true
+			},
+			{
+				"name": "malicegeneral6",
+				"stream": true
+			},
+			{
+				"name": "malicegeneral7",
+				"stream": true
+			},
+			{
+				"name": "malicegeneral8",
+				"stream": true
+			}
+		]
+	},
+	"maliceuse": {
+		"sounds": [
+			{
+				"name": "maliceuse1",
+				"stream": true
+			},
+			{
+				"name": "maliceuse2",
+				"stream": true
+			},
+			{
+				"name": "maliceuse3",
+				"stream": true
+			},
+			{
+				"name": "maliceuse4",
+				"stream": true
+			},
+			{
+				"name": "maliceuse5",
+				"stream": true
+			}
+		]
+	},
+	"daragorfirebreath": {
+		"sounds": ["daragorfirebreath1", "daragorfirebreath2", "daragorfirebreath3"]
+	},
+	"introsong": {
+		"sounds": [
+			{
+				"name": "introsong",
+				"stream": true
+			}
+		]
+	},
+	"music.game": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.creative": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.end": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.credits": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.dragon": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.nether.basalt_deltas": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.nether.crimson_forest": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.nether.nether_wastes": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.nether.soul_sand_valley": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.nether.warped_forest": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.deep_dark": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.dripstone_caves": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.frozen_peaks": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.grove": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.jagged_peaks": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.jungle_and_forest": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.lush_caves": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.meadow": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.old_growth_taiga": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.snowy_slopes": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.stony_peaks": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.swamp": {
+		"replace": true,
+		"sounds": []
+	},
+	"music.under_water": {
+		"replace": true,
+		"sounds": []
+	},
+	"entity.arrow.shoot": {
+		"replace": true,
+		"sounds": ["random/custom.bow"],
+		"subtitle": "subtitles.entity.arrow.shoot"
+	},
+	"entity.skeleton.shoot": {
+		"replace": true,
+		"sounds": ["random/custom.bow"],
+		"subtitle": "subtitles.entity.skeleton.shoot"
+	},
+	"entity.arrow.hit": {
+		"replace": true,
+		"sounds": ["random/custom.bowhit1", "random/custom.bowhit2", "random/custom.bowhit3", "random/custom.bowhit4"],
+		"subtitle": "subtitles.entity.arrow.hit"
+	},
+	"random.drink": {
+		"replace": true,
+		"sounds": ["random/drink"]
+	},
+	"random.levelup": {
+		"replace": true,
+		"sounds": ["random/levelup"]
+	},
+	"roaminflamethrower": {
+		"sounds": [
+			{
+				"name": "roaminflamethrower"
+			}
+		]
+	},
+	"roaminheal": {
+		"sounds": [
+			{
+				"name": "roaminheal",
+				"stream": true
+			}
+		]
+	},
+	"goblinaction": {
+		"sounds": [
+			{
+				"name": "goblinaction1",
+				"stream": true
+			},
+			{
+				"name": "goblinaction2",
+				"stream": true
+			},
+			{
+				"name": "goblinaction3",
+				"stream": true
+			},
+			{
+				"name": "goblinaction4",
+				"stream": true
+			},
+			{
+				"name": "goblinaction5",
+				"stream": true
+			},
+			{
+				"name": "goblinaction6",
+				"stream": true
+			},
+			{
+				"name": "goblinaction7",
+				"stream": true
+			}
+		]
+	},
+	"goblinhurt": {
+		"sounds": [
+			{
+				"name": "goblinhurt1",
+				"stream": true
+			},
+			{
+				"name": "goblinhurt2",
+				"stream": true
+			},
+			{
+				"name": "goblinhurt3",
+				"stream": true
+			},
+			{
+				"name": "goblinhurt4",
+				"stream": true
+			},
+			{
+				"name": "goblinhurt5",
+				"stream": true
+			},
+			{
+				"name": "goblinhurt6",
+				"stream": true
+			},
+			{
+				"name": "goblinhurt7",
+				"stream": true
+			}
+		]
+	},
+	"goblindie": {
+		"sounds": [
+			{
+				"name": "goblindie1",
+				"stream": true
+			},
+			{
+				"name": "goblindie2",
+				"stream": true
+			},
+			{
+				"name": "goblindie3",
+				"stream": true
+			}
+		]
+	},
+	"goblinspawn": {
+		"sounds": [
+			{
+				"name": "goblinspawn1",
+				"stream": true
+			},
+			{
+				"name": "goblinspawn2",
+				"stream": true
+			},
+			{
+				"name": "goblinspawn3",
+				"stream": true
+			}
+		]
+	},
+	"goblinkaboomready": {
+		"sounds": [
+			{
+				"name": "goblinkaboomready",
+				"stream": true
+			}
+		]
+	},
+	"goblinkaboomfire": {
+		"sounds": [
+			{
+				"name": "goblinkaboomfire",
+				"stream": true
+			}
+		]
+	},
+	"ogredie": {
+		"sounds": [
+			{
+				"name": "ogredie1",
+				"stream": true
+			},
+			{
+				"name": "ogredie2",
+				"stream": true
+			},
+			{
+				"name": "ogredie3",
+				"stream": true
+			},
+			{
+				"name": "ogredie4",
+				"stream": true
+			}
+		]
+	},
+	"ogrehurt": {
+		"sounds": [
+			{
+				"name": "ogrehurt1",
+				"stream": true
+			},
+			{
+				"name": "ogrehurt2",
+				"stream": true
+			},
+			{
+				"name": "ogrehurt3",
+				"stream": true
+			}
+		]
+	},
+	"monsterheroevent": {
+		"sounds": [
+			{
+				"name": "monsterheroevent",
+				"stream": true
+			}
+		]
+	},
+	"grand_paladin_authorization_required": {
+		"sounds": [
+			{
+				"name": "grand_paladin_authorization_required",
+				"stream": true
+			}
+		]
+	},
+	"musical.levelup": {
+		"sounds": [
+			{
+				"name": "musical.levelup",
+				"stream": true
+			}
+		]
+	},
+	"rat.laugh": {
+		"sounds": [
+			{
+				"name": "rat.laugh",
+				"stream": true
+			}
+		]
+	},
+	"bow.reload": {
+		"sounds": [
+			{
+				"name": "bow.reload",
+				"stream": true
+			}
+		]
+	},
+	"sword.prepare": {
+		"sounds": [
+			{
+				"name": "sword.prepare",
+				"stream": true
+			}
+		]
+	},
+	"musical.oldgods": {
+		"sounds": [
+			{
+				"name": "musical.oldgods",
+				"stream": true
+			}
+		]
+	},
+	"deathsound": {
+		"sounds": [
+			{
+				"name": "deathsound",
+				"stream": true
+			}
+		]
+	},
+	"sawmillaccident": {
+		"sounds": [
+			{
+				"name": "sawmillaccident",
+				"stream": true
+			}
+		]
+	},
+	"nisovin.tinderflamedraw": {
+		"sounds": [
+			"nisovin.tinderflamedraw"
+		]
+	},
+	"nisovin.tinderflame": {
+		"sounds": [
+			"nisovin.tinderflame1",
+			"nisovin.tinderflame2",
+			"nisovin.tinderflame3"
+		]
+	},
+	"arcane.bigblast": {
+		"sounds": [
+			{
+				"name": "spells/arcane.bigblast",
+				"stream": true
+			}
+		]
+	},
+	"arcane.blast": {
+		"sounds": [
+			{
+				"name": "spells/arcane.blast",
+				"stream": true
+			}
+		]
+	},
+	"arcane.blob": {
+		"sounds": [
+			{
+				"name": "spells/arcane.blob"
+			}
+		]
+	},
+	"arcane.blobexplosion": {
+		"sounds": [
+			{
+				"name": "spells/arcane.blobexplosion",
+				"stream": true
+			}
+		]
+	},
+	"arcane.blobhit": {
+		"sounds": [
+			{
+				"name": "spells/arcane.blobhit",
+				"stream": true
+			}
+		]
+	},
+	"arcane.hit": {
+		"sounds": [
+			{
+				"name": "spells/arcane.hit",
+				"stream": true
+			}
+		]
+	},
+	"arcane.mesmerize": {
+		"sounds": [
+			{
+				"name": "spells/arcane.mesmerize",
+				"stream": true
+			}
+		]
+	},
+	"arcane.mindcontrol": {
+		"sounds": [
+			{
+				"name": "spells/arcane.mindcontrol",
+				"stream": true
+			}
+		]
+	},
+	"arcane.powerdown": {
+		"sounds": [
+			{
+				"name": "spells/arcane.powerdown",
+				"stream": true
+			}
+		]
+	},
+	"arcane.powerloop": {
+		"sounds": [
+			{
+				"name": "spells/arcane.powerloop",
+				"stream": true
+			}
+		]
+	},
+	"arcane.resist": {
+		"sounds": [
+			{
+				"name": "spells/arcane.resist"
+			}
+		]
+	},
+	"arcane.shock": {
+		"sounds": [
+			{
+				"name": "spells/arcane.shock",
+				"stream": true
+			}
+		]
+	},
+	"arcane.summon": {
+		"sounds": [
+			{
+				"name": "spells/arcane.summon",
+				"stream": true
+			}
+		]
+	},
+	"arcane.time": {
+		"sounds": [
+			{
+				"name": "spells/arcane.time"
+			}
+		]
+	},
+	"arcane.tinkle": {
+		"sounds": [
+			{
+				"name": "spells/arcane.tinkle",
+				"stream": true
+			}
+		]
+	},
+	"arcane.wormhole": {
+		"sounds": [
+			{
+				"name": "spells/arcane.wormhole",
+				"stream": true
+			}
+		]
+	},
+	"cute.appear": {
+		"sounds": [
+			{
+				"name": "spells/cute.appear"
+			}
+		]
+	},
+	"cute.cast": {
+		"sounds": [
+			{
+				"name": "spells/cute.cast",
+				"stream": true
+			}
+		]
+	},
+	"cute.charge": {
+		"sounds": [
+			{
+				"name": "spells/cute.charge"
+			}
+		]
+	},
+	"cute.explode": {
+		"sounds": [
+			{
+				"name": "spells/cute.explode"
+			}
+		]
+	},
+	"cute.fall": {
+		"sounds": [
+			{
+				"name": "spells/cute.fall"
+			}
+		]
+	},
+	"cute.get": {
+		"sounds": [
+			{
+				"name": "spells/cute.get"
+			}
+		]
+	},
+	"cute.getbig": {
+		"sounds": [
+			{
+				"name": "spells/cute.getbig"
+			}
+		]
+	},
+	"cute.getbiggest": {
+		"sounds": [
+			{
+				"name": "spells/cute.getbiggest"
+			}
+		]
+	},
+	"cute.hit": {
+		"sounds": [
+			{
+				"name": "spells/cute.hit"
+			}
+		]
+	},
+	"cute.levelup": {
+		"sounds": [
+			{
+				"name": "spells/cute.levelup"
+			}
+		]
+	},
+	"cute.reveal": {
+		"sounds": [
+			{
+				"name": "spells/cute.reveal",
+				"stream": true
+			}
+		]
+	},
+	"cute.run": {
+		"sounds": [
+			{
+				"name": "spells/cute.run"
+			}
+		]
+	},
+	"cute.summon": {
+		"sounds": [
+			{
+				"name": "spells/cute.summon"
+			}
+		]
+	},
+	"cute.transformation": {
+		"sounds": [
+			{
+				"name": "spells/cute.transformation",
+				"stream": true
+			}
+		]
+	},
+	"cute.wink": {
+		"sounds": [
+			{
+				"name": "spells/cute.wink"
+			}
+		]
+	},
+	"dark.appear": {
+		"sounds": [
+			{
+				"name": "spells/dark.appear"
+			}
+		]
+	},
+	"dark.banshee": {
+		"sounds": [
+			{
+				"name": "spells/dark.banshee1",
+				"stream": true
+			},
+			{
+				"name": "spells/dark.banshee2",
+				"stream": true
+			},
+			{
+				"name": "spells/dark.banshee3",
+				"stream": true
+			},
+			{
+				"name": "spells/dark.banshee4",
+				"stream": true
+			}
+		]
+	},
+	"dark.blink": {
+		"sounds": [
+			{
+				"name": "spells/dark.blink",
+				"stream": true
+			}
+		]
+	},
+	"dark.cast": {
+		"sounds": [
+			{
+				"name": "spells/dark.cast",
+				"stream": true
+			}
+		]
+	},
+	"dark.charge": {
+		"sounds": [
+			{
+				"name": "spells/dark.charge",
+				"stream": true
+			}
+		]
+	},
+	"dark.curseexplode": {
+		"sounds": [
+			{
+				"name": "spells/dark.curseexplode",
+				"stream": true
+			}
+		]
+	},
+	"dark.demontalk": {
+		"sounds": [
+			{
+				"name": "spells/dark.demontalk1",
+				"stream": true
+			},
+			{
+				"name": "spells/dark.demontalk2",
+				"stream": true
+			},
+			{
+				"name": "spells/dark.demontalk3",
+				"stream": true
+			},
+			{
+				"name": "spells/dark.demontalk4",
+				"stream": true
+			}
+		]
+	},
+	"dark.detect": {
+		"sounds": [
+			{
+				"name": "spells/dark.detect",
+				"stream": true
+			}
+		]
+	},
+	"dark.hit": {
+		"sounds": [
+			{
+				"name": "spells/dark.hit",
+				"stream": true
+			}
+		]
+	},
+	"dark.mindcontrol": {
+		"sounds": [
+			{
+				"name": "spells/dark.mindcontrol",
+				"stream": true
+			}
+		]
+	},
+	"dark.misfire": {
+		"sounds": [
+			{
+				"name": "spells/dark.misfire",
+				"stream": true
+			}
+		]
+	},
+	"dark.powerdown": {
+		"sounds": [
+			{
+				"name": "spells/dark.powerdown",
+				"stream": true
+			}
+		]
+	},
+	"dark.powersource": {
+		"sounds": [
+			{
+				"name": "spells/dark.powersource",
+				"stream": true
+			}
+		]
+	},
+	"dark.teleport": {
+		"sounds": [
+			{
+				"name": "spells/dark.teleport",
+				"stream": true
+			}
+		]
+	},
+	"dark.vanish": {
+		"sounds": [
+			{
+				"name": "spells/dark.vanish"
+			}
+		]
+	},
+	"earth.blast": {
+		"sounds": [
+			{
+				"name": "spells/earth.blast",
+				"stream": true
+			}
+		]
+	},
+	"earth.cast": {
+		"sounds": [
+			{
+				"name": "spells/earth.cast"
+			}
+		]
+	},
+	"earth.cast2": {
+		"sounds": [
+			{
+				"name": "spells/earth.cast2",
+				"stream": true
+			}
+		]
+	},
+	"earth.cast3": {
+		"sounds": [
+			{
+				"name": "spells/earth.cast3"
+			}
+		]
+	},
+	"earth.gather": {
+		"sounds": [
+			{
+				"name": "spells/earth.gather",
+				"stream": true
+			}
+		]
+	},
+	"earth.gather2": {
+		"sounds": [
+			{
+				"name": "spells/earth.gather2",
+				"stream": true
+			}
+		]
+	},
+	"earth.gather3": {
+		"sounds": [
+			{
+				"name": "spells/earth.gather3",
+				"stream": true
+			}
+		]
+	},
+	"earth.hit": {
+		"sounds": [
+			{
+				"name": "spells/earth.hit",
+				"stream": true
+			}
+		]
+	},
+	"earth.hit2": {
+		"sounds": [
+			{
+				"name": "spells/earth.hit2",
+				"stream": true
+			}
+		]
+	},
+	"earth.hit3": {
+		"sounds": [
+			{
+				"name": "spells/earth.hit3",
+				"stream": true
+			}
+		]
+	},
+	"earth.metalland": {
+		"sounds": [
+			{
+				"name": "spells/earth.metalland",
+				"stream": true
+			}
+		]
+	},
+	"earth.powerdown": {
+		"sounds": [
+			{
+				"name": "spells/earth.powerdown"
+			}
+		]
+	},
+	"earth.prepare": {
+		"sounds": [
+			{
+				"name": "spells/earth.prepare",
+				"stream": true
+			}
+		]
+	},
+	"earth.shield": {
+		"sounds": [
+			{
+				"name": "spells/earth.shield",
+				"stream": true
+			}
+		]
+	},
+	"fire.blast": {
+		"sounds": [
+			{
+				"name": "spells/fire.blast",
+				"stream": true
+			}
+		]
+	},
+	"fire.blazeloop": {
+		"sounds": [
+			{
+				"name": "spells/fire.blazeloop",
+				"stream": true
+			}
+		]
+	},
+	"fire.bonloop": {
+		"sounds": [
+			{
+				"name": "spells/fire.bonloop",
+				"stream": true
+			}
+		]
+	},
+	"fire.camploop": {
+		"sounds": [
+			{
+				"name": "spells/fire.camploop",
+				"stream": true
+			}
+		]
+	},
+	"fire.cast": {
+		"sounds": [
+			{
+				"name": "spells/fire.cast",
+				"stream": true
+			}
+		]
+	},
+	"fire.cast2": {
+		"sounds": [
+			{
+				"name": "spells/fire.cast2"
+			}
+		]
+	},
+	"fire.cast3": {
+		"sounds": [
+			{
+				"name": "spells/fire.cast3",
+				"stream": true
+			}
+		]
+	},
+	"fire.fireball": {
+		"sounds": [
+			{
+				"name": "spells/fire.fireball"
+			}
+		]
+	},
+	"fire.gather": {
+		"sounds": [
+			{
+				"name": "spells/fire.gather",
+				"stream": true
+			}
+		]
+	},
+	"fire.hit": {
+		"sounds": [
+			{
+				"name": "spells/fire.hit1"
+			},
+			{
+				"name": "spells/fire.hit2"
+			},
+			{
+				"name": "spells/fire.hit3"
+			},
+			{
+				"name": "spells/fire.hit4"
+			}
+		]
+	},
+	"fire.ignite": {
+		"sounds": [
+			{
+				"name": "spells/fire.ignite",
+				"stream": true
+			}
+		]
+	},
+	"fire.release": {
+		"sounds": [
+			{
+				"name": "spells/fire.release"
+			}
+		]
+	},
+	"fire.shield": {
+		"sounds": [
+			{
+				"name": "spells/fire.shield",
+				"stream": true
+			}
+		]
+	},
+	"fire.summon": {
+		"sounds": [
+			{
+				"name": "spells/fire.summon",
+				"stream": true
+			}
+		]
+	},
+	"fire.throw": {
+		"sounds": [
+			{
+				"name": "spells/fire.throw",
+				"stream": true
+			}
+		]
+	},
+	"fire.throwfast": {
+		"sounds": [
+			{
+				"name": "spells/fire.throwfast",
+				"stream": true
+			}
+		]
+	},
+	"ice.blast": {
+		"sounds": [
+			{
+				"name": "spells/ice.blast",
+				"stream": true
+			}
+		]
+	},
+	"ice.cast": {
+		"sounds": [
+			{
+				"name": "spells/ice.cast"
+			}
+		]
+	},
+	"ice.gather": {
+		"sounds": [
+			{
+				"name": "spells/ice.gather",
+				"stream": true
+			}
+		]
+	},
+	"ice.hit": {
+		"sounds": [
+			{
+				"name": "spells/ice.hit1"
+			},
+			{
+				"name": "spells/ice.hit2"
+			},
+			{
+				"name": "spells/ice.hit3"
+			},
+			{
+				"name": "spells/ice.hit4"
+			}
+		]
+	},
+	"light.bigblast": {
+		"sounds": [
+			{
+				"name": "spells/light.bigblast",
+				"stream": true
+			}
+		]
+	},
+	"light.buff": {
+		"sounds": [
+			{
+				"name": "spells/light.buff",
+				"stream": true
+			}
+		]
+	},
+	"light.buff2": {
+		"sounds": [
+			{
+				"name": "spells/light.buff2",
+				"stream": true
+			}
+		]
+	},
+	"light.charge": {
+		"sounds": [
+			{
+				"name": "spells/light.charge",
+				"stream": true
+			}
+		]
+	},
+	"light.gather": {
+		"sounds": [
+			{
+				"name": "spells/light.gather",
+				"stream": true
+			}
+		]
+	},
+	"light.heal": {
+		"sounds": [
+			{
+				"name": "spells/light.heal",
+				"stream": true
+			}
+		]
+	},
+	"light.heal2": {
+		"sounds": [
+			{
+				"name": "spells/light.heal2",
+				"stream": true
+			}
+		]
+	},
+	"light.powerdown": {
+		"sounds": [
+			{
+				"name": "spells/light.powerdown",
+				"stream": true
+			}
+		]
+	},
+	"light.powerup": {
+		"sounds": [
+			{
+				"name": "spells/light.powerup",
+				"stream": true
+			}
+		]
+	},
+	"light.shield": {
+		"sounds": [
+			{
+				"name": "spells/light.shield",
+				"stream": true
+			}
+		]
+	},
+	"light.summon": {
+		"sounds": [
+			{
+				"name": "spells/light.summon",
+				"stream": true
+			}
+		]
+	},
+	"light.teleport": {
+		"sounds": [
+			{
+				"name": "spells/light.teleport"
+			}
+		]
+	},
+	"poison.cast": {
+		"sounds": [
+			{
+				"name": "spells/poison.cast",
+				"stream": true
+			}
+		]
+	},
+	"poison.hit": {
+		"sounds": [
+			{
+				"name": "spells/poison.hit1"
+			},
+			{
+				"name": "spells/poison.hit2"
+			},
+			{
+				"name": "spells/poison.hit3"
+			},
+			{
+				"name": "spells/poison.hit4"
+			}
+		]
+	},
+	"thunder.blast": {
+		"sounds": [
+			{
+				"name": "spells/thunder.blast",
+				"stream": true
+			}
+		]
+	},
+	"thunder.cast": {
+		"sounds": [
+			{
+				"name": "spells/thunder.cast",
+				"stream": true
+			}
+		]
+	},
+	"thunder.cast2": {
+		"sounds": [
+			{
+				"name": "spells/thunder.cast2",
+				"stream": true
+			}
+		]
+	},
+	"thunder.gather": {
+		"sounds": [
+			{
+				"name": "spells/thunder.gather",
+				"stream": true
+			}
+		]
+	},
+	"thunder.gather2": {
+		"sounds": [
+			{
+				"name": "spells/thunder.gather2",
+				"stream": true
+			}
+		]
+	},
+	"thunder.hit": {
+		"sounds": [
+			{
+				"name": "spells/thunder.hit",
+				"stream": true
+			}
+		]
+	},
+	"thunder.shield": {
+		"sounds": [
+			{
+				"name": "spells/thunder.shield",
+				"stream": true
+			}
+		]
+	},
+	"thunder.teleport": {
+		"sounds": [
+			{
+				"name": "spells/thunder.teleport",
+				"stream": true
+			}
+		]
+	},
+	"wind.bell": {
+		"sounds": [
+			{
+				"name": "spells/wind.bell",
+				"stream": true
+			}
+		]
+	},
+	"wind.blast": {
+		"sounds": [
+			{
+				"name": "spells/wind.blast",
+				"stream": true
+			}
+		]
+	},
+	"wind.blink": {
+		"sounds": [
+			{
+				"name": "spells/wind.blink"
+			}
+		]
+	},
+	"wind.buff": {
+		"sounds": [
+			{
+				"name": "spells/wind.buff",
+				"stream": true
+			}
+		]
+	},
+	"wind.cast": {
+		"sounds": [
+			{
+				"name": "spells/wind.cast"
+			}
+		]
+	},
+	"wind.charge": {
+		"sounds": [
+			{
+				"name": "spells/wind.charge",
+				"stream": true
+			}
+		]
+	},
+	"wind.echo": {
+		"sounds": [
+			{
+				"name": "spells/wind.echo",
+				"stream": true
+			}
+		]
+	},
+	"wind.gather": {
+		"sounds": [
+			{
+				"name": "spells/wind.gather",
+				"stream": true
+			}
+		]
+	},
+	"wind.gather2": {
+		"sounds": [
+			{
+				"name": "spells/wind.gather2",
+				"stream": true
+			}
+		]
+	},
+	"wind.hit": {
+		"sounds": [
+			{
+				"name": "spells/wind.hit",
+				"stream": true
+			}
+		]
+	},
+	"wind.hit2": {
+		"sounds": [
+			{
+				"name": "spells/wind.hit2",
+				"stream": true
+			}
+		]
+	},
+	"wind.hit3": {
+		"sounds": [
+			{
+				"name": "spells/wind.hit3",
+				"stream": true
+			}
+		]
+	},
+	"wind.implosion": {
+		"sounds": [
+			{
+				"name": "spells/wind.implosion",
+				"stream": true
+			}
+		]
+	},
+	"wind.prepare": {
+		"sounds": [
+			{
+				"name": "spells/wind.prepare",
+				"stream": true
+			}
+		]
+	},
+	"wind.release": {
+		"sounds": [
+			{
+				"name": "spells/wind.release",
+				"stream": true
+			}
+		]
+	},
+	"wind.teleport": {
+		"sounds": [
+			{
+				"name": "spells/wind.teleport"
+			}
+		]
+	},
+	"sandworm.dig": {
+		"sounds": [
+			{
+				"name": "sandworm.dig1",
+				"stream": true
+			},
+			{
+				"name": "sandworm.dig2",
+				"stream": true
+			},
+			{
+				"name": "sandworm.dig3",
+				"stream": true
+			},
+			{
+				"name": "sandworm.dig4",
+				"stream": true
+			}
+		]
+	},
+	"sandworm.yell": {
+		"sounds": [
+			{
+				"name": "sandworm.yell",
+				"stream": true
+			}
+		]
+	},
+	"warpdrive": {
+		"sounds": [
+			{
+				"name": "warpdrive",
+				"stream": true
+			}
+		]
+	},
+	"warpdriveend": {
+		"sounds": [
+			{
+				"name": "warpdriveend",
+				"stream": true
+			}
+		]
+	},
+	"shipbeamup": {
+		"sounds": [
+			{
+				"name": "shipbeamup",
+				"stream": true
+			}
+		]
+	},
+	"vampire.batform.off": {
+		"sounds": [
+			{
+				"name": "vampire/vampire.batform.off"
+			}
+		]
+	},
+	"vampire.batform.on": {
+		"sounds": [
+			{
+				"name": "vampire/vampire.batform.on"
+			}
+		]
+	},
+	"vampire.dagger": {
+		"sounds": [
+			{
+				"name": "vampire/vampire.dagger1"
+			},
+			{
+				"name": "vampire/vampire.dagger2"
+			},
+			{
+				"name": "vampire/vampire.dagger3"
+			},
+			{
+				"name": "vampire/vampire.dagger4"
+			}
+		]
+	},
+	"vampire.drain": {
+		"sounds": [
+			{
+				"name": "vampire/vampire.drain"
+			}
+		]
+	},
+	"vampire.mesmerized": {
+		"sounds": [
+			{
+				"name": "vampire/vampire.mesmerized"
+			}
+		]
+	},
+	"vampire.shadowball.cast": {
+		"sounds": [
+			{
+				"name": "vampire/vampire.shadowball.cast"
+			}
+		]
+	},
+	"vampire.shadowball.fire": {
+		"sounds": [
+			{
+				"name": "vampire/vampire.shadowball.fire"
+			}
+		]
+	},
+	"vampire.shadowball.loop": {
+		"sounds": [
+			{
+				"name": "vampire/vampire.shadowball.loop"
+			}
+		]
+	},
+	"vampire.stab": {
+		"sounds": [
+			{
+				"name": "vampire/vampire.stab1"
+			},
+			{
+				"name": "vampire/vampire.stab2"
+			},
+			{
+				"name": "vampire/vampire.stab3"
+			},
+			{
+				"name": "vampire/vampire.stab4"
+			}
+		]
+	},
+	"vampire.ticktock": {
+		"sounds": [
+			{
+				"name": "vampire/vampire.ticktock"
+			}
+		]
+	},
+	"dvilspeech": {
+		"sounds": [
+			{
+				"name": "dvilspeech",
+				"stream": true
+			}
+		]
+	},
+	"dvilno": {
+		"sounds": [
+			{
+				"name": "dvilno",
+				"stream": true
+			}
+		]
+	},
+	"dvilyes": {
+		"sounds": [
+			{
+				"name": "dvilyes",
+				"stream": true
+			}
+		]
+	},
+	"dvilcall": {
+		"sounds": [
+			{
+				"name": "dvilcall",
+				"stream": true
+			}
+		]
+	},
+	"spooky": {
+		"sounds": [
+			"ambient/cave/cave1",
+			"ambient/cave/cave2",
+			"ambient/cave/cave3",
+			"ambient/cave/cave4",
+			"ambient/cave/cave5",
+			"ambient/cave/cave6",
+			"ambient/cave/cave7",
+			"ambient/cave/cave8",
+			"ambient/cave/cave9",
+			"ambient/cave/cave10",
+			"ambient/cave/cave11",
+			"ambient/cave/cave12",
+			"ambient/cave/cave13",
+			"ambient/cave/cave14",
+			"ambient/cave/cave15",
+			"ambient/cave/cave16",
+			"ambient/cave/cave17",
+			"ambient/cave/cave18",
+			"ambient/cave/cave19"
+		]
+	},
+	"clownhorn": {
+		"sounds": ["clownhorn"]
+	}
+}

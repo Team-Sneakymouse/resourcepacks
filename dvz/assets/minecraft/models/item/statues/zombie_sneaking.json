@@ -1,0 +1,219 @@
+{
+	"__comment": "Not to be reused. Created for the Buffalo Wizard Servers",
+	"textures": {
+		"0": "item/statues/zombie/head_back",
+		"1": "item/statues/zombie/head_left",
+		"2": "item/statues/zombie/head_front",
+		"3": "item/statues/zombie/head_right",
+		"4": "item/statues/zombie/head_top",
+		"5": "item/statues/zombie/head_bottom",
+		"6": "item/statues/zombie/body_back",
+		"7": "item/statues/zombie/body_left",
+		"8": "item/statues/zombie/body_front",
+		"9": "item/statues/zombie/body_right",
+		"10": "item/statues/zombie/body_top",
+		"11": "item/statues/zombie/body_bottom",
+		"12": "item/statues/zombie/right_shoulder_back",
+		"13": "item/statues/zombie/right_shoulder_left",
+		"14": "item/statues/zombie/right_shoulder_front",
+		"15": "item/statues/zombie/right_shoulder_right",
+		"16": "item/statues/zombie/right_shoulder_top",
+		"17": "item/statues/zombie/right_shoulder_bottom",
+		"18": "item/statues/zombie/left_shoulder_back",
+		"19": "item/statues/zombie/left_shoulder_left",
+		"20": "item/statues/zombie/left_shoulder_front",
+		"21": "item/statues/zombie/left_shoulder_right",
+		"22": "item/statues/zombie/left_shoulder_top",
+		"23": "item/statues/zombie/left_shoulder_bottom",
+		"24": "item/statues/zombie/right_arm_back",
+		"25": "item/statues/zombie/right_arm_left",
+		"26": "item/statues/zombie/right_arm_front",
+		"27": "item/statues/zombie/right_arm_right",
+		"28": "item/statues/zombie/right_arm_top",
+		"29": "item/statues/zombie/right_arm_bottom",
+		"30": "item/statues/zombie/left_arm_back",
+		"31": "item/statues/zombie/left_arm_left",
+		"32": "item/statues/zombie/left_arm_front",
+		"33": "item/statues/zombie/left_arm_right",
+		"34": "item/statues/zombie/left_arm_top",
+		"35": "item/statues/zombie/left_arm_bottom",
+		"36": "item/statues/zombie/right_thigh_back",
+		"37": "item/statues/zombie/right_thigh_left",
+		"38": "item/statues/zombie/right_thigh_front",
+		"39": "item/statues/zombie/right_thigh_right",
+		"40": "item/statues/zombie/right_thigh_top",
+		"41": "item/statues/zombie/right_thigh_bottom",
+		"42": "item/statues/zombie/left_thigh_back",
+		"43": "item/statues/zombie/left_thigh_left",
+		"44": "item/statues/zombie/left_thigh_front",
+		"45": "item/statues/zombie/left_thigh_right",
+		"46": "item/statues/zombie/left_thigh_top",
+		"47": "item/statues/zombie/left_thigh_bottom",
+		"48": "item/statues/zombie/right_foot_back",
+		"49": "item/statues/zombie/right_foot_left",
+		"50": "item/statues/zombie/right_foot_front",
+		"51": "item/statues/zombie/right_foot_right",
+		"52": "item/statues/zombie/right_foot_top",
+		"53": "item/statues/zombie/right_foot_bottom",
+		"54": "item/statues/zombie/left_foot_back",
+		"55": "item/statues/zombie/left_foot_left",
+		"56": "item/statues/zombie/left_foot_front",
+		"57": "item/statues/zombie/left_foot_right",
+		"58": "item/statues/zombie/left_foot_top",
+		"59": "item/statues/zombie/left_foot_bottom"
+	},
+	"elements": [
+		{
+			"from": [ 4, 21, 11 ],
+			"to": [ 12, 29, 19 ],
+			"shade": false,
+			"faces": {
+				"down": { "uv": [ 0, 0, 8, 8 ], "texture": "#5" },
+				"up": { "uv": [ 0, 0, 8, 8 ], "texture": "#4" },
+				"north": { "uv": [ 0, 0, 8, 8 ], "texture": "#0" },
+				"south": { "uv": [ 0, 0, 8, 8 ], "texture": "#2" },
+				"west": { "uv": [ 0, 0, 8, 8 ], "texture": "#3" },
+				"east": { "uv": [ 0, 0, 8, 8 ], "texture": "#1" }
+			}
+		},
+		{
+			"from": [ 4, 9.9983, 0.9995 ],
+			"to": [ 12, 21.9983, 4.9995 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 45 },
+			"faces": {
+				"down": { "uv": [ 0, 0, 8, 4 ], "texture": "#11" },
+				"up": { "uv": [ 0, 0, 8, 4 ], "texture": "#10" },
+				"north": { "uv": [ 0, 0, 8, 12 ], "texture": "#6" },
+				"south": { "uv": [ 0, 0, 8, 12 ], "texture": "#8" },
+				"west": { "uv": [ 0, 0, 4, 12 ], "texture": "#9" },
+				"east": { "uv": [ 0, 0, 4, 12 ], "texture": "#7" }
+			}
+		},
+		{
+			"from": [ 0, 14.9989, 15.0011 ],
+			"to": [ 4, 18.9989, 19.0011 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -22.5 },
+			"faces": {
+				"down": { "uv": [ 0, 0, 4, 4 ], "texture": "#17" },
+				"up": { "uv": [ 0, 0, 4, 4 ], "texture": "#16" },
+				"north": { "uv": [ 0, 0, 4, 4 ], "texture": "#12" },
+				"south": { "uv": [ 0, 0, 4, 4 ], "texture": "#14" },
+				"west": { "uv": [ 0, 0, 4, 4 ], "texture": "#15" },
+				"east": { "uv": [ 0, 0, 4, 4 ], "texture": "#13" }
+			}
+		},
+		{
+			"from": [ 12, 19.9997, 5.9981 ],
+			"to": [ 16, 23.9997, 9.9981 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 0, 0, 4, 4 ], "texture": "#23" },
+				"up": { "uv": [ 0, 0, 4, 4 ], "texture": "#22" },
+				"north": { "uv": [ 0, 0, 4, 4 ], "texture": "#18" },
+				"south": { "uv": [ 0, 0, 4, 4 ], "texture": "#20" },
+				"west": { "uv": [ 0, 0, 4, 4 ], "texture": "#21" },
+				"east": { "uv": [ 0, 0, 4, 4 ], "texture": "#19" }
+			}
+		},
+		{
+			"from": [ 0, 1.9978, 16.9986 ],
+			"to": [ 4, 10.9978, 20.9986 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -45 },
+			"faces": {
+				"down": { "uv": [ 0, 0, 4, 4 ], "texture": "#29" },
+				"up": { "uv": [ 0, 0, 4, 4 ], "texture": "#28" },
+				"north": { "uv": [ 0, 0, 4, 9 ], "texture": "#24" },
+				"south": { "uv": [ 0, 0, 4, 9 ], "texture": "#26" },
+				"west": { "uv": [ 0, 0, 4, 9 ], "texture": "#27" },
+				"east": { "uv": [ 0, 0, 4, 9 ], "texture": "#25" }
+			}
+		},
+		{
+			"from": [ 12, 7.9991, 14 ],
+			"to": [ 16, 16.9991, 18 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -22.5 },
+			"faces": {
+				"down": { "uv": [ 0, 0, 4, 4 ], "texture": "#35" },
+				"up": { "uv": [ 0, 0, 4, 4 ], "texture": "#34" },
+				"north": { "uv": [ 0, 0, 4, 9 ], "texture": "#30" },
+				"south": { "uv": [ 0, 0, 4, 9 ], "texture": "#32" },
+				"west": { "uv": [ 0, 0, 2, 9 ], "texture": "#33" },
+				"east": { "uv": [ 0, 0, 4, 9 ], "texture": "#31" }
+			}
+		},
+		{
+			"from": [ 4, 5, 7.9995 ],
+			"to": [ 8, 13, 11.9995 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -22.5 },
+			"faces": {
+				"down": { "uv": [ 0, 0, 4, 4 ], "texture": "#41" },
+				"up": { "uv": [ 0, 0, 4, 4 ], "texture": "#40" },
+				"north": { "uv": [ 0, 0, 4, 8 ], "texture": "#36" },
+				"south": { "uv": [ 0, 0, 4, 8 ], "texture": "#38" },
+				"west": { "uv": [ 0, 0, 4, 8 ], "texture": "#39" },
+				"east": { "uv": [ 0, 0, 4, 8 ], "texture": "#37" }
+			}
+		},
+		{
+			"from": [ 8, 4.9992, 3.0005 ],
+			"to": [ 12, 12.9992, 7.0005 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 0, 0, 4, 4 ], "texture": "#47" },
+				"up": { "uv": [ 0, 0, 4, 4 ], "texture": "#46" },
+				"north": { "uv": [ 0, 0, 4, 8 ], "texture": "#42" },
+				"south": { "uv": [ 0, 0, 4, 8 ], "texture": "#44" },
+				"west": { "uv": [ 0, 0, 4, 8 ], "texture": "#45" },
+				"east": { "uv": [ 0, 0, 4, 8 ], "texture": "#43" }
+			}
+		},
+		{
+			"from": [ 4, 0, 9 ],
+			"to": [ 8, 7, 13 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 4, 4 ], "texture": "#53" },
+				"up": { "uv": [ 0, 0, 4, 4 ], "texture": "#52" },
+				"north": { "uv": [ 0, 0, 4, 7 ], "texture": "#48" },
+				"south": { "uv": [ 0, 0, 4, 7 ], "texture": "#50" },
+				"west": { "uv": [ 0, 0, 4, 7 ], "texture": "#51" },
+				"east": { "uv": [ 0, 0, 2, 7 ], "texture": "#49" }
+			}
+		},
+		{
+			"from": [ 8, -3.001, 4.0027 ],
+			"to": [ 12, 3.999, 8.0027 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 45 },
+			"faces": {
+				"down": { "uv": [ 0, 0, 4, 4 ], "texture": "#59" },
+				"up": { "uv": [ 0, 0, 4, 4 ], "texture": "#58" },
+				"north": { "uv": [ 0, 0, 4, 7 ], "texture": "#54" },
+				"south": { "uv": [ 0, 0, 4, 7 ], "texture": "#56" },
+				"west": { "uv": [ 0, 0, 4, 7 ], "texture": "#57" },
+				"east": { "uv": [ 0, 0, 4, 7 ], "texture": "#55" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"thirdperson_lefthand": {
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 180, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 180, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"gui": {
+			"translation":  [ 0, -3.25, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 180, 0 ]
+		}
+	}
+}

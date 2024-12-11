@@ -1,0 +1,20 @@
+{
+	"pack": {
+		"pack_format": 42,
+		"description": "Systems assets for Lords of Minecraft"
+	},
+	"organization": [
+		"praying",
+		"jobboard",
+		"paladins",
+		"plots",
+		"crates",
+		"store",
+		"bank",
+		"mail",
+		"auctionhouse",
+		"admin",
+		"scrying",
+		"skills"
+	]
+}

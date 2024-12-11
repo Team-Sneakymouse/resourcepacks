@@ -1,0 +1,9 @@
+{
+	"__comment": "Designed by Manifusion with Cubik Studio - https://cubik.studio",
+	"parent": "item/hats/jimmy_the_rat",
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

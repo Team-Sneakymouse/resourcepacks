@@ -1,0 +1,50 @@
+{
+	"vidwindow.summon": {
+		"sounds": ["lom:vidwindow.summon"]
+	},
+	"vidwindow.dismiss": {
+		"sounds": ["lom:vidwindow.dismiss"]
+	},
+	"scanner.boot": {
+		"sounds": [{ "name": "lom:scanner.boot", "stream": true }]
+	},
+	"scanner.fail": {
+		"sounds": [{ "name": "lom:scanner.fail", "stream": true }]
+	},
+	"airshipflyby": {
+		"sounds": ["lom:airshipflyby"]
+	},
+	"airshipdrop": {
+		"sounds": ["lom:airshipdrop"]
+	},
+	"flarestart": {
+		"sounds": ["lom:flarestart"]
+	},
+	"flareloop": {
+		"sounds": ["lom:flareloop"]
+	},
+	"sfx.paladincrate": {
+		"sounds": ["lom:paladincrate"]
+	},
+	"paladincannonserverblast": {
+		"sounds": ["lom:paladincannonserverblast"]
+	},
+	"paladincannonlaunch": {
+		"sounds": ["lom:paladincannonlaunch"]
+	},
+	"paladincannonmusic": {
+		"sounds": ["lom:paladincannonmusic"]
+	},
+	"paladincannonshutdown": {
+		"sounds": ["lom:paladincannonshutdown"]
+	},
+	"warpdrive": {
+		"sounds": [{ "name": "lom:warpdrive", "stream": true }]
+	},
+	"warpdriveend": {
+		"sounds": [{"name": "lom:warpdriveend", "stream": true }]
+	},
+	"shipbeamup": {
+		"sounds": [{ "name": "lom:shipbeamup", "stream": true }]
+	}
+}

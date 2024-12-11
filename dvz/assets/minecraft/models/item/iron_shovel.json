@@ -1,0 +1,10 @@
+{
+	"parent": "item/vanilla/iron_shovel",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "item/tools/dwarven_shovel" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "abyss_pack:item/abyss_shovel" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "item/weapons/gravedigger" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "abyss_pack:item/abyss_shovel_white" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "abyss_pack:item/abyss_shovel_black" }
+	]
+}
