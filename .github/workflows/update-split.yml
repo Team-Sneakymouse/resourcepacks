@@ -1,0 +1,27 @@
+on:
+  push:
+    branches:
+      - split
+      - main
+jobs:
+  zip-and-upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: list directories
+        run: ls -d */
+      - name: Create zips directory
+        run: mkdir resourcepacks
+      - name: Zip resourcepacks
+        run: |
+          for dir in $(ls -d */); do
+            pushd $dir
+            zip -r -q ../resourcepacks/lom-${dir%/}.zip *
+            popd
+          done
+          ls -l resourcepacks
+      # upload all zips to the SFTP server
+      - name: Upload zips
+        run: |
+          sshpass -p '${{ secrets.SFTP_PASSWORD }}' sftp -oStrictHostKeyChecking=no -P ${{ secrets.SFTP_PORT }} ${{ secrets.SFTP_USER }}@${{ secrets.SFTP_HOST }}:/files/resourcepacks/ <<< $'put resourcepacks/*.zip'
