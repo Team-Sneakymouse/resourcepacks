@@ -1,0 +1,8 @@
+{
+	"__comment": "Designed by Manifusion with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
+	"parent": "lom:item/items/d20",
+	"textures": {
+		"LoM_D20_Base": "minecraft:block/magenta_concrete_powder",
+		"LoM_D20_Frame": "minecraft:block/purpur_block"
+	}
+}

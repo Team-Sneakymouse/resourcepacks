@@ -1,0 +1,8 @@
+{
+	"__comment": "Designed by Manifusion with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
+	"parent": "lom:item/items/d20",
+	"textures": {
+		"LoM_D20_Base": "minecraft:block/red_nether_bricks",
+		"LoM_D20_Frame": "minecraft:block/chiseled_nether_bricks"
+	}
+}
