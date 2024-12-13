@@ -18,7 +18,8 @@ jobs:
               continue
             fi
             pushd $dir
-            zip -r -q ../resourcepacks/lom-${dir%/}.zip *
+            # Create deterministic zip files
+            find . -type f -print | sort | zip -X -r -q ../resourcepacks/lom-${dir%/}.zip -@
             popd
           done
           ls -l resourcepacks
