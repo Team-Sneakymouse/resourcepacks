@@ -2,7 +2,7 @@
 	"id": "00000000-5555-4321-a000-000000000012",
 	"name": "entities",
 	"pack": {
-		"pack_format": 46,
+		"pack_format": 32,
 		"supporetd_formats": [32, 46],
 		"description": "Entity assets for Lords of Minecraft"
 	}
