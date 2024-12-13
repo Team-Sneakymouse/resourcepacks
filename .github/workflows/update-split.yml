@@ -9,13 +9,14 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-      - name: list directories
-        run: ls -d */
       - name: Create zips directory
         run: mkdir resourcepacks
       - name: Zip resourcepacks
         run: |
           for dir in $(ls -d */); do
+            if [ "$dir" == "resourcepacks/" ]; then
+              continue
+            fi
             pushd $dir
             zip -r -q ../resourcepacks/lom-${dir%/}.zip *
             popd
@@ -25,3 +26,26 @@ jobs:
       - name: Upload zips
         run: |
           sshpass -p '${{ secrets.SFTP_PASSWORD }}' sftp -oStrictHostKeyChecking=no -P ${{ secrets.SFTP_PORT }} ${{ secrets.SFTP_USER }}@${{ secrets.SFTP_HOST }}:/files/resourcepacks/ <<< $'put resourcepacks/*.zip'
+      - name: Send Multicraft command
+        run: |
+          # Initialize an empty JSON array
+          echo "[" > resourcepack_hashes.json
+      
+          # Collect hashes and add to JSON file
+          for zip in resourcepacks/*.zip; do
+            name=$(basename "$zip" .zip)
+            hash=$(sha1sum "$zip" | awk '{print $1}')
+            echo "{\"name\": \"${name}\", \"hash\": \"${hash}\"}," >> resourcepack_hashes.json
+          done
+      
+          # Remove the trailing comma and close the JSON array
+          sed -i '$ s/,$//' resourcepack_hashes.json
+          echo "]" >> resourcepack_hashes.json
+      
+          # Send the JSON file as the body of a single HTTP POST request
+          curl -X POST \
+            --url "${{ secrets.RESOURCEPACK_WEBHOOK }}" \
+            -H "Content-Type: application/json" \
+            --data @resourcepack_hashes.json
+        
+          
