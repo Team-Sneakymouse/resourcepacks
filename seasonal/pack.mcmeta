@@ -1,6 +1,8 @@
 {
+	"id": "00000000-5555-4321-a000-000000000014",
+	"name": "seasonal",
 	"pack": {
-		"pack_format": 42,
+		"pack_format": [32, 46],
 		"description": "Seaonal assets for Lords of Minecraft"
 	}
 }

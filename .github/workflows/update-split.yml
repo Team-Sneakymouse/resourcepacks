@@ -21,12 +21,13 @@ jobs:
       - name: Zip resourcepacks
         run: |
           for dir in $(ls -d */); do
-            if [ "$dir" == "resourcepacks/" ]; then
-              continue
+            if [ ! -f "${dir}pack.mcmeta" ]; then
+              continue # Skip directories without pack.mcmeta
             fi
             pushd $dir
+            name=$(jq -r '.name' pack.mcmeta)
             # Create deterministic zip files
-            find . -type f -print | sort | zip -X -o -r -q ../resourcepacks/lom-${dir%/}.zip -@
+            find . -type f -print | sort | zip -X -o -r -q ../resourcepacks/lom-${name}.zip -@
             popd
           done
           for zip in resourcepacks/*.zip; do sha1sum "$zip"; done

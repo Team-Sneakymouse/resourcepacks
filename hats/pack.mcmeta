@@ -1,6 +1,9 @@
 {
+	"id": "00000000-5555-4321-a000-000000000007",
+	"name": "hats",
 	"pack": {
-		"pack_format": 42,
+		"pack_format": 46,
+		"supporetd_formats": [32, 46],
 		"description": "Headwear assets for Lords of Minecraft"
 	}
 }
