@@ -9,6 +9,13 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          lfs: false
+      - name: Normalize file timestamps
+        run: |
+          # Set all file timestamps to their commit date
+          find . -exec touch -d "$(git log -1 --format=%cI -- {})" {} +
       - name: Create zips directory
         run: mkdir resourcepacks
       - name: Zip resourcepacks
@@ -19,10 +26,10 @@ jobs:
             fi
             pushd $dir
             # Create deterministic zip files
-            find . -type f -print | sort | zip -X -r -q ../resourcepacks/lom-${dir%/}.zip -@
+            find . -type f -print | sort | zip -X -o -r -q ../resourcepacks/lom-${dir%/}.zip -@
             popd
           done
-          ls -l resourcepacks
+          for zip in resourcepacks/*.zip; do sha1sum "$zip"; done
       # upload all zips to the SFTP server
       - name: Upload zips
         run: |
