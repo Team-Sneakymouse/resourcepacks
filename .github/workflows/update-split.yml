@@ -20,12 +20,21 @@ jobs:
         run: mkdir resourcepacks
       - name: Zip resourcepacks
         run: |
+          declare -A pack_ids # Keep track of pack IDs in an associative array
           for dir in $(ls -d */); do
             if [ ! -f "${dir}pack.mcmeta" ]; then
               continue # Skip directories without pack.mcmeta
             fi
             pushd $dir
             name=$(jq -r '.name' pack.mcmeta)
+            id=$(jq -r '.id' pack.mcmeta)
+            # Check for duplicate pack IDs
+            if [ -n "${pack_ids[$id]}" ]; then
+              echo "Error: Duplicate pack ID: $id" >&2
+              exit 1
+            fi
+            pack_ids[$id]=1
+
             # Create deterministic zip files
             find . -type f -print | sort | zip -X -o -r -q ../resourcepacks/lom-${name}.zip -@
             popd
