@@ -105,9 +105,6 @@
 	"hatwolfhunter": {
 		"sounds": ["lom:hatwolfhunter"]
 	},
-	"general.offcooldown": {
-		"sounds": ["lom:general.offcooldown"]
-	},
 	"general.hitding": {
 		"sounds": ["lom:general.hitding"]
 	},
