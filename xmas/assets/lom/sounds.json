@@ -1,5 +1,17 @@
 {
 	"xmas5": {
 		"sounds": ["lom:xmas5"]
+	},
+	"krampus.sackattack": {
+		"sounds": ["lom:krampus.sackattack"]
+	},
+	"krampus.spawn": {
+		"sounds": ["lom:krampus.spawn"]
+	},
+	"krampus.spinattack": {
+		"sounds": ["lom:krampus.spinattack"]
+	},
+	"krampus": {
+		"sounds": ["lom:krampus1", "lom:krampus2", "lom:krampus3", "lom:krampus4", "lom:krampus5", "lom:krampus6", "lom:krampus7"]
 	}
 }
