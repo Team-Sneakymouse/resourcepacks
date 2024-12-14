@@ -437,6 +437,5 @@
 	},
 	"cheesespawn": {
 		"sounds": ["lom:cheesespawn"]
-	},
-	
+	}
 }

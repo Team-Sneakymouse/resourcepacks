@@ -31,5 +31,5 @@
 	},
 	"sfx.ignite5": {
 		"sounds": ["lom:sfx/ignite5"]
-	},
+	}
 }

@@ -169,8 +169,5 @@
 	},
 	"sfx.clothingunequip": {
 		"sounds": ["lom:sfx/clothingunequip"]
-	},
-	
-
-
+	}
 }

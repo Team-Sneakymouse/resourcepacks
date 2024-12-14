@@ -13,6 +13,5 @@
 		"replace": true,
 		"sounds": ["lom:random/custom.bowhit1", "lom:random/custom.bowhit2", "lom:random/custom.bowhit3", "lom:random/custom.bowhit4"],
 		"subtitle": "subtitles.entity.arrow.hit"
-	},
-	
+	}
 }

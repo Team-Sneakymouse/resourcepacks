@@ -149,11 +149,7 @@
 		"sounds": ["lom:environment/giantscryingorb"]
 	},
 	"gravitywell": {
-		"sounds": [
-			"lom:environment/gravitywell1",
-			"lom:environment/gravitywell2",
-			"lom:environment/gravitywell3"
-		]
+		"sounds": ["lom:environment/gravitywell1", "lom:environment/gravitywell2", "lom:environment/gravitywell3"]
 	},
 	"harshwinds": {
 		"sounds": [
@@ -168,10 +164,7 @@
 		"sounds": ["lom:environment/moodring"]
 	},
 	"rockslide": {
-		"sounds": [
-			"lom:environment/rockslide1",
-			"lom:environment/rockslide2"
-		]
+		"sounds": ["lom:environment/rockslide1", "lom:environment/rockslide2"]
 	},
 	"spirtfield": {
 		"sounds": ["lom:environment/spirtfield"]
@@ -179,10 +172,10 @@
 	"staticelectricity": {
 		"sounds": ["lom:environment/staticelectricity"]
 	},
-		"darkvalebell": {
+	"darkvalebell": {
 		"sounds": ["lom:darkvalebell"]
 	},
 	"quake": {
 		"sounds": ["lom:quake"]
-	},
+	}
 }

@@ -1,5 +1,4 @@
 {
-	
 	"introsong": {
 		"sounds": [{ "name": "lom:introsong", "stream": true }]
 	},
@@ -66,5 +65,5 @@
 	},
 	"godfatherash": {
 		"sounds": ["lom:godfatherash"]
-	},
+	}
 }

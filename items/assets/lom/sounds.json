@@ -127,7 +127,7 @@
 		"sounds": ["lom:wpnbuffalohorn"]
 	},
 	"wpnproc": {
-		"sounds": ["name": "lom:wpnproc"]
+		"sounds": ["lom:wpnproc"]
 	},
 	"warhammercharge": {
 		"sounds": ["lom:warhammercharge"]
@@ -197,5 +197,5 @@
 	},
 	"sfx.manners": {
 		"sounds": ["lom:sfx/manners1", "lom:sfx/manners2", "lom:sfx/manners3"]
-	},
+	}
 }

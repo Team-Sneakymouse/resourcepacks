@@ -1,5 +1,4 @@
 {
-	
 	"daq.talk4a": {
 		"sounds": ["lom:magic/daqtalk4a"]
 	},
@@ -86,5 +85,5 @@
 	},
 	"storejimmy": {
 		"sounds": ["lom:storejimmy1", "lom:storejimmy2", "lom:storejimmy3", "lom:storejimmy4", "lom:storejimmy5"]
-	},
+	}
 }
