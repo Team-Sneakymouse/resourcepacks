@@ -434,5 +434,11 @@
 	},
 	"skate": {
 		"sounds": ["lom:skate1", "lom:skate2", "lom:skate3"]
+	},
+	"explosion": {
+		"sounds": ["lom:explosion"]
+	},
+	"explosion1": {
+		"sounds": ["lom:explosion1"]
 	}
 }
