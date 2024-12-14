@@ -44,7 +44,28 @@ jobs:
       - name: Upload zips
         run: |
           sshpass -p '${{ secrets.SFTP_PASSWORD }}' sftp -oStrictHostKeyChecking=no -P ${{ secrets.SFTP_PORT }} ${{ secrets.SFTP_USER }}@${{ secrets.SFTP_HOST }}:/files/resourcepacks/ <<< $'put resourcepacks/*.zip'
+      # - name: Upload zips
+      #   run: |
+      #     uploaded_count=0
+      #     for zip in resourcepacks/*.zip; do
+      #       local_hash=$(sha1sum "$zip" | awk '{print $1}')
+      #       remote_file="/files/resourcepacks/$(basename "$zip")"
+      #       echo "Local hash: $local_hash"
+      #       remote_hash=$(sshpass -p '${{ secrets.SFTP_PASSWORD }}' ssh -oStrictHostKeyChecking=no -p ${{ secrets.SFTP_PORT }} ${{ secrets.SFTP_USER }}@${{ secrets.SFTP_HOST }} "sha1sum $remote_file 2>/dev/null | awk '{print \$1}'")
+      #       echo "Remote hash: $remote_hash"
+
+      #       if [ -z "$remote_hash" ] || [ "$local_hash" != "$remote_hash" ]; then
+      #         sshpass -p '${{ secrets.SFTP_PASSWORD }}' sftp -oStrictHostKeyChecking=no -P ${{ secrets.SFTP_PORT }} ${{ secrets.SFTP_USER }}@${{ secrets.SFTP_HOST }}:/files/resourcepacks/ <<< "put $zip $remote_file"
+      #         uploaded_count=$((uploaded_count + 1))
+      #       else
+      #         echo "Skipping $zip: already up to date (hash: $local_hash)"
+      #       fi
+      #       echo ""
+      #     done
+      #     echo "Uploaded $uploaded_count files"
+      #     echo "UPLOADED_COUNT=$uploaded_count" >> $GITHUB_ENV
       - name: Send Multicraft command
+        # if: env.UPLOADED_COUNT > 0
         run: |
           # Initialize an empty JSON array
           echo "[" > resourcepack_hashes.json
