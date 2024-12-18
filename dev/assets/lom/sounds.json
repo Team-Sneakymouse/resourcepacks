@@ -1,0 +1,13 @@
+{
+	"hulahoop": {
+		"sounds": [
+			"lom:hulahoop1",
+			"lom:hulahoop2",
+			"lom:hulahoop3",
+			"lom:hulahoop4"
+		]
+	},
+	"hulahoopdrop": {
+		"sounds": ["lom:hulahoopdrop"]
+	}
+}
