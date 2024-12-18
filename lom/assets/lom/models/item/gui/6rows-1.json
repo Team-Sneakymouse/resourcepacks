@@ -1,0 +1,10 @@
+{
+	"parent": "lom:item/gui/6rows",
+	"display": {
+		"gui": {
+			"rotation": [0, -90, 0],
+			"translation": [57, -34.75, -5],
+			"scale": [0.0001, 4, 4]
+		}
+	}
+}

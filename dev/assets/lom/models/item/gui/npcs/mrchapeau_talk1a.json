@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/gui/6rows-1",
+	"textures": {
+		"texture": "lom:item/gui/npcs/mrchapeau_talk1a"
+	}
+}
