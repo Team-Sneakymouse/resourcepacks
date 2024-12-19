@@ -1,13 +1,32 @@
 {
 	"hulahoop": {
-		"sounds": [
-			"lom:hulahoop1",
-			"lom:hulahoop2",
-			"lom:hulahoop3",
-			"lom:hulahoop4"
-		]
+		"sounds": ["lom:hulahoop1", "lom:hulahoop2", "lom:hulahoop3", "lom:hulahoop4"]
 	},
 	"hulahoopdrop": {
 		"sounds": ["lom:hulahoopdrop"]
+	},
+	"drumroll1": {
+		"sounds": ["lom:drumroll1"]
+	},
+	"drumroll2": {
+		"sounds": ["lom:drumroll2"]
+	},
+	"drumroll3": {
+		"sounds": ["lom:drumroll3"]
+	},
+	"drumroll4": {
+		"sounds": ["lom:drumroll4"]
+	},
+	"drumroll5": {
+		"sounds": ["lom:drumroll5"]
+	},
+	"drumroll6": {
+		"sounds": ["lom:drumroll6"]
+	},
+	"drumroll7": {
+		"sounds": ["lom:drumroll7"]
+	},
+	"stackitlose": {
+		"sounds": ["lom:stackitlose"]
 	}
 }
