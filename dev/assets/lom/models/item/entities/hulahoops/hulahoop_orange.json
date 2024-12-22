@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by MsDvil",
+	"texture_size": [32, 32],
+	"parent": "lom:item/entities/hulahoops/hulahoop_candycane",
+	"textures": {
+		"highlight": "block/orange_concrete_powder",
+		"main": "block/orange_concrete_powder"
+	}
+}
