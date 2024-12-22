@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench by MsDvil",
+	"texture_size": [32, 32],
+	"parent": "lom:item/entities/kites/kite",
+	"textures": {
+		"particle": "block/cracked_polished_blackstone_bricks",
+		"sail": "block/cracked_polished_blackstone_bricks",
+		"frame": "block/stripped_oak_log",
+		"tail": "block/red_wool",
+		"bow": "block/cracked_polished_blackstone_bricks",
+		"image": "lom:item/items/invisible"
+	}
+}

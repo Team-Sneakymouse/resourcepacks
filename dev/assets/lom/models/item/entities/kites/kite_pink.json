@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench by MsDvil",
+	"texture_size": [32, 32],
+	"parent": "lom:item/entities/kites/kite",
+	"textures": {
+		"particle": "block/brain_coral_block",
+		"sail": "block/brain_coral_block",
+		"frame": "block/stripped_oak_log",
+		"tail": "block/amethyst_block",
+		"bow": "block/brain_coral_block",
+		"image": "lom:item/items/invisible"
+	}
+}
