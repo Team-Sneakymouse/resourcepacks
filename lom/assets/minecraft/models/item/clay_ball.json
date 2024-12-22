@@ -83,6 +83,13 @@
 		{ "predicate": { "custom_model_data": 207 }, "model": "lom:item/entities/racks/racks_runeblade2" },
 
 		{ "predicate": { "custom_model_data": 301 }, "model": "lom:item/entities/willyswheels/fire_engine" },
+		{ "predicate": { "custom_model_data": 302 }, "model": "lom:item/entities/willyswheels/alfa_romeo_spider" },
+		{ "predicate": { "custom_model_data": 303 }, "model": "lom:item/entities/willyswheels/honda_s2000_suki" },
+		{ "predicate": { "custom_model_data": 304 }, "model": "lom:item/entities/willyswheels/london_bus" },
+		{ "predicate": { "custom_model_data": 305 }, "model": "lom:item/entities/willyswheels/lamborghini_aventador_sv" },
+		{ "predicate": { "custom_model_data": 306 }, "model": "lom:item/entities/willyswheels/lamborghini" },
+		{ "predicate": { "custom_model_data": 307 }, "model": "lom:item/entities/willyswheels/forklift" },
+		{ "predicate": { "custom_model_data": 308 }, "model": "lom:item/entities/willyswheels/pizza_boy" },
 
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/entities/vidwindows/scanner_details" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/entities/vidwindows/scanner_main" },
