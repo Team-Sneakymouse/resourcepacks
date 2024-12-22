@@ -5,5 +5,17 @@
 	"textures": {
 		"0": "lom:item/tools/wings/wings_6",
 		"particle": "lom:item/tools/wings/wings_6"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [160, 0, 0],
+			"translation": [-6, -9, 19],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [160, 0, 0],
+			"translation": [-6, -9, 19],
+			"scale": [1.2, 1.2, 1.2]
+		}
 	}
 }

@@ -1,7 +1,7 @@
 {
 	"credit": "www.pixelmine.com",
 	"texture_size": [64, 64],
-	"parent": "lom:item/tools/wings/wings",
+	"parent": "lom:item/tools/wings/wings_22-a",
 	"textures": {
 		"0": "lom:item/tools/wings/wings_22-6",
 		"particle": "lom:item/tools/wings/wings_22-6"
