@@ -117,6 +117,8 @@
 		{ "predicate": { "custom_model_data": 114 }, "model": "lom:item/items/d20/d20_whitegreen" },
 		{ "predicate": { "custom_model_data": 115 }, "model": "lom:item/items/d20/d20_yellow" },
 		{ "predicate": { "custom_model_data": 116 }, "model": "lom:item/items/d20/d20_yellowgreen" },
+		{ "predicate": { "custom_model_data": 117 }, "model": "lom:item/items/d20/d20_xmas" },
+		{ "predicate": { "custom_model_data": 118 }, "model": "lom:item/items/d20/d20_brick" },
 
 		{ "predicate": { "custom_model_data": 1000 }, "model": "lom:item/items/crates/crate_stock" },
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/crates/crate_cheese" },
