@@ -120,6 +120,9 @@
 		{ "predicate": { "custom_model_data": 117 }, "model": "lom:item/items/d20/d20_xmas" },
 		{ "predicate": { "custom_model_data": 118 }, "model": "lom:item/items/d20/d20_brick" },
 		{ "predicate": { "custom_model_data": 119 }, "model": "lom:item/items/stackit" },
+		{ "predicate": { "custom_model_data": 120 }, "model": "lom:item/items/dvil_card" },
+		{ "predicate": { "custom_model_data": 121 }, "model": "lom:item/items/bruce_card" },
+		{ "predicate": { "custom_model_data": 122 }, "model": "lom:item/items/gpo_card" },
 
 		{ "predicate": { "custom_model_data": 1000 }, "model": "lom:item/items/crates/crate_stock" },
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/crates/crate_cheese" },
