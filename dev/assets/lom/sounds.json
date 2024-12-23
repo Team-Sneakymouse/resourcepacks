@@ -30,6 +30,12 @@
 		"sounds": ["lom:stackitlose"]
 	},
 	"sfx.laugh": {
-		"sounds": ["lom:sfx/laugh1","lom:sfx/laugh2","lom:sfx/laugh3","lom:sfx/laugh4","lom:sfx/laugh5"]
+		"sounds": ["lom:sfx/laugh1", "lom:sfx/laugh2", "lom:sfx/laugh3", "lom:sfx/laugh4", "lom:sfx/laugh5"]
+	},
+	"bouncyball": {
+		"sounds": ["lom:bouncyball1", "lom:bouncyball2", "lom:bouncyball3"]
+	},
+	"bouncyballshake": {
+		"sounds": ["lom:bouncyballshake"]
 	}
 }
