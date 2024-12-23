@@ -1,5 +1,5 @@
 {
-	"parent": "item/vanilla/diamond_pickaxe",
+	"parent": "item/vanilla/fishing_rod",
 	"overrides": [
 		{ "predicate": { "custom_model_data": 33 }, "model": "lom:item/tools/kites/kite_old" },
 		{ "predicate": { "custom_model_data": 33, "cast": 1 }, "model": "lom:item/tools/kites/kite_handle_white" },
