@@ -97,5 +97,8 @@
 	},
 	"dolljimmy5": {
 		"sounds": ["lom:dolljimmy5"]
+	},
+	"jimmydolldead": {
+		"sounds": ["lom:jimmydolldead"]
 	}
 }
