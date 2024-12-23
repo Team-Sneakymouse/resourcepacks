@@ -49,5 +49,53 @@
 	},
 	"sleighbells": {
 		"sounds": ["lom:sleighbells1", "sleighbells2"]
+	},
+	"brucedoll1": {
+		"sounds": ["lom:brucedoll1"]
+	},
+	"brucedoll2": {
+		"sounds": ["lom:brucedoll2"]
+	},
+	"brucedoll3": {
+		"sounds": ["lom:brucedoll3"]
+	},
+	"brucedoll4": {
+		"sounds": ["lom:brucedoll4"]
+	},
+	"brucedoll5": {
+		"sounds": ["lom:brucedoll5"]
+	},
+	"brucedoll6": {
+		"sounds": ["lom:brucedoll6"]
+	},
+	"brucedoll7": {
+		"sounds": ["lom:brucedoll7"]
+	},
+	"brucedoll8": {
+		"sounds": ["lom:brucedoll8"]
+	},
+	"brucedoll9": {
+		"sounds": ["lom:brucedoll9"]
+	},
+	"brucedoll10": {
+		"sounds": ["lom:brucedoll10"]
+	},
+	"brucedoll11": {
+		"sounds": ["lom:brucedoll11"]
+	},
+	"dolljimmy1": {
+		"sounds": ["lom:dolljimmy1"]
+	},
+	"dolljimmy2": {
+		"sounds": ["lom:dolljimmy2"]
+	},
+	"dolljimmy3": {
+		"sounds": ["lom:dolljimmy3"]
+	},
+	"dolljimmy4": {
+		"sounds": ["lom:dolljimmy4"]
+	},
+	"dolljimmy5": {
+		"sounds": ["lom:dolljimmy5"]
 	}
 }
