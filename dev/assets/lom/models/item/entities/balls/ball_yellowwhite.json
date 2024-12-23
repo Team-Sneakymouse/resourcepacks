@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"parent": "lom:item/entities/balls/ball_blue",
 	"textures": {
-		"0": "minecraft:block/white_glazed_terracotta",
-		"particle": "minecraft:block/white_glazed_terracotta"
+		"0": "lom:item/entities/balls/white_glazed_terracotta",
+		"particle": "lom:item/entities/balls/white_glazed_terracotta"
 	}
 }
