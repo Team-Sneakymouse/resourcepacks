@@ -37,5 +37,14 @@
 	},
 	"bouncyballshake": {
 		"sounds": ["lom:bouncyballshake"]
+	},
+	"dicebounce": {
+		"sounds": ["lom:dicebounce"]
+	},
+	"diceroll": {
+		"sounds": ["lom:diceroll"]
+	},
+	"diceshake": {
+		"sounds": ["lom:diceshake"]
 	}
 }
