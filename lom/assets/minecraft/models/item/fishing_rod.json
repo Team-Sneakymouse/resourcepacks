@@ -1,0 +1,25 @@
+{
+	"parent": "item/vanilla/diamond_pickaxe",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 33 }, "model": "lom:item/tools/kites/kite_old" },
+		{ "predicate": { "custom_model_data": 33, "cast": 1 }, "model": "lom:item/tools/kites/kite_handle_white" },
+		{ "predicate": { "custom_model_data": 37 }, "model": "lom:item/tools/kites/kite_black" },
+		{ "predicate": { "custom_model_data": 37, "cast": 1 }, "model": "lom:item/tools/kites/kite_handle_white" },
+		{ "predicate": { "custom_model_data": 38 }, "model": "lom:item/tools/kites/kite_blue" },
+		{ "predicate": { "custom_model_data": 38, "cast": 1 }, "model": "lom:item/tools/kites/kite_handle_white" },
+		{ "predicate": { "custom_model_data": 39 }, "model": "lom:item/tools/kites/kite_gold" },
+		{ "predicate": { "custom_model_data": 39, "cast": 1 }, "model": "lom:item/tools/kites/kite_handle_white" },
+		{ "predicate": { "custom_model_data": 40 }, "model": "lom:item/tools/kites/kite_green" },
+		{ "predicate": { "custom_model_data": 40, "cast": 1 }, "model": "lom:item/tools/kites/kite_handle_white" },
+		{ "predicate": { "custom_model_data": 41 }, "model": "lom:item/tools/kites/kite_pink" },
+		{ "predicate": { "custom_model_data": 41, "cast": 1 }, "model": "lom:item/tools/kites/kite_handle_white" },
+		{ "predicate": { "custom_model_data": 42 }, "model": "lom:item/tools/kites/kite_redankh" },
+		{ "predicate": { "custom_model_data": 42, "cast": 1 }, "model": "lom:item/tools/kites/kite_handle_white" },
+		{ "predicate": { "custom_model_data": 43 }, "model": "lom:item/tools/kites/kite_redtree" },
+		{ "predicate": { "custom_model_data": 43, "cast": 1 }, "model": "lom:item/tools/kites/kite_handle_white" },
+		{ "predicate": { "custom_model_data": 44 }, "model": "lom:item/tools/kites/kite_whiteankh" },
+		{ "predicate": { "custom_model_data": 44, "cast": 1 }, "model": "lom:item/tools/kites/kite_handle_white" },
+		{ "predicate": { "custom_model_data": 45 }, "model": "lom:item/tools/kites/kite_whitetree" },
+		{ "predicate": { "custom_model_data": 45, "cast": 1 }, "model": "lom:item/tools/kites/kite_handle_white" }
+	]
+}
