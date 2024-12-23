@@ -46,5 +46,8 @@
 	},
 	"diceshake": {
 		"sounds": ["lom:diceshake"]
+	},
+	"sleighbells": {
+		"sounds": ["lom:sleighbells1", "sleighbells2"]
 	}
 }
