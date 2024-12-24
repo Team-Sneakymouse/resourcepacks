@@ -174,7 +174,7 @@
 		{ "predicate": { "custom_model_data": 2701 }, "model": "lom:item/items/crates/crate_goatmilk" },
 		{ "predicate": { "custom_model_data": 2702 }, "model": "lom:item/items/crates/crate_soapbottle" },
 
-		{ "predicate": { "custom_model_data": 5001 }, "model": "lom:item/items/nou_game/nou_onecard" },
+		{ "predicate": { "custom_model_data": 5001 }, "model": "lom:item/items/nou_game/nou_box" },
 		{ "predicate": { "custom_model_data": 5002 }, "model": "lom:item/items/nou_game/nou_points1" },
 		{ "predicate": { "custom_model_data": 5003 }, "model": "lom:item/items/nou_game/nou_points2" },
 		{ "predicate": { "custom_model_data": 5004 }, "model": "lom:item/items/nou_game/nou_points3" },
