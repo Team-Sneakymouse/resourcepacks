@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/prismarine_shard"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 5002 }, "model": "lom:item/items/nou_game/nou_points1" },
+		{ "predicate": { "custom_model_data": 5003 }, "model": "lom:item/items/nou_game/nou_points2" },
+		{ "predicate": { "custom_model_data": 5004 }, "model": "lom:item/items/nou_game/nou_points3" },
+		{ "predicate": { "custom_model_data": 5005 }, "model": "lom:item/items/nou_game/nou_points5" },
+		{ "predicate": { "custom_model_data": 5006 }, "model": "lom:item/items/nou_game/nou_points10" },
+		{ "predicate": { "custom_model_data": 5007 }, "model": "lom:item/items/nou_game/nou_points25" },
+		{ "predicate": { "custom_model_data": 5008 }, "model": "lom:item/items/nou_game/nou_points55" },
+		{ "predicate": { "custom_model_data": 5009 }, "model": "lom:item/items/nou_game/nou_points69" },
+		{ "predicate": { "custom_model_data": 5010 }, "model": "lom:item/items/nou_game/nou_points123" },
+		{ "predicate": { "custom_model_data": 5011 }, "model": "lom:item/items/nou_game/nou_points420" },
+		{ "predicate": { "custom_model_data": 5012 }, "model": "lom:item/items/nou_game/nou_points666" },
+		{ "predicate": { "custom_model_data": 5013 }, "model": "lom:item/items/nou_game/nou_points1337" },
+		{ "predicate": { "custom_model_data": 5014 }, "model": "lom:item/items/nou_game/nou_points55555" },
+		{ "predicate": { "custom_model_data": 5015 }, "model": "lom:item/items/nou_game/nou_points107987" },
+		{ "predicate": { "custom_model_data": 5016 }, "model": "lom:item/items/nou_game/nou_points964544" },
+		{ "predicate": { "custom_model_data": 5017 }, "model": "lom:item/items/nou_game/nou_points2352115" },
+		{ "predicate": { "custom_model_data": 5018 }, "model": "lom:item/items/nou_game/nou_pointsinfinity" },
+		{ "predicate": { "custom_model_data": 5019 }, "model": "lom:item/items/nou_game/nou_combo" },
+		{ "predicate": { "custom_model_data": 5020 }, "model": "lom:item/items/nou_game/nou_goagain" },
+		{ "predicate": { "custom_model_data": 5021 }, "model": "lom:item/items/nou_game/nou_reversal" },
+		{ "predicate": { "custom_model_data": 5022 }, "model": "lom:item/items/nou_game/nou_skip" },
+		{ "predicate": { "custom_model_data": 5023 }, "model": "lom:item/items/nou_game/nou_steal" },
+		{ "predicate": { "custom_model_data": 5024 }, "model": "lom:item/items/nou_game/nou_timeout" },
+		{ "predicate": { "custom_model_data": 5025 }, "model": "lom:item/items/nou_game/nou_youwin" }
+	]
+}
