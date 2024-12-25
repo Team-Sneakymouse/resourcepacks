@@ -1,439 +1,429 @@
 {
 	"arcane.bigblast": {
-		"sounds": [{ "name": "lom:spells/arcane.bigblast", "stream": true }]
+		"sounds": [{ "name": "lom:arcane.bigblast", "stream": true }]
 	},
 	"arcane.blast": {
-		"sounds": [{ "name": "lom:spells/arcane.blast", "stream": true }]
+		"sounds": [{ "name": "lom:arcane.blast", "stream": true }]
 	},
 	"arcane.blob": {
-		"sounds": [{ "name": "lom:spells/arcane.blob" }]
+		"sounds": [{ "name": "lom:arcane.blob" }]
 	},
 	"arcane.blobexplosion": {
-		"sounds": [{ "name": "lom:spells/arcane.blobexplosion", "stream": true }]
+		"sounds": [{ "name": "lom:arcane.blobexplosion", "stream": true }]
 	},
 	"arcane.blobhit": {
-		"sounds": [{ "name": "lom:spells/arcane.blobhit", "stream": true }]
+		"sounds": [{ "name": "lom:arcane.blobhit", "stream": true }]
 	},
 	"arcane.hit": {
-		"sounds": [{ "name": "lom:spells/arcane.hit", "stream": true }]
+		"sounds": [{ "name": "lom:arcane.hit", "stream": true }]
 	},
 	"arcane.mesmerize": {
-		"sounds": [{ "name": "lom:spells/arcane.mesmerize", "stream": true }]
+		"sounds": [{ "name": "lom:arcane.mesmerize", "stream": true }]
 	},
 	"arcane.mindcontrol": {
-		"sounds": [{ "name": "lom:spells/arcane.mindcontrol", "stream": true }]
+		"sounds": [{ "name": "lom:arcane.mindcontrol", "stream": true }]
 	},
 	"arcane.powerdown": {
-		"sounds": [{ "name": "lom:spells/arcane.powerdown", "stream": true }]
+		"sounds": [{ "name": "lom:arcane.powerdown", "stream": true }]
 	},
 	"arcane.powerloop": {
-		"sounds": [{ "name": "lom:spells/arcane.powerloop", "stream": true }]
+		"sounds": [{ "name": "lom:arcane.powerloop", "stream": true }]
 	},
 	"arcane.resist": {
-		"sounds": [{ "name": "lom:spells/arcane.resist" }]
+		"sounds": [{ "name": "lom:arcane.resist" }]
 	},
 	"arcane.shock": {
-		"sounds": [{ "name": "lom:spells/arcane.shock", "stream": true }]
+		"sounds": [{ "name": "lom:arcane.shock", "stream": true }]
 	},
 	"arcane.summon": {
-		"sounds": [{ "name": "lom:spells/arcane.summon", "stream": true }]
+		"sounds": [{ "name": "lom:arcane.summon", "stream": true }]
 	},
 	"arcane.time": {
-		"sounds": [{ "name": "lom:spells/arcane.time" }]
+		"sounds": [{ "name": "lom:arcane.time" }]
 	},
 	"arcane.tinkle": {
-		"sounds": [{ "name": "lom:spells/arcane.tinkle", "stream": true }]
+		"sounds": [{ "name": "lom:arcane.tinkle", "stream": true }]
 	},
 	"arcane.wormhole": {
-		"sounds": [{ "name": "lom:spells/arcane.wormhole", "stream": true }]
+		"sounds": [{ "name": "lom:arcane.wormhole", "stream": true }]
 	},
 	"cute.appear": {
-		"sounds": [{ "name": "lom:spells/cute.appear" }]
+		"sounds": [{ "name": "lom:cute.appear" }]
 	},
 	"cute.cast": {
-		"sounds": [{ "name": "lom:spells/cute.cast", "stream": true }]
+		"sounds": [{ "name": "lom:cute.cast", "stream": true }]
 	},
 	"cute.charge": {
-		"sounds": [{ "name": "lom:spells/cute.charge" }]
+		"sounds": [{ "name": "lom:cute.charge" }]
 	},
 	"cute.explode": {
-		"sounds": [{ "name": "lom:spells/cute.explode" }]
+		"sounds": [{ "name": "lom:cute.explode" }]
 	},
 	"cute.fall": {
-		"sounds": [{ "name": "lom:spells/cute.fall" }]
+		"sounds": [{ "name": "lom:cute.fall" }]
 	},
 	"cute.get": {
-		"sounds": [{ "name": "lom:spells/cute.get" }]
+		"sounds": [{ "name": "lom:cute.get" }]
 	},
 	"cute.getbig": {
-		"sounds": [{ "name": "lom:spells/cute.getbig" }]
+		"sounds": [{ "name": "lom:cute.getbig" }]
 	},
 	"cute.getbiggest": {
-		"sounds": [{ "name": "lom:spells/cute.getbiggest" }]
+		"sounds": [{ "name": "lom:cute.getbiggest" }]
 	},
 	"cute.hit": {
-		"sounds": [{ "name": "lom:spells/cute.hit" }]
+		"sounds": [{ "name": "lom:cute.hit" }]
 	},
 	"cute.levelup": {
-		"sounds": [{ "name": "lom:spells/cute.levelup" }]
+		"sounds": [{ "name": "lom:cute.levelup" }]
 	},
 	"cute.reveal": {
-		"sounds": [{ "name": "lom:spells/cute.reveal", "stream": true }]
+		"sounds": [{ "name": "lom:cute.reveal", "stream": true }]
 	},
 	"cute.run": {
-		"sounds": [{ "name": "lom:spells/cute.run" }]
+		"sounds": [{ "name": "lom:cute.run" }]
 	},
 	"cute.summon": {
-		"sounds": [{ "name": "lom:spells/cute.summon" }]
+		"sounds": [{ "name": "lom:cute.summon" }]
 	},
 	"cute.transformation": {
-		"sounds": [{ "name": "lom:spells/cute.transformation", "stream": true }]
+		"sounds": [{ "name": "lom:cute.transformation", "stream": true }]
 	},
 	"cute.wink": {
-		"sounds": [{ "name": "lom:spells/cute.wink" }]
+		"sounds": [{ "name": "lom:cute.wink" }]
 	},
 	"dark.appear": {
-		"sounds": [{ "name": "lom:spells/dark.appear" }]
+		"sounds": [{ "name": "lom:dark.appear" }]
 	},
 	"dark.banshee": {
 		"sounds": [
-			{ "name": "lom:spells/dark.banshee1", "stream": true },
-			{ "name": "lom:spells/dark.banshee2", "stream": true },
-			{ "name": "lom:spells/dark.banshee3", "stream": true },
-			{ "name": "lom:spells/dark.banshee4", "stream": true }
+			{ "name": "lom:dark.banshee1", "stream": true },
+			{ "name": "lom:dark.banshee2", "stream": true },
+			{ "name": "lom:dark.banshee3", "stream": true },
+			{ "name": "lom:dark.banshee4", "stream": true }
 		]
 	},
 	"dark.blink": {
-		"sounds": [{ "name": "lom:spells/dark.blink", "stream": true }]
+		"sounds": [{ "name": "lom:dark.blink", "stream": true }]
 	},
 	"dark.cast": {
-		"sounds": [{ "name": "lom:spells/dark.cast", "stream": true }]
+		"sounds": [{ "name": "lom:dark.cast", "stream": true }]
 	},
 	"dark.charge": {
-		"sounds": [{ "name": "lom:spells/dark.charge", "stream": true }]
+		"sounds": [{ "name": "lom:dark.charge", "stream": true }]
 	},
 	"dark.curseexplode": {
-		"sounds": [{ "name": "lom:spells/dark.curseexplode", "stream": true }]
+		"sounds": [{ "name": "lom:dark.curseexplode", "stream": true }]
 	},
 	"dark.demontalk": {
 		"sounds": [
-			{ "name": "lom:spells/dark.demontalk1", "stream": true },
-			{ "name": "lom:spells/dark.demontalk2", "stream": true },
-			{ "name": "lom:spells/dark.demontalk3", "stream": true },
-			{ "name": "lom:spells/dark.demontalk4", "stream": true }
+			{ "name": "lom:dark.demontalk1", "stream": true },
+			{ "name": "lom:dark.demontalk2", "stream": true },
+			{ "name": "lom:dark.demontalk3", "stream": true },
+			{ "name": "lom:dark.demontalk4", "stream": true }
 		]
 	},
 	"dark.detect": {
-		"sounds": [{ "name": "lom:spells/dark.detect", "stream": true }]
+		"sounds": [{ "name": "lom:dark.detect", "stream": true }]
 	},
 	"dark.hit": {
-		"sounds": [{ "name": "lom:spells/dark.hit", "stream": true }]
+		"sounds": [{ "name": "lom:dark.hit", "stream": true }]
 	},
 	"dark.mindcontrol": {
-		"sounds": [{ "name": "lom:spells/dark.mindcontrol", "stream": true }]
+		"sounds": [{ "name": "lom:dark.mindcontrol", "stream": true }]
 	},
 	"dark.misfire": {
-		"sounds": [{ "name": "lom:spells/dark.misfire", "stream": true }]
+		"sounds": [{ "name": "lom:dark.misfire", "stream": true }]
 	},
 	"dark.powerdown": {
-		"sounds": [{ "name": "lom:spells/dark.powerdown", "stream": true }]
+		"sounds": [{ "name": "lom:dark.powerdown", "stream": true }]
 	},
 	"dark.powersource": {
-		"sounds": [{ "name": "lom:spells/dark.powersource", "stream": true }]
+		"sounds": [{ "name": "lom:dark.powersource", "stream": true }]
 	},
 	"dark.teleport": {
-		"sounds": [{ "name": "lom:spells/dark.teleport", "stream": true }]
+		"sounds": [{ "name": "lom:dark.teleport", "stream": true }]
 	},
 	"dark.vanish": {
-		"sounds": [{ "name": "lom:spells/dark.vanish" }]
+		"sounds": [{ "name": "lom:dark.vanish" }]
 	},
 	"earth.blast": {
-		"sounds": [{ "name": "lom:spells/earth.blast", "stream": true }]
+		"sounds": [{ "name": "lom:earth.blast", "stream": true }]
 	},
 	"earth.cast": {
-		"sounds": [{ "name": "lom:spells/earth.cast" }]
+		"sounds": [{ "name": "lom:earth.cast" }]
 	},
 	"earth.cast2": {
-		"sounds": [{ "name": "lom:spells/earth.cast2", "stream": true }]
+		"sounds": [{ "name": "lom:earth.cast2", "stream": true }]
 	},
 	"earth.cast3": {
-		"sounds": [{ "name": "lom:spells/earth.cast3" }]
+		"sounds": [{ "name": "lom:earth.cast3" }]
 	},
 	"earth.gather": {
-		"sounds": [{ "name": "lom:spells/earth.gather", "stream": true }]
+		"sounds": [{ "name": "lom:earth.gather", "stream": true }]
 	},
 	"earth.gather2": {
-		"sounds": [{ "name": "lom:spells/earth.gather2", "stream": true }]
+		"sounds": [{ "name": "lom:earth.gather2", "stream": true }]
 	},
 	"earth.gather3": {
-		"sounds": [{ "name": "lom:spells/earth.gather3", "stream": true }]
+		"sounds": [{ "name": "lom:earth.gather3", "stream": true }]
 	},
 	"earth.hit": {
-		"sounds": [{ "name": "lom:spells/earth.hit", "stream": true }]
+		"sounds": [{ "name": "lom:earth.hit", "stream": true }]
 	},
 	"earth.hit2": {
-		"sounds": [{ "name": "lom:spells/earth.hit2", "stream": true }]
+		"sounds": [{ "name": "lom:earth.hit2", "stream": true }]
 	},
 	"earth.hit3": {
-		"sounds": [{ "name": "lom:spells/earth.hit3", "stream": true }]
+		"sounds": [{ "name": "lom:earth.hit3", "stream": true }]
 	},
 	"earth.metalland": {
-		"sounds": [{ "name": "lom:spells/earth.metalland", "stream": true }]
+		"sounds": [{ "name": "lom:earth.metalland", "stream": true }]
 	},
 	"earth.powerdown": {
-		"sounds": [{ "name": "lom:spells/earth.powerdown" }]
+		"sounds": [{ "name": "lom:earth.powerdown" }]
 	},
 	"earth.prepare": {
-		"sounds": [{ "name": "lom:spells/earth.prepare", "stream": true }]
+		"sounds": [{ "name": "lom:earth.prepare", "stream": true }]
 	},
 	"earth.shield": {
-		"sounds": [{ "name": "lom:spells/earth.shield", "stream": true }]
+		"sounds": [{ "name": "lom:earth.shield", "stream": true }]
 	},
 	"fire.blast": {
-		"sounds": [{ "name": "lom:spells/fire.blast", "stream": true }]
+		"sounds": [{ "name": "lom:fire.blast", "stream": true }]
 	},
 	"fire.blazeloop": {
-		"sounds": [{ "name": "lom:spells/fire.blazeloop", "stream": true }]
+		"sounds": [{ "name": "lom:fire.blazeloop", "stream": true }]
 	},
 	"fire.bonloop": {
-		"sounds": [{ "name": "lom:spells/fire.bonloop", "stream": true }]
+		"sounds": [{ "name": "lom:fire.bonloop", "stream": true }]
 	},
 	"fire.camploop": {
-		"sounds": [{ "name": "lom:spells/fire.camploop", "stream": true }]
+		"sounds": [{ "name": "lom:fire.camploop", "stream": true }]
 	},
 	"fire.cast": {
-		"sounds": [{ "name": "lom:spells/fire.cast", "stream": true }]
+		"sounds": [{ "name": "lom:fire.cast", "stream": true }]
 	},
 	"fire.cast2": {
-		"sounds": [{ "name": "lom:spells/fire.cast2" }]
+		"sounds": [{ "name": "lom:fire.cast2" }]
 	},
 	"fire.cast3": {
-		"sounds": [{ "name": "lom:spells/fire.cast3", "stream": true }]
+		"sounds": [{ "name": "lom:fire.cast3", "stream": true }]
 	},
 	"fire.fireball": {
-		"sounds": [{ "name": "lom:spells/fire.fireball" }]
+		"sounds": [{ "name": "lom:fire.fireball" }]
 	},
 	"fire.gather": {
-		"sounds": [{ "name": "lom:spells/fire.gather", "stream": true }]
+		"sounds": [{ "name": "lom:fire.gather", "stream": true }]
 	},
 	"fire.hit": {
-		"sounds": [
-			{ "name": "lom:spells/fire.hit1" },
-			{ "name": "lom:spells/fire.hit2" },
-			{ "name": "lom:spells/fire.hit3" },
-			{ "name": "lom:spells/fire.hit4" }
-		]
+		"sounds": [{ "name": "lom:fire.hit1" }, { "name": "lom:fire.hit2" }, { "name": "lom:fire.hit3" }, { "name": "lom:fire.hit4" }]
 	},
 	"fire.ignite": {
-		"sounds": [{ "name": "lom:spells/fire.ignite", "stream": true }]
+		"sounds": [{ "name": "lom:fire.ignite", "stream": true }]
 	},
 	"fire.release": {
-		"sounds": [{ "name": "lom:spells/fire.release" }]
+		"sounds": [{ "name": "lom:fire.release" }]
 	},
 	"fire.shield": {
-		"sounds": [{ "name": "lom:spells/fire.shield", "stream": true }]
+		"sounds": [{ "name": "lom:fire.shield", "stream": true }]
 	},
 	"fire.summon": {
-		"sounds": [{ "name": "lom:spells/fire.summon", "stream": true }]
+		"sounds": [{ "name": "lom:fire.summon", "stream": true }]
 	},
 	"fire.throw": {
-		"sounds": [{ "name": "lom:spells/fire.throw", "stream": true }]
+		"sounds": [{ "name": "lom:fire.throw", "stream": true }]
 	},
 	"fire.throwfast": {
-		"sounds": [{ "name": "lom:spells/fire.throwfast", "stream": true }]
+		"sounds": [{ "name": "lom:fire.throwfast", "stream": true }]
 	},
 	"ice.blast": {
-		"sounds": [{ "name": "lom:spells/ice.blast", "stream": true }]
+		"sounds": [{ "name": "lom:ice.blast", "stream": true }]
 	},
 	"ice.cast": {
-		"sounds": [{ "name": "lom:spells/ice.cast" }]
+		"sounds": [{ "name": "lom:ice.cast" }]
 	},
 	"ice.gather": {
-		"sounds": [{ "name": "lom:spells/ice.gather", "stream": true }]
+		"sounds": [{ "name": "lom:ice.gather", "stream": true }]
 	},
 	"ice.hit": {
-		"sounds": [
-			{ "name": "lom:spells/ice.hit1" },
-			{ "name": "lom:spells/ice.hit2" },
-			{ "name": "lom:spells/ice.hit3" },
-			{ "name": "lom:spells/ice.hit4" }
-		]
+		"sounds": [{ "name": "lom:ice.hit1" }, { "name": "lom:ice.hit2" }, { "name": "lom:ice.hit3" }, { "name": "lom:ice.hit4" }]
 	},
 	"light.bigblast": {
-		"sounds": [{ "name": "lom:spells/light.bigblast", "stream": true }]
+		"sounds": [{ "name": "lom:light.bigblast", "stream": true }]
 	},
 	"light.buff": {
-		"sounds": [{ "name": "lom:spells/light.buff", "stream": true }]
+		"sounds": [{ "name": "lom:light.buff", "stream": true }]
 	},
 	"light.buff2": {
-		"sounds": [{ "name": "lom:spells/light.buff2", "stream": true }]
+		"sounds": [{ "name": "lom:light.buff2", "stream": true }]
 	},
 	"light.charge": {
-		"sounds": [{ "name": "lom:spells/light.charge", "stream": true }]
+		"sounds": [{ "name": "lom:light.charge", "stream": true }]
 	},
 	"light.gather": {
-		"sounds": [{ "name": "lom:spells/light.gather", "stream": true }]
+		"sounds": [{ "name": "lom:light.gather", "stream": true }]
 	},
 	"light.heal": {
-		"sounds": [{ "name": "lom:spells/light.heal", "stream": true }]
+		"sounds": [{ "name": "lom:light.heal", "stream": true }]
 	},
 	"light.heal2": {
-		"sounds": [{ "name": "lom:spells/light.heal2", "stream": true }]
+		"sounds": [{ "name": "lom:light.heal2", "stream": true }]
 	},
 	"light.powerdown": {
-		"sounds": [{ "name": "lom:spells/light.powerdown", "stream": true }]
+		"sounds": [{ "name": "lom:light.powerdown", "stream": true }]
 	},
 	"light.powerup": {
-		"sounds": [{ "name": "lom:spells/light.powerup", "stream": true }]
+		"sounds": [{ "name": "lom:light.powerup", "stream": true }]
 	},
 	"light.shield": {
-		"sounds": [{ "name": "lom:spells/light.shield", "stream": true }]
+		"sounds": [{ "name": "lom:light.shield", "stream": true }]
 	},
 	"light.summon": {
-		"sounds": [{ "name": "lom:spells/light.summon", "stream": true }]
+		"sounds": [{ "name": "lom:light.summon", "stream": true }]
 	},
 	"light.teleport": {
-		"sounds": [{ "name": "lom:spells/light.teleport" }]
+		"sounds": [{ "name": "lom:light.teleport" }]
 	},
 	"poison.cast": {
-		"sounds": [{ "name": "lom:spells/poison.cast", "stream": true }]
+		"sounds": [{ "name": "lom:poison.cast", "stream": true }]
 	},
 	"poison.hit": {
 		"sounds": [
-			{ "name": "lom:spells/poison.hit1" },
-			{ "name": "lom:spells/poison.hit2" },
-			{ "name": "lom:spells/poison.hit3" },
-			{ "name": "lom:spells/poison.hit4" }
+			{ "name": "lom:poison.hit1" },
+			{ "name": "lom:poison.hit2" },
+			{ "name": "lom:poison.hit3" },
+			{ "name": "lom:poison.hit4" }
 		]
 	},
 	"thunder.blast": {
-		"sounds": [{ "name": "lom:spells/thunder.blast", "stream": true }]
+		"sounds": [{ "name": "lom:thunder.blast", "stream": true }]
 	},
 	"thunder.cast": {
-		"sounds": [{ "name": "lom:spells/thunder.cast", "stream": true }]
+		"sounds": [{ "name": "lom:thunder.cast", "stream": true }]
 	},
 	"thunder.cast2": {
-		"sounds": [{ "name": "lom:spells/thunder.cast2", "stream": true }]
+		"sounds": [{ "name": "lom:thunder.cast2", "stream": true }]
 	},
 	"thunder.gather": {
-		"sounds": [{ "name": "lom:spells/thunder.gather", "stream": true }]
+		"sounds": [{ "name": "lom:thunder.gather", "stream": true }]
 	},
 	"thunder.gather2": {
-		"sounds": [{ "name": "lom:spells/thunder.gather2", "stream": true }]
+		"sounds": [{ "name": "lom:thunder.gather2", "stream": true }]
 	},
 	"thunder.hit": {
-		"sounds": [{ "name": "lom:spells/thunder.hit", "stream": true }]
+		"sounds": [{ "name": "lom:thunder.hit", "stream": true }]
 	},
 	"thunder.shield": {
-		"sounds": [{ "name": "lom:spells/thunder.shield", "stream": true }]
+		"sounds": [{ "name": "lom:thunder.shield", "stream": true }]
 	},
 	"thunder.teleport": {
-		"sounds": [{ "name": "lom:spells/thunder.teleport", "stream": true }]
+		"sounds": [{ "name": "lom:thunder.teleport", "stream": true }]
 	},
 	"wind.bell": {
-		"sounds": [{ "name": "lom:spells/wind.bell", "stream": true }]
+		"sounds": [{ "name": "lom:wind.bell", "stream": true }]
 	},
 	"wind.blast": {
-		"sounds": [{ "name": "lom:spells/wind.blast", "stream": true }]
+		"sounds": [{ "name": "lom:wind.blast", "stream": true }]
 	},
 	"wind.blink": {
-		"sounds": [{ "name": "lom:spells/wind.blink" }]
+		"sounds": [{ "name": "lom:wind.blink" }]
 	},
 	"wind.buff": {
-		"sounds": [{ "name": "lom:spells/wind.buff", "stream": true }]
+		"sounds": [{ "name": "lom:wind.buff", "stream": true }]
 	},
 	"wind.cast": {
-		"sounds": [{ "name": "lom:spells/wind.cast" }]
+		"sounds": [{ "name": "lom:wind.cast" }]
 	},
 	"wind.charge": {
-		"sounds": [{ "name": "lom:spells/wind.charge", "stream": true }]
+		"sounds": [{ "name": "lom:wind.charge", "stream": true }]
 	},
 	"wind.echo": {
-		"sounds": [{ "name": "lom:spells/wind.echo", "stream": true }]
+		"sounds": [{ "name": "lom:wind.echo", "stream": true }]
 	},
 	"wind.gather": {
-		"sounds": [{ "name": "lom:spells/wind.gather", "stream": true }]
+		"sounds": [{ "name": "lom:wind.gather", "stream": true }]
 	},
 	"wind.gather2": {
-		"sounds": [{ "name": "lom:spells/wind.gather2", "stream": true }]
+		"sounds": [{ "name": "lom:wind.gather2", "stream": true }]
 	},
 	"wind.hit": {
-		"sounds": [{ "name": "lom:spells/wind.hit", "stream": true }]
+		"sounds": [{ "name": "lom:wind.hit", "stream": true }]
 	},
 	"wind.hit2": {
-		"sounds": [{ "name": "lom:spells/wind.hit2", "stream": true }]
+		"sounds": [{ "name": "lom:wind.hit2", "stream": true }]
 	},
 	"wind.hit3": {
-		"sounds": [{ "name": "lom:spells/wind.hit3", "stream": true }]
+		"sounds": [{ "name": "lom:wind.hit3", "stream": true }]
 	},
 	"wind.implosion": {
-		"sounds": [{ "name": "lom:spells/wind.implosion", "stream": true }]
+		"sounds": [{ "name": "lom:wind.implosion", "stream": true }]
 	},
 	"wind.prepare": {
-		"sounds": [{ "name": "lom:spells/wind.prepare", "stream": true }]
+		"sounds": [{ "name": "lom:wind.prepare", "stream": true }]
 	},
 	"wind.release": {
-		"sounds": [{ "name": "lom:spells/wind.release", "stream": true }]
+		"sounds": [{ "name": "lom:wind.release", "stream": true }]
 	},
 	"wind.teleport": {
-		"sounds": [{ "name": "lom:spells/wind.teleport" }]
+		"sounds": [{ "name": "lom:wind.teleport" }]
 	},
 	"spells.arcane.conjure": {
-		"sounds": ["lom:spells/arcane.conjure"]
+		"sounds": ["lom:arcane.conjure"]
 	},
 	"spells.arcane.ripple": {
-		"sounds": ["lom:spells/arcane.ripple"]
+		"sounds": ["lom:arcane.ripple"]
 	},
 	"spells.dark.devillightning": {
-		"sounds": ["lom:spells/dark.devillightning"]
+		"sounds": ["lom:dark.devillightning"]
 	},
 	"spells.dark.evileye": {
-		"sounds": ["lom:spells/dark.evileye"]
+		"sounds": ["lom:dark.evileye"]
 	},
 	"spells.earth.circle": {
-		"sounds": ["lom:spells/earth.circle"]
+		"sounds": ["lom:earth.circle"]
 	},
 	"spells.fire.skull": {
-		"sounds": ["lom:spells/fire.skull"]
+		"sounds": ["lom:fire.skull"]
 	},
 	"spells.fire.tornado": {
-		"sounds": ["lom:spells/fire.tornado"]
+		"sounds": ["lom:fire.tornado"]
 	},
 	"spells.general.agilitylines": {
-		"sounds": ["lom:spells/general.agilitylines"]
+		"sounds": ["lom:general.agilitylines"]
 	},
 	"spells.general.timeripple": {
-		"sounds": ["lom:spells/general.timeripple"]
+		"sounds": ["lom:general.timeripple"]
 	},
 	"spells.holy.angeldust": {
-		"sounds": ["lom:spells/holy.angeldust"]
+		"sounds": ["lom:holy.angeldust"]
 	},
 	"spells.thunder.aura": {
-		"sounds": ["lom:spells/thunder.aura"]
+		"sounds": ["lom:thunder.aura"]
 	},
 	"spells.thunder.chainlightning": {
-		"sounds": ["lom:spells/thunder.chainlightning"]
+		"sounds": ["lom:thunder.chainlightning"]
 	},
 	"spells.thunder.charge": {
-		"sounds": ["lom:spells/thunder.charge"]
+		"sounds": ["lom:thunder.charge"]
 	},
 	"spells.thunder.energyblast": {
-		"sounds": ["lom:spells/thunder.energyblast"]
+		"sounds": ["lom:thunder.energyblast"]
 	},
 	"spells.thunder.window": {
-		"sounds": ["lom:spells/thunder.window"]
+		"sounds": ["lom:thunder.window"]
 	},
 	"spells.wind.smokecloud": {
-		"sounds": ["lom:spells/wind.smokecloud"]
+		"sounds": ["lom:wind.smokecloud"]
 	},
 	"spells.wind.smokeorb": {
-		"sounds": ["lom:spells/wind.smokeorb"]
+		"sounds": ["lom:wind.smokeorb"]
 	},
 	"spells.wind.smokering": {
-		"sounds": ["lom:spells/wind.smokering"]
+		"sounds": ["lom:wind.smokering"]
 	},
 	"spells.stoneform.end": {
-		"sounds": ["lom:spells/stoneform.end"]
+		"sounds": ["lom:stoneform.end"]
 	},
 	"cheesespawn": {
 		"sounds": ["lom:cheesespawn"]
