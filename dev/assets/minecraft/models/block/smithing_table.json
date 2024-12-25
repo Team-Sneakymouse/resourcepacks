@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "lom:block/nou_table_front",
+    "up": "lom:block/nou_table_top",
+    "down": "minecraft:block/smithing_table_bottom",
+    "north": "lom:block/nou_table_front",
+    "east": "lom:block/nou_table_side",
+    "south": "lom:block/nou_table_front",
+    "west": "lom:block/nou_table_side"
+  }
+}
