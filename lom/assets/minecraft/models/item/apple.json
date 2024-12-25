@@ -93,6 +93,9 @@
 		{ "predicate": { "custom_model_data": 87 }, "model": "lom:item/items/halloween/ghostcandy" },
 		{ "predicate": { "custom_model_data": 88 }, "model": "lom:item/items/halloween/ghostmallow" },
 		{ "predicate": { "custom_model_data": 89 }, "model": "lom:item/items/halloween/spidercandy" },
-		{ "predicate": { "custom_model_data": 90 }, "model": "lom:item/items/halloween/venomcandy" }
+		{ "predicate": { "custom_model_data": 90 }, "model": "lom:item/items/halloween/venomcandy" },
+
+		{ "predicate": { "custom_model_data": 91 }, "model": "lom:item/hats/simplehats/candycane" },
+		{ "predicate": { "custom_model_data": 92 }, "model": "lom:item/hats/simplehats/christmascakehat" }
 	]
 }
