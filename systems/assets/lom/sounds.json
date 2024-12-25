@@ -169,5 +169,8 @@
 	},
 	"sfx.clothingunequip": {
 		"sounds": ["lom:sfx/clothingunequip"]
+	},
+	"nouwin": {
+		"sounds": [{ "name": "lom:nouwin", "stream": true }]
 	}
 }

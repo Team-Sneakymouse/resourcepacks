@@ -440,5 +440,41 @@
 	},
 	"explosion1": {
 		"sounds": ["lom:explosion1"]
+	},
+	"sfx.laugh": {
+		"sounds": ["lom:sfx/laugh1", "lom:sfx/laugh2", "lom:sfx/laugh3", "lom:sfx/laugh4", "lom:sfx/laugh5"]
+	},
+	"whip": {
+		"sounds": ["lom:whip"]
+	},
+	"clownhorn": {
+		"sounds": ["lom:clownhorn"]
+	},
+	"youloser": {
+		"sounds": ["lom:youloser"]
+	},
+	"broom": {
+		"sounds": ["lom:broom"]
+	},
+	"carbumper": {
+		"sounds": ["lom:carbumper"]
+	},
+	"microphone": {
+		"sounds": ["lom:microphone"]
+	},
+	"roadflare": {
+		"sounds": ["lom:roadflare"]
+	},
+	"smalltv": {
+		"sounds": ["lom:smalltv"]
+	},
+	"orchit": {
+		"sounds": ["lom:orchit"]
+	},
+	"badnews": {
+		"sounds": ["lom:badnews"]
+	},
+	"aoelol": {
+		"sounds": ["lom:aoelol"]
 	}
 }
