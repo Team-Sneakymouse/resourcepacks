@@ -10,7 +10,7 @@
 		"thirdperson_righthand": {
 			"rotation": [160, 0, 0],
 			"translation": [-6, -8, 11.5],
-			"scale": [1.5, 1.5, 1.5]
+			"scale": [0, 0, 0]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [160, 0, 0],
