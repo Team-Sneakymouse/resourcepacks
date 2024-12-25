@@ -695,16 +695,10 @@
 		]
 	},
 	"nisovin.tinderflamedraw": {
-		"sounds": [
-			"nisovin.tinderflamedraw"
-		]
+		"sounds": ["nisovin.tinderflamedraw"]
 	},
 	"nisovin.tinderflame": {
-		"sounds": [
-			"nisovin.tinderflame1",
-			"nisovin.tinderflame2",
-			"nisovin.tinderflame3"
-		]
+		"sounds": ["nisovin.tinderflame1", "nisovin.tinderflame2", "nisovin.tinderflame3"]
 	},
 	"arcane.bigblast": {
 		"sounds": [
@@ -1864,8 +1858,5 @@
 			"ambient/cave/cave18",
 			"ambient/cave/cave19"
 		]
-	},
-	"clownhorn": {
-		"sounds": ["clownhorn"]
 	}
 }

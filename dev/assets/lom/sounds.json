@@ -100,5 +100,41 @@
 	},
 	"jimmydolldead": {
 		"sounds": ["lom:jimmydolldead"]
+	},
+	"whip": {
+		"sounds": ["lom:whip"]
+	},
+	"clownhorn": {
+		"sounds": ["lom:clownhorn"]
+	},
+	"youloser": {
+		"sounds": ["lom:youloser"]
+	},
+	"broom": {
+		"sounds": ["lom:broom"]
+	},
+	"carbumper": {
+		"sounds": ["lom:carbumper"]
+	},
+	"microphone": {
+		"sounds": ["lom:microphone"]
+	},
+	"roadflare": {
+		"sounds": ["lom:roadflare"]
+	},
+	"smalltv": {
+		"sounds": ["lom:smalltv"]
+	},
+	"orchit": {
+		"sounds": ["lom:orchit"]
+	},
+	"badnews": {
+		"sounds": ["lom:badnews"]
+	},
+	"aoelol": {
+		"sounds": ["lom:aoelol"]
+	},
+	"nouwin": {
+		"sounds": [{ "name": "lom:nouwin", "stream": true }]
 	}
 }
