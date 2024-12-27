@@ -1,0 +1,21 @@
+{
+	"model": {
+		"fallback": { "type": "model", "model": "item/red_stained_glass_pane" },
+		"type": "range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{ "threshold": 10, "model": { "type": "model", "model": "lom:item/gui/icons/sale10" } },
+			{ "threshold": 20, "model": { "type": "model", "model": "lom:item/gui/icons/sale20" } },
+			{ "threshold": 30, "model": { "type": "model", "model": "lom:item/gui/icons/sale30" } },
+			{ "threshold": 50, "model": { "type": "model", "model": "lom:item/gui/icons/sale50" } },
+			{ "threshold": 101, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin1" } },
+			{ "threshold": 102, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin2" } },
+			{ "threshold": 103, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin3" } },
+			{ "threshold": 104, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin5" } },
+			{ "threshold": 105, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin10" } },
+			{ "threshold": 106, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin25" } },
+			{ "threshold": 107, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin50" } },
+			{ "threshold": 108, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin100" } }
+		]
+	}
+}

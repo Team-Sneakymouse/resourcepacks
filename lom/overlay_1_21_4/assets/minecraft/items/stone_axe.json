@@ -1,0 +1,10 @@
+{
+	"model": {
+		"fallback": { "type": "model", "model": "item/stone_axe" },
+		"type": "range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/tools/lumberjackaxe" } }
+		]
+	}
+}

@@ -5,5 +5,11 @@
 		"pack_format": 32,
 		"supporetd_formats": [32, 46],
 		"description": "Lords of Minecraft 2 Resource Pack"
-	}
+	},
+    "overlays": {
+        "entries": [{
+			"directory": "overlay_1_21_4",
+			"formats": [46, 46]
+		}]
+    }
 }

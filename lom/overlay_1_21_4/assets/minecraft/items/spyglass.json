@@ -1,0 +1,11 @@
+{
+	"model": {
+		"fallback": { "type": "model", "model": "item/spyglass" },
+		"type": "range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/items/tinderflame_in_hand" } },
+			{ "threshold": 2, "model": { "type": "model", "model": "lom:item/tools/magnifyingglass" } }
+		]
+	}
+}

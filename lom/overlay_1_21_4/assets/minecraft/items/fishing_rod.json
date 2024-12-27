@@ -1,0 +1,29 @@
+{
+	"model": {
+		"fallback": { "type": "model", "model": "item/fishing_rod" },
+		"type": "range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{ "threshold": 33, "model": { "type": "model", "model": "lom:item/tools/kites/kite_old" } },
+			{ "threshold": 33, "model": { "type": "model", "model": "lom:item/tools/kites/kite_handle_white" } },
+			{ "threshold": 37, "model": { "type": "model", "model": "lom:item/tools/kites/kite_black" } },
+			{ "threshold": 37, "model": { "type": "model", "model": "lom:item/tools/kites/kite_handle_white" } },
+			{ "threshold": 38, "model": { "type": "model", "model": "lom:item/tools/kites/kite_blue" } },
+			{ "threshold": 38, "model": { "type": "model", "model": "lom:item/tools/kites/kite_handle_white" } },
+			{ "threshold": 39, "model": { "type": "model", "model": "lom:item/tools/kites/kite_gold" } },
+			{ "threshold": 39, "model": { "type": "model", "model": "lom:item/tools/kites/kite_handle_white" } },
+			{ "threshold": 40, "model": { "type": "model", "model": "lom:item/tools/kites/kite_green" } },
+			{ "threshold": 40, "model": { "type": "model", "model": "lom:item/tools/kites/kite_handle_white" } },
+			{ "threshold": 41, "model": { "type": "model", "model": "lom:item/tools/kites/kite_pink" } },
+			{ "threshold": 41, "model": { "type": "model", "model": "lom:item/tools/kites/kite_handle_white" } },
+			{ "threshold": 42, "model": { "type": "model", "model": "lom:item/tools/kites/kite_redankh" } },
+			{ "threshold": 42, "model": { "type": "model", "model": "lom:item/tools/kites/kite_handle_white" } },
+			{ "threshold": 43, "model": { "type": "model", "model": "lom:item/tools/kites/kite_redtree" } },
+			{ "threshold": 43, "model": { "type": "model", "model": "lom:item/tools/kites/kite_handle_white" } },
+			{ "threshold": 44, "model": { "type": "model", "model": "lom:item/tools/kites/kite_whiteankh" } },
+			{ "threshold": 44, "model": { "type": "model", "model": "lom:item/tools/kites/kite_handle_white" } },
+			{ "threshold": 45, "model": { "type": "model", "model": "lom:item/tools/kites/kite_whitetree" } },
+			{ "threshold": 45, "model": { "type": "model", "model": "lom:item/tools/kites/kite_handle_white" } }
+		]
+	}
+}

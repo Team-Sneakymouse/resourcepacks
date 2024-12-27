@@ -1,0 +1,16 @@
+{
+	"model": {
+		"fallback": { "type": "model", "model": "item/crossbow" },
+		"type": "range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/weapons/gpo_bazooka" } },
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/weapons/gpo_bazooka0" } },
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/weapons/gpo_bazooka1" } },
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/weapons/gpo_bazooka2" } },
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/weapons/gpo_bazooka3" } },
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/weapons/gpo_bazooka_charged" } },
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/weapons/gpo_bazooka_charged" } }
+		]
+	}
+}

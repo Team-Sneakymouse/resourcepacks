@@ -1,0 +1,14 @@
+{
+	"model": {
+		"fallback": { "type": "model", "model": "item/orange_shulker_box" },
+		"type": "range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/items/crates/crate_rawpearl" } },
+			{ "threshold": 2, "model": { "type": "model", "model": "lom:item/items/crates/crate_finepearl" } },
+			{ "threshold": 3, "model": { "type": "model", "model": "lom:item/items/crates/crate_exquisitepearl" } },
+			{ "threshold": 4, "model": { "type": "model", "model": "lom:item/items/crates/crate_worms" } },
+			{ "threshold": 5, "model": { "type": "model", "model": "lom:item/items/crates/crate_shell" } }
+		]
+	}
+}

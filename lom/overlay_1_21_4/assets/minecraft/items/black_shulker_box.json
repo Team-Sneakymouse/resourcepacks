@@ -1,0 +1,13 @@
+{
+	"model": {
+		"fallback": { "type": "model", "model": "item/black_shulker_box" },
+		"type": "range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/items/crates/crate_devilishapple" } },
+			{ "threshold": 2, "model": { "type": "model", "model": "lom:item/items/crates/crate_ashes" } },
+			{ "threshold": 3, "model": { "type": "model", "model": "lom:item/items/crates/crate_bone" } },
+			{ "threshold": 4, "model": { "type": "model", "model": "lom:item/items/crates/crate_darkpetal" } }
+		]
+	}
+}

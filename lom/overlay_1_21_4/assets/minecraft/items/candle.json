@@ -1,0 +1,14 @@
+{
+	"model": {
+		"fallback": { "type": "model", "model": "item/candle" },
+		"type": "range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/blocks/ring_chandelier" } },
+			{ "threshold": 2, "model": { "type": "model", "model": "lom:item/blocks/chandelier_goth" } },
+			{ "threshold": 3, "model": { "type": "model", "model": "lom:item/blocks/candelabra" } },
+			{ "threshold": 4, "model": { "type": "model", "model": "lom:item/blocks/rat_hole2" } },
+			{ "threshold": 5, "model": { "type": "model", "model": "lom:item/blocks/rat_hole" } }
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"model": {
+		"fallback": { "type": "model", "model": "item/wheat" },
+		"type": "range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/items/plushies/oldmanwillakers" } },
+			{ "threshold": 2, "model": { "type": "model", "model": "lom:item/items/plushies/dani" } },
+			{ "threshold": 3, "model": { "type": "model", "model": "lom:item/items/plushies/momo" } },
+			{ "threshold": 4, "model": { "type": "model", "model": "lom:item/items/plushies/dvzjimmy" } },
+			{ "threshold": 5, "model": { "type": "model", "model": "lom:item/items/plushies/kobold" } },
+			{ "threshold": 6, "model": { "type": "model", "model": "lom:item/items/plushies/stoneform" } },
+			{ "threshold": 7, "model": { "type": "model", "model": "lom:item/items/plushies/laz" } },
+			{ "threshold": 8, "model": { "type": "model", "model": "lom:item/items/plushies/demonyanba" } },
+			{ "threshold": 9, "model": { "type": "model", "model": "lom:item/items/plushies/thanebarry" } },
+			{ "threshold": 666, "model": { "type": "model", "model": "lom:item/items/plushies/msdvil" } }
+		]
+	}
+}

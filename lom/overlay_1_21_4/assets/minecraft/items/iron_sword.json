@@ -1,0 +1,12 @@
+{
+	"model": {
+		"fallback": { "type": "model", "model": "item/iron_sword" },
+		"type": "range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{ "threshold": 1, "model": { "type": "model", "model": "abyss_pack:item/abyss_sword" } },
+			{ "threshold": 2, "model": { "type": "model", "model": "abyss_pack:item/abyss_sword_white" } },
+			{ "threshold": 3, "model": { "type": "model", "model": "abyss_pack:item/abyss_sword_black" } }
+		]
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"model": {
+		"fallback": { "type": "model", "model": "item/goat_horn" },
+		"type": "range_dispatch",
+		"property": "custom_model_data",
+		"entries": [
+			{ "threshold": 0, "model": { "type": "model", "model": "item/tooting_goat_horn" } },
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/tools/horn" } },
+			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/tools/tooting_horn" } }
+		]
+	}
+}
