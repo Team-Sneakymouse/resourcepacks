@@ -1338,6 +1338,8 @@
 		{ "predicate": { "custom_model_data": 3119 }, "model": "lom:item/gui/npcs/mrchapeau_talk1abb_" },
 		{ "predicate": { "custom_model_data": 3120 }, "model": "lom:item/gui/npcs/mrchapeau_talk1ab_" },
 		{ "predicate": { "custom_model_data": 3121 }, "model": "lom:item/gui/npcs/mrchapeau_talk1b_cd" },
+		{ "predicate": { "custom_model_data": 3122 }, "model": "lom:item/gui/npcs/mrchapeau_alt" },
+		{ "predicate": { "custom_model_data": 3123 }, "model": "lom:item/gui/npcs/mrchapeau_talknewyears" },
 
 		{ "predicate": { "custom_model_data": 3201 }, "model": "lom:item/gui/crates/crate_brickton" },
 		{ "predicate": { "custom_model_data": 3202 }, "model": "lom:item/gui/crates/crate_darkvale" },

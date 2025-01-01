@@ -1292,6 +1292,8 @@
 			{ "threshold": 3119, "model": { "type": "model", "model": "lom:item/gui/npcs/mrchapeau_talk1abb_" } },
 			{ "threshold": 3120, "model": { "type": "model", "model": "lom:item/gui/npcs/mrchapeau_talk1ab_" } },
 			{ "threshold": 3121, "model": { "type": "model", "model": "lom:item/gui/npcs/mrchapeau_talk1b_cd" } },
+			{ "threshold": 3122, "model": { "type": "model", "model": "lom:item/gui/npcs/mrchapeau_alt" } },
+			{ "threshold": 3123, "model": { "type": "model", "model": "lom:item/gui/npcs/mrchapeau_talknewyears" } },
 			{ "threshold": 3201, "model": { "type": "model", "model": "lom:item/gui/crates/crate_brickton" } },
 			{ "threshold": 3202, "model": { "type": "model", "model": "lom:item/gui/crates/crate_darkvale" } },
 			{ "threshold": 3203, "model": { "type": "model", "model": "lom:item/gui/crates/crate_dwarven" } },
