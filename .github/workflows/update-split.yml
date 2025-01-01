@@ -1,8 +1,8 @@
 on:
   push:
     branches:
-      - split
       - main
+      - split
 jobs:
   zip-and-upload:
     runs-on: ubuntu-latest
@@ -12,79 +12,86 @@ jobs:
         with:
           fetch-depth: 1
           lfs: false
-      - name: Normalize file timestamps
+      - name: Normalize file metadata
         run: |
-          # Set all file timestamps to their commit date
-          find . -exec touch -d "$(git log -1 --format=%cI -- {})" {} +
-      - name: Create zips directory
-        run: mkdir resourcepacks
+          timestamp=$(date -d "2024-01-01 00:00:00 UTC" +%s)
+          find . -print0 | xargs -0 touch -d "@$timestamp"
       - name: Zip resourcepacks
         run: |
+          export LC_ALL=C
           declare -A pack_ids # Keep track of pack IDs in an associative array
-          for dir in $(ls -d */); do
+          mkdir -p resourcepacks
+
+          for dir in  $(ls -d */); do
             if [ ! -f "${dir}pack.mcmeta" ]; then
               continue # Skip directories without pack.mcmeta
             fi
-            pushd $dir
-            name=$(jq -r '.name' pack.mcmeta)
-            id=$(jq -r '.id' pack.mcmeta)
-            # Check for duplicate pack IDs
-            if [ -n "${pack_ids[$id]}" ]; then
-              echo "Error: Duplicate pack ID: $id" >&2
+            echo "Packaging $dir"
+
+            name=$(jq -r '.name // empty' "$dir/pack.mcmeta")
+            id=$(jq -r '.id // empty' "$dir/pack.mcmeta")
+            if [ -z "$name" ] || [ -z "$id" ]; then
+              echo "Error: Invalid or missing 'name' or 'id' in pack.mcmeta for $dir" >&2
               exit 1
             fi
-            pack_ids[$id]=1
 
-            # Create deterministic zip files
-            find . -type f -print | sort | zip -X -o -r -q ../resourcepacks/lom-${name}.zip -@
-            popd
+            cd $dir
+            # Normalize timestamps and ensure deterministic ZIP
+            find . -type f -print | sort -z | zip -q -X -@ "../resourcepacks/lom-${name}.zip"
+            cd ..
           done
           for zip in resourcepacks/*.zip; do sha1sum "$zip"; done
-      # upload all zips to the SFTP server
+      # upload updated zips to the SFTP server
       - name: Upload zips
         run: |
-          sshpass -p '${{ secrets.SFTP_PASSWORD }}' sftp -oStrictHostKeyChecking=no -P ${{ secrets.SFTP_PORT }} ${{ secrets.SFTP_USER }}@${{ secrets.SFTP_HOST }}:/files/resourcepacks/ <<< $'put resourcepacks/*.zip'
-      # - name: Upload zips
-      #   run: |
-      #     uploaded_count=0
-      #     for zip in resourcepacks/*.zip; do
-      #       local_hash=$(sha1sum "$zip" | awk '{print $1}')
-      #       remote_file="/files/resourcepacks/$(basename "$zip")"
-      #       echo "Local hash: $local_hash"
-      #       remote_hash=$(sshpass -p '${{ secrets.SFTP_PASSWORD }}' ssh -oStrictHostKeyChecking=no -p ${{ secrets.SFTP_PORT }} ${{ secrets.SFTP_USER }}@${{ secrets.SFTP_HOST }} "sha1sum $remote_file 2>/dev/null | awk '{print \$1}'")
-      #       echo "Remote hash: $remote_hash"
+          changes=false
 
-      #       if [ -z "$remote_hash" ] || [ "$local_hash" != "$remote_hash" ]; then
-      #         sshpass -p '${{ secrets.SFTP_PASSWORD }}' sftp -oStrictHostKeyChecking=no -P ${{ secrets.SFTP_PORT }} ${{ secrets.SFTP_USER }}@${{ secrets.SFTP_HOST }}:/files/resourcepacks/ <<< "put $zip $remote_file"
-      #         uploaded_count=$((uploaded_count + 1))
-      #       else
-      #         echo "Skipping $zip: already up to date (hash: $local_hash)"
-      #       fi
-      #       echo ""
-      #     done
-      #     echo "Uploaded $uploaded_count files"
-      #     echo "UPLOADED_COUNT=$uploaded_count" >> $GITHUB_ENV
-      - name: Send Multicraft command
-        # if: env.UPLOADED_COUNT > 0
-        run: |
-          # Initialize an empty JSON array
-          echo "[" > resourcepack_hashes.json
-      
-          # Collect hashes and add to JSON file
+          # download remote hashes.json
+          sshpass -p '${{ secrets.SFTP_PASSWORD }}' sftp -oStrictHostKeyChecking=no -P ${{ secrets.SFTP_PORT }} ${{ secrets.SFTP_USER }}@${{ secrets.SFTP_HOST }}:/files/resourcepacks/ <<< $'get hashes.json'
+          jq . hashes.json > /dev/null || { echo "Error: Invalid JSON"; exit 1; }
+          mv hashes.json hashes_remote.json
+
+          # keep track of current hashes
+          echo "[" > hashes_local.json
+
+          # process each zip file
           for zip in resourcepacks/*.zip; do
-            name=$(basename "$zip" .zip)
-            hash=$(sha1sum "$zip" | awk '{print $1}')
-            echo "{\"name\": \"${name}\", \"hash\": \"${hash}\"}," >> resourcepack_hashes.json
+            echo "Uploading $zip"
+            name=$(basename "$zip" .zip | cut -c 5-)
+            local_hash=$(sha1sum "$zip" | awk '{print $1}')
+            echo "{\"name\": \"${name}\", \"hash\": \"${local_hash}\"}," >> hashes_local.json
+
+            remote_hash=$(jq -r ".[] | select(.name == \"$name\") | .hash" hashes_remote.json)
+            echo "File: $name - Local hash: $local_hash - Remote hash: $remote_hash"
+
+            if [ "$local_hash" = "$remote_hash" ]; then
+              rm "$zip"
+            else
+              changes=true
+            fi
+            echo ""
           done
-      
+          
           # Remove the trailing comma and close the JSON array
-          sed -i '$ s/,$//' resourcepack_hashes.json
-          echo "]" >> resourcepack_hashes.json
+          sed -i '$ s/,$//' hashes_local.json
+          echo "]" >> hashes_local.json
+
+          if [ "$changes" = true ]; then
+            # upload the remaining files
+            mv hashes_local.json resourcepacks/hashes.json
+            sshpass -p '${{ secrets.SFTP_PASSWORD }}' sftp -oStrictHostKeyChecking=no -P ${{ secrets.SFTP_PORT }} ${{ secrets.SFTP_USER }}@${{ secrets.SFTP_HOST }}:/files/resourcepacks/ <<< $'put resourcepacks/*'
+            echo "FILES_UPDATED=true" >> $GITHUB_ENV
+          fi
+      - name: Send Multicraft command
+        if: env.FILES_UPDATED == 'true'
+        run: |
+          # Validate the JSON file
+          jq . resourcepacks/hashes.json || { echo "Error: Invalid JSON"; exit 1; }
       
           # Send the JSON file as the body of a single HTTP POST request
           curl -X POST \
             --url "${{ secrets.RESOURCEPACK_WEBHOOK }}" \
             -H "Content-Type: application/json" \
-            --data @resourcepack_hashes.json
+            --data @hashes_local.json
         
           
