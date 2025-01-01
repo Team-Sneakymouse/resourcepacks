@@ -4,5 +4,8 @@
 	},
 	"wateringcan": {
 		"sounds": ["lom:wateringcan1", "lom:wateringcan2", "lom:wateringcan3"]
+	},
+	"maidpiano": {
+		"sounds": ["lom:maidpiano"]
 	}
 }
