@@ -1,5 +1,8 @@
 {
 	"sleighbells": {
 		"sounds": ["lom:sleighbells1", "sleighbells2"]
+	},
+	"wateringcan": {
+		"sounds": ["lom:wateringcan1", "lom:wateringcan2", "lom:wateringcan3"]
 	}
 }
