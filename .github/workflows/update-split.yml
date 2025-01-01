@@ -92,6 +92,6 @@ jobs:
           curl -X POST \
             --url "${{ secrets.RESOURCEPACK_WEBHOOK }}" \
             -H "Content-Type: application/json" \
-            --data @hashes_local.json
+            --data @resourcepacks/hashes.json
         
           

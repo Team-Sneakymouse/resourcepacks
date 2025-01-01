@@ -552,6 +552,7 @@
 			{ "threshold": 546, "model": { "type": "model", "model": "lom:item/icons/grayscale/travellingsalesman" } },
 			{ "threshold": 547, "model": { "type": "model", "model": "lom:item/icons/grayscale/vaultdiscount" } },
 			{ "threshold": 548, "model": { "type": "model", "model": "lom:item/icons/grayscale/highpaladinbenefits" } },
+
 			{ "threshold": 1001, "model": { "type": "model", "model": "lom:item/icons/1111" } },
 			{ "threshold": 1002, "model": { "type": "model", "model": "lom:item/icons/aerialdodge" } },
 			{ "threshold": 1003, "model": { "type": "model", "model": "lom:item/icons/agilecowpoke" } },
@@ -1243,6 +1244,7 @@
 			{ "threshold": 2916, "model": { "type": "model", "model": "lom:item/icons/map/money_icon" } },
 			{ "threshold": 2917, "model": { "type": "model", "model": "lom:item/icons/map/pickaxe_icon" } },
 			{ "threshold": 2918, "model": { "type": "model", "model": "lom:item/icons/map/water_icon" } },
+
 			{ "threshold": 3000, "model": { "type": "model", "model": "lom:item/gui/6rows" } },
 			{ "threshold": 3001, "model": { "type": "model", "model": "lom:item/gui/skillmenu" } },
 			{ "threshold": 3002, "model": { "type": "model", "model": "lom:item/gui/skilltree" } },
@@ -1294,6 +1296,7 @@
 			{ "threshold": 3121, "model": { "type": "model", "model": "lom:item/gui/npcs/mrchapeau_talk1b_cd" } },
 			{ "threshold": 3122, "model": { "type": "model", "model": "lom:item/gui/npcs/mrchapeau_alt" } },
 			{ "threshold": 3123, "model": { "type": "model", "model": "lom:item/gui/npcs/mrchapeau_talknewyears" } },
+
 			{ "threshold": 3201, "model": { "type": "model", "model": "lom:item/gui/crates/crate_brickton" } },
 			{ "threshold": 3202, "model": { "type": "model", "model": "lom:item/gui/crates/crate_darkvale" } },
 			{ "threshold": 3203, "model": { "type": "model", "model": "lom:item/gui/crates/crate_dwarven" } },
@@ -1304,6 +1307,7 @@
 			{ "threshold": 3208, "model": { "type": "model", "model": "lom:item/gui/crates/crate_slums" } },
 			{ "threshold": 3209, "model": { "type": "model", "model": "lom:item/gui/crates/crate_southshire" } },
 			{ "threshold": 3210, "model": { "type": "model", "model": "lom:item/gui/crates/crate_sticky" } },
+
 			{ "threshold": 3501, "model": { "type": "model", "model": "lom:item/gui/spells/blossom-spellbook" } },
 			{ "threshold": 3502, "model": { "type": "model", "model": "lom:item/gui/spells/blossom" } },
 			{ "threshold": 3503, "model": { "type": "model", "model": "lom:item/gui/spells/blossom-alt" } },
@@ -1352,6 +1356,7 @@
 			{ "threshold": 3546, "model": { "type": "model", "model": "lom:item/gui/spells/wormhole-spellbook" } },
 			{ "threshold": 3547, "model": { "type": "model", "model": "lom:item/gui/spells/wormhole" } },
 			{ "threshold": 3548, "model": { "type": "model", "model": "lom:item/gui/spells/wormhole-alt" } },
+
 			{ "threshold": 4001, "model": { "type": "model", "model": "lom:item/gui/daquestions/daquestion01" } },
 			{ "threshold": 4002, "model": { "type": "model", "model": "lom:item/gui/daquestions/daquestion02" } },
 			{ "threshold": 4003, "model": { "type": "model", "model": "lom:item/gui/daquestions/daquestion03" } },
@@ -1398,6 +1403,7 @@
 			{ "threshold": 4044, "model": { "type": "model", "model": "lom:item/gui/daquestions/daquestion26d" } },
 			{ "threshold": 4045, "model": { "type": "model", "model": "lom:item/gui/daquestions/daquestion26e" } },
 			{ "threshold": 4046, "model": { "type": "model", "model": "lom:item/gui/daquestions/daquestion55" } },
+
 			{ "threshold": 5001, "model": { "type": "model", "model": "lom:item/gui/spellperks/a" } },
 			{ "threshold": 5002, "model": { "type": "model", "model": "lom:item/gui/spellperks/a-l" } },
 			{ "threshold": 5003, "model": { "type": "model", "model": "lom:item/gui/spellperks/a-e" } },
