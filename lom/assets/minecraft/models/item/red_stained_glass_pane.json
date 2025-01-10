@@ -12,6 +12,9 @@
 		{ "predicate": { "custom_model_data": 105 }, "model": "lom:item/gui/icons/dragoncoin10" },
 		{ "predicate": { "custom_model_data": 106 }, "model": "lom:item/gui/icons/dragoncoin25" },
 		{ "predicate": { "custom_model_data": 107 }, "model": "lom:item/gui/icons/dragoncoin50" },
-		{ "predicate": { "custom_model_data": 108 }, "model": "lom:item/gui/icons/dragoncoin100" }
+		{ "predicate": { "custom_model_data": 108 }, "model": "lom:item/gui/icons/dragoncoin100" },
+
+		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/gui/memes/meme1" },
+		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/gui/memes/meme2" }
 	]
 }
