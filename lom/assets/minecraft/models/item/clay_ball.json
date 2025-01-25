@@ -121,6 +121,17 @@
 		{ "predicate": { "custom_model_data": 307 }, "model": "lom:item/entities/willyswheels/forklift" },
 		{ "predicate": { "custom_model_data": 308 }, "model": "lom:item/entities/willyswheels/pizza_boy" },
 
+		{ "predicate": { "custom_model_data": 400 }, "model": "lom:item/entities/digits/0" },
+		{ "predicate": { "custom_model_data": 401 }, "model": "lom:item/entities/digits/1" },
+		{ "predicate": { "custom_model_data": 402 }, "model": "lom:item/entities/digits/2" },
+		{ "predicate": { "custom_model_data": 403 }, "model": "lom:item/entities/digits/3" },
+		{ "predicate": { "custom_model_data": 404 }, "model": "lom:item/entities/digits/4" },
+		{ "predicate": { "custom_model_data": 405 }, "model": "lom:item/entities/digits/5" },
+		{ "predicate": { "custom_model_data": 406 }, "model": "lom:item/entities/digits/6" },
+		{ "predicate": { "custom_model_data": 407 }, "model": "lom:item/entities/digits/7" },
+		{ "predicate": { "custom_model_data": 408 }, "model": "lom:item/entities/digits/8" },
+		{ "predicate": { "custom_model_data": 409 }, "model": "lom:item/entities/digits/9" },
+
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/entities/vidwindows/scanner_details" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "lom:item/entities/vidwindows/scanner_main" },
 		{ "predicate": { "custom_model_data": 1003 }, "model": "lom:item/entities/vidwindows/scanner_prompt1" },
