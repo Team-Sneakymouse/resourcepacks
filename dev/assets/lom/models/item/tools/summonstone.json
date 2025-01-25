@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench By Astraliyte",
+	"parent": "lom:item/tools/homestone",
+	"textures": {
+		"0": "lom:item/tools/summonstone",
+		"1": "lom:item/tools/summonstone_symbol",
+		"particle": "lom:item/tools/summonstone"
+	}
+}

@@ -125,7 +125,10 @@
 		{ "predicate": { "custom_model_data": 122 }, "model": "lom:item/items/gpo_card" },
 		{ "predicate": { "custom_model_data": 123 }, "model": "lom:item/items/envelopeopen" },
 		{ "predicate": { "custom_model_data": 124 }, "model": "lom:item/items/envelopeclosed" },
-		{ "predicate": { "custom_model_data": 125 }, "model": "lom:item/items/prototyper" },
+		{ "predicate": { "custom_model_data": 125 }, "model": "lom:item/tools/prototyper" },
+		{ "predicate": { "custom_model_data": 126 }, "model": "lom:item/tools/homestone" },
+		{ "predicate": { "custom_model_data": 127 }, "model": "lom:item/tools/townstone" },
+		{ "predicate": { "custom_model_data": 128 }, "model": "lom:item/tools/summonstone" },
 
 		{ "predicate": { "custom_model_data": 1000 }, "model": "lom:item/items/crates/crate_stock" },
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/crates/crate_cheese" },
