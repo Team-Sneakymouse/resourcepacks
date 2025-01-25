@@ -1,0 +1,22 @@
+{
+	"comments": [
+		"Available characters: \uE000 - \uF8FF",
+		"\uE000 - \uE099: keyboard symbols", [
+			"\uE000 - left mouse",
+			"\uE001 - right mouse"
+		]
+	],
+    "providers": [{
+		"type": "bitmap",
+		"file": "lom:font/keyboard_mouseleft.png",
+		"ascent": 8,
+		"height": 10,
+		"chars": ["\uE000"]
+	},{
+		"type": "bitmap",
+		"file": "lom:font/keyboard_mouseright.png",
+		"ascent": 8,
+		"height": 10,
+		"chars": ["\uE001"]
+	}]
+}
