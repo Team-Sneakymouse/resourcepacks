@@ -1317,6 +1317,11 @@
 		{ "predicate": { "custom_model_data": 3026 }, "model": "lom:item/gui/equipment" },
 		{ "predicate": { "custom_model_data": 3027 }, "model": "lom:item/gui/wardrobe_toymenu" },
 		{ "predicate": { "custom_model_data": 3028 }, "model": "lom:item/gui/meme_gui" },
+		{ "predicate": { "custom_model_data": 3029 }, "model": "lom:item/gui/jobboard/places" },
+		{ "predicate": { "custom_model_data": 3030 }, "model": "lom:item/gui/jobboard/people" },
+		{ "predicate": { "custom_model_data": 3031 }, "model": "lom:item/gui/jobboard/post_ad" },
+		{ "predicate": { "custom_model_data": 3034 }, "model": "lom:item/gui/jobboard/jobboard" },
+		{ "predicate": { "custom_model_data": 3035 }, "model": "lom:item/gui/jobboard/manage_ads" },
 
 		{ "predicate": { "custom_model_data": 3101 }, "model": "lom:item/gui/npcs/darrius" },
 		{ "predicate": { "custom_model_data": 3102 }, "model": "lom:item/gui/npcs/darrius1" },

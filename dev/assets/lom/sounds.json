@@ -19,5 +19,8 @@
 	},
 	"bindstone3": {
 		"sounds": ["lom:bindstone3"]
+	},
+	"jobboardopen": {
+		"sounds": ["lom:jobboardopen"]
 	}
 }
