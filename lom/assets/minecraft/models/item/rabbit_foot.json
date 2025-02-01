@@ -130,7 +130,7 @@
 		{ "predicate": { "custom_model_data": 127 }, "model": "lom:item/tools/townstone" },
 		{ "predicate": { "custom_model_data": 128 }, "model": "lom:item/tools/summonstone" },
 		{ "predicate": { "custom_model_data": 129 }, "model": "lom:item/tools/mlmprototyper" },
-		{ "predicate": { "custom_model_data": 130 }, "model": "lom:item/tools/summonstone-small" },
+		{ "predicate": { "custom_model_data": 130 }, "model": "lom:item/tools/summonshard" },
 
 		{ "predicate": { "custom_model_data": 1000 }, "model": "lom:item/items/crates/crate_stock" },
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/crates/crate_cheese" },
