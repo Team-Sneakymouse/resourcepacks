@@ -1346,6 +1346,7 @@
 		{ "predicate": { "custom_model_data": 3031 }, "model": "lom:item/gui/jobboard/post_ad" },
 		{ "predicate": { "custom_model_data": 3034 }, "model": "lom:item/gui/jobboard/jobboard" },
 		{ "predicate": { "custom_model_data": 3035 }, "model": "lom:item/gui/jobboard/manage_ads" },
+		{ "predicate": { "custom_model_data": 3036 }, "model": "lom:item/gui/jobboard/invitations" },
 
 		{ "predicate": { "custom_model_data": 3101 }, "model": "lom:item/gui/npcs/darrius" },
 		{ "predicate": { "custom_model_data": 3102 }, "model": "lom:item/gui/npcs/darrius1" },
