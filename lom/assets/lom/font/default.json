@@ -1,9 +1,13 @@
 {
 	"comments": [
 		"Available characters: \uE000 - \uF8FF",
-		"\uE000 - \uE099: keyboard symbols", [
+		"\uE000 - \uE049: keyboard symbols", [
 			"\uE000 - left mouse",
 			"\uE001 - right mouse"
+		],
+		"\uE050 - \uE059: space symbols", [
+			"\uE050 - pause menu spacer 1",
+			"\uE051 - pause menu spacer 2"
 		]
 	],
     "providers": [{
@@ -18,5 +22,18 @@
 		"ascent": 8,
 		"height": 10,
 		"chars": ["\uE001"]
+	},{
+		"type": "space",
+		"advances": {
+			"\uE050": -80,
+			"\uE051": 58,
+			"\uE052": -3,
+			"\uE053": -64,
+			"\uE054": -29,
+			"\uE055": -200
+		}
+	},{
+		"type": "reference",
+		"id": "lom:pausemenu"
 	}]
 }
