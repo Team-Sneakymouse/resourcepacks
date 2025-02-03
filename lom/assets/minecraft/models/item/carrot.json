@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/carrot"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/items/ale" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "lom:item/items/dwarven_ale" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "lom:item/items/goatmilk" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "lom:item/items/pinkmilk" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "lom:item/items/oil_bottle" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "lom:item/items/soap_bottle" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "lom:item/items/sprinkle_bottle" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "lom:item/items/wine_bottle" }
+	]
+}
