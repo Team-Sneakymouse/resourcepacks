@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lom:item/items/prototype-items/square_can_with_circular_lid_didnt_I_already_do_this_one_dot_pee_en_gee"
+  }
+}

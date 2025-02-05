@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lom:item/items/prototype-items/can_you_please_generate_me_a_at_most_64x64_pixel_art_image_of_boots_that_is_in_the_minecraft_art_style"
+  }
+}
