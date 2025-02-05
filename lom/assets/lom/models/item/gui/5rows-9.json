@@ -1,0 +1,13 @@
+{
+	"parent": "lom:item/gui/5rows",
+	"textures": {
+		"texture": "lom:item/gui/5rows"
+	},
+	"display": {
+		"gui": {
+			"rotation": [0, -90, 0],
+			"translation": [74, 1, 0],
+			"scale": [0.0001, 4, 4]
+		}
+	}
+}
