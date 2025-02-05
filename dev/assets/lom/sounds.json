@@ -11,18 +11,6 @@
 	"mictest": {
 		"sounds": ["lom:mictest"]
 	},
-	"bindstone1": {
-		"sounds": ["lom:bindstone1"]
-	},
-	"bindstone2": {
-		"sounds": ["lom:bindstone2"]
-	},
-	"bindstone3": {
-		"sounds": ["lom:bindstone3"]
-	},
-	"jobboardopen": {
-		"sounds": ["lom:jobboardopen"]
-	},
 	"stealth": {
 		"sounds": ["lom:stealth"]
 	}
