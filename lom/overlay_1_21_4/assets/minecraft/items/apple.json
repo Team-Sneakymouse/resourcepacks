@@ -1,101 +1,656 @@
 {
-	"model": {
-		"fallback": { "type": "model", "model": "item/apple" },
-		"type": "range_dispatch",
-		"property": "custom_model_data",
-		"entries": [
-			{ "threshold": 1, "model": { "type": "model", "model": "lom:item/items/devilishapple" } },
-			{ "threshold": 2, "model": { "type": "model", "model": "lom:item/items/demonapple" } },
-			{ "threshold": 3, "model": { "type": "model", "model": "lom:item/items/demonapple2" } },
-			{ "threshold": 4, "model": { "type": "model", "model": "lom:item/items/rocks/rock-alestone" } },
-			{ "threshold": 5, "model": { "type": "model", "model": "lom:item/items/rocks/rock-cherryrock" } },
-			{ "threshold": 6, "model": { "type": "model", "model": "lom:item/items/rocks/rock-eggstone" } },
-			{ "threshold": 7, "model": { "type": "model", "model": "lom:item/items/rocks/rock-koboldrock" } },
-			{ "threshold": 8, "model": { "type": "model", "model": "lom:item/items/rocks/rock-moltenflower" } },
-			{ "threshold": 9, "model": { "type": "model", "model": "lom:item/items/rocks/rock-moonstone" } },
-			{ "threshold": 10, "model": { "type": "model", "model": "lom:item/items/rocks/rock-mossystone" } },
-			{ "threshold": 11, "model": { "type": "model", "model": "lom:item/items/rocks/rock-plumrock" } },
-			{ "threshold": 12, "model": { "type": "model", "model": "lom:item/items/rocks/rock-ramstone" } },
-			{ "threshold": 13, "model": { "type": "model", "model": "lom:item/items/rocks/rock-riverrock" } },
-			{ "threshold": 14, "model": { "type": "model", "model": "lom:item/items/rocks/rock-skipstone" } },
-			{ "threshold": 15, "model": { "type": "model", "model": "lom:item/items/googlue" } },
-			{ "threshold": 16, "model": { "type": "model", "model": "lom:item/items/eurobutter" } },
-			{ "threshold": 17, "model": { "type": "model", "model": "lom:item/items/gold_coin" } },
-			{ "threshold": 18, "model": { "type": "model", "model": "lom:item/items/butter" } },
-			{ "threshold": 19, "model": { "type": "model", "model": "lom:item/items/worms" } },
-			{ "threshold": 20, "model": { "type": "model", "model": "lom:item/items/grapes" } },
-			{ "threshold": 21, "model": { "type": "model", "model": "lom:item/items/pickle" } },
-			{ "threshold": 22, "model": { "type": "model", "model": "lom:item/items/cheese" } },
-			{ "threshold": 23, "model": { "type": "model", "model": "lom:item/items/cheesemorsel" } },
-			{ "threshold": 24, "model": { "type": "model", "model": "lom:item/items/normalcheese" } },
-			{ "threshold": 25, "model": { "type": "model", "model": "lom:item/items/radicalcheese" } },
-			{ "threshold": 26, "model": { "type": "model", "model": "lom:item/items/epiccheese" } },
-			{ "threshold": 27, "model": { "type": "model", "model": "lom:item/items/devilsfoodcake" } },
-			{ "threshold": 28, "model": { "type": "model", "model": "lom:item/items/honey" } },
-			{ "threshold": 29, "model": { "type": "model", "model": "lom:item/items/honeycomb" } },
-			{ "threshold": 30, "model": { "type": "model", "model": "lom:item/items/silvermacaroon" } },
-			{ "threshold": 31, "model": { "type": "model", "model": "lom:item/items/scootcookie" } },
-			{ "threshold": 32, "model": { "type": "model", "model": "lom:item/items/cookie2" } },
-			{ "threshold": 33, "model": { "type": "model", "model": "lom:item/items/goatmilk" } },
-			{ "threshold": 34, "model": { "type": "model", "model": "lom:item/items/pinkmilk" } },
-			{ "threshold": 35, "model": { "type": "model", "model": "lom:item/items/food/apple" } },
-			{ "threshold": 36, "model": { "type": "model", "model": "lom:item/items/food/golden_apple" } },
-			{ "threshold": 37, "model": { "type": "model", "model": "lom:item/items/food/enchanted_golden_apple" } },
-			{ "threshold": 38, "model": { "type": "model", "model": "lom:item/items/food/melon_slice" } },
-			{ "threshold": 39, "model": { "type": "model", "model": "lom:item/items/food/glistering_melon_slice" } },
-			{ "threshold": 40, "model": { "type": "model", "model": "lom:item/items/food/sweet_berries" } },
-			{ "threshold": 41, "model": { "type": "model", "model": "lom:item/items/food/glow_berries" } },
-			{ "threshold": 42, "model": { "type": "model", "model": "lom:item/items/food/chorus_fruit" } },
-			{ "threshold": 43, "model": { "type": "model", "model": "lom:item/items/food/carrot" } },
-			{ "threshold": 44, "model": { "type": "model", "model": "lom:item/items/food/golden_carrot" } },
-			{ "threshold": 45, "model": { "type": "model", "model": "lom:item/items/food/potato" } },
-			{ "threshold": 46, "model": { "type": "model", "model": "lom:item/items/food/baked_potato" } },
-			{ "threshold": 47, "model": { "type": "model", "model": "lom:item/items/food/poisonous_potato" } },
-			{ "threshold": 48, "model": { "type": "model", "model": "lom:item/items/food/beetroot" } },
-			{ "threshold": 49, "model": { "type": "model", "model": "lom:item/items/food/dried_kelp" } },
-			{ "threshold": 50, "model": { "type": "model", "model": "lom:item/items/food/beef" } },
-			{ "threshold": 51, "model": { "type": "model", "model": "lom:item/items/food/cooked_beef" } },
-			{ "threshold": 52, "model": { "type": "model", "model": "lom:item/items/food/porkchop" } },
-			{ "threshold": 53, "model": { "type": "model", "model": "lom:item/items/food/cooked_porkchop" } },
-			{ "threshold": 54, "model": { "type": "model", "model": "lom:item/items/food/mutton" } },
-			{ "threshold": 55, "model": { "type": "model", "model": "lom:item/items/food/cooked_mutton" } },
-			{ "threshold": 56, "model": { "type": "model", "model": "lom:item/items/food/chicken" } },
-			{ "threshold": 57, "model": { "type": "model", "model": "lom:item/items/food/cooked_chicken" } },
-			{ "threshold": 58, "model": { "type": "model", "model": "lom:item/items/food/rabbit" } },
-			{ "threshold": 59, "model": { "type": "model", "model": "lom:item/items/food/cooked_rabbit" } },
-			{ "threshold": 60, "model": { "type": "model", "model": "lom:item/items/food/cod" } },
-			{ "threshold": 61, "model": { "type": "model", "model": "lom:item/items/food/cooked_cod" } },
-			{ "threshold": 62, "model": { "type": "model", "model": "lom:item/items/food/salmon" } },
-			{ "threshold": 63, "model": { "type": "model", "model": "lom:item/items/food/cooked_salmon" } },
-			{ "threshold": 64, "model": { "type": "model", "model": "lom:item/items/food/tropical_fish" } },
-			{ "threshold": 65, "model": { "type": "model", "model": "lom:item/items/food/bread" } },
-			{ "threshold": 66, "model": { "type": "model", "model": "lom:item/items/food/cookie" } },
-			{ "threshold": 67, "model": { "type": "model", "model": "lom:item/items/food/pumpkin_pie" } },
-			{ "threshold": 68, "model": { "type": "model", "model": "lom:item/items/food/rotten_flesh" } },
-			{ "threshold": 69, "model": { "type": "model", "model": "lom:item/items/food/bowl" } },
-			{ "threshold": 70, "model": { "type": "model", "model": "lom:item/items/food/mushroom_stew" } },
-			{ "threshold": 71, "model": { "type": "model", "model": "lom:item/items/food/beetroot_soup" } },
-			{ "threshold": 72, "model": { "type": "model", "model": "lom:item/items/food/rabbit_stew" } },
-			{ "threshold": 73, "model": { "type": "model", "model": "lom:item/items/food/suspicious_stew" } },
-			{ "threshold": 74, "model": { "type": "model", "model": "lom:item/items/dwarven_ale" } },
-			{ "threshold": 75, "model": { "type": "model", "model": "lom:item/items/ale" } },
-			{ "threshold": 76, "model": { "type": "model", "model": "lom:item/items/blood_bottle" } },
-			{ "threshold": 77, "model": { "type": "model", "model": "lom:item/items/oil_bottle" } },
-			{ "threshold": 78, "model": { "type": "model", "model": "lom:item/items/soap_bottle" } },
-			{ "threshold": 79, "model": { "type": "model", "model": "lom:item/items/sprinkle_bottle" } },
-			{ "threshold": 80, "model": { "type": "model", "model": "lom:item/items/wine_bottle" } },
-			{ "threshold": 81, "model": { "type": "model", "model": "lom:item/items/halloween/candyapple" } },
-			{ "threshold": 82, "model": { "type": "model", "model": "lom:item/items/halloween/candycorn" } },
-			{ "threshold": 83, "model": { "type": "model", "model": "lom:item/items/halloween/chocolate" } },
-			{ "threshold": 84, "model": { "type": "model", "model": "lom:item/items/halloween/crystalcandy" } },
-			{ "threshold": 85, "model": { "type": "model", "model": "lom:item/items/halloween/dragoncandy" } },
-			{ "threshold": 86, "model": { "type": "model", "model": "lom:item/items/halloween/eyecandy" } },
-			{ "threshold": 87, "model": { "type": "model", "model": "lom:item/items/halloween/ghostcandy" } },
-			{ "threshold": 88, "model": { "type": "model", "model": "lom:item/items/halloween/ghostmallow" } },
-			{ "threshold": 89, "model": { "type": "model", "model": "lom:item/items/halloween/spidercandy" } },
-			{ "threshold": 90, "model": { "type": "model", "model": "lom:item/items/halloween/venomcandy" } },
-			{ "threshold": 91, "model": { "type": "model", "model": "lom:item/hats/simplehats/candycane" } },
-			{ "threshold": 92, "model": { "type": "model", "model": "lom:item/hats/simplehats/christmascakehat" } }
-		]
-	}
+  "model": {
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/apple"
+    },
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/devilishapple"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/demonapple"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/demonapple2"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/rocks/rock-alestone"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/rocks/rock-cherryrock"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/rocks/rock-eggstone"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/rocks/rock-koboldrock"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/rocks/rock-moltenflower"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/rocks/rock-moonstone"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/rocks/rock-mossystone"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/rocks/rock-plumrock"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/rocks/rock-ramstone"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/rocks/rock-riverrock"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/rocks/rock-skipstone"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/googlue"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/eurobutter"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/gold_coin"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/butter"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/worms"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/grapes"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/pickle"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/cheese"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/cheesemorsel"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/normalcheese"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/radicalcheese"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/epiccheese"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/devilsfoodcake"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/honey"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/honeycomb"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/silvermacaroon"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/scootcookie"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/cookie2"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/goatmilk"
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/pinkmilk"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/apple"
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/golden_apple"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/enchanted_golden_apple"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/melon_slice"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/glistering_melon_slice"
+        }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/sweet_berries"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/glow_berries"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/chorus_fruit"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/carrot"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/golden_carrot"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/potato"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/baked_potato"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/poisonous_potato"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/beetroot"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/dried_kelp"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/beef"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/cooked_beef"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/porkchop"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/cooked_porkchop"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/mutton"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/cooked_mutton"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/chicken"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/cooked_chicken"
+        }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/rabbit"
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/cooked_rabbit"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/cod"
+        }
+      },
+      {
+        "threshold": 61,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/cooked_cod"
+        }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/salmon"
+        }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/cooked_salmon"
+        }
+      },
+      {
+        "threshold": 64,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/tropical_fish"
+        }
+      },
+      {
+        "threshold": 65,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/bread"
+        }
+      },
+      {
+        "threshold": 66,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/cookie"
+        }
+      },
+      {
+        "threshold": 67,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/pumpkin_pie"
+        }
+      },
+      {
+        "threshold": 68,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/rotten_flesh"
+        }
+      },
+      {
+        "threshold": 69,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/bowl"
+        }
+      },
+      {
+        "threshold": 70,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/mushroom_stew"
+        }
+      },
+      {
+        "threshold": 71,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/beetroot_soup"
+        }
+      },
+      {
+        "threshold": 72,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/rabbit_stew"
+        }
+      },
+      {
+        "threshold": 73,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/food/suspicious_stew"
+        }
+      },
+      {
+        "threshold": 74,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/dwarven_ale"
+        }
+      },
+      {
+        "threshold": 75,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/ale"
+        }
+      },
+      {
+        "threshold": 76,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/blood_bottle"
+        }
+      },
+      {
+        "threshold": 77,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/oil_bottle"
+        }
+      },
+      {
+        "threshold": 78,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/soap_bottle"
+        }
+      },
+      {
+        "threshold": 79,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/sprinkle_bottle"
+        }
+      },
+      {
+        "threshold": 80,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/wine_bottle"
+        }
+      },
+      {
+        "threshold": 81,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/halloween/candyapple"
+        }
+      },
+      {
+        "threshold": 82,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/halloween/candycorn"
+        }
+      },
+      {
+        "threshold": 83,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/halloween/chocolate"
+        }
+      },
+      {
+        "threshold": 84,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/halloween/crystalcandy"
+        }
+      },
+      {
+        "threshold": 85,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/halloween/dragoncandy"
+        }
+      },
+      {
+        "threshold": 86,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/halloween/eyecandy"
+        }
+      },
+      {
+        "threshold": 87,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/halloween/ghostcandy"
+        }
+      },
+      {
+        "threshold": 88,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/halloween/ghostmallow"
+        }
+      },
+      {
+        "threshold": 89,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/halloween/spidercandy"
+        }
+      },
+      {
+        "threshold": 90,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/halloween/venomcandy"
+        }
+      },
+      {
+        "threshold": 91,
+        "model": {
+          "type": "model",
+          "model": "lom:item/hats/simplehats/candycane"
+        }
+      },
+      {
+        "threshold": 92,
+        "model": {
+          "type": "model",
+          "model": "lom:item/hats/simplehats/christmascakehat"
+        }
+      }
+    ]
+  }
 }

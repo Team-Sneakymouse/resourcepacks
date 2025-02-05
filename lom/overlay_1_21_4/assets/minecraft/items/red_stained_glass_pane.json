@@ -1,21 +1,278 @@
 {
-	"model": {
-		"fallback": { "type": "model", "model": "item/red_stained_glass_pane" },
-		"type": "range_dispatch",
-		"property": "custom_model_data",
-		"entries": [
-			{ "threshold": 10, "model": { "type": "model", "model": "lom:item/gui/icons/sale10" } },
-			{ "threshold": 20, "model": { "type": "model", "model": "lom:item/gui/icons/sale20" } },
-			{ "threshold": 30, "model": { "type": "model", "model": "lom:item/gui/icons/sale30" } },
-			{ "threshold": 50, "model": { "type": "model", "model": "lom:item/gui/icons/sale50" } },
-			{ "threshold": 101, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin1" } },
-			{ "threshold": 102, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin2" } },
-			{ "threshold": 103, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin3" } },
-			{ "threshold": 104, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin5" } },
-			{ "threshold": 105, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin10" } },
-			{ "threshold": 106, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin25" } },
-			{ "threshold": 107, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin50" } },
-			{ "threshold": 108, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin100" } }
-		]
-	}
+  "model": {
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/red_stained_glass_pane"
+    },
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/icons/sale10"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/icons/sale20"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/icons/sale30"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/icons/sale50"
+        }
+      },
+      {
+        "threshold": 101,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/icons/dragoncoin1"
+        }
+      },
+      {
+        "threshold": 102,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/icons/dragoncoin2"
+        }
+      },
+      {
+        "threshold": 103,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/icons/dragoncoin3"
+        }
+      },
+      {
+        "threshold": 104,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/icons/dragoncoin5"
+        }
+      },
+      {
+        "threshold": 105,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/icons/dragoncoin10"
+        }
+      },
+      {
+        "threshold": 106,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/icons/dragoncoin25"
+        }
+      },
+      {
+        "threshold": 107,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/icons/dragoncoin50"
+        }
+      },
+      {
+        "threshold": 108,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/icons/dragoncoin100"
+        }
+      },
+      {
+        "threshold": 1001,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/memes/meme1"
+        }
+      },
+      {
+        "threshold": 1002,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/memes/meme2"
+        }
+      },
+      {
+        "threshold": 2001,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/bluefist"
+        }
+      },
+      {
+        "threshold": 2002,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/blueharp"
+        }
+      },
+      {
+        "threshold": 2003,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/bluemagic"
+        }
+      },
+      {
+        "threshold": 2004,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/bluestaff"
+        }
+      },
+      {
+        "threshold": 2005,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/blueswords"
+        }
+      },
+      {
+        "threshold": 2006,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/goldswords"
+        }
+      },
+      {
+        "threshold": 2007,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/grayaxe"
+        }
+      },
+      {
+        "threshold": 2008,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/graygear"
+        }
+      },
+      {
+        "threshold": 2009,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/greenarchery"
+        }
+      },
+      {
+        "threshold": 2010,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/greendemon"
+        }
+      },
+      {
+        "threshold": 2011,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/greenharp"
+        }
+      },
+      {
+        "threshold": 2012,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/greenheal"
+        }
+      },
+      {
+        "threshold": 2013,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/greenstaff"
+        }
+      },
+      {
+        "threshold": 2014,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/pinkflower"
+        }
+      },
+      {
+        "threshold": 2015,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/purplefist"
+        }
+      },
+      {
+        "threshold": 2016,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/purplemagic"
+        }
+      },
+      {
+        "threshold": 2017,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/redaxe"
+        }
+      },
+      {
+        "threshold": 2018,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/reddemon"
+        }
+      },
+      {
+        "threshold": 2019,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/redflower"
+        }
+      },
+      {
+        "threshold": 2020,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/redgear"
+        }
+      },
+      {
+        "threshold": 2021,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/wingedhelmet"
+        }
+      },
+      {
+        "threshold": 2022,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/yellowarchery"
+        }
+      },
+      {
+        "threshold": 2023,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/yellowheal"
+        }
+      },
+      {
+        "threshold": 2024,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/jobboard/yellowswords"
+        }
+      }
+    ]
+  }
 }
