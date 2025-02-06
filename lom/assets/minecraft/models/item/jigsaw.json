@@ -1098,6 +1098,10 @@
 		{ "predicate": { "custom_model_data": 1546 }, "model": "lom:item/icons/travellingsalesman" },
 		{ "predicate": { "custom_model_data": 1547 }, "model": "lom:item/icons/vaultdiscount" },
 		{ "predicate": { "custom_model_data": 1548 }, "model": "lom:item/icons/highpaladinbenefits" },
+		{ "predicate": { "custom_model_data": 1549 }, "model": "lom:item/icons/prototype_abilities/bagofholding" },
+		{ "predicate": { "custom_model_data": 1550 }, "model": "lom:item/icons/prototype_abilities/bigleap" },
+		{ "predicate": { "custom_model_data": 1551 }, "model": "lom:item/icons/prototype_abilities/firebreath" },
+		{ "predicate": { "custom_model_data": 1552 }, "model": "lom:item/icons/prototype_abilities/icebeam" },
 
 		{ "predicate": { "custom_model_data": 2001 }, "model": "lom:item/icons/quests/quest1a" },
 		{ "predicate": { "custom_model_data": 2002 }, "model": "lom:item/icons/quests/quest1b" },

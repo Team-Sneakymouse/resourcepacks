@@ -7680,6 +7680,34 @@
         }
       },
       {
+        "threshold": 1549,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/bagofholding"
+        }
+      },
+      {
+        "threshold": 1550,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/bigleap"
+        }
+      },
+      {
+        "threshold": 1551,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/firebreath"
+        }
+      },
+      {
+        "threshold": 1552,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/icebeam"
+        }
+      },
+      {
         "threshold": 2001,
         "model": {
           "type": "model",
