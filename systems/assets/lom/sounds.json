@@ -172,5 +172,11 @@
 	},
 	"nouwin": {
 		"sounds": [{ "name": "lom:nouwin", "stream": true }]
+	},
+	"elevator": {
+		"sounds": ["lom:elevator"]
+	},
+	"elevatorping": {
+		"sounds": ["lom:elevatorping"]
 	}
 }
