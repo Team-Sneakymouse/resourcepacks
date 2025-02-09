@@ -1336,6 +1336,7 @@
 		{ "predicate": { "custom_model_data": 3043 }, "model": "lom:item/gui/skillmenu/skillmenu_7" },
 		{ "predicate": { "custom_model_data": 3044 }, "model": "lom:item/gui/skillmenu/skillmenu_8" },
 		{ "predicate": { "custom_model_data": 3045 }, "model": "lom:item/gui/skillmenu/skillmenu_9" },
+		{ "predicate": { "custom_model_data": 3046 }, "model": "lom:item/gui/elevator/elevator_gui" },
 
 		{ "predicate": { "custom_model_data": 3101 }, "model": "lom:item/gui/npcs/darrius" },
 		{ "predicate": { "custom_model_data": 3102 }, "model": "lom:item/gui/npcs/darrius1" },
@@ -1503,6 +1504,38 @@
 		{ "predicate": { "custom_model_data": 5033 }, "model": "lom:item/gui/spellperks/sc" },
 		{ "predicate": { "custom_model_data": 5034 }, "model": "lom:item/gui/spellperks/sc-e" },
 		{ "predicate": { "custom_model_data": 5035 }, "model": "lom:item/gui/spellperks/tc" },
-		{ "predicate": { "custom_model_data": 5036 }, "model": "lom:item/gui/spellperks/tc-l" }
+		{ "predicate": { "custom_model_data": 5036 }, "model": "lom:item/gui/spellperks/tc-l" },
+
+		
+		{ "predicate": { "custom_model_data": 5995 }, "model": "lom:item/gui/elevator/elevator_dash" },
+		{ "predicate": { "custom_model_data": 5996 }, "model": "lom:item/gui/elevator/elevator_b" },
+		{ "predicate": { "custom_model_data": 5997 }, "model": "lom:item/gui/elevator/elevator_g" },
+		{ "predicate": { "custom_model_data": 5998 }, "model": "lom:item/gui/elevator/elevator_x" },
+		{ "predicate": { "custom_model_data": 5999 }, "model": "lom:item/gui/elevator/elevator_smile" },
+
+		{ "predicate": { "custom_model_data": 6000 }, "model": "lom:item/gui/elevator/elevator_0" },
+		{ "predicate": { "custom_model_data": 6001 }, "model": "lom:item/gui/elevator/elevator_1" },
+		{ "predicate": { "custom_model_data": 6002 }, "model": "lom:item/gui/elevator/elevator_2" },
+		{ "predicate": { "custom_model_data": 6003 }, "model": "lom:item/gui/elevator/elevator_3" },
+		{ "predicate": { "custom_model_data": 6004 }, "model": "lom:item/gui/elevator/elevator_4" },
+		{ "predicate": { "custom_model_data": 6005 }, "model": "lom:item/gui/elevator/elevator_5" },
+		{ "predicate": { "custom_model_data": 6006 }, "model": "lom:item/gui/elevator/elevator_6" },
+		{ "predicate": { "custom_model_data": 6007 }, "model": "lom:item/gui/elevator/elevator_7" },
+		{ "predicate": { "custom_model_data": 6008 }, "model": "lom:item/gui/elevator/elevator_8" },
+		{ "predicate": { "custom_model_data": 6009 }, "model": "lom:item/gui/elevator/elevator_9" },
+
+		{ "predicate": { "custom_model_data": 6010 }, "model": "lom:item/gui/elevator/elevator_10" },
+		{ "predicate": { "custom_model_data": 6020 }, "model": "lom:item/gui/elevator/elevator_20" },
+		{ "predicate": { "custom_model_data": 6030 }, "model": "lom:item/gui/elevator/elevator_30" },
+		{ "predicate": { "custom_model_data": 6040 }, "model": "lom:item/gui/elevator/elevator_40" },
+		{ "predicate": { "custom_model_data": 6050 }, "model": "lom:item/gui/elevator/elevator_50" },
+		{ "predicate": { "custom_model_data": 6060 }, "model": "lom:item/gui/elevator/elevator_60" },
+		{ "predicate": { "custom_model_data": 6070 }, "model": "lom:item/gui/elevator/elevator_70" },
+		{ "predicate": { "custom_model_data": 6080 }, "model": "lom:item/gui/elevator/elevator_80" },
+		{ "predicate": { "custom_model_data": 6090 }, "model": "lom:item/gui/elevator/elevator_90" },
+		{ "predicate": { "custom_model_data": 6100 }, "model": "lom:item/gui/elevator/elevator_00" }
+
+
+
 	]
 }

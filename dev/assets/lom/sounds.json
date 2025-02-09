@@ -13,5 +13,11 @@
 	},
 	"stealth": {
 		"sounds": ["lom:stealth"]
+	},
+	"elevator": {
+		"sounds": ["lom:elevator"]
+	},
+	"elevatorping": {
+		"sounds": ["lom:elevatorping"]
 	}
 }
