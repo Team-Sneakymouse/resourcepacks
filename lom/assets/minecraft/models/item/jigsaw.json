@@ -1337,6 +1337,11 @@
 		{ "predicate": { "custom_model_data": 3044 }, "model": "lom:item/gui/skillmenu/skillmenu_8" },
 		{ "predicate": { "custom_model_data": 3045 }, "model": "lom:item/gui/skillmenu/skillmenu_9" },
 		{ "predicate": { "custom_model_data": 3046 }, "model": "lom:item/gui/elevator/elevator_gui" },
+		{ "predicate": { "custom_model_data": 3047 }, "model": "lom:item/gui/prototypekit/prototypekit_main" },
+		{ "predicate": { "custom_model_data": 3048 }, "model": "lom:item/gui/prototypekit/prototypekit_type" },
+		{ "predicate": { "custom_model_data": 3049 }, "model": "lom:item/gui/prototypekit/prototypekit_ability" },
+		{ "predicate": { "custom_model_data": 3050 }, "model": "lom:item/gui/prototypekit/prototypekit_icon" },
+
 
 		{ "predicate": { "custom_model_data": 3101 }, "model": "lom:item/gui/npcs/darrius" },
 		{ "predicate": { "custom_model_data": 3102 }, "model": "lom:item/gui/npcs/darrius1" },
