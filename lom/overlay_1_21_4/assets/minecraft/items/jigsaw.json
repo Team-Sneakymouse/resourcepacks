@@ -9318,6 +9318,41 @@
         }
       },
       {
+        "threshold": 3046,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_gui"
+        }
+      },
+      {
+        "threshold": 3047,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/prototypekit/prototypekit_main"
+        }
+      },
+      {
+        "threshold": 3048,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/prototypekit/prototypekit_type"
+        }
+      },
+      {
+        "threshold": 3049,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/prototypekit/prototypekit_ability"
+        }
+      },
+      {
+        "threshold": 3050,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/prototypekit/prototypekit_icon"
+        }
+      },
+      {
         "threshold": 3101,
         "model": {
           "type": "model",
@@ -10456,6 +10491,181 @@
         "model": {
           "type": "model",
           "model": "lom:item/gui/spellperks/tc-l"
+        }
+      },
+      {
+        "threshold": 5995,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_dash"
+        }
+      },
+      {
+        "threshold": 5996,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_b"
+        }
+      },
+      {
+        "threshold": 5997,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_g"
+        }
+      },
+      {
+        "threshold": 5998,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_x"
+        }
+      },
+      {
+        "threshold": 5999,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_smile"
+        }
+      },
+      {
+        "threshold": 6000,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_0"
+        }
+      },
+      {
+        "threshold": 6001,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_1"
+        }
+      },
+      {
+        "threshold": 6002,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_2"
+        }
+      },
+      {
+        "threshold": 6003,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_3"
+        }
+      },
+      {
+        "threshold": 6004,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_4"
+        }
+      },
+      {
+        "threshold": 6005,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_5"
+        }
+      },
+      {
+        "threshold": 6006,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_6"
+        }
+      },
+      {
+        "threshold": 6007,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_7"
+        }
+      },
+      {
+        "threshold": 6008,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_8"
+        }
+      },
+      {
+        "threshold": 6009,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_9"
+        }
+      },
+      {
+        "threshold": 6010,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_10"
+        }
+      },
+      {
+        "threshold": 6020,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_20"
+        }
+      },
+      {
+        "threshold": 6030,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_30"
+        }
+      },
+      {
+        "threshold": 6040,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_40"
+        }
+      },
+      {
+        "threshold": 6050,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_50"
+        }
+      },
+      {
+        "threshold": 6060,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_60"
+        }
+      },
+      {
+        "threshold": 6070,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_70"
+        }
+      },
+      {
+        "threshold": 6080,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_80"
+        }
+      },
+      {
+        "threshold": 6090,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_90"
+        }
+      },
+      {
+        "threshold": 6100,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_00"
         }
       }
     ]
