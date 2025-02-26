@@ -13,5 +13,1267 @@
 	},
 	"stealth": {
 		"sounds": ["lom:stealth"]
+	},
+	"air.blastshine": {
+	  "sounds": [
+		"lom:prototypekit/air.blastshine"
+	  ]
+	},
+	"air.crackle": {
+	  "sounds": [
+		"lom:prototypekit/air.crackle"
+	  ]
+	},
+	"air.explode": {
+	  "sounds": [
+		"lom:prototypekit/air.explode"
+	  ]
+	},
+	"air.explosion": {
+	  "sounds": [
+		"lom:prototypekit/air.explosion"
+	  ]
+	},
+	"air.gustingblow": {
+	  "sounds": [
+		"lom:prototypekit/air.gustingblow"
+	  ]
+	},
+	"air.hawkstrike": {
+	  "sounds": [
+		"lom:prototypekit/air.hawkstrike"
+	  ]
+	},
+	"air.knockback": {
+	  "sounds": [
+		"lom:prototypekit/air.knockback"
+	  ]
+	},
+	"air.lightningreveal": {
+	  "sounds": [
+		"lom:prototypekit/air.lightningreveal"
+	  ]
+	},
+	"air.lightningshield": {
+	  "sounds": [
+		"lom:prototypekit/air.lightningshield"
+	  ]
+	},
+	"air.lightningstun": {
+	  "sounds": [
+		"lom:prototypekit/air.lightningstun"
+	  ]
+	},
+	"air.noisygust": {
+	  "sounds": [
+		"lom:prototypekit/air.noisygust"
+	  ]
+	},
+	"air.rez": {
+	  "sounds": [
+		"lom:prototypekit/air.rez"
+	  ]
+	},
+	"air.shockecho": {
+	  "sounds": [
+		"lom:prototypekit/air.shockecho"
+	  ]
+	},
+	"air.shocking": {
+	  "sounds": [
+		"lom:prototypekit/air.shocking"
+	  ]
+	},
+	"air.sparkle": {
+	  "sounds": [
+		"lom:prototypekit/air.sparkle"
+	  ]
+	},
+	"air.staticcharge": {
+	  "sounds": [
+		"lom:prototypekit/air.staticcharge"
+	  ]
+	},
+	"air.thunderrush": {
+	  "sounds": [
+		"lom:prototypekit/air.thunderrush"
+	  ]
+	},
+	"air.waveshock": {
+	  "sounds": [
+		"lom:prototypekit/air.waveshock"
+	  ]
+	},
+	"air.windblow": {
+	  "sounds": [
+		"lom:prototypekit/air.windblow"
+	  ]
+	},
+	"air.windflames": {
+	  "sounds": [
+		"lom:prototypekit/air.windflames"
+	  ]
+	},
+	"anime.annoyed": {
+	  "sounds": [
+		"lom:prototypekit/anime.annoyed"
+	  ]
+	},
+	"anime.awkward": {
+	  "sounds": [
+		"lom:prototypekit/anime.awkward"
+	  ]
+	},
+	"anime.badonk": {
+	  "sounds": [
+		"lom:prototypekit/anime.badonk"
+	  ]
+	},
+	"anime.boing": {
+	  "sounds": [
+		"lom:prototypekit/anime.boing"
+	  ]
+	},
+	"anime.bonked": {
+	  "sounds": [
+		"lom:prototypekit/anime.bonked"
+	  ]
+	},
+	"anime.challenge": {
+	  "sounds": [
+		"lom:prototypekit/anime.challenge"
+	  ]
+	},
+	"anime.critical": {
+	  "sounds": [
+		"lom:prototypekit/anime.critical"
+	  ]
+	},
+	"anime.darkgleam": {
+	  "sounds": [
+		"lom:prototypekit/anime.darkgleam"
+	  ]
+	},
+	"anime.dizzy": {
+	  "sounds": [
+		"lom:prototypekit/anime.dizzy"
+	  ]
+	},
+	"anime.dread": {
+	  "sounds": [
+		"lom:prototypekit/anime.dread"
+	  ]
+	},
+	"anime.duh": {
+	  "sounds": [
+		"lom:prototypekit/anime.duh"
+	  ]
+	},
+	"anime.exposion": {
+	  "sounds": [
+		"lom:prototypekit/anime.exposion"
+	  ]
+	},
+	"anime.hoot": {
+	  "sounds": [
+		"lom:prototypekit/anime.hoot"
+	  ]
+	},
+	"anime.lightshot": {
+	  "sounds": [
+		"lom:prototypekit/anime.lightshot"
+	  ]
+	},
+	"anime.nosebleed": {
+	  "sounds": [
+		"lom:prototypekit/anime.nosebleed"
+	  ]
+	},
+	"anime.plop": {
+	  "sounds": [
+		"lom:prototypekit/anime.plop"
+	  ]
+	},
+	"anime.realization": {
+	  "sounds": [
+		"lom:prototypekit/anime.realization"
+	  ]
+	},
+	"anime.reveal": {
+	  "sounds": [
+		"lom:prototypekit/anime.reveal"
+	  ]
+	},
+	"anvil.breakrock": {
+	  "sounds": [
+		"lom:prototypekit/anvil.breakrock"
+	  ]
+	},
+	"anvil.smallhit": {
+	  "sounds": [
+		"lom:prototypekit/anvil.smallhit"
+	  ]
+	},
+	"arcane.bootup": {
+	  "sounds": [
+		"lom:prototypekit/arcane.bootup"
+	  ]
+	},
+	"arcane.cloud": {
+	  "sounds": [
+		"lom:prototypekit/arcane.cloud"
+	  ]
+	},
+	"arcane.getitem": {
+	  "sounds": [
+		"lom:prototypekit/arcane.getitem"
+	  ]
+	},
+	"arcane.heal": {
+	  "sounds": [
+		"lom:prototypekit/arcane.heal"
+	  ]
+	},
+	"arcane.lobshot": {
+	  "sounds": [
+		"lom:prototypekit/arcane.lobshot"
+	  ]
+	},
+	"arcane.manacharge": {
+	  "sounds": [
+		"lom:prototypekit/arcane.manacharge"
+	  ]
+	},
+	"arcane.mirrorcast": {
+	  "sounds": [
+		"lom:prototypekit/arcane.mirrorcast"
+	  ]
+	},
+	"arcane.scryloop": {
+	  "sounds": [
+		"lom:prototypekit/arcane.scryloop"
+	  ]
+	},
+	"arcane.translocate": {
+	  "sounds": [
+		"lom:prototypekit/arcane.translocate"
+	  ]
+	},
+	"arcane.triplelance": {
+	  "sounds": [
+		"lom:prototypekit/arcane.triplelance"
+	  ]
+	},
+	"arcane.warpin": {
+	  "sounds": [
+		"lom:prototypekit/arcane.warpin"
+	  ]
+	},
+	"arcane.warpout": {
+	  "sounds": [
+		"lom:prototypekit/arcane.warpout"
+	  ]
+	},
+	"audience.boo": {
+	  "sounds": [
+		"lom:prototypekit/audience.boo1",
+		"lom:prototypekit/audience.boo2"
+	  ]
+	},
+	"audience.clap": {
+	  "sounds": [
+		"lom:prototypekit/audience.clap1",
+		"lom:prototypekit/audience.clap2",
+		"lom:prototypekit/audience.clap3"
+	  ]
+	},
+	"audience.disapointed": {
+	  "sounds": [
+		"lom:prototypekit/audience.disapointed"
+	  ]
+	},
+	"audience.laugh": {
+	  "sounds": [
+		"lom:prototypekit/audience.laugh1",
+		"lom:prototypekit/audience.laugh2",
+		"lom:prototypekit/audience.laugh3",
+		"lom:prototypekit/audience.laugh4",
+		"lom:prototypekit/audience.laugh5"
+	  ]
+	},
+	"audience.massivecheer": {
+	  "sounds": [
+		"lom:prototypekit/audience.massivecheer"
+	  ]
+	},
+	"audience.oooo": {
+	  "sounds": [
+		"lom:prototypekit/audience.oooo"
+	  ]
+	},
+	"computer.close": {
+	  "sounds": [
+		"lom:prototypekit/computer.close"
+	  ]
+	},
+	"computer.ding": {
+	  "sounds": [
+		"lom:prototypekit/computer.ding"
+	  ]
+	},
+	"computer.error": {
+	  "sounds": [
+		"lom:prototypekit/computer.error"
+	  ]
+	},
+	"computer.killsecured": {
+	  "sounds": [
+		"lom:prototypekit/computer.killsecured"
+	  ]
+	},
+	"computer.open": {
+	  "sounds": [
+		"lom:prototypekit/computer.open"
+	  ]
+	},
+	"computer.princessstart": {
+	  "sounds": [
+		"lom:prototypekit/computer.princessstart"
+	  ]
+	},
+	"computer.swipe": {
+	  "sounds": [
+		"lom:prototypekit/computer.swipe"
+	  ]
+	},
+	"cute.cannon": {
+	  "sounds": [
+		"lom:prototypekit/cute.cannon"
+	  ]
+	},
+	"cute.evade": {
+	  "sounds": [
+		"lom:prototypekit/cute.evade"
+	  ]
+	},
+	"cute.funnyfall": {
+	  "sounds": [
+		"lom:prototypekit/cute.funnyfall"
+	  ]
+	},
+	"cute.funnyfallagain": {
+	  "sounds": [
+		"lom:prototypekit/cute.funnyfallagain"
+	  ]
+	},
+	"cute.ping": {
+	  "sounds": [
+		"lom:prototypekit/cute.ping"
+	  ]
+	},
+	"cute.poweringup": {
+	  "sounds": [
+		"lom:prototypekit/cute.poweringup"
+	  ]
+	},
+	"cute.prettystar": {
+	  "sounds": [
+		"lom:prototypekit/cute.prettystar"
+	  ]
+	},
+	"cute.shieldbreak": {
+	  "sounds": [
+		"lom:prototypekit/cute.shieldbreak"
+	  ]
+	},
+	"cute.whoosh": {
+	  "sounds": [
+		"lom:prototypekit/cute.whoosh"
+	  ]
+	},
+	"cute.yippee": {
+	  "sounds": [
+		"lom:prototypekit/cute.yippee"
+	  ]
+	},
+	"dark.bubbleshield": {
+	  "sounds": [
+		"lom:prototypekit/dark.bubbleshield"
+	  ]
+	},
+	"dark.deathray": {
+	  "sounds": [
+		"lom:prototypekit/dark.deathray"
+	  ]
+	},
+	"dark.disc": {
+	  "sounds": [
+		"lom:prototypekit/dark.disc"
+	  ]
+	},
+	"dark.enlarge": {
+	  "sounds": [
+		"lom:prototypekit/dark.enlarge"
+	  ]
+	},
+	"dark.feast": {
+	  "sounds": [
+		"lom:prototypekit/dark.feast"
+	  ]
+	},
+	"dark.funnydizzy": {
+	  "sounds": [
+		"lom:prototypekit/dark.funnydizzy"
+	  ]
+	},
+	"dark.hound": {
+	  "sounds": [
+		"lom:prototypekit/dark.hound"
+	  ]
+	},
+	"dark.hungerfeast": {
+	  "sounds": [
+		"lom:prototypekit/dark.hungerfeast"
+	  ]
+	},
+	"dark.magnet": {
+	  "sounds": [
+		"lom:prototypekit/dark.magnet"
+	  ]
+	},
+	"dark.mindshatter": {
+	  "sounds": [
+		"lom:prototypekit/dark.mindshatter"
+	  ]
+	},
+	"dark.ninjachannel": {
+	  "sounds": [
+		"lom:prototypekit/dark.ninjachannel"
+	  ]
+	},
+	"dark.recall": {
+	  "sounds": [
+		"lom:prototypekit/dark.recall"
+	  ]
+	},
+	"dark.shadowdome": {
+	  "sounds": [
+		"lom:prototypekit/dark.shadowdome"
+	  ]
+	},
+	"dark.slice": {
+	  "sounds": [
+		"lom:prototypekit/dark.slice"
+	  ]
+	},
+	"dark.spellsteal": {
+	  "sounds": [
+		"lom:prototypekit/dark.spellsteal"
+	  ]
+	},
+	"dark.static": {
+	  "sounds": [
+		"lom:prototypekit/dark.static"
+	  ]
+	},
+	"dark.suckin": {
+	  "sounds": [
+		"lom:prototypekit/dark.suckin"
+	  ]
+	},
+	"dark.summonchaos": {
+	  "sounds": [
+		"lom:prototypekit/dark.summonchaos"
+	  ]
+	},
+	"dark.summonhorse": {
+	  "sounds": [
+		"lom:prototypekit/dark.summonhorse"
+	  ]
+	},
+	"dark.vortext": {
+	  "sounds": [
+		"lom:prototypekit/dark.vortext"
+	  ]
+	},
+	"dark.whoosh": {
+	  "sounds": [
+		"lom:prototypekit/dark.whoosh"
+	  ]
+	},
+	"darl.banishbeast": {
+	  "sounds": [
+		"lom:prototypekit/darl.banishbeast"
+	  ]
+	},
+	"darl.obeywhip": {
+	  "sounds": [
+		"lom:prototypekit/darl.obeywhip"
+	  ]
+	},
+	"earth.beeblast": {
+	  "sounds": [
+		"lom:prototypekit/earth.beeblast"
+	  ]
+	},
+	"earth.blind": {
+	  "sounds": [
+		"lom:prototypekit/earth.blind"
+	  ]
+	},
+	"earth.crackle": {
+	  "sounds": [
+		"lom:prototypekit/earth.crackle"
+	  ]
+	},
+	"earth.dodge": {
+	  "sounds": [
+		"lom:prototypekit/earth.dodge"
+	  ]
+	},
+	"earth.evade": {
+	  "sounds": [
+		"lom:prototypekit/earth.evade"
+	  ]
+	},
+	"earth.jumpwhip": {
+	  "sounds": [
+		"lom:prototypekit/earth.jumpwhip"
+	  ]
+	},
+	"earth.landing": {
+	  "sounds": [
+		"lom:prototypekit/earth.landing"
+	  ]
+	},
+	"earth.poisonstatic": {
+	  "sounds": [
+		"lom:prototypekit/earth.poisonstatic"
+	  ]
+	},
+	"earth.sandblast": {
+	  "sounds": [
+		"lom:prototypekit/earth.sandblast"
+	  ]
+	},
+	"earth.teleport": {
+	  "sounds": [
+		"lom:prototypekit/earth.teleport"
+	  ]
+	},
+	"earth.treeform": {
+	  "sounds": [
+		"lom:prototypekit/earth.treeform"
+	  ]
+	},
+	"fire.blazeball": {
+	  "sounds": [
+		"lom:prototypekit/fire.blazeball"
+	  ]
+	},
+	"fire.chargedown": {
+	  "sounds": [
+		"lom:prototypekit/fire.chargedown"
+	  ]
+	},
+	"fire.chargeup": {
+	  "sounds": [
+		"lom:prototypekit/fire.chargeup"
+	  ]
+	},
+	"fire.combustion": {
+	  "sounds": [
+		"lom:prototypekit/fire.combustion"
+	  ]
+	},
+	"fire.explosivestorm": {
+	  "sounds": [
+		"lom:prototypekit/fire.explosivestorm"
+	  ]
+	},
+	"fire.flop": {
+	  "sounds": [
+		"lom:prototypekit/fire.flop"
+	  ]
+	},
+	"fire.inferno": {
+	  "sounds": [
+		"lom:prototypekit/fire.inferno"
+	  ]
+	},
+	"fire.lob": {
+	  "sounds": [
+		"lom:prototypekit/fire.lob"
+	  ]
+	},
+	"fire.pixelblast": {
+	  "sounds": [
+		"lom:prototypekit/fire.pixelblast"
+	  ]
+	},
+	"fire.powerdown": {
+	  "sounds": [
+		"lom:prototypekit/fire.powerdown"
+	  ]
+	},
+	"fire.powerup": {
+	  "sounds": [
+		"lom:prototypekit/fire.powerup"
+	  ]
+	},
+	"fire.spin": {
+	  "sounds": [
+		"lom:prototypekit/fire.spin"
+	  ]
+	},
+	"fire.teleport": {
+	  "sounds": [
+		"lom:prototypekit/fire.teleport"
+	  ]
+	},
+	"hit.metal": {
+	  "sounds": [
+		"lom:prototypekit/hit.metal1",
+		"lom:prototypekit/hit.metal2",
+		"lom:prototypekit/hit.metal3"
+	  ]
+	},
+	"hit.steel": {
+	  "sounds": [
+		"lom:prototypekit/hit.steel"
+	  ]
+	},
+	"ice.bell": {
+	  "sounds": [
+		"lom:prototypekit/ice.bell"
+	  ]
+	},
+	"ice.cannon": {
+	  "sounds": [
+		"lom:prototypekit/ice.cannon"
+	  ]
+	},
+	"ice.crystalform": {
+	  "sounds": [
+		"lom:prototypekit/ice.crystalform"
+	  ]
+	},
+	"ice.crystalhit": {
+	  "sounds": [
+		"lom:prototypekit/ice.crystalhit"
+	  ]
+	},
+	"ice.crystallize": {
+	  "sounds": [
+		"lom:prototypekit/ice.crystallize"
+	  ]
+	},
+	"ice.cutecounter": {
+	  "sounds": [
+		"lom:prototypekit/ice.cutecounter"
+	  ]
+	},
+	"ice.drown": {
+	  "sounds": [
+		"lom:prototypekit/ice.drown"
+	  ]
+	},
+	"ice.getitem": {
+	  "sounds": [
+		"lom:prototypekit/ice.getitem"
+	  ]
+	},
+	"ice.ghost": {
+	  "sounds": [
+		"lom:prototypekit/ice.ghost"
+	  ]
+	},
+	"ice.jumpblizzard": {
+	  "sounds": [
+		"lom:prototypekit/ice.jumpblizzard"
+	  ]
+	},
+	"ice.lance": {
+	  "sounds": [
+		"lom:prototypekit/ice.lance"
+	  ]
+	},
+	"ice.mistblast": {
+	  "sounds": [
+		"lom:prototypekit/ice.mistblast"
+	  ]
+	},
+	"ice.plink": {
+	  "sounds": [
+		"lom:prototypekit/ice.plink"
+	  ]
+	},
+	"ice.portal": {
+	  "sounds": [
+		"lom:prototypekit/ice.portal"
+	  ]
+	},
+	"ice.powerup": {
+	  "sounds": [
+		"lom:prototypekit/ice.powerup"
+	  ]
+	},
+	"ice.shard": {
+	  "sounds": [
+		"lom:prototypekit/ice.shard"
+	  ]
+	},
+	"ice.snowblast": {
+	  "sounds": [
+		"lom:prototypekit/ice.snowblast"
+	  ]
+	},
+	"ice.sonar": {
+	  "sounds": [
+		"lom:prototypekit/ice.sonar"
+	  ]
+	},
+	"ice.sparkle": {
+	  "sounds": [
+		"lom:prototypekit/ice.sparkle"
+	  ]
+	},
+	"ice.sprinkle": {
+	  "sounds": [
+		"lom:prototypekit/ice.sprinkle"
+	  ]
+	},
+	"ice.sprint": {
+	  "sounds": [
+		"lom:prototypekit/ice.sprint"
+	  ]
+	},
+	"ice.swirl": {
+	  "sounds": [
+		"lom:prototypekit/ice.swirl"
+	  ]
+	},
+	"ice.timefreeze": {
+	  "sounds": [
+		"lom:prototypekit/ice.timefreeze"
+	  ]
+	},
+	"ice.unsummon": {
+	  "sounds": [
+		"lom:prototypekit/ice.unsummon"
+	  ]
+	},
+	"ice.whoosh": {
+	  "sounds": [
+		"lom:prototypekit/ice.whoosh"
+	  ]
+	},
+	"light.bash": {
+	  "sounds": [
+		"lom:prototypekit/light.bash"
+	  ]
+	},
+	"light.crystalsword": {
+	  "sounds": [
+		"lom:prototypekit/light.crystalsword"
+	  ]
+	},
+	"light.evade": {
+	  "sounds": [
+		"lom:prototypekit/light.evade"
+	  ]
+	},
+	"light.flashbeam": {
+	  "sounds": [
+		"lom:prototypekit/light.flashbeam"
+	  ]
+	},
+	"light.getitem": {
+	  "sounds": [
+		"lom:prototypekit/light.getitem"
+	  ]
+	},
+	"light.holycrest": {
+	  "sounds": [
+		"lom:prototypekit/light.holycrest"
+	  ]
+	},
+	"light.holyking": {
+	  "sounds": [
+		"lom:prototypekit/light.holyking"
+	  ]
+	},
+	"light.holywave": {
+	  "sounds": [
+		"lom:prototypekit/light.holywave"
+	  ]
+	},
+	"light.powerblade": {
+	  "sounds": [
+		"lom:prototypekit/light.powerblade"
+	  ]
+	},
+	"light.starblip": {
+	  "sounds": [
+		"lom:prototypekit/light.starblip"
+	  ]
+	},
+	"light.stealdust": {
+	  "sounds": [
+		"lom:prototypekit/light.stealdust"
+	  ]
+	},
+	"light.swordblast": {
+	  "sounds": [
+		"lom:prototypekit/light.swordblast"
+	  ]
+	},
+	"light.upgrade": {
+	  "sounds": [
+		"lom:prototypekit/light.upgrade"
+	  ]
+	},
+	"light.warp": {
+	  "sounds": [
+		"lom:prototypekit/light.warp"
+	  ]
+	},
+	"musical.guitarcontinue": {
+	  "sounds": [
+		"lom:prototypekit/musical.guitarcontinue"
+	  ]
+	},
+	"musical.guitartime": {
+	  "sounds": [
+		"lom:prototypekit/musical.guitartime"
+	  ]
+	},
+	"musical.meanking": {
+	  "sounds": [
+		"lom:prototypekit/musical.meanking"
+	  ]
+	},
+	"musical.pirate": {
+	  "sounds": [
+		"lom:prototypekit/musical.pirate"
+	  ]
+	},
+	"musical.piratesad": {
+	  "sounds": [
+		"lom:prototypekit/musical.piratesad"
+	  ]
+	},
+	"musical.victory": {
+	  "sounds": [
+		"lom:prototypekit/musical.victory"
+	  ]
+	},
+	"musical.youdidit": {
+	  "sounds": [
+		"lom:prototypekit/musical.youdidit"
+	  ]
+	},
+	"punk.blastgun": {
+	  "sounds": [
+		"lom:prototypekit/punk.blastgun1",
+		"lom:prototypekit/punk.blastgun2"
+	  ]
+	},
+	"punk.blastshot": {
+	  "sounds": [
+		"lom:prototypekit/punk.blastshot1",
+		"lom:prototypekit/punk.blastshot2"
+	  ]
+	},
+	"punk.bolashot": {
+	  "sounds": [
+		"lom:prototypekit/punk.bolashot"
+	  ]
+	},
+	"punk.clang": {
+	  "sounds": [
+		"lom:prototypekit/punk.clang"
+	  ]
+	},
+	"punk.drill": {
+	  "sounds": [
+		"lom:prototypekit/punk.drill"
+	  ]
+	},
+	"punk.energycannon": {
+	  "sounds": [
+		"lom:prototypekit/punk.energycannon"
+	  ]
+	},
+	"punk.energypowerup": {
+	  "sounds": [
+		"lom:prototypekit/punk.energypowerup"
+	  ]
+	},
+	"punk.laserrifle": {
+	  "sounds": [
+		"lom:prototypekit/punk.laserrifle"
+	  ]
+	},
+	"punk.loadcrossbow": {
+	  "sounds": [
+		"lom:prototypekit/punk.loadcrossbow"
+	  ]
+	},
+	"punk.loaddata": {
+	  "sounds": [
+		"lom:prototypekit/punk.loaddata"
+	  ]
+	},
+	"punk.machinerush": {
+	  "sounds": [
+		"lom:prototypekit/punk.machinerush"
+	  ]
+	},
+	"punk.manaempty": {
+	  "sounds": [
+		"lom:prototypekit/punk.manaempty"
+	  ]
+	},
+	"punk.podclose": {
+	  "sounds": [
+		"lom:prototypekit/punk.podclose"
+	  ]
+	},
+	"punk.podopen": {
+	  "sounds": [
+		"lom:prototypekit/punk.podopen"
+	  ]
+	},
+	"punk.powerblade": {
+	  "sounds": [
+		"lom:prototypekit/punk.powerblade"
+	  ]
+	},
+	"punk.powerdown": {
+	  "sounds": [
+		"lom:prototypekit/punk.powerdown"
+	  ]
+	},
+	"punk.zap": {
+	  "sounds": [
+		"lom:prototypekit/punk.zap1",
+		"lom:prototypekit/punk.zap2",
+		"lom:prototypekit/punk.zap3"
+	  ]
+	},
+	"punk.zapsword": {
+	  "sounds": [
+		"lom:prototypekit/punk.zapsword1",
+		"lom:prototypekit/punk.zapsword2",
+		"lom:prototypekit/punk.zapsword3"
+	  ]
+	},
+	"sfx.anvilslam": {
+	  "sounds": [
+		"lom:prototypekit/sfx.anvilslam"
+	  ]
+	},
+	"sfx.anvilstomp": {
+	  "sounds": [
+		"lom:prototypekit/sfx.anvilstomp"
+	  ]
+	},
+	"sfx.bagofcoins": {
+	  "sounds": [
+		"lom:prototypekit/sfx.bagofcoins"
+	  ]
+	},
+	"sfx.bagofgold": {
+	  "sounds": [
+		"lom:prototypekit/sfx.bagofgold"
+	  ]
+	},
+	"sfx.baseball": {
+	  "sounds": [
+		"lom:prototypekit/sfx.baseball1",
+		"lom:prototypekit/sfx.baseball2"
+	  ]
+	},
+	"sfx.batbonk": {
+	  "sounds": [
+		"lom:prototypekit/sfx.batbonk"
+	  ]
+	},
+	"sfx.blacksmithdent": {
+	  "sounds": [
+		"lom:prototypekit/sfx.blacksmithdent"
+	  ]
+	},
+	"sfx.bottlebreak": {
+	  "sounds": [
+		"lom:prototypekit/sfx.bottlebreak"
+	  ]
+	},
+	"sfx.bubble": {
+	  "sounds": [
+		"lom:prototypekit/sfx.bubble"
+	  ]
+	},
+	"sfx.classicparry": {
+	  "sounds": [
+		"lom:prototypekit/sfx.classicparry"
+	  ]
+	},
+	"sfx.cowbell": {
+	  "sounds": [
+		"lom:prototypekit/sfx.cowbell"
+	  ]
+	},
+	"sfx.cuffs": {
+	  "sounds": [
+		"lom:prototypekit/sfx.cuffs"
+	  ]
+	},
+	"sfx.cymbalcrash": {
+	  "sounds": [
+		"lom:prototypekit/sfx.cymbalcrash"
+	  ]
+	},
+	"sfx.destroywall": {
+	  "sounds": [
+		"lom:prototypekit/sfx.destroywall"
+	  ]
+	},
+	"sfx.dja": {
+	  "sounds": [
+		"lom:prototypekit/sfx.dja"
+	  ]
+	},
+	"sfx.djb": {
+	  "sounds": [
+		"lom:prototypekit/sfx.djb"
+	  ]
+	},
+	"sfx.djc": {
+	  "sounds": [
+		"lom:prototypekit/sfx.djc"
+	  ]
+	},
+	"sfx.djd": {
+	  "sounds": [
+		"lom:prototypekit/sfx.djd"
+	  ]
+	},
+	"sfx.dragonflute": {
+	  "sounds": [
+		"lom:prototypekit/sfx.dragonflute"
+	  ]
+	},
+	"sfx.froghop": {
+	  "sounds": [
+		"lom:prototypekit/sfx.froghop"
+	  ]
+	},
+	"sfx.gameover": {
+	  "sounds": [
+		"lom:prototypekit/sfx.gameover"
+	  ]
+	},
+	"sfx.hornofjustice": {
+	  "sounds": [
+		"lom:prototypekit/sfx.hornofjustice"
+	  ]
+	},
+	"sfx.jackpot": {
+	  "sounds": [
+		"lom:prototypekit/sfx.jackpot"
+	  ]
+	},
+	"sfx.jumpscare": {
+	  "sounds": [
+		"lom:prototypekit/sfx.jumpscare"
+	  ]
+	},
+	"sfx.manaball": {
+	  "sounds": [
+		"lom:prototypekit/sfx.manaball"
+	  ]
+	},
+	"sfx.manacrystal": {
+	  "sounds": [
+		"lom:prototypekit/sfx.manacrystal"
+	  ]
+	},
+	"sfx.manashard": {
+	  "sounds": [
+		"lom:prototypekit/sfx.manashard"
+	  ]
+	},
+	"sfx.ninjadodge": {
+	  "sounds": [
+		"lom:prototypekit/sfx.ninjadodge1",
+		"lom:prototypekit/sfx.ninjadodge2",
+		"lom:prototypekit/sfx.ninjadodge3",
+		"lom:prototypekit/sfx.ninjadodge4"
+	  ]
+	},
+	"sfx.potionactivate": {
+	  "sounds": [
+		"lom:prototypekit/sfx.potionactivate"
+	  ]
+	},
+	"sfx.rimshot": {
+	  "sounds": [
+		"lom:prototypekit/sfx.rimshot"
+	  ]
+	},
+	"sfx.roll": {
+	  "sounds": [
+		"lom:prototypekit/sfx.roll"
+	  ]
+	},
+	"sfx.sciencebuttons": {
+	  "sounds": [
+		"lom:prototypekit/sfx.sciencebuttons"
+	  ]
+	},
+	"sfx.skeletonbones": {
+	  "sounds": [
+		"lom:prototypekit/sfx.skeletonbones"
+	  ]
+	},
+	"sfx.slap": {
+	  "sounds": [
+		"lom:prototypekit/sfx.slap"
+	  ]
+	},
+	"sfx.smile": {
+	  "sounds": [
+		"lom:prototypekit/sfx.smile"
+	  ]
+	},
+	"sfx.victorykids": {
+	  "sounds": [
+		"lom:prototypekit/sfx.victorykids"
+	  ]
+	},
+	"sfx.warningalarm": {
+	  "sounds": [
+		"lom:prototypekit/sfx.warningalarm"
+	  ]
+	},
+	"sfx.webhit": {
+	  "sounds": [
+		"lom:prototypekit/sfx.webhit"
+	  ]
+	},
+	"sfx.webimpact": {
+	  "sounds": [
+		"lom:prototypekit/sfx.webimpact"
+	  ]
+	},
+	"sfx.webrelease": {
+	  "sounds": [
+		"lom:prototypekit/sfx.webrelease"
+	  ]
+	},
+	"sfx.websling": {
+	  "sounds": [
+		"lom:prototypekit/sfx.websling1",
+		"lom:prototypekit/sfx.websling2",
+		"lom:prototypekit/sfx.websling3",
+		"lom:prototypekit/sfx.websling4"
+	  ]
+	},
+	"ship.loadcannon": {
+	  "sounds": [
+		"lom:prototypekit/ship.loadcannon"
+	  ]
+	},
+	"ui.blockplink": {
+	  "sounds": [
+		"lom:prototypekit/ui.blockplink"
+	  ]
+	},
+	"ui.staple": {
+	  "sounds": [
+		"lom:prototypekit/ui.staple"
+	  ]
+	},
+	"water.crystalsplash": {
+	  "sounds": [
+		"lom:prototypekit/water.crystalsplash"
+	  ]
+	},
+	"water.healbuff": {
+	  "sounds": [
+		"lom:prototypekit/water.healbuff"
+	  ]
+	},
+	"water.reveal": {
+	  "sounds": [
+		"lom:prototypekit/water.reveal"
+	  ]
+	},
+	"weapon.crystalswordequip": {
+	  "sounds": [
+		"lom:prototypekit/weapon.crystalswordequip"
+	  ]
+	},
+	"weapon.daggerswing": {
+	  "sounds": [
+		"lom:prototypekit/weapon.daggerswing"
+	  ]
+	},
+	"weapon.eartharrow": {
+	  "sounds": [
+		"lom:prototypekit/weapon.eartharrow1",
+		"lom:prototypekit/weapon.eartharrow2"
+	  ]
+	},
+	"weapon.equipbigsword": {
+	  "sounds": [
+		"lom:prototypekit/weapon.equipbigsword"
+	  ]
+	},
+	"weapon.froggun": {
+	  "sounds": [
+		"lom:prototypekit/weapon.froggun1",
+		"lom:prototypekit/weapon.froggun2",
+		"lom:prototypekit/weapon.froggun3"
+	  ]
+	},
+	"weapon.longswordequip": {
+	  "sounds": [
+		"lom:prototypekit/weapon.longswordequip"
+	  ]
+	},
+	"weapon.magicarrow": {
+	  "sounds": [
+		"lom:prototypekit/weapon.magicarrow1",
+		"lom:prototypekit/weapon.magicarrow2",
+		"lom:prototypekit/weapon.magicarrow3"
+	  ]
+	},
+	"weapon.oldswordhit": {
+	  "sounds": [
+		"lom:prototypekit/weapon.oldswordhit"
+	  ]
+	},
+	"weapon.staffswing": {
+	  "sounds": [
+		"lom:prototypekit/weapon.staffswing"
+	  ]
+	},
+	"weapon.swordattention": {
+	  "sounds": [
+		"lom:prototypekit/weapon.swordattention"
+	  ]
+	},
+	"wind.dizzywave": {
+	  "sounds": [
+		"lom:prototypekit/wind.dizzywave"
+	  ]
+	},
+	"wind.hurricanewave": {
+	  "sounds": [
+		"lom:prototypekit/wind.hurricanewave"
+	  ]
 	}
-}
+  }
