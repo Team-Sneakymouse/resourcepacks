@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"item/arrow"},"overrides":[{"predicate":{"custom_model_data":57500},"model":"rms_skeleton_models/skeleton_arrow"}],"mcmodels":"f793064ad0a31cf75afe5709bb0fff53"}
