@@ -1,0 +1,6 @@
+{ 
+    "parent": "lom:item/gui/backpackbattles/bb_3x3", 
+    "textures": { 
+        "layer0": "lom:item/gui/backpackbattles/bb_full" 
+    } 
+} 

@@ -1511,6 +1511,13 @@
 		{ "predicate": { "custom_model_data": 5035 }, "model": "lom:item/gui/spellperks/tc" },
 		{ "predicate": { "custom_model_data": 5036 }, "model": "lom:item/gui/spellperks/tc-l" },
 
+		{ "predicate": { "custom_model_data": 5501 }, "model": "lom:item/gui/backpackbattles/bb_single" },
+		{ "predicate": { "custom_model_data": 5502 }, "model": "lom:item/gui/backpackbattles/bb_line" },
+		{ "predicate": { "custom_model_data": 5503 }, "model": "lom:item/gui/backpackbattles/bb_plus" },
+		{ "predicate": { "custom_model_data": 5504 }, "model": "lom:item/gui/backpackbattles/bb_corner" },
+		{ "predicate": { "custom_model_data": 5505 }, "model": "lom:item/gui/backpackbattles/bb_divider" },
+		{ "predicate": { "custom_model_data": 5506 }, "model": "lom:item/gui/backpackbattles/bb_box" },
+		{ "predicate": { "custom_model_data": 5507 }, "model": "lom:item/gui/backpackbattles/bb_full" },
 		
 		{ "predicate": { "custom_model_data": 5995 }, "model": "lom:item/gui/elevator/elevator_dash" },
 		{ "predicate": { "custom_model_data": 5996 }, "model": "lom:item/gui/elevator/elevator_b" },

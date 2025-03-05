@@ -10494,6 +10494,55 @@
         }
       },
       {
+        "threshold": 5501,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/backpackbattles/bb_single"
+        }
+      },
+      {
+        "threshold": 5502,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/backpackbattles/bb_line"
+        }
+      },
+      {
+        "threshold": 5503,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/backpackbattles/bb_plus"
+        }
+      },
+      {
+        "threshold": 5504,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/backpackbattles/bb_corner"
+        }
+      },
+      {
+        "threshold": 5505,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/backpackbattles/bb_divider"
+        }
+      },
+      {
+        "threshold": 5506,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/backpackbattles/bb_box"
+        }
+      },
+      {
+        "threshold": 5507,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/backpackbattles/bb_full"
+        }
+      },
+      {
         "threshold": 5995,
         "model": {
           "type": "model",
