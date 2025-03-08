@@ -7708,6 +7708,160 @@
         }
       },
       {
+        "threshold": 1553,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/blinkstep"
+        }
+      },
+      {
+        "threshold": 1554,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/conjurebones"
+        }
+      },
+      {
+        "threshold": 1555,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/conjurepetals"
+        }
+      },
+      {
+        "threshold": 1556,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/courtsummons"
+        }
+      },
+      {
+        "threshold": 1557,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/darkbubbles"
+        }
+      },
+      {
+        "threshold": 1558,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/darknessbeam"
+        }
+      },
+      {
+        "threshold": 1559,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/devolutionspray"
+        }
+      },
+      {
+        "threshold": 1560,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/dizzyblast"
+        }
+      },
+      {
+        "threshold": 1561,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/healbeam"
+        }
+      },
+      {
+        "threshold": 1562,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/jumpback"
+        }
+      },
+      {
+        "threshold": 1563,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/levitationray"
+        }
+      },
+      {
+        "threshold": 1564,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/magiccloud"
+        }
+      },
+      {
+        "threshold": 1565,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/poisonbreath"
+        }
+      },
+      {
+        "threshold": 1566,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/procbeam"
+        }
+      },
+      {
+        "threshold": 1567,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/rocketjump"
+        }
+      },
+      {
+        "threshold": 1568,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/selfdestruct"
+        }
+      },
+      {
+        "threshold": 1569,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/shieldingbeam"
+        }
+      },
+      {
+        "threshold": 1570,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/sleepybeam"
+        }
+      },
+      {
+        "threshold": 1571,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/solarflare"
+        }
+      },
+      {
+        "threshold": 1572,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/splash"
+        }
+      },
+      {
+        "threshold": 1573,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/vacuumloot"
+        }
+      },
+      {
+        "threshold": 1574,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/whippull"
+        }
+      },
+      {
         "threshold": 2001,
         "model": {
           "type": "model",
