@@ -1,18 +1,14 @@
 {
   "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
     "fallback": {
       "type": "model",
       "model": "minecraft:item/shield"
     },
-    "type": "range_dispatch",
-    "property": "custom_model_data",
     "entries": [
-      {
-        "model": {
-          "type": "model",
-          "model": "item/shield_blocking"
-        }
-      },
       {
         "threshold": 1,
         "model": {
@@ -21,17 +17,48 @@
         }
       },
       {
-        "threshold": 1,
-        "model": {
-          "type": "model",
-          "model": "lom:item/shields/buckler_blocking"
-        }
-      },
-      {
         "threshold": 2,
         "model": {
           "type": "model",
           "model": "lom:item/shields/heater"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "lom:item/shields/targe"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "lom:item/shields/rapier"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "lom:item/shields/thewall"
+        }
+      }
+    ]
+  },
+    "on_true": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/shield"
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "lom:item/shields/buckler_blocking"
         }
       },
       {
@@ -45,21 +72,7 @@
         "threshold": 3,
         "model": {
           "type": "model",
-          "model": "lom:item/shields/targe"
-        }
-      },
-      {
-        "threshold": 3,
-        "model": {
-          "type": "model",
           "model": "lom:item/shields/targe_blocking"
-        }
-      },
-      {
-        "threshold": 4,
-        "model": {
-          "type": "model",
-          "model": "lom:item/shields/rapier"
         }
       },
       {
@@ -73,16 +86,11 @@
         "threshold": 5,
         "model": {
           "type": "model",
-          "model": "lom:item/shields/thewall"
-        }
-      },
-      {
-        "threshold": 5,
-        "model": {
-          "type": "model",
           "model": "lom:item/shields/thewall_blocking"
         }
       }
     ]
+  },
+    "property": "minecraft:using_item"
   }
 }
