@@ -190,6 +190,13 @@
         }
       },
       {
+        "threshold": 27,
+        "model": {
+          "type": "model",
+          "model": "lom:item/tools/clipboard"
+        }
+      },
+      {
         "threshold": 1001,
         "model": {
           "type": "model",
