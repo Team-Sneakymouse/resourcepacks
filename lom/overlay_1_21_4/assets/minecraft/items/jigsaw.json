@@ -9507,6 +9507,13 @@
         }
       },
       {
+        "threshold": 3051,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob_gui"
+        }
+      },
+      {
         "threshold": 3101,
         "model": {
           "type": "model",
@@ -10393,6 +10400,146 @@
         "model": {
           "type": "model",
           "model": "lom:item/gui/daquestions/daquestion55"
+        }
+      },
+      {
+        "threshold": 4201,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_bricky"
+        }
+      },
+      {
+        "threshold": 4202,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_bunny"
+        }
+      },
+      {
+        "threshold": 4203,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_cool"
+        }
+      },
+      {
+        "threshold": 4204,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_dangerous"
+        }
+      },
+      {
+        "threshold": 4205,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_fun"
+        }
+      },
+      {
+        "threshold": 4206,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_funny"
+        }
+      },
+      {
+        "threshold": 4207,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_honey"
+        }
+      },
+      {
+        "threshold": 4208,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_hot"
+        }
+      },
+      {
+        "threshold": 4209,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_icky"
+        }
+      },
+      {
+        "threshold": 4210,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_magical"
+        }
+      },
+      {
+        "threshold": 4211,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_money"
+        }
+      },
+      {
+        "threshold": 4212,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_mysterious"
+        }
+      },
+      {
+        "threshold": 4213,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_nefarious"
+        }
+      },
+      {
+        "threshold": 4214,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_poisonous"
+        }
+      },
+      {
+        "threshold": 4215,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_practical"
+        }
+      },
+      {
+        "threshold": 4216,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_radical"
+        }
+      },
+      {
+        "threshold": 4217,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_scary"
+        }
+      },
+      {
+        "threshold": 4218,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_sticky"
+        }
+      },
+      {
+        "threshold": 4219,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_tactical"
+        }
+      },
+      {
+        "threshold": 4220,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/sciencejob/sciencejob_tricky"
         }
       },
       {

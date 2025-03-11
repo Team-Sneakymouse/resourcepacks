@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/2tiles",
+  "textures": {
+    "texture": "lom:item/gui/sciencejob/sciencejob_tricky"
+  }
+}
