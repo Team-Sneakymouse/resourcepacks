@@ -85,5 +85,8 @@
 	},
 	"storejimmy": {
 		"sounds": ["lom:storejimmy1", "lom:storejimmy2", "lom:storejimmy3", "lom:storejimmy4", "lom:storejimmy5"]
+	},
+	"sfx.paper": {
+		"sounds": ["lom:sfx.paper"]
 	}
 }
