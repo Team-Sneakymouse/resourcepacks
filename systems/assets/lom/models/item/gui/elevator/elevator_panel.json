@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [3, 3],
+	"textures": {
+		"0": "lom:item/gui/elevator/elevator_gui",
+		"particle": "lom:item/gui/elevator/elevator_gui"
+	},
+	"elements": [
+		{
+			"from": [-5, -10, 8],
+			"to": [22, 27, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 8.5, 8]},
+			"faces": {
+				"north": {"uv": [4.02286, 0.20571, 12.16, 16], "texture": "#0"},
+				"east": {"uv": [4.02286, 0.18286, 4.48, 16], "texture": "#0"},
+				"south": {"uv": [4.02286, 0.20571, 12.16, 16], "texture": "#0"},
+				"west": {"uv": [11.74857, 0.18286, 12.18286, 16], "texture": "#0"},
+				"up": {"uv": [12.16, 0.22857, 4.02286, 0.66286], "texture": "#0"},
+				"down": {"uv": [4.02286, 15.38286, 12.16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"scale": [1.125, 1.125, 1]
+		},
+		"fixed": {
+			"translation": [0, 0, -1.25],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

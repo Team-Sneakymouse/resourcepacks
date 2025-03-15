@@ -7862,6 +7862,153 @@
         }
       },
       {
+        "threshold": 1575,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpbuild"
+        }
+      },
+      {
+        "threshold": 1576,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpcharisma"
+        }
+      },
+      {
+        "threshold": 1577,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpconstitution"
+        }
+      },
+      {
+        "threshold": 1578,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpdexterity"
+        }
+      },
+      {
+        "threshold": 1579,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpdigging"
+        }
+      },
+      {
+        "threshold": 1580,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpdrinking"
+        }
+      },
+      {
+        "threshold": 1581,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpeating"
+        }
+      },
+      {
+        "threshold": 1582,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpempathy"
+        }
+      },
+      {
+        "threshold": 1583,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpfish"
+        }
+      },
+      {
+        "threshold": 1584,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpgathering"
+        }
+      },
+      {
+        "threshold": 1585,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpintelligence"
+        }
+      },
+      {
+        "threshold": 1586,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpjump"
+        }
+      },
+      {
+        "threshold": 1587,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpmagicing"
+        }
+      },
+      {
+        "threshold": 1588,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpmine"
+        }
+      },
+      {
+        "threshold": 1589,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpsprint"
+        }
+      },
+      {
+        "threshold": 1590,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpstrength"
+        }
+      },
+      {
+        "threshold": 1591,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpswimming"
+        }
+      },
+      {
+        "threshold": 1592,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xptrading"
+        }
+      },
+      {
+        "threshold": 1593,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpwisdom"
+        }
+      },
+      {
+        "threshold": 1594,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpworship"
+        }
+      },
+      {
+        "threshold": 1595,
+        "model": {
+          "type": "model",
+          "model": "lom:item/icons/prototype_abilities/xpsitting"
+        }
+      },
+      {
         "threshold": 2001,
         "model": {
           "type": "model",
@@ -11261,6 +11408,13 @@
         "model": {
           "type": "model",
           "model": "lom:item/gui/backpackbattles/bb_full"
+        }
+      },
+      {
+        "threshold": 5994,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/elevator/elevator_panel"
         }
       },
       {
