@@ -14,6 +14,9 @@
 	"stealth": {
 		"sounds": ["lom:stealth"]
 	},
+	"sfx.paper": {
+		"sounds": ["lom:sfx.paper"]
+	},
 	"air.blastshine": {
 	  "sounds": [
 		"lom:prototypekit/air.blastshine"
