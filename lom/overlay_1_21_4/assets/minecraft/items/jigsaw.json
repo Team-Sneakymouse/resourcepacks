@@ -9661,6 +9661,48 @@
         }
       },
       {
+        "threshold": 3052,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/powerplant/powerplant_gui"
+        }
+      },
+      {
+        "threshold": 3053,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/powerplant/powerplant_scale1"
+        }
+      },
+      {
+        "threshold": 3054,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/powerplant/powerplant_scale2"
+        }
+      },
+      {
+        "threshold": 3055,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/powerplant/powerplant_scale3"
+        }
+      },
+      {
+        "threshold": 3056,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/powerplant/powerplant_scale4"
+        }
+      },
+      {
+        "threshold": 3057,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/powerplant/powerplant_scale5"
+        }
+      },
+      {
         "threshold": 3101,
         "model": {
           "type": "model",

@@ -1385,6 +1385,12 @@
 		{ "predicate": { "custom_model_data": 3049 }, "model": "lom:item/gui/prototypekit/prototypekit_ability" },
 		{ "predicate": { "custom_model_data": 3050 }, "model": "lom:item/gui/prototypekit/prototypekit_icon" },
 		{ "predicate": { "custom_model_data": 3051 }, "model": "lom:item/gui/sciencejob_gui" },
+		{ "predicate": { "custom_model_data": 3052 }, "model": "lom:item/gui/powerplant/powerplant_gui" },
+		{ "predicate": { "custom_model_data": 3053 }, "model": "lom:item/gui/powerplant/powerplant_scale1" },
+		{ "predicate": { "custom_model_data": 3054 }, "model": "lom:item/gui/powerplant/powerplant_scale2" },
+		{ "predicate": { "custom_model_data": 3055 }, "model": "lom:item/gui/powerplant/powerplant_scale3" },
+		{ "predicate": { "custom_model_data": 3056 }, "model": "lom:item/gui/powerplant/powerplant_scale4" },
+		{ "predicate": { "custom_model_data": 3057 }, "model": "lom:item/gui/powerplant/powerplant_scale5" },
 
 		{ "predicate": { "custom_model_data": 3101 }, "model": "lom:item/gui/npcs/darrius" },
 		{ "predicate": { "custom_model_data": 3102 }, "model": "lom:item/gui/npcs/darrius1" },

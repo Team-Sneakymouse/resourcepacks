@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/5rows-9",
+  "textures": {
+    "texture": "lom:item/gui/powerplant/powerplant_scale4"
+  }
+}
