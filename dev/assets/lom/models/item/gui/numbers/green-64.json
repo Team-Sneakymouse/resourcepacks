@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/numbers",
+  "textures": {
+    "layer0": "lom:item/gui/numbers/green-64"
+  }
+}

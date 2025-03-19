@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "lom:item/gui/numbers/blue-00"
+	},
+	"display": {
+		"gui": {
+			"scale": [1.5, 1.5, 1.5],
+			"translation": [0.0, 2.0, 0.0]
+		}
+	}
+}

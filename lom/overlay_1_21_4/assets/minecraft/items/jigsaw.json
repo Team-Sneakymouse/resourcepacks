@@ -11633,6 +11633,2813 @@
           "type": "model",
           "model": "lom:item/gui/elevator/elevator_00"
         }
+      },
+      {
+        "threshold": 6999,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers"
+        }
+      },
+      {
+        "threshold": 7000,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-00"
+        }
+      },
+      {
+        "threshold": 7001,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-01"
+        }
+      },
+      {
+        "threshold": 7002,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-02"
+        }
+      },
+      {
+        "threshold": 7003,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-03"
+        }
+      },
+      {
+        "threshold": 7004,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-04"
+        }
+      },
+      {
+        "threshold": 7005,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-05"
+        }
+      },
+      {
+        "threshold": 7006,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-06"
+        }
+      },
+      {
+        "threshold": 7007,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-07"
+        }
+      },
+      {
+        "threshold": 7008,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-08"
+        }
+      },
+      {
+        "threshold": 7009,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-09"
+        }
+      },
+      {
+        "threshold": 7010,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-10"
+        }
+      },
+      {
+        "threshold": 7011,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-11"
+        }
+      },
+      {
+        "threshold": 7012,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-12"
+        }
+      },
+      {
+        "threshold": 7013,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-13"
+        }
+      },
+      {
+        "threshold": 7014,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-14"
+        }
+      },
+      {
+        "threshold": 7015,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-15"
+        }
+      },
+      {
+        "threshold": 7016,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-16"
+        }
+      },
+      {
+        "threshold": 7017,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-17"
+        }
+      },
+      {
+        "threshold": 7018,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-18"
+        }
+      },
+      {
+        "threshold": 7019,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-19"
+        }
+      },
+      {
+        "threshold": 7020,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-20"
+        }
+      },
+      {
+        "threshold": 7021,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-21"
+        }
+      },
+      {
+        "threshold": 7022,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-22"
+        }
+      },
+      {
+        "threshold": 7023,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-23"
+        }
+      },
+      {
+        "threshold": 7024,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-24"
+        }
+      },
+      {
+        "threshold": 7025,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-25"
+        }
+      },
+      {
+        "threshold": 7026,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-26"
+        }
+      },
+      {
+        "threshold": 7027,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-27"
+        }
+      },
+      {
+        "threshold": 7028,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-28"
+        }
+      },
+      {
+        "threshold": 7029,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-29"
+        }
+      },
+      {
+        "threshold": 7030,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-30"
+        }
+      },
+      {
+        "threshold": 7031,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-31"
+        }
+      },
+      {
+        "threshold": 7032,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-32"
+        }
+      },
+      {
+        "threshold": 7033,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-33"
+        }
+      },
+      {
+        "threshold": 7034,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-34"
+        }
+      },
+      {
+        "threshold": 7035,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-35"
+        }
+      },
+      {
+        "threshold": 7036,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-36"
+        }
+      },
+      {
+        "threshold": 7037,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-37"
+        }
+      },
+      {
+        "threshold": 7038,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-38"
+        }
+      },
+      {
+        "threshold": 7039,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-39"
+        }
+      },
+      {
+        "threshold": 7040,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-40"
+        }
+      },
+      {
+        "threshold": 7041,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-41"
+        }
+      },
+      {
+        "threshold": 7042,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-42"
+        }
+      },
+      {
+        "threshold": 7043,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-43"
+        }
+      },
+      {
+        "threshold": 7044,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-44"
+        }
+      },
+      {
+        "threshold": 7045,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-45"
+        }
+      },
+      {
+        "threshold": 7046,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-46"
+        }
+      },
+      {
+        "threshold": 7047,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-47"
+        }
+      },
+      {
+        "threshold": 7048,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-48"
+        }
+      },
+      {
+        "threshold": 7049,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-49"
+        }
+      },
+      {
+        "threshold": 7050,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-50"
+        }
+      },
+      {
+        "threshold": 7051,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-51"
+        }
+      },
+      {
+        "threshold": 7052,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-52"
+        }
+      },
+      {
+        "threshold": 7053,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-53"
+        }
+      },
+      {
+        "threshold": 7054,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-54"
+        }
+      },
+      {
+        "threshold": 7055,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-55"
+        }
+      },
+      {
+        "threshold": 7056,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-56"
+        }
+      },
+      {
+        "threshold": 7057,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-57"
+        }
+      },
+      {
+        "threshold": 7058,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-58"
+        }
+      },
+      {
+        "threshold": 7059,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-59"
+        }
+      },
+      {
+        "threshold": 7060,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-60"
+        }
+      },
+      {
+        "threshold": 7061,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-61"
+        }
+      },
+      {
+        "threshold": 7062,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-62"
+        }
+      },
+      {
+        "threshold": 7063,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-63"
+        }
+      },
+      {
+        "threshold": 7064,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-64"
+        }
+      },
+      {
+        "threshold": 7065,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-65"
+        }
+      },
+      {
+        "threshold": 7066,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-66"
+        }
+      },
+      {
+        "threshold": 7067,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-67"
+        }
+      },
+      {
+        "threshold": 7068,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-68"
+        }
+      },
+      {
+        "threshold": 7069,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-69"
+        }
+      },
+      {
+        "threshold": 7070,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-70"
+        }
+      },
+      {
+        "threshold": 7071,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-71"
+        }
+      },
+      {
+        "threshold": 7072,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-72"
+        }
+      },
+      {
+        "threshold": 7073,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-73"
+        }
+      },
+      {
+        "threshold": 7074,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-74"
+        }
+      },
+      {
+        "threshold": 7075,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-75"
+        }
+      },
+      {
+        "threshold": 7076,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-76"
+        }
+      },
+      {
+        "threshold": 7077,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-77"
+        }
+      },
+      {
+        "threshold": 7078,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-78"
+        }
+      },
+      {
+        "threshold": 7079,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-79"
+        }
+      },
+      {
+        "threshold": 7080,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-80"
+        }
+      },
+      {
+        "threshold": 7081,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-81"
+        }
+      },
+      {
+        "threshold": 7082,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-82"
+        }
+      },
+      {
+        "threshold": 7083,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-83"
+        }
+      },
+      {
+        "threshold": 7084,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-84"
+        }
+      },
+      {
+        "threshold": 7085,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-85"
+        }
+      },
+      {
+        "threshold": 7086,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-86"
+        }
+      },
+      {
+        "threshold": 7087,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-87"
+        }
+      },
+      {
+        "threshold": 7088,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-88"
+        }
+      },
+      {
+        "threshold": 7089,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-89"
+        }
+      },
+      {
+        "threshold": 7090,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-90"
+        }
+      },
+      {
+        "threshold": 7091,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-91"
+        }
+      },
+      {
+        "threshold": 7092,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-92"
+        }
+      },
+      {
+        "threshold": 7093,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-93"
+        }
+      },
+      {
+        "threshold": 7094,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-94"
+        }
+      },
+      {
+        "threshold": 7095,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-95"
+        }
+      },
+      {
+        "threshold": 7096,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-96"
+        }
+      },
+      {
+        "threshold": 7097,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-97"
+        }
+      },
+      {
+        "threshold": 7098,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-98"
+        }
+      },
+      {
+        "threshold": 7099,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/blue-99"
+        }
+      },
+      {
+        "threshold": 7100,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-00"
+        }
+      },
+      {
+        "threshold": 7101,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-01"
+        }
+      },
+      {
+        "threshold": 7102,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-02"
+        }
+      },
+      {
+        "threshold": 7103,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-03"
+        }
+      },
+      {
+        "threshold": 7104,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-04"
+        }
+      },
+      {
+        "threshold": 7105,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-05"
+        }
+      },
+      {
+        "threshold": 7106,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-06"
+        }
+      },
+      {
+        "threshold": 7107,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-07"
+        }
+      },
+      {
+        "threshold": 7108,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-08"
+        }
+      },
+      {
+        "threshold": 7109,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-09"
+        }
+      },
+      {
+        "threshold": 7110,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-10"
+        }
+      },
+      {
+        "threshold": 7111,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-11"
+        }
+      },
+      {
+        "threshold": 7112,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-12"
+        }
+      },
+      {
+        "threshold": 7113,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-13"
+        }
+      },
+      {
+        "threshold": 7114,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-14"
+        }
+      },
+      {
+        "threshold": 7115,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-15"
+        }
+      },
+      {
+        "threshold": 7116,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-16"
+        }
+      },
+      {
+        "threshold": 7117,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-17"
+        }
+      },
+      {
+        "threshold": 7118,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-18"
+        }
+      },
+      {
+        "threshold": 7119,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-19"
+        }
+      },
+      {
+        "threshold": 7120,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-20"
+        }
+      },
+      {
+        "threshold": 7121,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-21"
+        }
+      },
+      {
+        "threshold": 7122,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-22"
+        }
+      },
+      {
+        "threshold": 7123,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-23"
+        }
+      },
+      {
+        "threshold": 7124,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-24"
+        }
+      },
+      {
+        "threshold": 7125,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-25"
+        }
+      },
+      {
+        "threshold": 7126,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-26"
+        }
+      },
+      {
+        "threshold": 7127,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-27"
+        }
+      },
+      {
+        "threshold": 7128,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-28"
+        }
+      },
+      {
+        "threshold": 7129,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-29"
+        }
+      },
+      {
+        "threshold": 7130,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-30"
+        }
+      },
+      {
+        "threshold": 7131,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-31"
+        }
+      },
+      {
+        "threshold": 7132,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-32"
+        }
+      },
+      {
+        "threshold": 7133,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-33"
+        }
+      },
+      {
+        "threshold": 7134,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-34"
+        }
+      },
+      {
+        "threshold": 7135,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-35"
+        }
+      },
+      {
+        "threshold": 7136,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-36"
+        }
+      },
+      {
+        "threshold": 7137,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-37"
+        }
+      },
+      {
+        "threshold": 7138,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-38"
+        }
+      },
+      {
+        "threshold": 7139,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-39"
+        }
+      },
+      {
+        "threshold": 7140,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-40"
+        }
+      },
+      {
+        "threshold": 7141,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-41"
+        }
+      },
+      {
+        "threshold": 7142,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-42"
+        }
+      },
+      {
+        "threshold": 7143,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-43"
+        }
+      },
+      {
+        "threshold": 7144,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-44"
+        }
+      },
+      {
+        "threshold": 7145,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-45"
+        }
+      },
+      {
+        "threshold": 7146,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-46"
+        }
+      },
+      {
+        "threshold": 7147,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-47"
+        }
+      },
+      {
+        "threshold": 7148,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-48"
+        }
+      },
+      {
+        "threshold": 7149,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-49"
+        }
+      },
+      {
+        "threshold": 7150,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-50"
+        }
+      },
+      {
+        "threshold": 7151,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-51"
+        }
+      },
+      {
+        "threshold": 7152,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-52"
+        }
+      },
+      {
+        "threshold": 7153,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-53"
+        }
+      },
+      {
+        "threshold": 7154,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-54"
+        }
+      },
+      {
+        "threshold": 7155,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-55"
+        }
+      },
+      {
+        "threshold": 7156,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-56"
+        }
+      },
+      {
+        "threshold": 7157,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-57"
+        }
+      },
+      {
+        "threshold": 7158,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-58"
+        }
+      },
+      {
+        "threshold": 7159,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-59"
+        }
+      },
+      {
+        "threshold": 7160,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-60"
+        }
+      },
+      {
+        "threshold": 7161,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-61"
+        }
+      },
+      {
+        "threshold": 7162,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-62"
+        }
+      },
+      {
+        "threshold": 7163,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-63"
+        }
+      },
+      {
+        "threshold": 7164,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-64"
+        }
+      },
+      {
+        "threshold": 7165,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-65"
+        }
+      },
+      {
+        "threshold": 7166,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-66"
+        }
+      },
+      {
+        "threshold": 7167,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-67"
+        }
+      },
+      {
+        "threshold": 7168,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-68"
+        }
+      },
+      {
+        "threshold": 7169,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-69"
+        }
+      },
+      {
+        "threshold": 7170,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-70"
+        }
+      },
+      {
+        "threshold": 7171,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-71"
+        }
+      },
+      {
+        "threshold": 7172,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-72"
+        }
+      },
+      {
+        "threshold": 7173,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-73"
+        }
+      },
+      {
+        "threshold": 7174,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-74"
+        }
+      },
+      {
+        "threshold": 7175,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-75"
+        }
+      },
+      {
+        "threshold": 7176,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-76"
+        }
+      },
+      {
+        "threshold": 7177,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-77"
+        }
+      },
+      {
+        "threshold": 7178,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-78"
+        }
+      },
+      {
+        "threshold": 7179,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-79"
+        }
+      },
+      {
+        "threshold": 7180,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-80"
+        }
+      },
+      {
+        "threshold": 7181,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-81"
+        }
+      },
+      {
+        "threshold": 7182,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-82"
+        }
+      },
+      {
+        "threshold": 7183,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-83"
+        }
+      },
+      {
+        "threshold": 7184,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-84"
+        }
+      },
+      {
+        "threshold": 7185,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-85"
+        }
+      },
+      {
+        "threshold": 7186,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-86"
+        }
+      },
+      {
+        "threshold": 7187,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-87"
+        }
+      },
+      {
+        "threshold": 7188,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-88"
+        }
+      },
+      {
+        "threshold": 7189,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-89"
+        }
+      },
+      {
+        "threshold": 7190,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-90"
+        }
+      },
+      {
+        "threshold": 7191,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-91"
+        }
+      },
+      {
+        "threshold": 7192,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-92"
+        }
+      },
+      {
+        "threshold": 7193,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-93"
+        }
+      },
+      {
+        "threshold": 7194,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-94"
+        }
+      },
+      {
+        "threshold": 7195,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-95"
+        }
+      },
+      {
+        "threshold": 7196,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-96"
+        }
+      },
+      {
+        "threshold": 7197,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-97"
+        }
+      },
+      {
+        "threshold": 7198,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-98"
+        }
+      },
+      {
+        "threshold": 7199,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/green-99"
+        }
+      },
+      {
+        "threshold": 7200,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-00"
+        }
+      },
+      {
+        "threshold": 7201,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-01"
+        }
+      },
+      {
+        "threshold": 7202,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-02"
+        }
+      },
+      {
+        "threshold": 7203,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-03"
+        }
+      },
+      {
+        "threshold": 7204,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-04"
+        }
+      },
+      {
+        "threshold": 7205,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-05"
+        }
+      },
+      {
+        "threshold": 7206,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-06"
+        }
+      },
+      {
+        "threshold": 7207,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-07"
+        }
+      },
+      {
+        "threshold": 7208,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-08"
+        }
+      },
+      {
+        "threshold": 7209,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-09"
+        }
+      },
+      {
+        "threshold": 7210,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-10"
+        }
+      },
+      {
+        "threshold": 7211,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-11"
+        }
+      },
+      {
+        "threshold": 7212,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-12"
+        }
+      },
+      {
+        "threshold": 7213,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-13"
+        }
+      },
+      {
+        "threshold": 7214,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-14"
+        }
+      },
+      {
+        "threshold": 7215,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-15"
+        }
+      },
+      {
+        "threshold": 7216,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-16"
+        }
+      },
+      {
+        "threshold": 7217,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-17"
+        }
+      },
+      {
+        "threshold": 7218,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-18"
+        }
+      },
+      {
+        "threshold": 7219,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-19"
+        }
+      },
+      {
+        "threshold": 7220,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-20"
+        }
+      },
+      {
+        "threshold": 7221,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-21"
+        }
+      },
+      {
+        "threshold": 7222,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-22"
+        }
+      },
+      {
+        "threshold": 7223,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-23"
+        }
+      },
+      {
+        "threshold": 7224,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-24"
+        }
+      },
+      {
+        "threshold": 7225,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-25"
+        }
+      },
+      {
+        "threshold": 7226,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-26"
+        }
+      },
+      {
+        "threshold": 7227,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-27"
+        }
+      },
+      {
+        "threshold": 7228,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-28"
+        }
+      },
+      {
+        "threshold": 7229,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-29"
+        }
+      },
+      {
+        "threshold": 7230,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-30"
+        }
+      },
+      {
+        "threshold": 7231,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-31"
+        }
+      },
+      {
+        "threshold": 7232,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-32"
+        }
+      },
+      {
+        "threshold": 7233,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-33"
+        }
+      },
+      {
+        "threshold": 7234,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-34"
+        }
+      },
+      {
+        "threshold": 7235,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-35"
+        }
+      },
+      {
+        "threshold": 7236,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-36"
+        }
+      },
+      {
+        "threshold": 7237,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-37"
+        }
+      },
+      {
+        "threshold": 7238,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-38"
+        }
+      },
+      {
+        "threshold": 7239,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-39"
+        }
+      },
+      {
+        "threshold": 7240,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-40"
+        }
+      },
+      {
+        "threshold": 7241,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-41"
+        }
+      },
+      {
+        "threshold": 7242,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-42"
+        }
+      },
+      {
+        "threshold": 7243,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-43"
+        }
+      },
+      {
+        "threshold": 7244,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-44"
+        }
+      },
+      {
+        "threshold": 7245,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-45"
+        }
+      },
+      {
+        "threshold": 7246,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-46"
+        }
+      },
+      {
+        "threshold": 7247,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-47"
+        }
+      },
+      {
+        "threshold": 7248,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-48"
+        }
+      },
+      {
+        "threshold": 7249,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-49"
+        }
+      },
+      {
+        "threshold": 7250,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-50"
+        }
+      },
+      {
+        "threshold": 7251,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-51"
+        }
+      },
+      {
+        "threshold": 7252,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-52"
+        }
+      },
+      {
+        "threshold": 7253,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-53"
+        }
+      },
+      {
+        "threshold": 7254,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-54"
+        }
+      },
+      {
+        "threshold": 7255,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-55"
+        }
+      },
+      {
+        "threshold": 7256,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-56"
+        }
+      },
+      {
+        "threshold": 7257,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-57"
+        }
+      },
+      {
+        "threshold": 7258,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-58"
+        }
+      },
+      {
+        "threshold": 7259,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-59"
+        }
+      },
+      {
+        "threshold": 7260,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-60"
+        }
+      },
+      {
+        "threshold": 7261,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-61"
+        }
+      },
+      {
+        "threshold": 7262,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-62"
+        }
+      },
+      {
+        "threshold": 7263,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-63"
+        }
+      },
+      {
+        "threshold": 7264,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-64"
+        }
+      },
+      {
+        "threshold": 7265,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-65"
+        }
+      },
+      {
+        "threshold": 7266,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-66"
+        }
+      },
+      {
+        "threshold": 7267,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-67"
+        }
+      },
+      {
+        "threshold": 7268,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-68"
+        }
+      },
+      {
+        "threshold": 7269,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-69"
+        }
+      },
+      {
+        "threshold": 7270,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-70"
+        }
+      },
+      {
+        "threshold": 7271,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-71"
+        }
+      },
+      {
+        "threshold": 7272,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-72"
+        }
+      },
+      {
+        "threshold": 7273,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-73"
+        }
+      },
+      {
+        "threshold": 7274,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-74"
+        }
+      },
+      {
+        "threshold": 7275,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-75"
+        }
+      },
+      {
+        "threshold": 7276,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-76"
+        }
+      },
+      {
+        "threshold": 7277,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-77"
+        }
+      },
+      {
+        "threshold": 7278,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-78"
+        }
+      },
+      {
+        "threshold": 7279,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-79"
+        }
+      },
+      {
+        "threshold": 7280,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-80"
+        }
+      },
+      {
+        "threshold": 7281,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-81"
+        }
+      },
+      {
+        "threshold": 7282,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-82"
+        }
+      },
+      {
+        "threshold": 7283,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-83"
+        }
+      },
+      {
+        "threshold": 7284,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-84"
+        }
+      },
+      {
+        "threshold": 7285,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-85"
+        }
+      },
+      {
+        "threshold": 7286,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-86"
+        }
+      },
+      {
+        "threshold": 7287,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-87"
+        }
+      },
+      {
+        "threshold": 7288,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-88"
+        }
+      },
+      {
+        "threshold": 7289,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-89"
+        }
+      },
+      {
+        "threshold": 7290,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-90"
+        }
+      },
+      {
+        "threshold": 7291,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-91"
+        }
+      },
+      {
+        "threshold": 7292,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-92"
+        }
+      },
+      {
+        "threshold": 7293,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-93"
+        }
+      },
+      {
+        "threshold": 7294,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-94"
+        }
+      },
+      {
+        "threshold": 7295,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-95"
+        }
+      },
+      {
+        "threshold": 7296,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-96"
+        }
+      },
+      {
+        "threshold": 7297,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-97"
+        }
+      },
+      {
+        "threshold": 7298,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-98"
+        }
+      },
+      {
+        "threshold": 7299,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/red-99"
+        }
+      },
+      {
+        "threshold": 7300,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-00"
+        }
+      },
+      {
+        "threshold": 7301,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-01"
+        }
+      },
+      {
+        "threshold": 7302,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-02"
+        }
+      },
+      {
+        "threshold": 7303,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-03"
+        }
+      },
+      {
+        "threshold": 7304,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-04"
+        }
+      },
+      {
+        "threshold": 7305,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-05"
+        }
+      },
+      {
+        "threshold": 7306,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-06"
+        }
+      },
+      {
+        "threshold": 7307,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-07"
+        }
+      },
+      {
+        "threshold": 7308,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-08"
+        }
+      },
+      {
+        "threshold": 7309,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-09"
+        }
+      },
+      {
+        "threshold": 7310,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-10"
+        }
+      },
+      {
+        "threshold": 7311,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-11"
+        }
+      },
+      {
+        "threshold": 7312,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-12"
+        }
+      },
+      {
+        "threshold": 7313,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-13"
+        }
+      },
+      {
+        "threshold": 7314,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-14"
+        }
+      },
+      {
+        "threshold": 7315,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-15"
+        }
+      },
+      {
+        "threshold": 7316,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-16"
+        }
+      },
+      {
+        "threshold": 7317,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-17"
+        }
+      },
+      {
+        "threshold": 7318,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-18"
+        }
+      },
+      {
+        "threshold": 7319,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-19"
+        }
+      },
+      {
+        "threshold": 7320,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-20"
+        }
+      },
+      {
+        "threshold": 7321,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-21"
+        }
+      },
+      {
+        "threshold": 7322,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-22"
+        }
+      },
+      {
+        "threshold": 7323,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-23"
+        }
+      },
+      {
+        "threshold": 7324,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-24"
+        }
+      },
+      {
+        "threshold": 7325,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-25"
+        }
+      },
+      {
+        "threshold": 7326,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-26"
+        }
+      },
+      {
+        "threshold": 7327,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-27"
+        }
+      },
+      {
+        "threshold": 7328,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-28"
+        }
+      },
+      {
+        "threshold": 7329,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-29"
+        }
+      },
+      {
+        "threshold": 7330,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-30"
+        }
+      },
+      {
+        "threshold": 7331,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-31"
+        }
+      },
+      {
+        "threshold": 7332,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-32"
+        }
+      },
+      {
+        "threshold": 7333,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-33"
+        }
+      },
+      {
+        "threshold": 7334,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-34"
+        }
+      },
+      {
+        "threshold": 7335,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-35"
+        }
+      },
+      {
+        "threshold": 7336,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-36"
+        }
+      },
+      {
+        "threshold": 7337,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-37"
+        }
+      },
+      {
+        "threshold": 7338,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-38"
+        }
+      },
+      {
+        "threshold": 7339,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-39"
+        }
+      },
+      {
+        "threshold": 7340,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-40"
+        }
+      },
+      {
+        "threshold": 7341,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-41"
+        }
+      },
+      {
+        "threshold": 7342,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-42"
+        }
+      },
+      {
+        "threshold": 7343,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-43"
+        }
+      },
+      {
+        "threshold": 7344,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-44"
+        }
+      },
+      {
+        "threshold": 7345,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-45"
+        }
+      },
+      {
+        "threshold": 7346,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-46"
+        }
+      },
+      {
+        "threshold": 7347,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-47"
+        }
+      },
+      {
+        "threshold": 7348,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-48"
+        }
+      },
+      {
+        "threshold": 7349,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-49"
+        }
+      },
+      {
+        "threshold": 7350,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-50"
+        }
+      },
+      {
+        "threshold": 7351,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-51"
+        }
+      },
+      {
+        "threshold": 7352,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-52"
+        }
+      },
+      {
+        "threshold": 7353,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-53"
+        }
+      },
+      {
+        "threshold": 7354,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-54"
+        }
+      },
+      {
+        "threshold": 7355,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-55"
+        }
+      },
+      {
+        "threshold": 7356,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-56"
+        }
+      },
+      {
+        "threshold": 7357,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-57"
+        }
+      },
+      {
+        "threshold": 7358,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-58"
+        }
+      },
+      {
+        "threshold": 7359,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-59"
+        }
+      },
+      {
+        "threshold": 7360,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-60"
+        }
+      },
+      {
+        "threshold": 7361,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-61"
+        }
+      },
+      {
+        "threshold": 7362,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-62"
+        }
+      },
+      {
+        "threshold": 7363,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-63"
+        }
+      },
+      {
+        "threshold": 7364,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-64"
+        }
+      },
+      {
+        "threshold": 7365,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-65"
+        }
+      },
+      {
+        "threshold": 7366,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-66"
+        }
+      },
+      {
+        "threshold": 7367,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-67"
+        }
+      },
+      {
+        "threshold": 7368,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-68"
+        }
+      },
+      {
+        "threshold": 7369,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-69"
+        }
+      },
+      {
+        "threshold": 7370,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-70"
+        }
+      },
+      {
+        "threshold": 7371,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-71"
+        }
+      },
+      {
+        "threshold": 7372,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-72"
+        }
+      },
+      {
+        "threshold": 7373,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-73"
+        }
+      },
+      {
+        "threshold": 7374,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-74"
+        }
+      },
+      {
+        "threshold": 7375,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-75"
+        }
+      },
+      {
+        "threshold": 7376,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-76"
+        }
+      },
+      {
+        "threshold": 7377,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-77"
+        }
+      },
+      {
+        "threshold": 7378,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-78"
+        }
+      },
+      {
+        "threshold": 7379,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-79"
+        }
+      },
+      {
+        "threshold": 7380,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-80"
+        }
+      },
+      {
+        "threshold": 7381,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-81"
+        }
+      },
+      {
+        "threshold": 7382,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-82"
+        }
+      },
+      {
+        "threshold": 7383,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-83"
+        }
+      },
+      {
+        "threshold": 7384,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-84"
+        }
+      },
+      {
+        "threshold": 7385,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-85"
+        }
+      },
+      {
+        "threshold": 7386,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-86"
+        }
+      },
+      {
+        "threshold": 7387,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-87"
+        }
+      },
+      {
+        "threshold": 7388,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-88"
+        }
+      },
+      {
+        "threshold": 7389,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-89"
+        }
+      },
+      {
+        "threshold": 7390,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-90"
+        }
+      },
+      {
+        "threshold": 7391,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-91"
+        }
+      },
+      {
+        "threshold": 7392,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-92"
+        }
+      },
+      {
+        "threshold": 7393,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-93"
+        }
+      },
+      {
+        "threshold": 7394,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-94"
+        }
+      },
+      {
+        "threshold": 7395,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-95"
+        }
+      },
+      {
+        "threshold": 7396,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-96"
+        }
+      },
+      {
+        "threshold": 7397,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-97"
+        }
+      },
+      {
+        "threshold": 7398,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-98"
+        }
+      },
+      {
+        "threshold": 7399,
+        "model": {
+          "type": "model",
+          "model": "lom:item/gui/numbers/yellow-99"
+        }
       }
     ]
   }
