@@ -77,6 +77,7 @@
 		{ "predicate": { "custom_model_data": 75 }, "model": "lom:item/entities/train_2ndcar" },
 		{ "predicate": { "custom_model_data": 76 }, "model": "lom:item/entities/train_3rdcar" },
 		{ "predicate": { "custom_model_data": 77 }, "model": "lom:item/entities/train_4thcar" },
+		{ "predicate": { "custom_model_data": 78 }, "model": "lom:item/entities/lumberbirch" },
 
 		{ "predicate": { "custom_model_data": 101 }, "model": "lom:item/entities/torture_machines/electric_chair" },
 		{ "predicate": { "custom_model_data": 102 }, "model": "lom:item/entities/torture_machines/punish_bracelets" },

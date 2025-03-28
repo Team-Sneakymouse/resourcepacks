@@ -918,6 +918,20 @@
         }
       },
       {
+        "threshold": 131,
+        "model": {
+          "type": "model",
+          "model": "lom:item/tools/skateboard"
+        }
+      },
+      {
+        "threshold": 132,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/crystal"
+        }
+      },
+      {
         "threshold": 1000,
         "model": {
           "type": "model",

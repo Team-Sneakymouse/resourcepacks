@@ -540,6 +540,13 @@
         }
       },
       {
+        "threshold": 78,
+        "model": {
+          "type": "model",
+          "model": "lom:item/entities/lumberbirch"
+        }
+      },
+      {
         "threshold": 101,
         "model": {
           "type": "model",

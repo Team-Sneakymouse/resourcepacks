@@ -131,6 +131,8 @@
 		{ "predicate": { "custom_model_data": 128 }, "model": "lom:item/tools/summonstone" },
 		{ "predicate": { "custom_model_data": 129 }, "model": "lom:item/tools/mlmprototyper" },
 		{ "predicate": { "custom_model_data": 130 }, "model": "lom:item/tools/summonshard" },
+		{ "predicate": { "custom_model_data": 131 }, "model": "lom:item/tools/skateboard" },
+		{ "predicate": { "custom_model_data": 132 }, "model": "lom:item/items/crystal" },
 
 		{ "predicate": { "custom_model_data": 1000 }, "model": "lom:item/items/crates/crate_stock" },
 		{ "predicate": { "custom_model_data": 1001 }, "model": "lom:item/items/crates/crate_cheese" },
