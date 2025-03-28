@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench by becktyrion",
+	"parent": "lom:item/tools/tomeguard",
+	"textures": {
+		"2": "lom:item/tools/skillbook"
+	}
+}

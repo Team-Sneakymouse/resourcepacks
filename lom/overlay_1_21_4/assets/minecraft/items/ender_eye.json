@@ -21,6 +21,51 @@
                         "model": "lom:item/tools/tomeguard"
                     }
                 }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "model",
+                        "model": "lom:item/tools/skillbook_open"
+                    },
+                    "on_false": {
+                        "type": "model",
+                        "model": "lom:item/tools/skillbook"
+                    }
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "model",
+                        "model": "lom:item/tools/magicbook_open"
+                    },
+                    "on_false": {
+                        "type": "model",
+                        "model": "lom:item/tools/magicbook"
+                    }
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {
+                        "type": "model",
+                        "model": "lom:item/tools/magicbook2_open"
+                    },
+                    "on_false": {
+                        "type": "model",
+                        "model": "lom:item/tools/magicbook2"
+                    }
+                }
             }
         ]
     }
