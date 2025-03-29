@@ -641,13 +641,6 @@
         "threshold": 91,
         "model": {
           "type": "model",
-          "model": "lom:item/items/swammie"
-        }
-      },
-      {
-        "threshold": 91,
-        "model": {
-          "type": "model",
           "model": "lom:item/hats/simplehats/candycane"
         }
       },
@@ -656,6 +649,13 @@
         "model": {
           "type": "model",
           "model": "lom:item/hats/simplehats/christmascakehat"
+        }
+      },
+      {
+        "threshold": 93,
+        "model": {
+          "type": "model",
+          "model": "lom:item/items/swammie"
         }
       }
     ]
