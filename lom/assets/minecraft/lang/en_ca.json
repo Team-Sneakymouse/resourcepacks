@@ -18,5 +18,6 @@
   "item.minecraft.music_disc_otherside.desc": "",
   "item.minecraft.music_disc_5.desc": "",
   "instrument.minecraft.ponder_goat_horn": "",
-  "effect.minecraft.hunger": "Exhaustion"
+  "effect.minecraft.hunger": "Exhaustion",
+  "multiplayer.downloadingTerrain": ""
 }

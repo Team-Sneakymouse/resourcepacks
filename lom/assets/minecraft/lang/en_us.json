@@ -18,5 +18,8 @@
   "item.minecraft.music_disc_otherside.desc": "",
   "item.minecraft.music_disc_5.desc": "",
   "instrument.minecraft.ponder_goat_horn": "",
-  "effect.minecraft.hunger": "Exhaustion"
+  "effect.minecraft.hunger": "Exhaustion",
+  "multiplayer.downloadingTerrain": "",
+  "menu.game": "",
+  "menu.returnToGame": "\uE050\uE060\uE051\uE055Return to Lords"
 }
