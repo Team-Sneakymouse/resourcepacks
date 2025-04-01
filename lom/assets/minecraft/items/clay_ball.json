@@ -543,7 +543,70 @@
         "threshold": 78,
         "model": {
           "type": "model",
-          "model": "lom:item/entities/lumberbirch"
+          "model": "lom:item/entities/lumber_acacia"
+        }
+      },
+      {
+        "threshold": 79,
+        "model": {
+          "type": "model",
+          "model": "lom:item/entities/lumber_birch"
+        }
+      },
+      {
+        "threshold": 80,
+        "model": {
+          "type": "model",
+          "model": "lom:item/entities/lumber_cherry"
+        }
+      },
+      {
+        "threshold": 81,
+        "model": {
+          "type": "model",
+          "model": "lom:item/entities/lumber_jungle"
+        }
+      },
+      {
+        "threshold": 82,
+        "model": {
+          "type": "model",
+          "model": "lom:item/entities/lumber_spruce"
+        }
+      },
+      {
+        "threshold": 83,
+        "model": {
+          "type": "model",
+          "model": "lom:item/entities/lumber_log_acacia"
+        }
+      },
+      {
+        "threshold": 84,
+        "model": {
+          "type": "model",
+          "model": "lom:item/entities/lumber_log_birch"
+        }
+      },
+      {
+        "threshold": 85,
+        "model": {
+          "type": "model",
+          "model": "lom:item/entities/lumber_log_cherry"
+        }
+      },
+      {
+        "threshold": 86,
+        "model": {
+          "type": "model",
+          "model": "lom:item/entities/lumber_log_jungle"
+        }
+      },
+      {
+        "threshold": 87,
+        "model": {
+          "type": "model",
+          "model": "lom:item/entities/lumber_log_spruce"
         }
       },
       {

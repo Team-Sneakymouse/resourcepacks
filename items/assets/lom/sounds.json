@@ -26,6 +26,21 @@
 	"axe.timber": {
 		"sounds": ["lom:axe/axe.timber1", "lom:axe/axe.timber2", "lom:axe/axe.timber3", "lom:axe/axe.timber4", "lom:axe/axe.timber5"]
 	},
+	"axe.timber1": {
+		"sounds": ["lom:axe/axe.timber1"]
+	},
+	"axe.timber2": {
+		"sounds": ["lom:axe/axe.timber2"]
+	},
+	"axe.timber3": {
+		"sounds": ["lom:axe/axe.timber3"]
+	},
+	"axe.timber4": {
+		"sounds": ["lom:axe/axe.timber4"]
+	},
+	"axe.timber5": {
+		"sounds": ["lom:axe/axe.timber5"]
+	},
 	"pickaxe.mine": {
 		"sounds": [
 			"lom:pickaxe/pickaxe.mine1",
