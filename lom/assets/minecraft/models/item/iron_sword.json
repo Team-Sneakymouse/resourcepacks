@@ -1,8 +1,0 @@
-{
-	"parent": "minecraft:item/vanilla/iron_sword",
-	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "abyss_pack:item/abyss_sword" },
-		{ "predicate": { "custom_model_data": 2 }, "model": "abyss_pack:item/abyss_sword_white" },
-		{ "predicate": { "custom_model_data": 3 }, "model": "abyss_pack:item/abyss_sword_black" }
-	]
-}

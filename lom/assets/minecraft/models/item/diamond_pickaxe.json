@@ -1,4 +1,0 @@
-{
-	"parent": "item/vanilla/diamond_pickaxe",
-	"overrides": [{ "predicate": { "custom_model_data": 1 }, "model": "lom:item/tools/ancient_pickaxe" }]
-}

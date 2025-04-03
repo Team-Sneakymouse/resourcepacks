@@ -3,28 +3,19 @@
     "type": "range_dispatch",
     "property": "custom_model_data",
     "fallback": {
-      "type": "model",
-      "model": "minecraft:item/goat_horn"
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_true": { "type": "minecraft:model", "model": "minecraft:item/tooting_goat_horn" },
+      "on_false": { "type": "minecraft:model", "model": "minecraft:item/goat_horn" }
     },
     "entries": [
       {
-        "model": {
-          "type": "model",
-          "model": "item/tooting_goat_horn"
-        }
-      },
-      {
         "threshold": 1,
         "model": {
-          "type": "model",
-          "model": "lom:item/tools/horn"
-        }
-      },
-      {
-        "threshold": 1,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/tooting_horn"
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": { "type": "minecraft:model", "model": "lom:item/tools/tooting_horn" },
+          "on_false": { "type": "minecraft:model", "model": "lom:item/tools/horn" }
         }
       }
     ]

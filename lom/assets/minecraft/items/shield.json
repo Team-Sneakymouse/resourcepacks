@@ -3,84 +3,94 @@
     "type": "range_dispatch",
     "property": "custom_model_data",
     "fallback": {
-      "type": "model",
-      "model": "minecraft:item/shield"
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_true": {
+        "type": "minecraft:special",
+        "base": "minecraft:item/shield_blocking",
+        "model": { "type": "minecraft:shield" }
+      },
+      "on_false": {
+        "type": "minecraft:special",
+        "base": "minecraft:item/shield",
+        "model": { "type": "minecraft:shield" }
+      }
     },
     "entries": [
       {
-        "model": {
-          "type": "model",
-          "model": "item/shield_blocking"
-        }
-      },
-      {
         "threshold": 1,
         "model": {
-          "type": "model",
-          "model": "lom:item/shields/buckler"
-        }
-      },
-      {
-        "threshold": 1,
-        "model": {
-          "type": "model",
-          "model": "lom:item/shields/buckler_blocking"
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": {
+            "type": "model",
+            "model": "lom:item/shields/buckler_blocking"
+          },
+          "on_false": {
+            "type": "model",
+            "model": "lom:item/shields/buckler"
+          }
         }
       },
       {
         "threshold": 2,
         "model": {
-          "type": "model",
-          "model": "lom:item/shields/heater"
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": {
+            "type": "model",
+            "model": "lom:item/shields/heater_blocking"
+          },
+          "on_false": {
+            "type": "model",
+            "model": "lom:item/shields/heater"
+          }
         }
       },
-      {
-        "threshold": 2,
-        "model": {
-          "type": "model",
-          "model": "lom:item/shields/heater_blocking"
-        }
-      },
-      {
-        "threshold": 3,
-        "model": {
-          "type": "model",
-          "model": "lom:item/shields/targe"
-        }
-      },
+      
       {
         "threshold": 3,
         "model": {
-          "type": "model",
-          "model": "lom:item/shields/targe_blocking"
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": {
+            "type": "model",
+            "model": "lom:item/shields/targe_blocking"
+          },
+          "on_false": {
+            "type": "model",
+            "model": "lom:item/shields/targe"
+          }
         }
       },
       {
         "threshold": 4,
         "model": {
-          "type": "model",
-          "model": "lom:item/shields/rapier"
-        }
-      },
-      {
-        "threshold": 4,
-        "model": {
-          "type": "model",
-          "model": "lom:item/shields/rapier_blocking"
-        }
-      },
-      {
-        "threshold": 5,
-        "model": {
-          "type": "model",
-          "model": "lom:item/shields/thewall"
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": {
+            "type": "model",
+            "model": "lom:item/shields/rapier_blocking"
+          },
+          "on_false": {
+            "type": "model",
+            "model": "lom:item/shields/rapier"
+          }
         }
       },
       {
         "threshold": 5,
         "model": {
-          "type": "model",
-          "model": "lom:item/shields/thewall_blocking"
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": {
+            "type": "model",
+            "model": "lom:item/shields/thewall_blocking"
+          },
+          "on_false": {
+            "type": "model",
+            "model": "lom:item/shields/thewall"
+          }
         }
       }
     ]

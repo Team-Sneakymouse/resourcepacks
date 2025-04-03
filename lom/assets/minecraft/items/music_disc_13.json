@@ -2,571 +2,88 @@
   "model": {
     "type": "range_dispatch",
     "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "minecraft:item/music_disc_13"
-    },
+    "fallback": { "type": "model", "model": "minecraft:item/music_disc_13" },
     "entries": [
-      {
-        "threshold": 10,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_21-a"
-        }
-      },
-      {
-        "threshold": 11,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_21-1"
-        }
-      },
-      {
-        "threshold": 12,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_21-2"
-        }
-      },
-      {
-        "threshold": 13,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_21-3"
-        }
-      },
-      {
-        "threshold": 14,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_21-4"
-        }
-      },
-      {
-        "threshold": 15,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_21-5"
-        }
-      },
-      {
-        "threshold": 16,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_21-6"
-        }
-      },
-      {
-        "threshold": 17,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_21-7"
-        }
-      },
-      {
-        "threshold": 18,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_21-8"
-        }
-      },
-      {
-        "threshold": 19,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_21-9"
-        }
-      },
-      {
-        "threshold": 20,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_22-a"
-        }
-      },
-      {
-        "threshold": 21,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_22-1"
-        }
-      },
-      {
-        "threshold": 22,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_22-2"
-        }
-      },
-      {
-        "threshold": 23,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_22-3"
-        }
-      },
-      {
-        "threshold": 24,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_22-4"
-        }
-      },
-      {
-        "threshold": 25,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_22-5"
-        }
-      },
-      {
-        "threshold": 26,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_22-6"
-        }
-      },
-      {
-        "threshold": 27,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_22-7"
-        }
-      },
-      {
-        "threshold": 28,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_22-8"
-        }
-      },
-      {
-        "threshold": 29,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_22-9"
-        }
-      },
-      {
-        "threshold": 30,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_9-a"
-        }
-      },
-      {
-        "threshold": 31,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_9-1"
-        }
-      },
-      {
-        "threshold": 32,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_9-2"
-        }
-      },
-      {
-        "threshold": 33,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_9-3"
-        }
-      },
-      {
-        "threshold": 34,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_9-4"
-        }
-      },
-      {
-        "threshold": 35,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_9-5"
-        }
-      },
-      {
-        "threshold": 36,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_9-6"
-        }
-      },
-      {
-        "threshold": 37,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_9-7"
-        }
-      },
-      {
-        "threshold": 38,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_9-8"
-        }
-      },
-      {
-        "threshold": 39,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_9-9"
-        }
-      },
-      {
-        "threshold": 40,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_17-a"
-        }
-      },
-      {
-        "threshold": 41,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_17-1"
-        }
-      },
-      {
-        "threshold": 42,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_17-2"
-        }
-      },
-      {
-        "threshold": 43,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_17-3"
-        }
-      },
-      {
-        "threshold": 44,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_17-4"
-        }
-      },
-      {
-        "threshold": 45,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_17-5"
-        }
-      },
-      {
-        "threshold": 46,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_17-6"
-        }
-      },
-      {
-        "threshold": 47,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_17-7"
-        }
-      },
-      {
-        "threshold": 48,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_17-8"
-        }
-      },
-      {
-        "threshold": 49,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_17-9"
-        }
-      },
-      {
-        "threshold": 50,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_6-a"
-        }
-      },
-      {
-        "threshold": 51,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_6-1"
-        }
-      },
-      {
-        "threshold": 52,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_6-2"
-        }
-      },
-      {
-        "threshold": 53,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_6-3"
-        }
-      },
-      {
-        "threshold": 54,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_6-4"
-        }
-      },
-      {
-        "threshold": 55,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_6-5"
-        }
-      },
-      {
-        "threshold": 56,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_6-6"
-        }
-      },
-      {
-        "threshold": 57,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_6-7"
-        }
-      },
-      {
-        "threshold": 58,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_6-8"
-        }
-      },
-      {
-        "threshold": 59,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_6-9"
-        }
-      },
-      {
-        "threshold": 60,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_10-a"
-        }
-      },
-      {
-        "threshold": 61,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_10-1"
-        }
-      },
-      {
-        "threshold": 62,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_10-2"
-        }
-      },
-      {
-        "threshold": 63,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_10-3"
-        }
-      },
-      {
-        "threshold": 64,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_10-4"
-        }
-      },
-      {
-        "threshold": 65,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_10-5"
-        }
-      },
-      {
-        "threshold": 66,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_10-6"
-        }
-      },
-      {
-        "threshold": 67,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_10-7"
-        }
-      },
-      {
-        "threshold": 68,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_10-8"
-        }
-      },
-      {
-        "threshold": 69,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_10-9"
-        }
-      },
-      {
-        "threshold": 70,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_2-a"
-        }
-      },
-      {
-        "threshold": 71,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_2-1"
-        }
-      },
-      {
-        "threshold": 72,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_2-2"
-        }
-      },
-      {
-        "threshold": 73,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_2-3"
-        }
-      },
-      {
-        "threshold": 74,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_2-4"
-        }
-      },
-      {
-        "threshold": 75,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_2-5"
-        }
-      },
-      {
-        "threshold": 76,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_2-6"
-        }
-      },
-      {
-        "threshold": 77,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_2-7"
-        }
-      },
-      {
-        "threshold": 78,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_2-8"
-        }
-      },
-      {
-        "threshold": 79,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_2-9"
-        }
-      },
-      {
-        "threshold": 80,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_19-a"
-        }
-      },
-      {
-        "threshold": 81,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_19-1"
-        }
-      },
-      {
-        "threshold": 82,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_19-2"
-        }
-      },
-      {
-        "threshold": 83,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_19-3"
-        }
-      },
-      {
-        "threshold": 84,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_19-4"
-        }
-      },
-      {
-        "threshold": 85,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_19-5"
-        }
-      },
-      {
-        "threshold": 86,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_19-6"
-        }
-      },
-      {
-        "threshold": 87,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_19-7"
-        }
-      },
-      {
-        "threshold": 88,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_19-8"
-        }
-      },
-      {
-        "threshold": 89,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/wings/wings_19-9"
-        }
-      }
+      { "threshold": 10, "model": { "type": "model", "model": "lom:item/tools/wings/wings_21-a" } },
+      { "threshold": 11, "model": { "type": "model", "model": "lom:item/tools/wings/wings_21-1" } },
+      { "threshold": 12, "model": { "type": "model", "model": "lom:item/tools/wings/wings_21-2" } },
+      { "threshold": 13, "model": { "type": "model", "model": "lom:item/tools/wings/wings_21-3" } },
+      { "threshold": 14, "model": { "type": "model", "model": "lom:item/tools/wings/wings_21-4" } },
+      { "threshold": 15, "model": { "type": "model", "model": "lom:item/tools/wings/wings_21-5" } },
+      { "threshold": 16, "model": { "type": "model", "model": "lom:item/tools/wings/wings_21-6" } },
+      { "threshold": 17, "model": { "type": "model", "model": "lom:item/tools/wings/wings_21-7" } },
+      { "threshold": 18, "model": { "type": "model", "model": "lom:item/tools/wings/wings_21-8" } },
+      { "threshold": 19, "model": { "type": "model", "model": "lom:item/tools/wings/wings_21-9" } },
+      { "threshold": 20, "model": { "type": "model", "model": "lom:item/tools/wings/wings_22-a" } },
+      { "threshold": 21, "model": { "type": "model", "model": "lom:item/tools/wings/wings_22-1" } },
+      { "threshold": 22, "model": { "type": "model", "model": "lom:item/tools/wings/wings_22-2" } },
+      { "threshold": 23, "model": { "type": "model", "model": "lom:item/tools/wings/wings_22-3" } },
+      { "threshold": 24, "model": { "type": "model", "model": "lom:item/tools/wings/wings_22-4" } },
+      { "threshold": 25, "model": { "type": "model", "model": "lom:item/tools/wings/wings_22-5" } },
+      { "threshold": 26, "model": { "type": "model", "model": "lom:item/tools/wings/wings_22-6" } },
+      { "threshold": 27, "model": { "type": "model", "model": "lom:item/tools/wings/wings_22-7" } },
+      { "threshold": 28, "model": { "type": "model", "model": "lom:item/tools/wings/wings_22-8" } },
+      { "threshold": 29, "model": { "type": "model", "model": "lom:item/tools/wings/wings_22-9" } },
+      { "threshold": 30, "model": { "type": "model", "model": "lom:item/tools/wings/wings_9-a" } },
+      { "threshold": 31, "model": { "type": "model", "model": "lom:item/tools/wings/wings_9-1" } },
+      { "threshold": 32, "model": { "type": "model", "model": "lom:item/tools/wings/wings_9-2" } },
+      { "threshold": 33, "model": { "type": "model", "model": "lom:item/tools/wings/wings_9-3" } },
+      { "threshold": 34, "model": { "type": "model", "model": "lom:item/tools/wings/wings_9-4" } },
+      { "threshold": 35, "model": { "type": "model", "model": "lom:item/tools/wings/wings_9-5" } },
+      { "threshold": 36, "model": { "type": "model", "model": "lom:item/tools/wings/wings_9-6" } },
+      { "threshold": 37, "model": { "type": "model", "model": "lom:item/tools/wings/wings_9-7" } },
+      { "threshold": 38, "model": { "type": "model", "model": "lom:item/tools/wings/wings_9-8" } },
+      { "threshold": 39, "model": { "type": "model", "model": "lom:item/tools/wings/wings_9-9" } },
+      { "threshold": 40, "model": { "type": "model", "model": "lom:item/tools/wings/wings_17-a" } },
+      { "threshold": 41, "model": { "type": "model", "model": "lom:item/tools/wings/wings_17-1" } },
+      { "threshold": 42, "model": { "type": "model", "model": "lom:item/tools/wings/wings_17-2" } },
+      { "threshold": 43, "model": { "type": "model", "model": "lom:item/tools/wings/wings_17-3" } },
+      { "threshold": 44, "model": { "type": "model", "model": "lom:item/tools/wings/wings_17-4" } },
+      { "threshold": 45, "model": { "type": "model", "model": "lom:item/tools/wings/wings_17-5" } },
+      { "threshold": 46, "model": { "type": "model", "model": "lom:item/tools/wings/wings_17-6" } },
+      { "threshold": 47, "model": { "type": "model", "model": "lom:item/tools/wings/wings_17-7" } },
+      { "threshold": 48, "model": { "type": "model", "model": "lom:item/tools/wings/wings_17-8" } },
+      { "threshold": 49, "model": { "type": "model", "model": "lom:item/tools/wings/wings_17-9" } },
+      { "threshold": 50, "model": { "type": "model", "model": "lom:item/tools/wings/wings_6-a" } },
+      { "threshold": 51, "model": { "type": "model", "model": "lom:item/tools/wings/wings_6-1" } },
+      { "threshold": 52, "model": { "type": "model", "model": "lom:item/tools/wings/wings_6-2" } },
+      { "threshold": 53, "model": { "type": "model", "model": "lom:item/tools/wings/wings_6-3" } },
+      { "threshold": 54, "model": { "type": "model", "model": "lom:item/tools/wings/wings_6-4" } },
+      { "threshold": 55, "model": { "type": "model", "model": "lom:item/tools/wings/wings_6-5" } },
+      { "threshold": 56, "model": { "type": "model", "model": "lom:item/tools/wings/wings_6-6" } },
+      { "threshold": 57, "model": { "type": "model", "model": "lom:item/tools/wings/wings_6-7" } },
+      { "threshold": 58, "model": { "type": "model", "model": "lom:item/tools/wings/wings_6-8" } },
+      { "threshold": 59, "model": { "type": "model", "model": "lom:item/tools/wings/wings_6-9" } },
+      { "threshold": 60, "model": { "type": "model", "model": "lom:item/tools/wings/wings_10-a" } },
+      { "threshold": 61, "model": { "type": "model", "model": "lom:item/tools/wings/wings_10-1" } },
+      { "threshold": 62, "model": { "type": "model", "model": "lom:item/tools/wings/wings_10-2" } },
+      { "threshold": 63, "model": { "type": "model", "model": "lom:item/tools/wings/wings_10-3" } },
+      { "threshold": 64, "model": { "type": "model", "model": "lom:item/tools/wings/wings_10-4" } },
+      { "threshold": 65, "model": { "type": "model", "model": "lom:item/tools/wings/wings_10-5" } },
+      { "threshold": 66, "model": { "type": "model", "model": "lom:item/tools/wings/wings_10-6" } },
+      { "threshold": 67, "model": { "type": "model", "model": "lom:item/tools/wings/wings_10-7" } },
+      { "threshold": 68, "model": { "type": "model", "model": "lom:item/tools/wings/wings_10-8" } },
+      { "threshold": 69, "model": { "type": "model", "model": "lom:item/tools/wings/wings_10-9" } },
+      { "threshold": 70, "model": { "type": "model", "model": "lom:item/tools/wings/wings_2-a" } },
+      { "threshold": 71, "model": { "type": "model", "model": "lom:item/tools/wings/wings_2-1" } },
+      { "threshold": 72, "model": { "type": "model", "model": "lom:item/tools/wings/wings_2-2" } },
+      { "threshold": 73, "model": { "type": "model", "model": "lom:item/tools/wings/wings_2-3" } },
+      { "threshold": 74, "model": { "type": "model", "model": "lom:item/tools/wings/wings_2-4" } },
+      { "threshold": 75, "model": { "type": "model", "model": "lom:item/tools/wings/wings_2-5" } },
+      { "threshold": 76, "model": { "type": "model", "model": "lom:item/tools/wings/wings_2-6" } },
+      { "threshold": 77, "model": { "type": "model", "model": "lom:item/tools/wings/wings_2-7" } },
+      { "threshold": 78, "model": { "type": "model", "model": "lom:item/tools/wings/wings_2-8" } },
+      { "threshold": 79, "model": { "type": "model", "model": "lom:item/tools/wings/wings_2-9" } },
+      { "threshold": 80, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-a" } },
+      { "threshold": 81, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-1" } },
+      { "threshold": 82, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-2" } },
+      { "threshold": 83, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-3" } },
+      { "threshold": 84, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-4" } },
+      { "threshold": 85, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-5" } },
+      { "threshold": 86, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-6" } },
+      { "threshold": 87, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-7" } },
+      { "threshold": 88, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-8" } },
+      { "threshold": 89, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-9" } }
     ]
   }
 }

@@ -2,18 +2,9 @@
   "model": {
     "type": "range_dispatch",
     "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "minecraft:item/rotten_flesh"
-    },
+    "fallback": { "type": "model", "model": "minecraft:item/rotten_flesh" },
     "entries": [
-      {
-        "threshold": 1,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/mudpie"
-        }
-      }
+      { "threshold": 1, "model": { "type": "model", "model": "lom:item/items/mudpie" } }
     ]
   }
 }

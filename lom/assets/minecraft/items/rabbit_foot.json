@@ -2,1285 +2,192 @@
   "model": {
     "type": "range_dispatch",
     "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "minecraft:item/rabbit_foot"
-    },
+    "fallback": { "type": "model", "model": "minecraft:item/rabbit_foot" },
     "entries": [
-      {
-        "threshold": 1,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20"
-        }
-      },
-      {
-        "threshold": 2,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/scroll"
-        }
-      },
-      {
-        "threshold": 3,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/mortar"
-        }
-      },
-      {
-        "threshold": 4,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/wizard_mortar"
-        }
-      },
-      {
-        "threshold": 5,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/dwarven_log"
-        }
-      },
-      {
-        "threshold": 6,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/dwarven_planks"
-        }
-      },
-      {
-        "threshold": 7,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/invisible"
-        }
-      },
-      {
-        "threshold": 8,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/copper_coin"
-        }
-      },
-      {
-        "threshold": 9,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/fish"
-        }
-      },
-      {
-        "threshold": 10,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/gold_coin"
-        }
-      },
-      {
-        "threshold": 11,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/goldenore"
-        }
-      },
-      {
-        "threshold": 12,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/goo"
-        }
-      },
-      {
-        "threshold": 13,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/muk"
-        }
-      },
-      {
-        "threshold": 14,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/ore"
-        }
-      },
-      {
-        "threshold": 15,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/sand"
-        }
-      },
-      {
-        "threshold": 16,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/shell"
-        }
-      },
-      {
-        "threshold": 17,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/silver_coin"
-        }
-      },
-      {
-        "threshold": 18,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/stone"
-        }
-      },
-      {
-        "threshold": 19,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/paper1"
-        }
-      },
-      {
-        "threshold": 20,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/paper2"
-        }
-      },
-      {
-        "threshold": 21,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/paper3"
-        }
-      },
-      {
-        "threshold": 22,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/deeds/deed"
-        }
-      },
-      {
-        "threshold": 23,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/deeds/deedblue"
-        }
-      },
-      {
-        "threshold": 24,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/deeds/deedbrown"
-        }
-      },
-      {
-        "threshold": 25,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/deeds/deedgreen"
-        }
-      },
-      {
-        "threshold": 26,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/deeds/deedgrey"
-        }
-      },
-      {
-        "threshold": 27,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/deeds/deedorange"
-        }
-      },
-      {
-        "threshold": 28,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/deeds/deedorangeblue"
-        }
-      },
-      {
-        "threshold": 29,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/deeds/deedpink"
-        }
-      },
-      {
-        "threshold": 30,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/deeds/deedred"
-        }
-      },
-      {
-        "threshold": 31,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/deeds/deedredblack"
-        }
-      },
-      {
-        "threshold": 32,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/deeds/deedwhitegold"
-        }
-      },
-      {
-        "threshold": 33,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/deeds/deedyelloworange"
-        }
-      },
-      {
-        "threshold": 34,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/goldenmuk"
-        }
-      },
-      {
-        "threshold": 35,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/skillbook"
-        }
-      },
-      {
-        "threshold": 36,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/paladin_radio"
-        }
-      },
-      {
-        "threshold": 37,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/holyhandgrenade"
-        }
-      },
-      {
-        "threshold": 38,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/woodscraps"
-        }
-      },
-      {
-        "threshold": 39,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/christmascard"
-        }
-      },
-      {
-        "threshold": 40,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/christmascard2"
-        }
-      },
-      {
-        "threshold": 41,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/diamond_coin"
-        }
-      },
-      {
-        "threshold": 42,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/holyankh"
-        }
-      },
-      {
-        "threshold": 43,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/starshard"
-        }
-      },
-      {
-        "threshold": 44,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/dragon_coin"
-        }
-      },
-      {
-        "threshold": 45,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/card"
-        }
-      },
-      {
-        "threshold": 46,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/pearl"
-        }
-      },
-      {
-        "threshold": 47,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/pearl2"
-        }
-      },
-      {
-        "threshold": 48,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/pearl3"
-        }
-      },
-      {
-        "threshold": 49,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/peasanttear"
-        }
-      },
-      {
-        "threshold": 50,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/mintleaf"
-        }
-      },
-      {
-        "threshold": 51,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/petalarcane"
-        }
-      },
-      {
-        "threshold": 52,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/petaldark"
-        }
-      },
-      {
-        "threshold": 53,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/petalearth"
-        }
-      },
-      {
-        "threshold": 54,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/petalfire"
-        }
-      },
-      {
-        "threshold": 55,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/petalice"
-        }
-      },
-      {
-        "threshold": 56,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/petallight"
-        }
-      },
-      {
-        "threshold": 57,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/seeds"
-        }
-      },
-      {
-        "threshold": 58,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/ashes"
-        }
-      },
-      {
-        "threshold": 59,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/soulstone"
-        }
-      },
-      {
-        "threshold": 60,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/glassshards"
-        }
-      },
-      {
-        "threshold": 61,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/spellthread"
-        }
-      },
-      {
-        "threshold": 62,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/spellthreaddirty"
-        }
-      },
-      {
-        "threshold": 63,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/spellcards"
-        }
-      },
-      {
-        "threshold": 64,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/scroll1"
-        }
-      },
-      {
-        "threshold": 65,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/scroll2"
-        }
-      },
-      {
-        "threshold": 66,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/scroll3"
-        }
-      },
-      {
-        "threshold": 67,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/dirty"
-        }
-      },
-      {
-        "threshold": 68,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/loan_penny"
-        }
-      },
-      {
-        "threshold": 69,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/loan_silver"
-        }
-      },
-      {
-        "threshold": 70,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/loan_gold"
-        }
-      },
-      {
-        "threshold": 71,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/note_penny"
-        }
-      },
-      {
-        "threshold": 72,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/note_silver"
-        }
-      },
-      {
-        "threshold": 73,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/note_gold"
-        }
-      },
-      {
-        "threshold": 74,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/mithril_coin"
-        }
-      },
-      {
-        "threshold": 75,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/envelope"
-        }
-      },
-      {
-        "threshold": 76,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/writs/arcane_writ"
-        }
-      },
-      {
-        "threshold": 77,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/writs/dark_writ"
-        }
-      },
-      {
-        "threshold": 78,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/writs/earth_writ"
-        }
-      },
-      {
-        "threshold": 79,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/writs/fire_writ"
-        }
-      },
-      {
-        "threshold": 80,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/writs/ice_writ"
-        }
-      },
-      {
-        "threshold": 81,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/writs/light_writ"
-        }
-      },
-      {
-        "threshold": 82,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/scroll4"
-        }
-      },
-      {
-        "threshold": 83,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/dragoncoin_3d_silver"
-        }
-      },
-      {
-        "threshold": 84,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/dragoncoin_3d_gold"
-        }
-      },
-      {
-        "threshold": 85,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/dragoncoin_3d"
-        }
-      },
-      {
-        "threshold": 86,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/paladin-bunker"
-        }
-      },
-      {
-        "threshold": 87,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/minilom"
-        }
-      },
-      {
-        "threshold": 88,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_1base"
-        }
-      },
-      {
-        "threshold": 89,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_aquawhite"
-        }
-      },
-      {
-        "threshold": 90,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_black"
-        }
-      },
-      {
-        "threshold": 91,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_blue"
-        }
-      },
-      {
-        "threshold": 92,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_bluepink"
-        }
-      },
-      {
-        "threshold": 93,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_bluewhite"
-        }
-      },
-      {
-        "threshold": 94,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_brown"
-        }
-      },
-      {
-        "threshold": 95,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_cyanyellow"
-        }
-      },
-      {
-        "threshold": 96,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_dvil"
-        }
-      },
-      {
-        "threshold": 97,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_dvil2"
-        }
-      },
-      {
-        "threshold": 98,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_goldwhite"
-        }
-      },
-      {
-        "threshold": 99,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_gray"
-        }
-      },
-      {
-        "threshold": 100,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_green"
-        }
-      },
-      {
-        "threshold": 101,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_limeblue"
-        }
-      },
-      {
-        "threshold": 102,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_margentapurple"
-        }
-      },
-      {
-        "threshold": 103,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_orange"
-        }
-      },
-      {
-        "threshold": 104,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_orange2"
-        }
-      },
-      {
-        "threshold": 105,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_orangered"
-        }
-      },
-      {
-        "threshold": 106,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_pink"
-        }
-      },
-      {
-        "threshold": 107,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_purple"
-        }
-      },
-      {
-        "threshold": 108,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_purpleblue"
-        }
-      },
-      {
-        "threshold": 109,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_purplegreen"
-        }
-      },
-      {
-        "threshold": 110,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_purplepink"
-        }
-      },
-      {
-        "threshold": 111,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_red"
-        }
-      },
-      {
-        "threshold": 112,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_redwine"
-        }
-      },
-      {
-        "threshold": 113,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_whiteaqua"
-        }
-      },
-      {
-        "threshold": 114,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_whitegreen"
-        }
-      },
-      {
-        "threshold": 115,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_yellow"
-        }
-      },
-      {
-        "threshold": 116,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_yellowgreen"
-        }
-      },
-      {
-        "threshold": 117,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_xmas"
-        }
-      },
-      {
-        "threshold": 118,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/d20/d20_brick"
-        }
-      },
-      {
-        "threshold": 119,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/stackit"
-        }
-      },
-      {
-        "threshold": 120,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/dvil_card"
-        }
-      },
-      {
-        "threshold": 121,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/bruce_card"
-        }
-      },
-      {
-        "threshold": 122,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/gpo_card"
-        }
-      },
-      {
-        "threshold": 123,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/envelopeopen"
-        }
-      },
-      {
-        "threshold": 124,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/envelopeclosed"
-        }
-      },
-      {
-        "threshold": 125,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/prototyper"
-        }
-      },
-      {
-        "threshold": 126,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/homestone"
-        }
-      },
-      {
-        "threshold": 127,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/townstone"
-        }
-      },
-      {
-        "threshold": 128,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/summonstone"
-        }
-      },
-      {
-        "threshold": 129,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/mlmprototyper"
-        }
-      },
-      {
-        "threshold": 130,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/summonshard"
-        }
-      },
-      {
-        "threshold": 131,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/skateboard"
-        }
-      },
-      {
-        "threshold": 132,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crystal"
-        }
-      },
-      {
-        "threshold": 1000,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_stock"
-        }
-      },
-      {
-        "threshold": 1001,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_cheese"
-        }
-      },
-      {
-        "threshold": 1002,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_emptybottle"
-        }
-      },
-      {
-        "threshold": 1003,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_lightpetal"
-        }
-      },
-      {
-        "threshold": 1004,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_oilbottle"
-        }
-      },
-      {
-        "threshold": 1100,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_stock"
-        }
-      },
-      {
-        "threshold": 1200,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_dwarven"
-        }
-      },
-      {
-        "threshold": 1201,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_stone"
-        }
-      },
-      {
-        "threshold": 1202,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_ore"
-        }
-      },
-      {
-        "threshold": 1203,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_goldore"
-        }
-      },
-      {
-        "threshold": 1204,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_icepetal"
-        }
-      },
-      {
-        "threshold": 1300,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_stock"
-        }
-      },
-      {
-        "threshold": 1400,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_darkvale"
-        }
-      },
-      {
-        "threshold": 1401,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_devilishapple"
-        }
-      },
-      {
-        "threshold": 1402,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_ashes"
-        }
-      },
-      {
-        "threshold": 1403,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_bone"
-        }
-      },
-      {
-        "threshold": 1404,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_darkpetal"
-        }
-      },
-      {
-        "threshold": 1500,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_slums"
-        }
-      },
-      {
-        "threshold": 1501,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_muk"
-        }
-      },
-      {
-        "threshold": 1502,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_mudpie"
-        }
-      },
-      {
-        "threshold": 1600,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_brickton"
-        }
-      },
-      {
-        "threshold": 1601,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_firepetal"
-        }
-      },
-      {
-        "threshold": 1602,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_holyankh"
-        }
-      },
-      {
-        "threshold": 1700,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_moonbay"
-        }
-      },
-      {
-        "threshold": 1701,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_rawpearl"
-        }
-      },
-      {
-        "threshold": 1702,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_finepearl"
-        }
-      },
-      {
-        "threshold": 1703,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_exquisitepearl"
-        }
-      },
-      {
-        "threshold": 1704,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_worms"
-        }
-      },
-      {
-        "threshold": 1705,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_shell"
-        }
-      },
-      {
-        "threshold": 1800,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_sticky"
-        }
-      },
-      {
-        "threshold": 1801,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_honey"
-        }
-      },
-      {
-        "threshold": 1802,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_goo"
-        }
-      },
-      {
-        "threshold": 1900,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_grove"
-        }
-      },
-      {
-        "threshold": 1901,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_grapes"
-        }
-      },
-      {
-        "threshold": 1902,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_seeds"
-        }
-      },
-      {
-        "threshold": 1903,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_earthpetal"
-        }
-      },
-      {
-        "threshold": 1904,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_winebottle"
-        }
-      },
-      {
-        "threshold": 2000,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_stock"
-        }
-      },
-      {
-        "threshold": 2100,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_stock"
-        }
-      },
-      {
-        "threshold": 2200,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_southshire"
-        }
-      },
-      {
-        "threshold": 2201,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_arcanepetal"
-        }
-      },
-      {
-        "threshold": 2202,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_spellthread"
-        }
-      },
-      {
-        "threshold": 2203,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_sprinklebottle"
-        }
-      },
-      {
-        "threshold": 2300,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_stock"
-        }
-      },
-      {
-        "threshold": 2400,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_stock"
-        }
-      },
-      {
-        "threshold": 2500,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_stock"
-        }
-      },
-      {
-        "threshold": 2700,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_goattown"
-        }
-      },
-      {
-        "threshold": 2701,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_goatmilk"
-        }
-      },
-      {
-        "threshold": 2702,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/crates/crate_soapbottle"
-        }
-      },
-      {
-        "threshold": 5001,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/nou_game/nou_box"
-        }
-      }
+      { "threshold": 1, "model": { "type": "model", "model": "lom:item/items/d20" } },
+      { "threshold": 2, "model": { "type": "model", "model": "lom:item/items/scroll" } },
+      { "threshold": 3, "model": { "type": "model", "model": "lom:item/items/mortar" } },
+      { "threshold": 4, "model": { "type": "model", "model": "lom:item/items/wizard_mortar" } },
+      { "threshold": 5, "model": { "type": "model", "model": "lom:item/items/dwarven_log" } },
+      { "threshold": 6, "model": { "type": "model", "model": "lom:item/items/dwarven_planks" } },
+      { "threshold": 7, "model": { "type": "model", "model": "lom:item/items/invisible" } },
+      { "threshold": 8, "model": { "type": "model", "model": "lom:item/items/copper_coin" } },
+      { "threshold": 9, "model": { "type": "model", "model": "lom:item/items/fish" } },
+      { "threshold": 10, "model": { "type": "model", "model": "lom:item/items/gold_coin" } },
+      { "threshold": 11, "model": { "type": "model", "model": "lom:item/items/goldenore" } },
+      { "threshold": 12, "model": { "type": "model", "model": "lom:item/items/goo" } },
+      { "threshold": 13, "model": { "type": "model", "model": "lom:item/items/muk" } },
+      { "threshold": 14, "model": { "type": "model", "model": "lom:item/items/ore" } },
+      { "threshold": 15, "model": { "type": "model", "model": "lom:item/items/sand" } },
+      { "threshold": 16, "model": { "type": "model", "model": "lom:item/items/shell" } },
+      { "threshold": 17, "model": { "type": "model", "model": "lom:item/items/silver_coin" } },
+      { "threshold": 18, "model": { "type": "model", "model": "lom:item/items/stone" } },
+      { "threshold": 19, "model": { "type": "model", "model": "lom:item/items/paper1" } },
+      { "threshold": 20, "model": { "type": "model", "model": "lom:item/items/paper2" } },
+      { "threshold": 21, "model": { "type": "model", "model": "lom:item/items/paper3" } },
+      { "threshold": 22, "model": { "type": "model", "model": "lom:item/items/deeds/deed" } },
+      { "threshold": 23, "model": { "type": "model", "model": "lom:item/items/deeds/deedblue" } },
+      { "threshold": 24, "model": { "type": "model", "model": "lom:item/items/deeds/deedbrown" } },
+      { "threshold": 25, "model": { "type": "model", "model": "lom:item/items/deeds/deedgreen" } },
+      { "threshold": 26, "model": { "type": "model", "model": "lom:item/items/deeds/deedgrey" } },
+      { "threshold": 27, "model": { "type": "model", "model": "lom:item/items/deeds/deedorange" } },
+      { "threshold": 28, "model": { "type": "model", "model": "lom:item/items/deeds/deedorangeblue" } },
+      { "threshold": 29, "model": { "type": "model", "model": "lom:item/items/deeds/deedpink" } },
+      { "threshold": 30, "model": { "type": "model", "model": "lom:item/items/deeds/deedred" } },
+      { "threshold": 31, "model": { "type": "model", "model": "lom:item/items/deeds/deedredblack" } },
+      { "threshold": 32, "model": { "type": "model", "model": "lom:item/items/deeds/deedwhitegold" } },
+      { "threshold": 33, "model": { "type": "model", "model": "lom:item/items/deeds/deedyelloworange" } },
+      { "threshold": 34, "model": { "type": "model", "model": "lom:item/items/goldenmuk" } },
+      { "threshold": 35, "model": { "type": "model", "model": "lom:item/items/skillbook" } },
+      { "threshold": 36, "model": { "type": "model", "model": "lom:item/tools/paladin_radio" } },
+      { "threshold": 37, "model": { "type": "model", "model": "lom:item/items/holyhandgrenade" } },
+      { "threshold": 38, "model": { "type": "model", "model": "lom:item/items/woodscraps" } },
+      { "threshold": 39, "model": { "type": "model", "model": "lom:item/items/christmascard" } },
+      { "threshold": 40, "model": { "type": "model", "model": "lom:item/items/christmascard2" } },
+      { "threshold": 41, "model": { "type": "model", "model": "lom:item/items/diamond_coin" } },
+      { "threshold": 42, "model": { "type": "model", "model": "lom:item/items/holyankh" } },
+      { "threshold": 43, "model": { "type": "model", "model": "lom:item/items/starshard" } },
+      { "threshold": 44, "model": { "type": "model", "model": "lom:item/items/dragon_coin" } },
+      { "threshold": 45, "model": { "type": "model", "model": "lom:item/items/card" } },
+      { "threshold": 46, "model": { "type": "model", "model": "lom:item/items/pearl" } },
+      { "threshold": 47, "model": { "type": "model", "model": "lom:item/items/pearl2" } },
+      { "threshold": 48, "model": { "type": "model", "model": "lom:item/items/pearl3" } },
+      { "threshold": 49, "model": { "type": "model", "model": "lom:item/items/peasanttear" } },
+      { "threshold": 50, "model": { "type": "model", "model": "lom:item/items/mintleaf" } },
+      { "threshold": 51, "model": { "type": "model", "model": "lom:item/items/petalarcane" } },
+      { "threshold": 52, "model": { "type": "model", "model": "lom:item/items/petaldark" } },
+      { "threshold": 53, "model": { "type": "model", "model": "lom:item/items/petalearth" } },
+      { "threshold": 54, "model": { "type": "model", "model": "lom:item/items/petalfire" } },
+      { "threshold": 55, "model": { "type": "model", "model": "lom:item/items/petalice" } },
+      { "threshold": 56, "model": { "type": "model", "model": "lom:item/items/petallight" } },
+      { "threshold": 57, "model": { "type": "model", "model": "lom:item/items/seeds" } },
+      { "threshold": 58, "model": { "type": "model", "model": "lom:item/items/ashes" } },
+      { "threshold": 59, "model": { "type": "model", "model": "lom:item/items/soulstone" } },
+      { "threshold": 60, "model": { "type": "model", "model": "lom:item/items/glassshards" } },
+      { "threshold": 61, "model": { "type": "model", "model": "lom:item/items/spellthread" } },
+      { "threshold": 62, "model": { "type": "model", "model": "lom:item/items/spellthreaddirty" } },
+      { "threshold": 63, "model": { "type": "model", "model": "lom:item/items/spellcards" } },
+      { "threshold": 64, "model": { "type": "model", "model": "lom:item/items/scroll1" } },
+      { "threshold": 65, "model": { "type": "model", "model": "lom:item/items/scroll2" } },
+      { "threshold": 66, "model": { "type": "model", "model": "lom:item/items/scroll3" } },
+      { "threshold": 67, "model": { "type": "model", "model": "lom:item/items/badges/dirty" } },
+      { "threshold": 68, "model": { "type": "model", "model": "lom:item/items/loan_penny" } },
+      { "threshold": 69, "model": { "type": "model", "model": "lom:item/items/loan_silver" } },
+      { "threshold": 70, "model": { "type": "model", "model": "lom:item/items/loan_gold" } },
+      { "threshold": 71, "model": { "type": "model", "model": "lom:item/items/note_penny" } },
+      { "threshold": 72, "model": { "type": "model", "model": "lom:item/items/note_silver" } },
+      { "threshold": 73, "model": { "type": "model", "model": "lom:item/items/note_gold" } },
+      { "threshold": 74, "model": { "type": "model", "model": "lom:item/items/mithril_coin" } },
+      { "threshold": 75, "model": { "type": "model", "model": "lom:item/items/envelope" } },
+      { "threshold": 76, "model": { "type": "model", "model": "lom:item/items/writs/arcane_writ" } },
+      { "threshold": 77, "model": { "type": "model", "model": "lom:item/items/writs/dark_writ" } },
+      { "threshold": 78, "model": { "type": "model", "model": "lom:item/items/writs/earth_writ" } },
+      { "threshold": 79, "model": { "type": "model", "model": "lom:item/items/writs/fire_writ" } },
+      { "threshold": 80, "model": { "type": "model", "model": "lom:item/items/writs/ice_writ" } },
+      { "threshold": 81, "model": { "type": "model", "model": "lom:item/items/writs/light_writ" } },
+      { "threshold": 82, "model": { "type": "model", "model": "lom:item/items/scroll4" } },
+      { "threshold": 83, "model": { "type": "model", "model": "lom:item/items/dragoncoin_3d_silver" } },
+      { "threshold": 84, "model": { "type": "model", "model": "lom:item/items/dragoncoin_3d_gold" } },
+      { "threshold": 85, "model": { "type": "model", "model": "lom:item/items/dragoncoin_3d" } },
+      { "threshold": 86, "model": { "type": "model", "model": "lom:item/items/paladin-bunker" } },
+      { "threshold": 87, "model": { "type": "model", "model": "lom:item/items/minilom" } },
+      { "threshold": 88, "model": { "type": "model", "model": "lom:item/items/d20/d20_1base" } },
+      { "threshold": 89, "model": { "type": "model", "model": "lom:item/items/d20/d20_aquawhite" } },
+      { "threshold": 90, "model": { "type": "model", "model": "lom:item/items/d20/d20_black" } },
+      { "threshold": 91, "model": { "type": "model", "model": "lom:item/items/d20/d20_blue" } },
+      { "threshold": 92, "model": { "type": "model", "model": "lom:item/items/d20/d20_bluepink" } },
+      { "threshold": 93, "model": { "type": "model", "model": "lom:item/items/d20/d20_bluewhite" } },
+      { "threshold": 94, "model": { "type": "model", "model": "lom:item/items/d20/d20_brown" } },
+      { "threshold": 95, "model": { "type": "model", "model": "lom:item/items/d20/d20_cyanyellow" } },
+      { "threshold": 96, "model": { "type": "model", "model": "lom:item/items/d20/d20_dvil" } },
+      { "threshold": 97, "model": { "type": "model", "model": "lom:item/items/d20/d20_dvil2" } },
+      { "threshold": 98, "model": { "type": "model", "model": "lom:item/items/d20/d20_goldwhite" } },
+      { "threshold": 99, "model": { "type": "model", "model": "lom:item/items/d20/d20_gray" } },
+      { "threshold": 100, "model": { "type": "model", "model": "lom:item/items/d20/d20_green" } },
+      { "threshold": 101, "model": { "type": "model", "model": "lom:item/items/d20/d20_limeblue" } },
+      { "threshold": 102, "model": { "type": "model", "model": "lom:item/items/d20/d20_margentapurple" } },
+      { "threshold": 103, "model": { "type": "model", "model": "lom:item/items/d20/d20_orange" } },
+      { "threshold": 104, "model": { "type": "model", "model": "lom:item/items/d20/d20_orange2" } },
+      { "threshold": 105, "model": { "type": "model", "model": "lom:item/items/d20/d20_orangered" } },
+      { "threshold": 106, "model": { "type": "model", "model": "lom:item/items/d20/d20_pink" } },
+      { "threshold": 107, "model": { "type": "model", "model": "lom:item/items/d20/d20_purple" } },
+      { "threshold": 108, "model": { "type": "model", "model": "lom:item/items/d20/d20_purpleblue" } },
+      { "threshold": 109, "model": { "type": "model", "model": "lom:item/items/d20/d20_purplegreen" } },
+      { "threshold": 110, "model": { "type": "model", "model": "lom:item/items/d20/d20_purplepink" } },
+      { "threshold": 111, "model": { "type": "model", "model": "lom:item/items/d20/d20_red" } },
+      { "threshold": 112, "model": { "type": "model", "model": "lom:item/items/d20/d20_redwine" } },
+      { "threshold": 113, "model": { "type": "model", "model": "lom:item/items/d20/d20_whiteaqua" } },
+      { "threshold": 114, "model": { "type": "model", "model": "lom:item/items/d20/d20_whitegreen" } },
+      { "threshold": 115, "model": { "type": "model", "model": "lom:item/items/d20/d20_yellow" } },
+      { "threshold": 116, "model": { "type": "model", "model": "lom:item/items/d20/d20_yellowgreen" } },
+      { "threshold": 117, "model": { "type": "model", "model": "lom:item/items/d20/d20_xmas" } },
+      { "threshold": 118, "model": { "type": "model", "model": "lom:item/items/d20/d20_brick" } },
+      { "threshold": 119, "model": { "type": "model", "model": "lom:item/items/stackit" } },
+      { "threshold": 120, "model": { "type": "model", "model": "lom:item/items/dvil_card" } },
+      { "threshold": 121, "model": { "type": "model", "model": "lom:item/items/bruce_card" } },
+      { "threshold": 122, "model": { "type": "model", "model": "lom:item/items/gpo_card" } },
+      { "threshold": 123, "model": { "type": "model", "model": "lom:item/items/envelopeopen" } },
+      { "threshold": 124, "model": { "type": "model", "model": "lom:item/items/envelopeclosed" } },
+      { "threshold": 125, "model": { "type": "model", "model": "lom:item/tools/prototyper" } },
+      { "threshold": 126, "model": { "type": "model", "model": "lom:item/tools/homestone" } },
+      { "threshold": 127, "model": { "type": "model", "model": "lom:item/tools/townstone" } },
+      { "threshold": 128, "model": { "type": "model", "model": "lom:item/tools/summonstone" } },
+      { "threshold": 129, "model": { "type": "model", "model": "lom:item/tools/mlmprototyper" } },
+      { "threshold": 130, "model": { "type": "model", "model": "lom:item/tools/summonshard" } },
+      { "threshold": 131, "model": { "type": "model", "model": "lom:item/tools/skateboard" } },
+      { "threshold": 132, "model": { "type": "model", "model": "lom:item/items/crystal" } },
+
+      { "threshold": 1000, "model": { "type": "model", "model": "lom:item/items/crates/crate_stock" } },
+      { "threshold": 1001, "model": { "type": "model", "model": "lom:item/items/crates/crate_cheese" } },
+      { "threshold": 1002, "model": { "type": "model", "model": "lom:item/items/crates/crate_emptybottle" } },
+      { "threshold": 1003, "model": { "type": "model", "model": "lom:item/items/crates/crate_lightpetal" } },
+      { "threshold": 1004, "model": { "type": "model", "model": "lom:item/items/crates/crate_oilbottle" } },
+      { "threshold": 1100, "model": { "type": "model", "model": "lom:item/items/crates/crate_stock" } },
+      { "threshold": 1200, "model": { "type": "model", "model": "lom:item/items/crates/crate_dwarven" } },
+      { "threshold": 1201, "model": { "type": "model", "model": "lom:item/items/crates/crate_stone" } },
+      { "threshold": 1202, "model": { "type": "model", "model": "lom:item/items/crates/crate_ore" } },
+      { "threshold": 1203, "model": { "type": "model", "model": "lom:item/items/crates/crate_goldore" } },
+      { "threshold": 1204, "model": { "type": "model", "model": "lom:item/items/crates/crate_icepetal" } },
+      { "threshold": 1300, "model": { "type": "model", "model": "lom:item/items/crates/crate_stock" } },
+      { "threshold": 1400, "model": { "type": "model", "model": "lom:item/items/crates/crate_darkvale" } },
+      { "threshold": 1401, "model": { "type": "model", "model": "lom:item/items/crates/crate_devilishapple" } },
+      { "threshold": 1402, "model": { "type": "model", "model": "lom:item/items/crates/crate_ashes" } },
+      { "threshold": 1403, "model": { "type": "model", "model": "lom:item/items/crates/crate_bone" } },
+      { "threshold": 1404, "model": { "type": "model", "model": "lom:item/items/crates/crate_darkpetal" } },
+      { "threshold": 1500, "model": { "type": "model", "model": "lom:item/items/crates/crate_slums" } },
+      { "threshold": 1501, "model": { "type": "model", "model": "lom:item/items/crates/crate_muk" } },
+      { "threshold": 1502, "model": { "type": "model", "model": "lom:item/items/crates/crate_mudpie" } },
+      { "threshold": 1600, "model": { "type": "model", "model": "lom:item/items/crates/crate_brickton" } },
+      { "threshold": 1601, "model": { "type": "model", "model": "lom:item/items/crates/crate_firepetal" } },
+      { "threshold": 1602, "model": { "type": "model", "model": "lom:item/items/crates/crate_holyankh" } },
+      { "threshold": 1700, "model": { "type": "model", "model": "lom:item/items/crates/crate_moonbay" } },
+      { "threshold": 1701, "model": { "type": "model", "model": "lom:item/items/crates/crate_rawpearl" } },
+      { "threshold": 1702, "model": { "type": "model", "model": "lom:item/items/crates/crate_finepearl" } },
+      { "threshold": 1703, "model": { "type": "model", "model": "lom:item/items/crates/crate_exquisitepearl" } },
+      { "threshold": 1704, "model": { "type": "model", "model": "lom:item/items/crates/crate_worms" } },
+      { "threshold": 1705, "model": { "type": "model", "model": "lom:item/items/crates/crate_shell" } },
+      { "threshold": 1800, "model": { "type": "model", "model": "lom:item/items/crates/crate_sticky" } },
+      { "threshold": 1801, "model": { "type": "model", "model": "lom:item/items/crates/crate_honey" } },
+      { "threshold": 1802, "model": { "type": "model", "model": "lom:item/items/crates/crate_goo" } },
+      { "threshold": 1900, "model": { "type": "model", "model": "lom:item/items/crates/crate_grove" } },
+      { "threshold": 1901, "model": { "type": "model", "model": "lom:item/items/crates/crate_grapes" } },
+      { "threshold": 1902, "model": { "type": "model", "model": "lom:item/items/crates/crate_seeds" } },
+      { "threshold": 1903, "model": { "type": "model", "model": "lom:item/items/crates/crate_earthpetal" } },
+      { "threshold": 1904, "model": { "type": "model", "model": "lom:item/items/crates/crate_winebottle" } },
+      { "threshold": 2000, "model": { "type": "model", "model": "lom:item/items/crates/crate_stock" } },
+      { "threshold": 2100, "model": { "type": "model", "model": "lom:item/items/crates/crate_stock" } },
+      { "threshold": 2200, "model": { "type": "model", "model": "lom:item/items/crates/crate_southshire" } },
+      { "threshold": 2201, "model": { "type": "model", "model": "lom:item/items/crates/crate_arcanepetal" } },
+      { "threshold": 2202, "model": { "type": "model", "model": "lom:item/items/crates/crate_spellthread" } },
+      { "threshold": 2203, "model": { "type": "model", "model": "lom:item/items/crates/crate_sprinklebottle" } },
+      { "threshold": 2300, "model": { "type": "model", "model": "lom:item/items/crates/crate_stock" } },
+      { "threshold": 2400, "model": { "type": "model", "model": "lom:item/items/crates/crate_stock" } },
+      { "threshold": 2500, "model": { "type": "model", "model": "lom:item/items/crates/crate_stock" } },
+      { "threshold": 2700, "model": { "type": "model", "model": "lom:item/items/crates/crate_goattown" } },
+      { "threshold": 2701, "model": { "type": "model", "model": "lom:item/items/crates/crate_goatmilk" } },
+      { "threshold": 2702, "model": { "type": "model", "model": "lom:item/items/crates/crate_soapbottle" } },
+      
+      { "threshold": 5001, "model": { "type": "model", "model": "lom:item/items/nou_game/nou_box" }  }
     ]
   }
 }

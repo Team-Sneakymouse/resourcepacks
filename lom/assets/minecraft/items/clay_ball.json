@@ -2,1229 +2,182 @@
   "model": {
     "type": "range_dispatch",
     "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "minecraft:item/clay_ball"
-    },
+    "fallback": { "type": "model", "model": "minecraft:item/clay_ball" },
     "entries": [
-      {
-        "threshold": 1,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/demon1"
-        }
-      },
-      {
-        "threshold": 2,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/sprite_test1"
-        }
-      },
-      {
-        "threshold": 3,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/spells/boltbomb"
-        }
-      },
-      {
-        "threshold": 4,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/spells/firebomb"
-        }
-      },
-      {
-        "threshold": 5,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/spells/icesword"
-        }
-      },
-      {
-        "threshold": 6,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/spells/lightningshock"
-        }
-      },
-      {
-        "threshold": 7,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/spells/purpledevilcircle"
-        }
-      },
-      {
-        "threshold": 8,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/spells/smokescreen"
-        }
-      },
-      {
-        "threshold": 9,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/spells/sparkblast"
-        }
-      },
-      {
-        "threshold": 10,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/spells/lightslash"
-        }
-      },
-      {
-        "threshold": 11,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/spells/bubblepop"
-        }
-      },
-      {
-        "threshold": 12,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/moonshark"
-        }
-      },
-      {
-        "threshold": 13,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/puddle1"
-        }
-      },
-      {
-        "threshold": 14,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/puddle2"
-        }
-      },
-      {
-        "threshold": 15,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/puddle3"
-        }
-      },
-      {
-        "threshold": 16,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/puddle4"
-        }
-      },
-      {
-        "threshold": 17,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/puddle5"
-        }
-      },
-      {
-        "threshold": 18,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/puddle_sprinkles"
-        }
-      },
-      {
-        "threshold": 19,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/puddle_wine"
-        }
-      },
-      {
-        "threshold": 20,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/stinklines1"
-        }
-      },
-      {
-        "threshold": 21,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/stinklines2"
-        }
-      },
-      {
-        "threshold": 22,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/stinklines3"
-        }
-      },
-      {
-        "threshold": 23,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/spells/purpleaura"
-        }
-      },
-      {
-        "threshold": 24,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/groundsmash"
-        }
-      },
-      {
-        "threshold": 25,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/crack1"
-        }
-      },
-      {
-        "threshold": 26,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/crack2"
-        }
-      },
-      {
-        "threshold": 27,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner_details"
-        }
-      },
-      {
-        "threshold": 28,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner_main"
-        }
-      },
-      {
-        "threshold": 29,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner_prompt1"
-        }
-      },
-      {
-        "threshold": 30,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/spideregg"
-        }
-      },
-      {
-        "threshold": 31,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/racks"
-        }
-      },
-      {
-        "threshold": 32,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/banana"
-        }
-      },
-      {
-        "threshold": 33,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/kites/kite_old"
-        }
-      },
-      {
-        "threshold": 34,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/hulahoop"
-        }
-      },
-      {
-        "threshold": 35,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/card_house1"
-        }
-      },
-      {
-        "threshold": 36,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/card_house2"
-        }
-      },
-      {
-        "threshold": 37,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/kites/kite_black"
-        }
-      },
-      {
-        "threshold": 38,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/kites/kite_blue"
-        }
-      },
-      {
-        "threshold": 39,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/kites/kite_gold"
-        }
-      },
-      {
-        "threshold": 40,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/kites/kite_green"
-        }
-      },
-      {
-        "threshold": 41,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/kites/kite_pink"
-        }
-      },
-      {
-        "threshold": 42,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/kites/kite_redankh"
-        }
-      },
-      {
-        "threshold": 43,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/kites/kite_redtree"
-        }
-      },
-      {
-        "threshold": 44,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/kites/kite_whiteankh"
-        }
-      },
-      {
-        "threshold": 45,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/kites/kite_whitetree"
-        }
-      },
-      {
-        "threshold": 46,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/hulahoops/hulahoop_candycane"
-        }
-      },
-      {
-        "threshold": 47,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/hulahoops/hulahoop_draft"
-        }
-      },
-      {
-        "threshold": 48,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/hulahoops/hulahoop_green"
-        }
-      },
-      {
-        "threshold": 49,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/hulahoops/hulahoop_orange"
-        }
-      },
-      {
-        "threshold": 50,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/hulahoops/hulahoop_pink"
-        }
-      },
-      {
-        "threshold": 51,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/hulahoops/hulahoop_purple"
-        }
-      },
-      {
-        "threshold": 52,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/hulahoops/hulahoop_red"
-        }
-      },
-      {
-        "threshold": 53,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/hulahoops/hulahoop_white"
-        }
-      },
-      {
-        "threshold": 54,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/hulahoops/hulahoop_yellow"
-        }
-      },
-      {
-        "threshold": 55,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_blue"
-        }
-      },
-      {
-        "threshold": 56,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_bluedarkblue"
-        }
-      },
-      {
-        "threshold": 57,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_green"
-        }
-      },
-      {
-        "threshold": 58,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_greenwhite"
-        }
-      },
-      {
-        "threshold": 59,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_greenyellow"
-        }
-      },
-      {
-        "threshold": 61,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_greyswirl"
-        }
-      },
-      {
-        "threshold": 62,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_orange"
-        }
-      },
-      {
-        "threshold": 63,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_orangeblue"
-        }
-      },
-      {
-        "threshold": 64,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_pink"
-        }
-      },
-      {
-        "threshold": 65,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_purple"
-        }
-      },
-      {
-        "threshold": 66,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_purpleblack"
-        }
-      },
-      {
-        "threshold": 67,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_red"
-        }
-      },
-      {
-        "threshold": 68,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_xmas"
-        }
-      },
-      {
-        "threshold": 69,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_xmas2"
-        }
-      },
-      {
-        "threshold": 70,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_yellow"
-        }
-      },
-      {
-        "threshold": 71,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_yellowwhite"
-        }
-      },
-      {
-        "threshold": 72,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/ball_yellowyellow"
-        }
-      },
-      {
-        "threshold": 73,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/balls/dvil_ball"
-        }
-      },
-      {
-        "threshold": 74,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/train_1stcar"
-        }
-      },
-      {
-        "threshold": 75,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/train_2ndcar"
-        }
-      },
-      {
-        "threshold": 76,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/train_3rdcar"
-        }
-      },
-      {
-        "threshold": 77,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/train_4thcar"
-        }
-      },
-      {
-        "threshold": 78,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/lumber_acacia"
-        }
-      },
-      {
-        "threshold": 79,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/lumber_birch"
-        }
-      },
-      {
-        "threshold": 80,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/lumber_cherry"
-        }
-      },
-      {
-        "threshold": 81,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/lumber_jungle"
-        }
-      },
-      {
-        "threshold": 82,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/lumber_spruce"
-        }
-      },
-      {
-        "threshold": 83,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/lumber_log_acacia"
-        }
-      },
-      {
-        "threshold": 84,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/lumber_log_birch"
-        }
-      },
-      {
-        "threshold": 85,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/lumber_log_cherry"
-        }
-      },
-      {
-        "threshold": 86,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/lumber_log_jungle"
-        }
-      },
-      {
-        "threshold": 87,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/lumber_log_spruce"
-        }
-      },
-      {
-        "threshold": 101,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/electric_chair"
-        }
-      },
-      {
-        "threshold": 102,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/punish_bracelets"
-        }
-      },
-      {
-        "threshold": 103,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/medieval_stocks"
-        }
-      },
-      {
-        "threshold": 104,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/hanging"
-        }
-      },
-      {
-        "threshold": 105,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/axe"
-        }
-      },
-      {
-        "threshold": 106,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/cage"
-        }
-      },
-      {
-        "threshold": 107,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/thorn_chair"
-        }
-      },
-      {
-        "threshold": 108,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/guillotine"
-        }
-      },
-      {
-        "threshold": 109,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/hanging_cage"
-        }
-      },
-      {
-        "threshold": 110,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/torture_device"
-        }
-      },
-      {
-        "threshold": 111,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/execution_target_shooting"
-        }
-      },
-      {
-        "threshold": 112,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/bear_trap"
-        }
-      },
-      {
-        "threshold": 113,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/medieval_stretch"
-        }
-      },
-      {
-        "threshold": 114,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/spanish_donkey"
-        }
-      },
-      {
-        "threshold": 115,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/thumbscrew"
-        }
-      },
-      {
-        "threshold": 116,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/spanish_boot_hanging_on_wall"
-        }
-      },
-      {
-        "threshold": 117,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/iron_maiden"
-        }
-      },
-      {
-        "threshold": 118,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/opened_ironmaiden"
-        }
-      },
-      {
-        "threshold": 119,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/chain_wall"
-        }
-      },
-      {
-        "threshold": 120,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/torture_machines/iron_cage"
-        }
-      },
-      {
-        "threshold": 121,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/airshipsilhouette"
-        }
-      },
-      {
-        "threshold": 122,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/airshipsilhouette-iso"
-        }
-      },
-      {
-        "threshold": 123,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/scanblue"
-        }
-      },
-      {
-        "threshold": 124,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/scanblue2"
-        }
-      },
-      {
-        "threshold": 125,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/scanblue3"
-        }
-      },
-      {
-        "threshold": 201,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/racks/racks_flamethrower"
-        }
-      },
-      {
-        "threshold": 202,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/racks/racks_wrench"
-        }
-      },
-      {
-        "threshold": 203,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/racks/racks_hammer"
-        }
-      },
-      {
-        "threshold": 204,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/racks/racks_decorruptor"
-        }
-      },
-      {
-        "threshold": 205,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/racks/racks_foamer"
-        }
-      },
-      {
-        "threshold": 206,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/racks/racks_runeblade"
-        }
-      },
-      {
-        "threshold": 207,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/racks/racks_runeblade2"
-        }
-      },
-      {
-        "threshold": 301,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/willyswheels/fire_engine"
-        }
-      },
-      {
-        "threshold": 302,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/willyswheels/alfa_romeo_spider"
-        }
-      },
-      {
-        "threshold": 303,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/willyswheels/honda_s2000_suki"
-        }
-      },
-      {
-        "threshold": 304,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/willyswheels/london_bus"
-        }
-      },
-      {
-        "threshold": 305,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/willyswheels/lamborghini_aventador_sv"
-        }
-      },
-      {
-        "threshold": 306,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/willyswheels/lamborghini"
-        }
-      },
-      {
-        "threshold": 307,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/willyswheels/forklift"
-        }
-      },
-      {
-        "threshold": 308,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/willyswheels/pizza_boy"
-        }
-      },
-      {
-        "threshold": 400,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/digits/0"
-        }
-      },
-      {
-        "threshold": 401,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/digits/1"
-        }
-      },
-      {
-        "threshold": 402,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/digits/2"
-        }
-      },
-      {
-        "threshold": 403,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/digits/3"
-        }
-      },
-      {
-        "threshold": 404,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/digits/4"
-        }
-      },
-      {
-        "threshold": 405,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/digits/5"
-        }
-      },
-      {
-        "threshold": 406,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/digits/6"
-        }
-      },
-      {
-        "threshold": 407,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/digits/7"
-        }
-      },
-      {
-        "threshold": 408,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/digits/8"
-        }
-      },
-      {
-        "threshold": 409,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/digits/9"
-        }
-      },
-      {
-        "threshold": 1001,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner_details"
-        }
-      },
-      {
-        "threshold": 1002,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner_main"
-        }
-      },
-      {
-        "threshold": 1003,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner_prompt1"
-        }
-      },
-      {
-        "threshold": 1004,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-beeswarm-details"
-        }
-      },
-      {
-        "threshold": 1005,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-beeswarm-main"
-        }
-      },
-      {
-        "threshold": 1006,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-beeswarm-prompt1"
-        }
-      },
-      {
-        "threshold": 1007,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-beeswarm-prompt2"
-        }
-      },
-      {
-        "threshold": 1008,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-beeswarm-prompt3"
-        }
-      },
-      {
-        "threshold": 1009,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-earthquake-details"
-        }
-      },
-      {
-        "threshold": 1010,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-earthquake-main"
-        }
-      },
-      {
-        "threshold": 1011,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-fireoutbreak-details"
-        }
-      },
-      {
-        "threshold": 1012,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-fireoutbreak-main"
-        }
-      },
-      {
-        "threshold": 1013,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-ratnests-details"
-        }
-      },
-      {
-        "threshold": 1014,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-ratnests-main"
-        }
-      },
-      {
-        "threshold": 1015,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-ratnests-prompt1"
-        }
-      },
-      {
-        "threshold": 1016,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-ratnests-prompt2"
-        }
-      },
-      {
-        "threshold": 1017,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-ratnests-prompt3"
-        }
-      },
-      {
-        "threshold": 1018,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-ratnests-prompt4"
-        }
-      },
-      {
-        "threshold": 1019,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-details"
-        }
-      },
-      {
-        "threshold": 1020,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-main"
-        }
-      },
-      {
-        "threshold": 1021,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-prompt1"
-        }
-      },
-      {
-        "threshold": 1022,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-prompt2"
-        }
-      },
-      {
-        "threshold": 1023,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-prompt3"
-        }
-      },
-      {
-        "threshold": 1024,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-prompt4"
-        }
-      },
-      {
-        "threshold": 1025,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-prompt5"
-        }
-      },
-      {
-        "threshold": 1026,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-smellypigs-details"
-        }
-      },
-      {
-        "threshold": 1027,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-smellypigs-main"
-        }
-      },
-      {
-        "threshold": 1028,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-smellypigs-prompt1"
-        }
-      },
-      {
-        "threshold": 1029,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-smellypigs-prompt2"
-        }
-      },
-      {
-        "threshold": 1030,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-smellypigs-prompt3"
-        }
-      },
-      {
-        "threshold": 1031,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-smellypigs-prompt4"
-        }
-      },
-      {
-        "threshold": 1032,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-smellypigs-prompt5"
-        }
-      },
-      {
-        "threshold": 1033,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-zombieattack-details"
-        }
-      },
-      {
-        "threshold": 1034,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-zombieattack-main"
-        }
-      },
-      {
-        "threshold": 1035,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-scan"
-        }
-      },
-      {
-        "threshold": 1036,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-scanbar"
-        }
-      },
-      {
-        "threshold": 1037,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-failed"
-        }
-      },
-      {
-        "threshold": 1038,
-        "model": {
-          "type": "model",
-          "model": "lom:item/entities/vidwindows/scanner-failed2"
-        }
-      }
+      { "threshold": 1, "model": { "type": "model", "model": "lom:item/entities/demon1" } },
+      { "threshold": 2, "model": { "type": "model", "model": "lom:item/entities/sprite_test1" } },
+      { "threshold": 3, "model": { "type": "model", "model": "lom:item/entities/spells/boltbomb" } },
+      { "threshold": 4, "model": { "type": "model", "model": "lom:item/entities/spells/firebomb" } },
+      { "threshold": 5, "model": { "type": "model", "model": "lom:item/entities/spells/icesword" } },
+      { "threshold": 6, "model": { "type": "model", "model": "lom:item/entities/spells/lightningshock" } },
+      { "threshold": 7, "model": { "type": "model", "model": "lom:item/entities/spells/purpledevilcircle" } },
+      { "threshold": 8, "model": { "type": "model", "model": "lom:item/entities/spells/smokescreen" } },
+      { "threshold": 9, "model": { "type": "model", "model": "lom:item/entities/spells/sparkblast" } },
+      { "threshold": 10, "model": { "type": "model", "model": "lom:item/entities/spells/lightslash" } },
+      { "threshold": 11, "model": { "type": "model", "model": "lom:item/entities/spells/bubblepop" } },
+      { "threshold": 12, "model": { "type": "model", "model": "lom:item/entities/moonshark" } },
+      { "threshold": 13, "model": { "type": "model", "model": "lom:item/entities/puddle1" } },
+      { "threshold": 14, "model": { "type": "model", "model": "lom:item/entities/puddle2" } },
+      { "threshold": 15, "model": { "type": "model", "model": "lom:item/entities/puddle3" } },
+      { "threshold": 16, "model": { "type": "model", "model": "lom:item/entities/puddle4" } },
+      { "threshold": 17, "model": { "type": "model", "model": "lom:item/entities/puddle5" } },
+      { "threshold": 18, "model": { "type": "model", "model": "lom:item/entities/puddle_sprinkles" } },
+      { "threshold": 19, "model": { "type": "model", "model": "lom:item/entities/puddle_wine" } },
+      { "threshold": 20, "model": { "type": "model", "model": "lom:item/entities/stinklines1" } },
+      { "threshold": 21, "model": { "type": "model", "model": "lom:item/entities/stinklines2" } },
+      { "threshold": 22, "model": { "type": "model", "model": "lom:item/entities/stinklines3" } },
+      { "threshold": 23, "model": { "type": "model", "model": "lom:item/entities/spells/purpleaura" } },
+      { "threshold": 24, "model": { "type": "model", "model": "lom:item/entities/groundsmash" } },
+      { "threshold": 25, "model": { "type": "model", "model": "lom:item/entities/crack1" } },
+      { "threshold": 26, "model": { "type": "model", "model": "lom:item/entities/crack2" } },
+      { "threshold": 27, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_details" } },
+      { "threshold": 28, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_main" } },
+      { "threshold": 29, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_prompt1" } },
+      { "threshold": 30, "model": { "type": "model", "model": "lom:item/entities/spideregg" } },
+      { "threshold": 31, "model": { "type": "model", "model": "lom:item/entities/racks" } },
+      { "threshold": 32, "model": { "type": "model", "model": "lom:item/entities/banana" } },
+      { "threshold": 33, "model": { "type": "model", "model": "lom:item/entities/kites/kite_old" } },
+      { "threshold": 34, "model": { "type": "model", "model": "lom:item/entities/hulahoop" } },
+      { "threshold": 35, "model": { "type": "model", "model": "lom:item/entities/card_house1" } },
+      { "threshold": 36, "model": { "type": "model", "model": "lom:item/entities/card_house2" } },
+      { "threshold": 37, "model": { "type": "model", "model": "lom:item/entities/kites/kite_black" } },
+      { "threshold": 38, "model": { "type": "model", "model": "lom:item/entities/kites/kite_blue" } },
+      { "threshold": 39, "model": { "type": "model", "model": "lom:item/entities/kites/kite_gold" } },
+      { "threshold": 40, "model": { "type": "model", "model": "lom:item/entities/kites/kite_green" } },
+      { "threshold": 41, "model": { "type": "model", "model": "lom:item/entities/kites/kite_pink" } },
+      { "threshold": 42, "model": { "type": "model", "model": "lom:item/entities/kites/kite_redankh" } },
+      { "threshold": 43, "model": { "type": "model", "model": "lom:item/entities/kites/kite_redtree" } },
+      { "threshold": 44, "model": { "type": "model", "model": "lom:item/entities/kites/kite_whiteankh" } },
+      { "threshold": 45, "model": { "type": "model", "model": "lom:item/entities/kites/kite_whitetree" } },
+      { "threshold": 46, "model": { "type": "model", "model": "lom:item/entities/hulahoops/hulahoop_candycane" } },
+      { "threshold": 47, "model": { "type": "model", "model": "lom:item/entities/hulahoops/hulahoop_draft" } },
+      { "threshold": 48, "model": { "type": "model", "model": "lom:item/entities/hulahoops/hulahoop_green" } },
+      { "threshold": 49, "model": { "type": "model", "model": "lom:item/entities/hulahoops/hulahoop_orange" } },
+      { "threshold": 50, "model": { "type": "model", "model": "lom:item/entities/hulahoops/hulahoop_pink" } },
+      { "threshold": 51, "model": { "type": "model", "model": "lom:item/entities/hulahoops/hulahoop_purple" } },
+      { "threshold": 52, "model": { "type": "model", "model": "lom:item/entities/hulahoops/hulahoop_red" } },
+      { "threshold": 53, "model": { "type": "model", "model": "lom:item/entities/hulahoops/hulahoop_white" } },
+      { "threshold": 54, "model": { "type": "model", "model": "lom:item/entities/hulahoops/hulahoop_yellow" } },
+      { "threshold": 55, "model": { "type": "model", "model": "lom:item/items/balls/ball_blue" } },
+      { "threshold": 56, "model": { "type": "model", "model": "lom:item/items/balls/ball_bluedarkblue" } },
+      { "threshold": 57, "model": { "type": "model", "model": "lom:item/items/balls/ball_green" } },
+      { "threshold": 58, "model": { "type": "model", "model": "lom:item/items/balls/ball_greenwhite" } },
+      { "threshold": 59, "model": { "type": "model", "model": "lom:item/items/balls/ball_greenyellow" } },
+      { "threshold": 61, "model": { "type": "model", "model": "lom:item/items/balls/ball_greyswirl" } },
+      { "threshold": 62, "model": { "type": "model", "model": "lom:item/items/balls/ball_orange" } },
+      { "threshold": 63, "model": { "type": "model", "model": "lom:item/items/balls/ball_orangeblue" } },
+      { "threshold": 64, "model": { "type": "model", "model": "lom:item/items/balls/ball_pink" } },
+      { "threshold": 65, "model": { "type": "model", "model": "lom:item/items/balls/ball_purple" } },
+      { "threshold": 66, "model": { "type": "model", "model": "lom:item/items/balls/ball_purpleblack" } },
+      { "threshold": 67, "model": { "type": "model", "model": "lom:item/items/balls/ball_red" } },
+      { "threshold": 68, "model": { "type": "model", "model": "lom:item/items/balls/ball_xmas" } },
+      { "threshold": 69, "model": { "type": "model", "model": "lom:item/items/balls/ball_xmas2" } },
+      { "threshold": 70, "model": { "type": "model", "model": "lom:item/items/balls/ball_yellow" } },
+      { "threshold": 71, "model": { "type": "model", "model": "lom:item/items/balls/ball_yellowwhite" } },
+      { "threshold": 72, "model": { "type": "model", "model": "lom:item/items/balls/ball_yellowyellow" } },
+      { "threshold": 73, "model": { "type": "model", "model": "lom:item/items/balls/dvil_ball" } },
+      { "threshold": 74, "model": { "type": "model", "model": "lom:item/entities/train_1stcar" } },
+      { "threshold": 75, "model": { "type": "model", "model": "lom:item/entities/train_2ndcar" } },
+      { "threshold": 76, "model": { "type": "model", "model": "lom:item/entities/train_3rdcar" } },
+      { "threshold": 77, "model": { "type": "model", "model": "lom:item/entities/train_4thcar" } },
+      { "threshold": 78, "model": { "type": "model", "model": "lom:item/entities/lumber_acacia" } },
+      { "threshold": 79, "model": { "type": "model", "model": "lom:item/entities/lumber_birch" } },
+      { "threshold": 80, "model": { "type": "model", "model": "lom:item/entities/lumber_cherry" } },
+      { "threshold": 81, "model": { "type": "model", "model": "lom:item/entities/lumber_jungle" } },
+      { "threshold": 82, "model": { "type": "model", "model": "lom:item/entities/lumber_spruce" } },
+      { "threshold": 83, "model": { "type": "model", "model": "lom:item/entities/lumber_log_acacia" } },
+      { "threshold": 84, "model": { "type": "model", "model": "lom:item/entities/lumber_log_birch" } },
+      { "threshold": 85, "model": { "type": "model", "model": "lom:item/entities/lumber_log_cherry" } },
+      { "threshold": 86, "model": { "type": "model", "model": "lom:item/entities/lumber_log_jungle" } },
+      { "threshold": 87, "model": { "type": "model", "model": "lom:item/entities/lumber_log_spruce" } },
+      { "threshold": 101, "model": { "type": "model", "model": "lom:item/entities/torture_machines/electric_chair" } },
+      { "threshold": 102, "model": { "type": "model", "model": "lom:item/entities/torture_machines/punish_bracelets" } },
+      { "threshold": 103, "model": { "type": "model", "model": "lom:item/entities/torture_machines/medieval_stocks" } },
+      { "threshold": 104, "model": { "type": "model", "model": "lom:item/entities/torture_machines/hanging" } },
+      { "threshold": 105, "model": { "type": "model", "model": "lom:item/entities/torture_machines/axe" } },
+      { "threshold": 106, "model": { "type": "model", "model": "lom:item/entities/torture_machines/cage" } },
+      { "threshold": 107, "model": { "type": "model", "model": "lom:item/entities/torture_machines/thorn_chair" } },
+      { "threshold": 108, "model": { "type": "model", "model": "lom:item/entities/torture_machines/guillotine" } },
+      { "threshold": 109, "model": { "type": "model", "model": "lom:item/entities/torture_machines/hanging_cage" } },
+      { "threshold": 110, "model": { "type": "model", "model": "lom:item/entities/torture_machines/torture_device" } },
+      { "threshold": 111, "model": { "type": "model", "model": "lom:item/entities/torture_machines/execution_target_shooting" } },
+      { "threshold": 112, "model": { "type": "model", "model": "lom:item/entities/torture_machines/bear_trap" } },
+      { "threshold": 113, "model": { "type": "model", "model": "lom:item/entities/torture_machines/medieval_stretch" } },
+      { "threshold": 114, "model": { "type": "model", "model": "lom:item/entities/torture_machines/spanish_donkey" } },
+      { "threshold": 115, "model": { "type": "model", "model": "lom:item/entities/torture_machines/thumbscrew" } },
+      { "threshold": 116, "model": { "type": "model", "model": "lom:item/entities/torture_machines/spanish_boot_hanging_on_wall" } },
+      { "threshold": 117, "model": { "type": "model", "model": "lom:item/entities/torture_machines/iron_maiden" } },
+      { "threshold": 118, "model": { "type": "model", "model": "lom:item/entities/torture_machines/opened_ironmaiden" } },
+      { "threshold": 119, "model": { "type": "model", "model": "lom:item/entities/torture_machines/chain_wall" } },
+      { "threshold": 120, "model": { "type": "model", "model": "lom:item/entities/torture_machines/iron_cage" } },
+      { "threshold": 121, "model": { "type": "model", "model": "lom:item/entities/airshipsilhouette" } },
+      { "threshold": 122, "model": { "type": "model", "model": "lom:item/entities/airshipsilhouette-iso" } },
+      { "threshold": 123, "model": { "type": "model", "model": "lom:item/entities/scanblue" } },
+      { "threshold": 124, "model": { "type": "model", "model": "lom:item/entities/scanblue2" } },
+      { "threshold": 125, "model": { "type": "model", "model": "lom:item/entities/scanblue3" } },
+      { "threshold": 201, "model": { "type": "model", "model": "lom:item/entities/racks/racks_flamethrower" } },
+      { "threshold": 202, "model": { "type": "model", "model": "lom:item/entities/racks/racks_wrench" } },
+      { "threshold": 203, "model": { "type": "model", "model": "lom:item/entities/racks/racks_hammer" } },
+      { "threshold": 204, "model": { "type": "model", "model": "lom:item/entities/racks/racks_decorruptor" } },
+      { "threshold": 205, "model": { "type": "model", "model": "lom:item/entities/racks/racks_foamer" } },
+      { "threshold": 206, "model": { "type": "model", "model": "lom:item/entities/racks/racks_runeblade" } },
+      { "threshold": 207, "model": { "type": "model", "model": "lom:item/entities/racks/racks_runeblade2" } },
+      { "threshold": 301, "model": { "type": "model", "model": "lom:item/entities/willyswheels/fire_engine" } },
+      { "threshold": 302, "model": { "type": "model", "model": "lom:item/entities/willyswheels/alfa_romeo_spider" } },
+      { "threshold": 303, "model": { "type": "model", "model": "lom:item/entities/willyswheels/honda_s2000_suki" } },
+      { "threshold": 304, "model": { "type": "model", "model": "lom:item/entities/willyswheels/london_bus" } },
+      { "threshold": 305, "model": { "type": "model", "model": "lom:item/entities/willyswheels/lamborghini_aventador_sv" } },
+      { "threshold": 306, "model": { "type": "model", "model": "lom:item/entities/willyswheels/lamborghini" } },
+      { "threshold": 307, "model": { "type": "model", "model": "lom:item/entities/willyswheels/forklift" } },
+      { "threshold": 308, "model": { "type": "model", "model": "lom:item/entities/willyswheels/pizza_boy" } },
+      { "threshold": 400, "model": { "type": "model", "model": "lom:item/entities/digits/0" } },
+      { "threshold": 401, "model": { "type": "model", "model": "lom:item/entities/digits/1" } },
+      { "threshold": 402, "model": { "type": "model", "model": "lom:item/entities/digits/2" } },
+      { "threshold": 403, "model": { "type": "model", "model": "lom:item/entities/digits/3" } },
+      { "threshold": 404, "model": { "type": "model", "model": "lom:item/entities/digits/4" } },
+      { "threshold": 405, "model": { "type": "model", "model": "lom:item/entities/digits/5" } },
+      { "threshold": 406, "model": { "type": "model", "model": "lom:item/entities/digits/6" } },
+      { "threshold": 407, "model": { "type": "model", "model": "lom:item/entities/digits/7" } },
+      { "threshold": 408, "model": { "type": "model", "model": "lom:item/entities/digits/8" } },
+      { "threshold": 409, "model": { "type": "model", "model": "lom:item/entities/digits/9" } },
+      { "threshold": 1001, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_details" } },
+      { "threshold": 1002, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_main" } },
+      { "threshold": 1003, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_prompt1" } },
+      { "threshold": 1004, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-beeswarm-details" } },
+      { "threshold": 1005, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-beeswarm-main" } },
+      { "threshold": 1006, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-beeswarm-prompt1" } },
+      { "threshold": 1007, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-beeswarm-prompt2" } },
+      { "threshold": 1008, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-beeswarm-prompt3" } },
+      { "threshold": 1009, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-earthquake-details" } },
+      { "threshold": 1010, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-earthquake-main" } },
+      { "threshold": 1011, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-fireoutbreak-details" } },
+      { "threshold": 1012, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-fireoutbreak-main" } },
+      { "threshold": 1013, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-ratnests-details" } },
+      { "threshold": 1014, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-ratnests-main" } },
+      { "threshold": 1015, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-ratnests-prompt1" } },
+      { "threshold": 1016, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-ratnests-prompt2" } },
+      { "threshold": 1017, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-ratnests-prompt3" } },
+      { "threshold": 1018, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-ratnests-prompt4" } },
+      { "threshold": 1019, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-details" } },
+      { "threshold": 1020, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-main" } },
+      { "threshold": 1021, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-prompt1" } },
+      { "threshold": 1022, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-prompt2" } },
+      { "threshold": 1023, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-prompt3" } },
+      { "threshold": 1024, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-prompt4" } },
+      { "threshold": 1025, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-slimeyfrogs-prompt5" } },
+      { "threshold": 1026, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-smellypigs-details" } },
+      { "threshold": 1027, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-smellypigs-main" } },
+      { "threshold": 1028, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-smellypigs-prompt1" } },
+      { "threshold": 1029, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-smellypigs-prompt2" } },
+      { "threshold": 1030, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-smellypigs-prompt3" } },
+      { "threshold": 1031, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-smellypigs-prompt4" } },
+      { "threshold": 1032, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-smellypigs-prompt5" } },
+      { "threshold": 1033, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-zombieattack-details" } },
+      { "threshold": 1034, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-zombieattack-main" } },
+      { "threshold": 1035, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-scan" } },
+      { "threshold": 1036, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-scanbar" } },
+      { "threshold": 1037, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-failed" } },
+      { "threshold": 1038, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-failed2" } }
     ]
   }
 }

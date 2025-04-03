@@ -2,305 +2,51 @@
   "model": {
     "type": "range_dispatch",
     "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "minecraft:item/warped_fungus_on_a_stick"
-    },
+    "fallback": { "type": "model", "model": "minecraft:item/warped_fungus_on_a_stick" },
     "entries": [
-      {
-        "threshold": 1,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/beeg_wrench"
-        }
-      },
-      {
-        "threshold": 2,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/cookiebox"
-        }
-      },
-      {
-        "threshold": 3,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/scootsash"
-        }
-      },
-      {
-        "threshold": 4,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/muk_trophy_bronze"
-        }
-      },
-      {
-        "threshold": 5,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/muk_trophy_silver"
-        }
-      },
-      {
-        "threshold": 6,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/muk_trophy_gold"
-        }
-      },
-      {
-        "threshold": 7,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/sciencewand"
-        }
-      },
-      {
-        "threshold": 8,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/honey_wand"
-        }
-      },
-      {
-        "threshold": 9,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/crowbar"
-        }
-      },
-      {
-        "threshold": 10,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/guitar"
-        }
-      },
-      {
-        "threshold": 11,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/harmonica"
-        }
-      },
-      {
-        "threshold": 12,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/ocarina"
-        }
-      },
-      {
-        "threshold": 13,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/bongos"
-        }
-      },
-      {
-        "threshold": 14,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/trumpet"
-        }
-      },
-      {
-        "threshold": 15,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/dorf_boi_colour_dinkymon"
-        }
-      },
-      {
-        "threshold": 16,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/dorf_boi_colour_willybattle"
-        }
-      },
-      {
-        "threshold": 17,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/dorf_boi_colour_superthanebros"
-        }
-      },
-      {
-        "threshold": 18,
-        "model": {
-          "type": "model",
-          "model": "lom:item/weapons/lowq_decorruptor"
-        }
-      },
-      {
-        "threshold": 19,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/scouter"
-        }
-      },
-      {
-        "threshold": 20,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/scouter-low"
-        }
-      },
-      {
-        "threshold": 21,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/scouter-high"
-        }
-      },
-      {
-        "threshold": 22,
-        "model": {
-          "type": "model",
-          "model": "lom:item/weapons/foamer"
-        }
-      },
-      {
-        "threshold": 23,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/paladin_wrench"
-        }
-      },
-      {
-        "threshold": 24,
-        "model": {
-          "type": "model",
-          "model": "lom:item/weapons/manners"
-        }
-      },
-      {
-        "threshold": 25,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/racingflag"
-        }
-      },
-      {
-        "threshold": 26,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/horsebrush"
-        }
-      },
-      {
-        "threshold": 27,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/clipboard"
-        }
-      },
-      {
-        "threshold": 1001,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/water"
-        }
-      },
-      {
-        "threshold": 1002,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/fire"
-        }
-      },
-      {
-        "threshold": 1003,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/campfire"
-        }
-      },
-      {
-        "threshold": 1004,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/treasure"
-        }
-      },
-      {
-        "threshold": 1005,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/magic"
-        }
-      },
-      {
-        "threshold": 1006,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/grandpaladinorder"
-        }
-      },
-      {
-        "threshold": 1007,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/rope"
-        }
-      },
-      {
-        "threshold": 1008,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/banana"
-        }
-      },
-      {
-        "threshold": 1009,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/cute"
-        }
-      },
-      {
-        "threshold": 1010,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/mining"
-        }
-      },
-      {
-        "threshold": 1011,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/earth"
-        }
-      },
-      {
-        "threshold": 1012,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/mountain"
-        }
-      },
-      {
-        "threshold": 1013,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/devil"
-        }
-      },
-      {
-        "threshold": 1014,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/badges/cookie"
-        }
-      },
-      {
-        "threshold": 2001,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/crate_labelled"
-        }
-      }
+      { "threshold": 1, "model": { "type": "model", "model": "lom:item/tools/beeg_wrench" } },
+      { "threshold": 2, "model": { "type": "model", "model": "lom:item/items/cookiebox" } },
+      { "threshold": 3, "model": { "type": "model", "model": "lom:item/tools/scootsash" } },
+      { "threshold": 4, "model": { "type": "model", "model": "lom:item/items/muk_trophy_bronze" } },
+      { "threshold": 5, "model": { "type": "model", "model": "lom:item/items/muk_trophy_silver" } },
+      { "threshold": 6, "model": { "type": "model", "model": "lom:item/items/muk_trophy_gold" } },
+      { "threshold": 7, "model": { "type": "model", "model": "lom:item/tools/sciencewand" } },
+      { "threshold": 8, "model": { "type": "model", "model": "lom:item/tools/honey_wand" } },
+      { "threshold": 9, "model": { "type": "model", "model": "lom:item/tools/crowbar" } },
+      { "threshold": 10, "model": { "type": "model", "model": "lom:item/tools/guitar" } },
+      { "threshold": 11, "model": { "type": "model", "model": "lom:item/tools/harmonica" } },
+      { "threshold": 12, "model": { "type": "model", "model": "lom:item/tools/ocarina" } },
+      { "threshold": 13, "model": { "type": "model", "model": "lom:item/tools/bongos" } },
+      { "threshold": 14, "model": { "type": "model", "model": "lom:item/tools/trumpet" } },
+      { "threshold": 15, "model": { "type": "model", "model": "lom:item/tools/dorf_boi_colour_dinkymon" } },
+      { "threshold": 16, "model": { "type": "model", "model": "lom:item/tools/dorf_boi_colour_willybattle" } },
+      { "threshold": 17, "model": { "type": "model", "model": "lom:item/tools/dorf_boi_colour_superthanebros" } },
+      { "threshold": 18, "model": { "type": "model", "model": "lom:item/weapons/lowq_decorruptor" } },
+      { "threshold": 19, "model": { "type": "model", "model": "lom:item/hats/scouter" } },
+      { "threshold": 20, "model": { "type": "model", "model": "lom:item/hats/scouter-low" } },
+      { "threshold": 21, "model": { "type": "model", "model": "lom:item/hats/scouter-high" } },
+      { "threshold": 22, "model": { "type": "model", "model": "lom:item/weapons/foamer" } },
+      { "threshold": 23, "model": { "type": "model", "model": "lom:item/tools/paladin_wrench" } },
+      { "threshold": 24, "model": { "type": "model", "model": "lom:item/weapons/manners" } },
+      { "threshold": 25, "model": { "type": "model", "model": "lom:item/tools/racingflag" } },
+      { "threshold": 26, "model": { "type": "model", "model": "lom:item/tools/horsebrush" } },
+      { "threshold": 27, "model": { "type": "model", "model": "lom:item/tools/clipboard" } },
+      
+      { "threshold": 1001, "model": { "type": "model", "model": "lom:item/items/badges/water" } },
+      { "threshold": 1002, "model": { "type": "model", "model": "lom:item/items/badges/fire" } },
+      { "threshold": 1003, "model": { "type": "model", "model": "lom:item/items/badges/campfire" } },
+      { "threshold": 1004, "model": { "type": "model", "model": "lom:item/items/badges/treasure" } },
+      { "threshold": 1005, "model": { "type": "model", "model": "lom:item/items/badges/magic" } },
+      { "threshold": 1006, "model": { "type": "model", "model": "lom:item/items/badges/grandpaladinorder" } },
+      { "threshold": 1007, "model": { "type": "model", "model": "lom:item/items/badges/rope" } },
+      { "threshold": 1008, "model": { "type": "model", "model": "lom:item/items/badges/banana" } },
+      { "threshold": 1009, "model": { "type": "model", "model": "lom:item/items/badges/cute" } },
+      { "threshold": 1010, "model": { "type": "model", "model": "lom:item/items/badges/mining" } },
+      { "threshold": 1011, "model": { "type": "model", "model": "lom:item/items/badges/earth" } },
+      { "threshold": 1012, "model": { "type": "model", "model": "lom:item/items/badges/mountain" } },
+      { "threshold": 1013, "model": { "type": "model", "model": "lom:item/items/badges/devil" } },
+      { "threshold": 1014, "model": { "type": "model", "model": "lom:item/items/badges/cookie" } },
+      { "threshold": 2001, "model": { "type": "model", "model": "lom:item/tools/crate_labelled" } }
     ]
   }
 }

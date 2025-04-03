@@ -2,1999 +2,292 @@
   "model": {
     "type": "range_dispatch",
     "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "minecraft:item/carved_pumpkin"
-    },
+    "fallback": { "type": "model", "model": "minecraft:item/carved_pumpkin" },
     "entries": [
-      {
-        "threshold": 1,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/beard"
-        }
-      },
-      {
-        "threshold": 2,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/dwarven_beard"
-        }
-      },
-      {
-        "threshold": 3,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/roamin_helmet"
-        }
-      },
-      {
-        "threshold": 4,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/knight_helm"
-        }
-      },
-      {
-        "threshold": 5,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/wizard_hat"
-        }
-      },
-      {
-        "threshold": 6,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/imperfect_crown"
-        }
-      },
-      {
-        "threshold": 7,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/tiara"
-        }
-      },
-      {
-        "threshold": 8,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/shell_wall"
-        }
-      },
-      {
-        "threshold": 9,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/fallen_valk"
-        }
-      },
-      {
-        "threshold": 10,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/pharaoh"
-        }
-      },
-      {
-        "threshold": 11,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/the_buccaneer"
-        }
-      },
-      {
-        "threshold": 12,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/shaman_mask"
-        }
-      },
-      {
-        "threshold": 13,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/the_wolf_hunter"
-        }
-      },
-      {
-        "threshold": 14,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/dragons_breath"
-        }
-      },
-      {
-        "threshold": 15,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/bull_horn"
-        }
-      },
-      {
-        "threshold": 16,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/wowzers"
-        }
-      },
-      {
-        "threshold": 17,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/tophat"
-        }
-      },
-      {
-        "threshold": 18,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/gnomish_goggles"
-        }
-      },
-      {
-        "threshold": 19,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/dragon_warrior"
-        }
-      },
-      {
-        "threshold": 20,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/nismas_hat"
-        }
-      },
-      {
-        "threshold": 21,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/chameleon"
-        }
-      },
-      {
-        "threshold": 22,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/rainbow_kitty"
-        }
-      },
-      {
-        "threshold": 23,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/mama"
-        }
-      },
-      {
-        "threshold": 24,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/mama2"
-        }
-      },
-      {
-        "threshold": 25,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/mama3"
-        }
-      },
-      {
-        "threshold": 26,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/mama4"
-        }
-      },
-      {
-        "threshold": 27,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/mama5"
-        }
-      },
-      {
-        "threshold": 28,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/jimmy_the_rat"
-        }
-      },
-      {
-        "threshold": 29,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/headbox"
-        }
-      },
-      {
-        "threshold": 30,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/knight_hat_red"
-        }
-      },
-      {
-        "threshold": 31,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/knight_hat_green"
-        }
-      },
-      {
-        "threshold": 32,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/jimmy_the_rat045"
-        }
-      },
-      {
-        "threshold": 33,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/jimmy_the_rat090"
-        }
-      },
-      {
-        "threshold": 34,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/jimmy_the_rat135"
-        }
-      },
-      {
-        "threshold": 35,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/jimmy_the_rat180"
-        }
-      },
-      {
-        "threshold": 36,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/jimmy_the_rat225"
-        }
-      },
-      {
-        "threshold": 37,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/jimmy_the_rat270"
-        }
-      },
-      {
-        "threshold": 38,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/jimmy_the_rat315"
-        }
-      },
-      {
-        "threshold": 39,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/beards/beard1-black"
-        }
-      },
-      {
-        "threshold": 40,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/beards/beard1-brown"
-        }
-      },
-      {
-        "threshold": 41,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/beards/beard1-gray"
-        }
-      },
-      {
-        "threshold": 42,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/beards/beard1-red"
-        }
-      },
-      {
-        "threshold": 43,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/beards/beard2-black"
-        }
-      },
-      {
-        "threshold": 44,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/beards/beard2-brown"
-        }
-      },
-      {
-        "threshold": 45,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/beards/beard2-gray"
-        }
-      },
-      {
-        "threshold": 46,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/beards/beard2-red"
-        }
-      },
-      {
-        "threshold": 47,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/fine_moustache"
-        }
-      },
-      {
-        "threshold": 48,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/very_fine_moustache"
-        }
-      },
-      {
-        "threshold": 49,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/mohawk"
-        }
-      },
-      {
-        "threshold": 50,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/powdered_wig"
-        }
-      },
-      {
-        "threshold": 51,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/pompadour"
-        }
-      },
-      {
-        "threshold": 52,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/afro"
-        }
-      },
-      {
-        "threshold": 53,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/cowboy"
-        }
-      },
-      {
-        "threshold": 54,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/manbun"
-        }
-      },
-      {
-        "threshold": 55,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/knight_helmet"
-        }
-      },
-      {
-        "threshold": 56,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/captain_helmet"
-        }
-      },
-      {
-        "threshold": 57,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/waluigi"
-        }
-      },
-      {
-        "threshold": 58,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/waluigi_small"
-        }
-      },
-      {
-        "threshold": 59,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/tricorn"
-        }
-      },
-      {
-        "threshold": 60,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/swammy-hat"
-        }
-      },
-      {
-        "threshold": 61,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/lolly"
-        }
-      },
-      {
-        "threshold": 62,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/musketeer"
-        }
-      },
-      {
-        "threshold": 63,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/present"
-        }
-      },
-      {
-        "threshold": 64,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/regalhat"
-        }
-      },
-      {
-        "threshold": 65,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/xantenex-hat"
-        }
-      },
-      {
-        "threshold": 66,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/santa_hat_lq"
-        }
-      },
-      {
-        "threshold": 67,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/christmashat"
-        }
-      },
-      {
-        "threshold": 68,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/mama6"
-        }
-      },
-      {
-        "threshold": 69,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/mama7"
-        }
-      },
-      {
-        "threshold": 70,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/grandpajimmy"
-        }
-      },
-      {
-        "threshold": 71,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/devil_horns"
-        }
-      },
-      {
-        "threshold": 72,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/ram_horns"
-        }
-      },
-      {
-        "threshold": 73,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/horns_prp1"
-        }
-      },
-      {
-        "threshold": 74,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/ribbon_black"
-        }
-      },
-      {
-        "threshold": 75,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/devil_horns3"
-        }
-      },
-      {
-        "threshold": 76,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/devil_horns_ribbon"
-        }
-      },
-      {
-        "threshold": 77,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/devil_horns_halo"
-        }
-      },
-      {
-        "threshold": 78,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/aviators"
-        }
-      },
-      {
-        "threshold": 79,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/krampus"
-        }
-      },
-      {
-        "threshold": 1001,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/axe_hat"
-        }
-      },
-      {
-        "threshold": 1002,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/beret_red"
-        }
-      },
-      {
-        "threshold": 1003,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/beret_tint"
-        }
-      },
-      {
-        "threshold": 1004,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/cap"
-        }
-      },
-      {
-        "threshold": 1005,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/capitaine_hat"
-        }
-      },
-      {
-        "threshold": 1006,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/cap_tint"
-        }
-      },
-      {
-        "threshold": 1007,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/carrot_hat"
-        }
-      },
-      {
-        "threshold": 1008,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/cart_hat"
-        }
-      },
-      {
-        "threshold": 1009,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/cat_headphone"
-        }
-      },
-      {
-        "threshold": 1010,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/cat_headphone_tint"
-        }
-      },
-      {
-        "threshold": 1011,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/cauldron_hat"
-        }
-      },
-      {
-        "threshold": 1012,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/cauldron_hat_tinted"
-        }
-      },
-      {
-        "threshold": 1013,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/choclate_easter_egg"
-        }
-      },
-      {
-        "threshold": 1014,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/choclate_easter_egg_side_rubon"
-        }
-      },
-      {
-        "threshold": 1015,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/deer_horn"
-        }
-      },
-      {
-        "threshold": 1016,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/deer_horn_tinted"
-        }
-      },
-      {
-        "threshold": 1017,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/easter_box"
-        }
-      },
-      {
-        "threshold": 1018,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/easter_box_tinted"
-        }
-      },
-      {
-        "threshold": 1019,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/farmer_hat"
-        }
-      },
-      {
-        "threshold": 1020,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/farmer_hat_tint"
-        }
-      },
-      {
-        "threshold": 1021,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/flower_hat"
-        }
-      },
-      {
-        "threshold": 1022,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/ghost_hat"
-        }
-      },
-      {
-        "threshold": 1023,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/ghost_hat_tinted"
-        }
-      },
-      {
-        "threshold": 1024,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/gift_hat"
-        }
-      },
-      {
-        "threshold": 1025,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/gift_hat_tint"
-        }
-      },
-      {
-        "threshold": 1026,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/golden_easter_egg"
-        }
-      },
-      {
-        "threshold": 1027,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/golden_easter_egg_side_rubon"
-        }
-      },
-      {
-        "threshold": 1028,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/lawyer_hat"
-        }
-      },
-      {
-        "threshold": 1029,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/lawyer_hat_tint"
-        }
-      },
-      {
-        "threshold": 1030,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/mushroom_hat"
-        }
-      },
-      {
-        "threshold": 1031,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/panda_hat"
-        }
-      },
-      {
-        "threshold": 1032,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/pirate_hat"
-        }
-      },
-      {
-        "threshold": 1033,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/pirate_hat_tint"
-        }
-      },
-      {
-        "threshold": 1034,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/pumpkin_hat"
-        }
-      },
-      {
-        "threshold": 1035,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/rabbit_hat_tint"
-        }
-      },
-      {
-        "threshold": 1036,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/rabbit_headphone"
-        }
-      },
-      {
-        "threshold": 1037,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/rabbit_headphone_tint"
-        }
-      },
-      {
-        "threshold": 1038,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/rgb_headphone"
-        }
-      },
-      {
-        "threshold": 1039,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/rgb_headphone_tint"
-        }
-      },
-      {
-        "threshold": 1040,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/ruban_hat_red"
-        }
-      },
-      {
-        "threshold": 1041,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/ruban_hat_rgb"
-        }
-      },
-      {
-        "threshold": 1042,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/ruban_hat_tint"
-        }
-      },
-      {
-        "threshold": 1043,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/sailor_hat"
-        }
-      },
-      {
-        "threshold": 1044,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/sailor_hat_tinted"
-        }
-      },
-      {
-        "threshold": 1045,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/santa_elf_hat"
-        }
-      },
-      {
-        "threshold": 1046,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/santa_elf_hat_tint"
-        }
-      },
-      {
-        "threshold": 1047,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/santa_hat"
-        }
-      },
-      {
-        "threshold": 1048,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/top_hat"
-        }
-      },
-      {
-        "threshold": 1049,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/witch_hat"
-        }
-      },
-      {
-        "threshold": 1050,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/witch_hat_tinted"
-        }
-      },
-      {
-        "threshold": 1051,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/wool_cap_hat"
-        }
-      },
-      {
-        "threshold": 1052,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/somehats/wool_cap_hat_tint"
-        }
-      },
-      {
-        "threshold": 1053,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/aegishat"
-        }
-      },
-      {
-        "threshold": 1054,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/amalgalichhat"
-        }
-      },
-      {
-        "threshold": 1055,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/angrymask"
-        }
-      },
-      {
-        "threshold": 1056,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/antlers"
-        }
-      },
-      {
-        "threshold": 1057,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/apple"
-        }
-      },
-      {
-        "threshold": 1058,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/artsy"
-        }
-      },
-      {
-        "threshold": 1059,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/babydolphin"
-        }
-      },
-      {
-        "threshold": 1060,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/babyturtle"
-        }
-      },
-      {
-        "threshold": 1061,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/bandana"
-        }
-      },
-      {
-        "threshold": 1062,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/baseballeaster"
-        }
-      },
-      {
-        "threshold": 1063,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/baseballhat"
-        }
-      },
-      {
-        "threshold": 1064,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/baseballhatfestive"
-        }
-      },
-      {
-        "threshold": 1065,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/batwinghat"
-        }
-      },
-      {
-        "threshold": 1066,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/beanie"
-        }
-      },
-      {
-        "threshold": 1067,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/beanieeaster"
-        }
-      },
-      {
-        "threshold": 1068,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/beaniespooky"
-        }
-      },
-      {
-        "threshold": 1069,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/beehat"
-        }
-      },
-      {
-        "threshold": 1070,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/beret_ribbon"
-        }
-      },
-      {
-        "threshold": 1071,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/bicorne"
-        }
-      },
-      {
-        "threshold": 1072,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/bigbrain"
-        }
-      },
-      {
-        "threshold": 1073,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/bigcrown"
-        }
-      },
-      {
-        "threshold": 1074,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/bigeyes"
-        }
-      },
-      {
-        "threshold": 1075,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/bigribbon"
-        }
-      },
-      {
-        "threshold": 1076,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/bluefireeye"
-        }
-      },
-      {
-        "threshold": 1077,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/bowler"
-        }
-      },
-      {
-        "threshold": 1078,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/breadhat"
-        }
-      },
-      {
-        "threshold": 1079,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/brownbrick"
-        }
-      },
-      {
-        "threshold": 1080,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/bucket"
-        }
-      },
-      {
-        "threshold": 1081,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/bunnyhat"
-        }
-      },
-      {
-        "threshold": 1082,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/burning_m_bison"
-        }
-      },
-      {
-        "threshold": 1083,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/caddycap"
-        }
-      },
-      {
-        "threshold": 1084,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/camera"
-        }
-      },
-      {
-        "threshold": 1085,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/candleonhead"
-        }
-      },
-      {
-        "threshold": 1086,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/candycane"
-        }
-      },
-      {
-        "threshold": 1087,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/capbackwards"
-        }
-      },
-      {
-        "threshold": 1088,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/carrotonstick"
-        }
-      },
-      {
-        "threshold": 1089,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/cartoonegg"
-        }
-      },
-      {
-        "threshold": 1090,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/chalk_stick"
-        }
-      },
-      {
-        "threshold": 1091,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/chefshat"
-        }
-      },
-      {
-        "threshold": 1092,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/chickenhead"
-        }
-      },
-      {
-        "threshold": 1093,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/chickenonhead"
-        }
-      },
-      {
-        "threshold": 1094,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/chi_ears"
-        }
-      },
-      {
-        "threshold": 1095,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/christmascakehat"
-        }
-      },
-      {
-        "threshold": 1096,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/christmastree"
-        }
-      },
-      {
-        "threshold": 1097,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/clockface"
-        }
-      },
-      {
-        "threshold": 1098,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/cowboy"
-        }
-      },
-      {
-        "threshold": 1099,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/crabonhead"
-        }
-      },
-      {
-        "threshold": 1100,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/crown"
-        }
-      },
-      {
-        "threshold": 1101,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/cucumbereyemask"
-        }
-      },
-      {
-        "threshold": 1102,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/cyclopseye"
-        }
-      },
-      {
-        "threshold": 1103,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/dangereqsue"
-        }
-      },
-      {
-        "threshold": 1104,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/demoneyes"
-        }
-      },
-      {
-        "threshold": 1105,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/demonhorns"
-        }
-      },
-      {
-        "threshold": 1106,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/dimmahat"
-        }
-      },
-      {
-        "threshold": 1107,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/disguise"
-        }
-      },
-      {
-        "threshold": 1108,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/doctorhat"
-        }
-      },
-      {
-        "threshold": 1109,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/doubletake"
-        }
-      },
-      {
-        "threshold": 1110,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/dragonhead"
-        }
-      },
-      {
-        "threshold": 1111,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/dragonskull"
-        }
-      },
-      {
-        "threshold": 1112,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/dragonskullender"
-        }
-      },
-      {
-        "threshold": 1113,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/drinkinhat"
-        }
-      },
-      {
-        "threshold": 1114,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/dumhat"
-        }
-      },
-      {
-        "threshold": 1115,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/dwarfbeard"
-        }
-      },
-      {
-        "threshold": 1116,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/dwarfminerbeard"
-        }
-      },
-      {
-        "threshold": 1117,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/eyepatch"
-        }
-      },
-      {
-        "threshold": 1118,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/farmerbrim"
-        }
-      },
-      {
-        "threshold": 1119,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/festiveantlers"
-        }
-      },
-      {
-        "threshold": 1120,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/fireworks"
-        }
-      },
-      {
-        "threshold": 1121,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/fishing_hat"
-        }
-      },
-      {
-        "threshold": 1122,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/fishonhead"
-        }
-      },
-      {
-        "threshold": 1123,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/flies"
-        }
-      },
-      {
-        "threshold": 1124,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/floatinghearts"
-        }
-      },
-      {
-        "threshold": 1125,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/flowercrown"
-        }
-      },
-      {
-        "threshold": 1126,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/floweronhead"
-        }
-      },
-      {
-        "threshold": 1127,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/foxhat"
-        }
-      },
-      {
-        "threshold": 1128,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/fro"
-        }
-      },
-      {
-        "threshold": 1129,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/fronthorns"
-        }
-      },
-      {
-        "threshold": 1130,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/fulldiamondhelm"
-        }
-      },
-      {
-        "threshold": 1131,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/fullgoldhelm"
-        }
-      },
-      {
-        "threshold": 1132,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/fullironhelm"
-        }
-      },
-      {
-        "threshold": 1133,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/ghostmask"
-        }
-      },
-      {
-        "threshold": 1134,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/goggles"
-        }
-      },
-      {
-        "threshold": 1135,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/greenbirb"
-        }
-      },
-      {
-        "threshold": 1136,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/greyfoxhat"
-        }
-      },
-      {
-        "threshold": 1137,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/grinchhat"
-        }
-      },
-      {
-        "threshold": 1138,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/halo"
-        }
-      },
-      {
-        "threshold": 1139,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/hockeymask"
-        }
-      },
-      {
-        "threshold": 1140,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/horsemask"
-        }
-      },
-      {
-        "threshold": 1141,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/icedragonskull"
-        }
-      },
-      {
-        "threshold": 1142,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/jackohat"
-        }
-      },
-      {
-        "threshold": 1143,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/jesterhat"
-        }
-      },
-      {
-        "threshold": 1144,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/largehorns"
-        }
-      },
-      {
-        "threshold": 1145,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/lilbow"
-        }
-      },
-      {
-        "threshold": 1146,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/longfoxears"
-        }
-      },
-      {
-        "threshold": 1147,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/magikarp"
-        }
-      },
-      {
-        "threshold": 1148,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/minerhat"
-        }
-      },
-      {
-        "threshold": 1149,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/monkeyking"
-        }
-      },
-      {
-        "threshold": 1150,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/monocle"
-        }
-      },
-      {
-        "threshold": 1151,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/moreeyes"
-        }
-      },
-      {
-        "threshold": 1152,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/murdered"
-        }
-      },
-      {
-        "threshold": 1153,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/nekoears"
-        }
-      },
-      {
-        "threshold": 1154,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/nyan_doll"
-        }
-      },
-      {
-        "threshold": 1155,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/orange_hat"
-        }
-      },
-      {
-        "threshold": 1156,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/paperbag"
-        }
-      },
-      {
-        "threshold": 1157,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/partyhat"
-        }
-      },
-      {
-        "threshold": 1158,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/penguinbaby"
-        }
-      },
-      {
-        "threshold": 1159,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/pinhead"
-        }
-      },
-      {
-        "threshold": 1160,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/potionhead"
-        }
-      },
-      {
-        "threshold": 1161,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/presentsstack"
-        }
-      },
-      {
-        "threshold": 1162,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/questbook"
-        }
-      },
-      {
-        "threshold": 1163,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/rabbitears"
-        }
-      },
-      {
-        "threshold": 1164,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/rabbitonhead"
-        }
-      },
-      {
-        "threshold": 1165,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/rabi_en_rose"
-        }
-      },
-      {
-        "threshold": 1166,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/raincloud"
-        }
-      },
-      {
-        "threshold": 1167,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/rednose"
-        }
-      },
-      {
-        "threshold": 1168,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/redshroomcap"
-        }
-      },
-      {
-        "threshold": 1169,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/rimglasses"
-        }
-      },
-      {
-        "threshold": 1170,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/sandcastle"
-        }
-      },
-      {
-        "threshold": 1171,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/santaclaus"
-        }
-      },
-      {
-        "threshold": 1172,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/santahat"
-        }
-      },
-      {
-        "threshold": 1173,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/sausage"
-        }
-      },
-      {
-        "threshold": 1174,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/scouter"
-        }
-      },
-      {
-        "threshold": 1175,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/shinymagikarp"
-        }
-      },
-      {
-        "threshold": 1176,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/sidebow"
-        }
-      },
-      {
-        "threshold": 1177,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/snowmanbaby"
-        }
-      },
-      {
-        "threshold": 1178,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/sonichood"
-        }
-      },
-      {
-        "threshold": 1179,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/spadesoldier"
-        }
-      },
-      {
-        "threshold": 1180,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/special"
-        }
-      },
-      {
-        "threshold": 1181,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/sport_sunglasses"
-        }
-      },
-      {
-        "threshold": 1182,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/sprout"
-        }
-      },
-      {
-        "threshold": 1183,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/spyzombie"
-        }
-      },
-      {
-        "threshold": 1184,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/strawberry_hat"
-        }
-      },
-      {
-        "threshold": 1185,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/stress"
-        }
-      },
-      {
-        "threshold": 1186,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/summerhat"
-        }
-      },
-      {
-        "threshold": 1187,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/sunglasses"
-        }
-      },
-      {
-        "threshold": 1188,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/sunglassesbig"
-        }
-      },
-      {
-        "threshold": 1189,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/supersandhat"
-        }
-      },
-      {
-        "threshold": 1190,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/teddy_bear"
-        }
-      },
-      {
-        "threshold": 1191,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/teddy_bear_bee"
-        }
-      },
-      {
-        "threshold": 1192,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/teddy_bear_panda"
-        }
-      },
-      {
-        "threshold": 1193,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/teddy_bear_rembo"
-        }
-      },
-      {
-        "threshold": 1194,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/the_noise"
-        }
-      },
-      {
-        "threshold": 1195,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/tinkerhat"
-        }
-      },
-      {
-        "threshold": 1196,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/triangleshades"
-        }
-      },
-      {
-        "threshold": 1197,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/tricorne"
-        }
-      },
-      {
-        "threshold": 1198,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/tvhead"
-        }
-      },
-      {
-        "threshold": 1199,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/tvheadrat"
-        }
-      },
-      {
-        "threshold": 1200,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/tvheadstatic"
-        }
-      },
-      {
-        "threshold": 1201,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/unicornhorn"
-        }
-      },
-      {
-        "threshold": 1202,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/vikinghat"
-        }
-      },
-      {
-        "threshold": 1203,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/vikinghatbeard"
-        }
-      },
-      {
-        "threshold": 1204,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/winghat"
-        }
-      },
-      {
-        "threshold": 1205,
-        "model": {
-          "type": "model",
-          "model": "lom:item/hats/simplehats/zigzagwitchhat"
-        }
-      }
+      { "threshold": 1, "model": { "type": "model", "model": "lom:item/hats/beard" } },
+      { "threshold": 2, "model": { "type": "model", "model": "lom:item/hats/dwarven_beard" } },
+      { "threshold": 3, "model": { "type": "model", "model": "lom:item/hats/roamin_helmet" } },
+      { "threshold": 4, "model": { "type": "model", "model": "lom:item/hats/knight_helm" } },
+      { "threshold": 5, "model": { "type": "model", "model": "lom:item/hats/wizard_hat" } },
+      { "threshold": 6, "model": { "type": "model", "model": "lom:item/hats/imperfect_crown" } },
+      { "threshold": 7, "model": { "type": "model", "model": "lom:item/hats/tiara" } },
+      { "threshold": 8, "model": { "type": "model", "model": "lom:item/hats/shell_wall" } },
+      { "threshold": 9, "model": { "type": "model", "model": "lom:item/hats/fallen_valk" } },
+      { "threshold": 10, "model": { "type": "model", "model": "lom:item/hats/pharaoh" } },
+      { "threshold": 11, "model": { "type": "model", "model": "lom:item/hats/the_buccaneer" } },
+      { "threshold": 12, "model": { "type": "model", "model": "lom:item/hats/shaman_mask" } },
+      { "threshold": 13, "model": { "type": "model", "model": "lom:item/hats/the_wolf_hunter" } },
+      { "threshold": 14, "model": { "type": "model", "model": "lom:item/hats/dragons_breath" } },
+      { "threshold": 15, "model": { "type": "model", "model": "lom:item/hats/bull_horn" } },
+      { "threshold": 16, "model": { "type": "model", "model": "lom:item/hats/wowzers" } },
+      { "threshold": 17, "model": { "type": "model", "model": "lom:item/hats/tophat" } },
+      { "threshold": 18, "model": { "type": "model", "model": "lom:item/hats/gnomish_goggles" } },
+      { "threshold": 19, "model": { "type": "model", "model": "lom:item/hats/dragon_warrior" } },
+      { "threshold": 20, "model": { "type": "model", "model": "lom:item/hats/nismas_hat" } },
+      { "threshold": 21, "model": { "type": "model", "model": "lom:item/hats/chameleon" } },
+      { "threshold": 22, "model": { "type": "model", "model": "lom:item/hats/rainbow_kitty" } },
+      { "threshold": 23, "model": { "type": "model", "model": "lom:item/hats/mama" } },
+      { "threshold": 24, "model": { "type": "model", "model": "lom:item/hats/mama2" } },
+      { "threshold": 25, "model": { "type": "model", "model": "lom:item/hats/mama3" } },
+      { "threshold": 26, "model": { "type": "model", "model": "lom:item/hats/mama4" } },
+      { "threshold": 27, "model": { "type": "model", "model": "lom:item/hats/mama5" } },
+      { "threshold": 28, "model": { "type": "model", "model": "lom:item/hats/jimmy_the_rat" } },
+      { "threshold": 29, "model": { "type": "model", "model": "lom:item/hats/headbox" } },
+      { "threshold": 30, "model": { "type": "model", "model": "lom:item/hats/knight_hat_red" } },
+      { "threshold": 31, "model": { "type": "model", "model": "lom:item/hats/knight_hat_green" } },
+      { "threshold": 32, "model": { "type": "model", "model": "lom:item/hats/jimmy_the_rat045" } },
+      { "threshold": 33, "model": { "type": "model", "model": "lom:item/hats/jimmy_the_rat090" } },
+      { "threshold": 34, "model": { "type": "model", "model": "lom:item/hats/jimmy_the_rat135" } },
+      { "threshold": 35, "model": { "type": "model", "model": "lom:item/hats/jimmy_the_rat180" } },
+      { "threshold": 36, "model": { "type": "model", "model": "lom:item/hats/jimmy_the_rat225" } },
+      { "threshold": 37, "model": { "type": "model", "model": "lom:item/hats/jimmy_the_rat270" } },
+      { "threshold": 38, "model": { "type": "model", "model": "lom:item/hats/jimmy_the_rat315" } },
+      { "threshold": 39, "model": { "type": "model", "model": "lom:item/hats/beards/beard1-black" } },
+      { "threshold": 40, "model": { "type": "model", "model": "lom:item/hats/beards/beard1-brown" } },
+      { "threshold": 41, "model": { "type": "model", "model": "lom:item/hats/beards/beard1-gray" } },
+      { "threshold": 42, "model": { "type": "model", "model": "lom:item/hats/beards/beard1-red" } },
+      { "threshold": 43, "model": { "type": "model", "model": "lom:item/hats/beards/beard2-black" } },
+      { "threshold": 44, "model": { "type": "model", "model": "lom:item/hats/beards/beard2-brown" } },
+      { "threshold": 45, "model": { "type": "model", "model": "lom:item/hats/beards/beard2-gray" } },
+      { "threshold": 46, "model": { "type": "model", "model": "lom:item/hats/beards/beard2-red" } },
+      { "threshold": 47, "model": { "type": "model", "model": "lom:item/hats/fine_moustache" } },
+      { "threshold": 48, "model": { "type": "model", "model": "lom:item/hats/very_fine_moustache" } },
+      { "threshold": 49, "model": { "type": "model", "model": "lom:item/hats/mohawk" } },
+      { "threshold": 50, "model": { "type": "model", "model": "lom:item/hats/powdered_wig" } },
+      { "threshold": 51, "model": { "type": "model", "model": "lom:item/hats/pompadour" } },
+      { "threshold": 52, "model": { "type": "model", "model": "lom:item/hats/afro" } },
+      { "threshold": 53, "model": { "type": "model", "model": "lom:item/hats/cowboy" } },
+      { "threshold": 54, "model": { "type": "model", "model": "lom:item/hats/manbun" } },
+      { "threshold": 55, "model": { "type": "model", "model": "lom:item/hats/knight_helmet" } },
+      { "threshold": 56, "model": { "type": "model", "model": "lom:item/hats/captain_helmet" } },
+      { "threshold": 57, "model": { "type": "model", "model": "lom:item/hats/waluigi" } },
+      { "threshold": 58, "model": { "type": "model", "model": "lom:item/hats/waluigi_small" } },
+      { "threshold": 59, "model": { "type": "model", "model": "lom:item/hats/tricorn" } },
+      { "threshold": 60, "model": { "type": "model", "model": "lom:item/hats/swammy-hat" } },
+      { "threshold": 61, "model": { "type": "model", "model": "lom:item/hats/lolly" } },
+      { "threshold": 62, "model": { "type": "model", "model": "lom:item/hats/musketeer" } },
+      { "threshold": 63, "model": { "type": "model", "model": "lom:item/hats/present" } },
+      { "threshold": 64, "model": { "type": "model", "model": "lom:item/hats/regalhat" } },
+      { "threshold": 65, "model": { "type": "model", "model": "lom:item/hats/xantenex-hat" } },
+      { "threshold": 66, "model": { "type": "model", "model": "lom:item/hats/santa_hat_lq" } },
+      { "threshold": 67, "model": { "type": "model", "model": "lom:item/hats/christmashat" } },
+      { "threshold": 68, "model": { "type": "model", "model": "lom:item/hats/mama6" } },
+      { "threshold": 69, "model": { "type": "model", "model": "lom:item/hats/mama7" } },
+      { "threshold": 70, "model": { "type": "model", "model": "lom:item/hats/grandpajimmy" } },
+      { "threshold": 71, "model": { "type": "model", "model": "lom:item/hats/devil_horns" } },
+      { "threshold": 72, "model": { "type": "model", "model": "lom:item/hats/ram_horns" } },
+      { "threshold": 73, "model": { "type": "model", "model": "lom:item/hats/horns_prp1" } },
+      { "threshold": 74, "model": { "type": "model", "model": "lom:item/hats/ribbon_black" } },
+      { "threshold": 75, "model": { "type": "model", "model": "lom:item/hats/devil_horns3" } },
+      { "threshold": 76, "model": { "type": "model", "model": "lom:item/hats/devil_horns_ribbon" } },
+      { "threshold": 77, "model": { "type": "model", "model": "lom:item/hats/devil_horns_halo" } },
+      { "threshold": 78, "model": { "type": "model", "model": "lom:item/hats/aviators" } },
+      { "threshold": 79, "model": { "type": "model", "model": "lom:item/hats/krampus" } },
+      { "threshold": 1001, "model": { "type": "model", "model": "lom:item/hats/somehats/axe_hat" } },
+      { "threshold": 1002, "model": { "type": "model", "model": "lom:item/hats/somehats/beret_red" } },
+      { "threshold": 1003, "model": { "type": "model", "model": "lom:item/hats/somehats/beret_tint" } },
+      { "threshold": 1004, "model": { "type": "model", "model": "lom:item/hats/somehats/cap" } },
+      { "threshold": 1005, "model": { "type": "model", "model": "lom:item/hats/somehats/capitaine_hat" } },
+      { "threshold": 1006, "model": { "type": "model", "model": "lom:item/hats/somehats/cap_tint" } },
+      { "threshold": 1007, "model": { "type": "model", "model": "lom:item/hats/somehats/carrot_hat" } },
+      { "threshold": 1008, "model": { "type": "model", "model": "lom:item/hats/somehats/cart_hat" } },
+      { "threshold": 1009, "model": { "type": "model", "model": "lom:item/hats/somehats/cat_headphone" } },
+      { "threshold": 1010, "model": { "type": "model", "model": "lom:item/hats/somehats/cat_headphone_tint" } },
+      { "threshold": 1011, "model": { "type": "model", "model": "lom:item/hats/somehats/cauldron_hat" } },
+      { "threshold": 1012, "model": { "type": "model", "model": "lom:item/hats/somehats/cauldron_hat_tinted" } },
+      { "threshold": 1013, "model": { "type": "model", "model": "lom:item/hats/somehats/choclate_easter_egg" } },
+      { "threshold": 1014, "model": { "type": "model", "model": "lom:item/hats/somehats/choclate_easter_egg_side_rubon" } },
+      { "threshold": 1015, "model": { "type": "model", "model": "lom:item/hats/somehats/deer_horn" } },
+      { "threshold": 1016, "model": { "type": "model", "model": "lom:item/hats/somehats/deer_horn_tinted" } },
+      { "threshold": 1017, "model": { "type": "model", "model": "lom:item/hats/somehats/easter_box" } },
+      { "threshold": 1018, "model": { "type": "model", "model": "lom:item/hats/somehats/easter_box_tinted" } },
+      { "threshold": 1019, "model": { "type": "model", "model": "lom:item/hats/somehats/farmer_hat" } },
+      { "threshold": 1020, "model": { "type": "model", "model": "lom:item/hats/somehats/farmer_hat_tint" } },
+      { "threshold": 1021, "model": { "type": "model", "model": "lom:item/hats/somehats/flower_hat" } },
+      { "threshold": 1022, "model": { "type": "model", "model": "lom:item/hats/somehats/ghost_hat" } },
+      { "threshold": 1023, "model": { "type": "model", "model": "lom:item/hats/somehats/ghost_hat_tinted" } },
+      { "threshold": 1024, "model": { "type": "model", "model": "lom:item/hats/somehats/gift_hat" } },
+      { "threshold": 1025, "model": { "type": "model", "model": "lom:item/hats/somehats/gift_hat_tint" } },
+      { "threshold": 1026, "model": { "type": "model", "model": "lom:item/hats/somehats/golden_easter_egg" } },
+      { "threshold": 1027, "model": { "type": "model", "model": "lom:item/hats/somehats/golden_easter_egg_side_rubon" } },
+      { "threshold": 1028, "model": { "type": "model", "model": "lom:item/hats/somehats/lawyer_hat" } },
+      { "threshold": 1029, "model": { "type": "model", "model": "lom:item/hats/somehats/lawyer_hat_tint" } },
+      { "threshold": 1030, "model": { "type": "model", "model": "lom:item/hats/somehats/mushroom_hat" } },
+      { "threshold": 1031, "model": { "type": "model", "model": "lom:item/hats/somehats/panda_hat" } },
+      { "threshold": 1032, "model": { "type": "model", "model": "lom:item/hats/somehats/pirate_hat" } },
+      { "threshold": 1033, "model": { "type": "model", "model": "lom:item/hats/somehats/pirate_hat_tint" } },
+      { "threshold": 1034, "model": { "type": "model", "model": "lom:item/hats/somehats/pumpkin_hat" } },
+      { "threshold": 1035, "model": { "type": "model", "model": "lom:item/hats/somehats/rabbit_hat_tint" } },
+      { "threshold": 1036, "model": { "type": "model", "model": "lom:item/hats/somehats/rabbit_headphone" } },
+      { "threshold": 1037, "model": { "type": "model", "model": "lom:item/hats/somehats/rabbit_headphone_tint" } },
+      { "threshold": 1038, "model": { "type": "model", "model": "lom:item/hats/somehats/rgb_headphone" } },
+      { "threshold": 1039, "model": { "type": "model", "model": "lom:item/hats/somehats/rgb_headphone_tint" } },
+      { "threshold": 1040, "model": { "type": "model", "model": "lom:item/hats/somehats/ruban_hat_red" } },
+      { "threshold": 1041, "model": { "type": "model", "model": "lom:item/hats/somehats/ruban_hat_rgb" } },
+      { "threshold": 1042, "model": { "type": "model", "model": "lom:item/hats/somehats/ruban_hat_tint" } },
+      { "threshold": 1043, "model": { "type": "model", "model": "lom:item/hats/somehats/sailor_hat" } },
+      { "threshold": 1044, "model": { "type": "model", "model": "lom:item/hats/somehats/sailor_hat_tinted" } },
+      { "threshold": 1045, "model": { "type": "model", "model": "lom:item/hats/somehats/santa_elf_hat" } },
+      { "threshold": 1046, "model": { "type": "model", "model": "lom:item/hats/somehats/santa_elf_hat_tint" } },
+      { "threshold": 1047, "model": { "type": "model", "model": "lom:item/hats/somehats/santa_hat" } },
+      { "threshold": 1048, "model": { "type": "model", "model": "lom:item/hats/somehats/top_hat" } },
+      { "threshold": 1049, "model": { "type": "model", "model": "lom:item/hats/somehats/witch_hat" } },
+      { "threshold": 1050, "model": { "type": "model", "model": "lom:item/hats/somehats/witch_hat_tinted" } },
+      { "threshold": 1051, "model": { "type": "model", "model": "lom:item/hats/somehats/wool_cap_hat" } },
+      { "threshold": 1052, "model": { "type": "model", "model": "lom:item/hats/somehats/wool_cap_hat_tint" } },
+      { "threshold": 1053, "model": { "type": "model", "model": "lom:item/hats/simplehats/aegishat" } },
+      { "threshold": 1054, "model": { "type": "model", "model": "lom:item/hats/simplehats/amalgalichhat" } },
+      { "threshold": 1055, "model": { "type": "model", "model": "lom:item/hats/simplehats/angrymask" } },
+      { "threshold": 1056, "model": { "type": "model", "model": "lom:item/hats/simplehats/antlers" } },
+      { "threshold": 1057, "model": { "type": "model", "model": "lom:item/hats/simplehats/apple" } },
+      { "threshold": 1058, "model": { "type": "model", "model": "lom:item/hats/simplehats/artsy" } },
+      { "threshold": 1059, "model": { "type": "model", "model": "lom:item/hats/simplehats/babydolphin" } },
+      { "threshold": 1060, "model": { "type": "model", "model": "lom:item/hats/simplehats/babyturtle" } },
+      { "threshold": 1061, "model": { "type": "model", "model": "lom:item/hats/simplehats/bandana" } },
+      { "threshold": 1062, "model": { "type": "model", "model": "lom:item/hats/simplehats/baseballeaster" } },
+      { "threshold": 1063, "model": { "type": "model", "model": "lom:item/hats/simplehats/baseballhat" } },
+      { "threshold": 1064, "model": { "type": "model", "model": "lom:item/hats/simplehats/baseballhatfestive" } },
+      { "threshold": 1065, "model": { "type": "model", "model": "lom:item/hats/simplehats/batwinghat" } },
+      { "threshold": 1066, "model": { "type": "model", "model": "lom:item/hats/simplehats/beanie" } },
+      { "threshold": 1067, "model": { "type": "model", "model": "lom:item/hats/simplehats/beanieeaster" } },
+      { "threshold": 1068, "model": { "type": "model", "model": "lom:item/hats/simplehats/beaniespooky" } },
+      { "threshold": 1069, "model": { "type": "model", "model": "lom:item/hats/simplehats/beehat" } },
+      { "threshold": 1070, "model": { "type": "model", "model": "lom:item/hats/simplehats/beret_ribbon" } },
+      { "threshold": 1071, "model": { "type": "model", "model": "lom:item/hats/simplehats/bicorne" } },
+      { "threshold": 1072, "model": { "type": "model", "model": "lom:item/hats/simplehats/bigbrain" } },
+      { "threshold": 1073, "model": { "type": "model", "model": "lom:item/hats/simplehats/bigcrown" } },
+      { "threshold": 1074, "model": { "type": "model", "model": "lom:item/hats/simplehats/bigeyes" } },
+      { "threshold": 1075, "model": { "type": "model", "model": "lom:item/hats/simplehats/bigribbon" } },
+      { "threshold": 1076, "model": { "type": "model", "model": "lom:item/hats/simplehats/bluefireeye" } },
+      { "threshold": 1077, "model": { "type": "model", "model": "lom:item/hats/simplehats/bowler" } },
+      { "threshold": 1078, "model": { "type": "model", "model": "lom:item/hats/simplehats/breadhat" } },
+      { "threshold": 1079, "model": { "type": "model", "model": "lom:item/hats/simplehats/brownbrick" } },
+      { "threshold": 1080, "model": { "type": "model", "model": "lom:item/hats/simplehats/bucket" } },
+      { "threshold": 1081, "model": { "type": "model", "model": "lom:item/hats/simplehats/bunnyhat" } },
+      { "threshold": 1082, "model": { "type": "model", "model": "lom:item/hats/simplehats/burning_m_bison" } },
+      { "threshold": 1083, "model": { "type": "model", "model": "lom:item/hats/simplehats/caddycap" } },
+      { "threshold": 1084, "model": { "type": "model", "model": "lom:item/hats/simplehats/camera" } },
+      { "threshold": 1085, "model": { "type": "model", "model": "lom:item/hats/simplehats/candleonhead" } },
+      { "threshold": 1086, "model": { "type": "model", "model": "lom:item/hats/simplehats/candycane" } },
+      { "threshold": 1087, "model": { "type": "model", "model": "lom:item/hats/simplehats/capbackwards" } },
+      { "threshold": 1088, "model": { "type": "model", "model": "lom:item/hats/simplehats/carrotonstick" } },
+      { "threshold": 1089, "model": { "type": "model", "model": "lom:item/hats/simplehats/cartoonegg" } },
+      { "threshold": 1090, "model": { "type": "model", "model": "lom:item/hats/simplehats/chalk_stick" } },
+      { "threshold": 1091, "model": { "type": "model", "model": "lom:item/hats/simplehats/chefshat" } },
+      { "threshold": 1092, "model": { "type": "model", "model": "lom:item/hats/simplehats/chickenhead" } },
+      { "threshold": 1093, "model": { "type": "model", "model": "lom:item/hats/simplehats/chickenonhead" } },
+      { "threshold": 1094, "model": { "type": "model", "model": "lom:item/hats/simplehats/chi_ears" } },
+      { "threshold": 1095, "model": { "type": "model", "model": "lom:item/hats/simplehats/christmascakehat" } },
+      { "threshold": 1096, "model": { "type": "model", "model": "lom:item/hats/simplehats/christmastree" } },
+      { "threshold": 1097, "model": { "type": "model", "model": "lom:item/hats/simplehats/clockface" } },
+      { "threshold": 1098, "model": { "type": "model", "model": "lom:item/hats/simplehats/cowboy" } },
+      { "threshold": 1099, "model": { "type": "model", "model": "lom:item/hats/simplehats/crabonhead" } },
+      { "threshold": 1100, "model": { "type": "model", "model": "lom:item/hats/simplehats/crown" } },
+      { "threshold": 1101, "model": { "type": "model", "model": "lom:item/hats/simplehats/cucumbereyemask" } },
+      { "threshold": 1102, "model": { "type": "model", "model": "lom:item/hats/simplehats/cyclopseye" } },
+      { "threshold": 1103, "model": { "type": "model", "model": "lom:item/hats/simplehats/dangereqsue" } },
+      { "threshold": 1104, "model": { "type": "model", "model": "lom:item/hats/simplehats/demoneyes" } },
+      { "threshold": 1105, "model": { "type": "model", "model": "lom:item/hats/simplehats/demonhorns" } },
+      { "threshold": 1106, "model": { "type": "model", "model": "lom:item/hats/simplehats/dimmahat" } },
+      { "threshold": 1107, "model": { "type": "model", "model": "lom:item/hats/simplehats/disguise" } },
+      { "threshold": 1108, "model": { "type": "model", "model": "lom:item/hats/simplehats/doctorhat" } },
+      { "threshold": 1109, "model": { "type": "model", "model": "lom:item/hats/simplehats/doubletake" } },
+      { "threshold": 1110, "model": { "type": "model", "model": "lom:item/hats/simplehats/dragonhead" } },
+      { "threshold": 1111, "model": { "type": "model", "model": "lom:item/hats/simplehats/dragonskull" } },
+      { "threshold": 1112, "model": { "type": "model", "model": "lom:item/hats/simplehats/dragonskullender" } },
+      { "threshold": 1113, "model": { "type": "model", "model": "lom:item/hats/simplehats/drinkinhat" } },
+      { "threshold": 1114, "model": { "type": "model", "model": "lom:item/hats/simplehats/dumhat" } },
+      { "threshold": 1115, "model": { "type": "model", "model": "lom:item/hats/simplehats/dwarfbeard" } },
+      { "threshold": 1116, "model": { "type": "model", "model": "lom:item/hats/simplehats/dwarfminerbeard" } },
+      { "threshold": 1117, "model": { "type": "model", "model": "lom:item/hats/simplehats/eyepatch" } },
+      { "threshold": 1118, "model": { "type": "model", "model": "lom:item/hats/simplehats/farmerbrim" } },
+      { "threshold": 1119, "model": { "type": "model", "model": "lom:item/hats/simplehats/festiveantlers" } },
+      { "threshold": 1120, "model": { "type": "model", "model": "lom:item/hats/simplehats/fireworks" } },
+      { "threshold": 1121, "model": { "type": "model", "model": "lom:item/hats/simplehats/fishing_hat" } },
+      { "threshold": 1122, "model": { "type": "model", "model": "lom:item/hats/simplehats/fishonhead" } },
+      { "threshold": 1123, "model": { "type": "model", "model": "lom:item/hats/simplehats/flies" } },
+      { "threshold": 1124, "model": { "type": "model", "model": "lom:item/hats/simplehats/floatinghearts" } },
+      { "threshold": 1125, "model": { "type": "model", "model": "lom:item/hats/simplehats/flowercrown" } },
+      { "threshold": 1126, "model": { "type": "model", "model": "lom:item/hats/simplehats/floweronhead" } },
+      { "threshold": 1127, "model": { "type": "model", "model": "lom:item/hats/simplehats/foxhat" } },
+      { "threshold": 1128, "model": { "type": "model", "model": "lom:item/hats/simplehats/fro" } },
+      { "threshold": 1129, "model": { "type": "model", "model": "lom:item/hats/simplehats/fronthorns" } },
+      { "threshold": 1130, "model": { "type": "model", "model": "lom:item/hats/simplehats/fulldiamondhelm" } },
+      { "threshold": 1131, "model": { "type": "model", "model": "lom:item/hats/simplehats/fullgoldhelm" } },
+      { "threshold": 1132, "model": { "type": "model", "model": "lom:item/hats/simplehats/fullironhelm" } },
+      { "threshold": 1133, "model": { "type": "model", "model": "lom:item/hats/simplehats/ghostmask" } },
+      { "threshold": 1134, "model": { "type": "model", "model": "lom:item/hats/simplehats/goggles" } },
+      { "threshold": 1135, "model": { "type": "model", "model": "lom:item/hats/simplehats/greenbirb" } },
+      { "threshold": 1136, "model": { "type": "model", "model": "lom:item/hats/simplehats/greyfoxhat" } },
+      { "threshold": 1137, "model": { "type": "model", "model": "lom:item/hats/simplehats/grinchhat" } },
+      { "threshold": 1138, "model": { "type": "model", "model": "lom:item/hats/simplehats/halo" } },
+      { "threshold": 1139, "model": { "type": "model", "model": "lom:item/hats/simplehats/hockeymask" } },
+      { "threshold": 1140, "model": { "type": "model", "model": "lom:item/hats/simplehats/horsemask" } },
+      { "threshold": 1141, "model": { "type": "model", "model": "lom:item/hats/simplehats/icedragonskull" } },
+      { "threshold": 1142, "model": { "type": "model", "model": "lom:item/hats/simplehats/jackohat" } },
+      { "threshold": 1143, "model": { "type": "model", "model": "lom:item/hats/simplehats/jesterhat" } },
+      { "threshold": 1144, "model": { "type": "model", "model": "lom:item/hats/simplehats/largehorns" } },
+      { "threshold": 1145, "model": { "type": "model", "model": "lom:item/hats/simplehats/lilbow" } },
+      { "threshold": 1146, "model": { "type": "model", "model": "lom:item/hats/simplehats/longfoxears" } },
+      { "threshold": 1147, "model": { "type": "model", "model": "lom:item/hats/simplehats/magikarp" } },
+      { "threshold": 1148, "model": { "type": "model", "model": "lom:item/hats/simplehats/minerhat" } },
+      { "threshold": 1149, "model": { "type": "model", "model": "lom:item/hats/simplehats/monkeyking" } },
+      { "threshold": 1150, "model": { "type": "model", "model": "lom:item/hats/simplehats/monocle" } },
+      { "threshold": 1151, "model": { "type": "model", "model": "lom:item/hats/simplehats/moreeyes" } },
+      { "threshold": 1152, "model": { "type": "model", "model": "lom:item/hats/simplehats/murdered" } },
+      { "threshold": 1153, "model": { "type": "model", "model": "lom:item/hats/simplehats/nekoears" } },
+      { "threshold": 1154, "model": { "type": "model", "model": "lom:item/hats/simplehats/nyan_doll" } },
+      { "threshold": 1155, "model": { "type": "model", "model": "lom:item/hats/simplehats/orange_hat" } },
+      { "threshold": 1156, "model": { "type": "model", "model": "lom:item/hats/simplehats/paperbag" } },
+      { "threshold": 1157, "model": { "type": "model", "model": "lom:item/hats/simplehats/partyhat" } },
+      { "threshold": 1158, "model": { "type": "model", "model": "lom:item/hats/simplehats/penguinbaby" } },
+      { "threshold": 1159, "model": { "type": "model", "model": "lom:item/hats/simplehats/pinhead" } },
+      { "threshold": 1160, "model": { "type": "model", "model": "lom:item/hats/simplehats/potionhead" } },
+      { "threshold": 1161, "model": { "type": "model", "model": "lom:item/hats/simplehats/presentsstack" } },
+      { "threshold": 1162, "model": { "type": "model", "model": "lom:item/hats/simplehats/questbook" } },
+      { "threshold": 1163, "model": { "type": "model", "model": "lom:item/hats/simplehats/rabbitears" } },
+      { "threshold": 1164, "model": { "type": "model", "model": "lom:item/hats/simplehats/rabbitonhead" } },
+      { "threshold": 1165, "model": { "type": "model", "model": "lom:item/hats/simplehats/rabi_en_rose" } },
+      { "threshold": 1166, "model": { "type": "model", "model": "lom:item/hats/simplehats/raincloud" } },
+      { "threshold": 1167, "model": { "type": "model", "model": "lom:item/hats/simplehats/rednose" } },
+      { "threshold": 1168, "model": { "type": "model", "model": "lom:item/hats/simplehats/redshroomcap" } },
+      { "threshold": 1169, "model": { "type": "model", "model": "lom:item/hats/simplehats/rimglasses" } },
+      { "threshold": 1170, "model": { "type": "model", "model": "lom:item/hats/simplehats/sandcastle" } },
+      { "threshold": 1171, "model": { "type": "model", "model": "lom:item/hats/simplehats/santaclaus" } },
+      { "threshold": 1172, "model": { "type": "model", "model": "lom:item/hats/simplehats/santahat" } },
+      { "threshold": 1173, "model": { "type": "model", "model": "lom:item/hats/simplehats/sausage" } },
+      { "threshold": 1174, "model": { "type": "model", "model": "lom:item/hats/simplehats/scouter" } },
+      { "threshold": 1175, "model": { "type": "model", "model": "lom:item/hats/simplehats/shinymagikarp" } },
+      { "threshold": 1176, "model": { "type": "model", "model": "lom:item/hats/simplehats/sidebow" } },
+      { "threshold": 1177, "model": { "type": "model", "model": "lom:item/hats/simplehats/snowmanbaby" } },
+      { "threshold": 1178, "model": { "type": "model", "model": "lom:item/hats/simplehats/sonichood" } },
+      { "threshold": 1179, "model": { "type": "model", "model": "lom:item/hats/simplehats/spadesoldier" } },
+      { "threshold": 1180, "model": { "type": "model", "model": "lom:item/hats/simplehats/special" } },
+      { "threshold": 1181, "model": { "type": "model", "model": "lom:item/hats/simplehats/sport_sunglasses" } },
+      { "threshold": 1182, "model": { "type": "model", "model": "lom:item/hats/simplehats/sprout" } },
+      { "threshold": 1183, "model": { "type": "model", "model": "lom:item/hats/simplehats/spyzombie" } },
+      { "threshold": 1184, "model": { "type": "model", "model": "lom:item/hats/simplehats/strawberry_hat" } },
+      { "threshold": 1185, "model": { "type": "model", "model": "lom:item/hats/simplehats/stress" } },
+      { "threshold": 1186, "model": { "type": "model", "model": "lom:item/hats/simplehats/summerhat" } },
+      { "threshold": 1187, "model": { "type": "model", "model": "lom:item/hats/simplehats/sunglasses" } },
+      { "threshold": 1188, "model": { "type": "model", "model": "lom:item/hats/simplehats/sunglassesbig" } },
+      { "threshold": 1189, "model": { "type": "model", "model": "lom:item/hats/simplehats/supersandhat" } },
+      { "threshold": 1190, "model": { "type": "model", "model": "lom:item/hats/simplehats/teddy_bear" } },
+      { "threshold": 1191, "model": { "type": "model", "model": "lom:item/hats/simplehats/teddy_bear_bee" } },
+      { "threshold": 1192, "model": { "type": "model", "model": "lom:item/hats/simplehats/teddy_bear_panda" } },
+      { "threshold": 1193, "model": { "type": "model", "model": "lom:item/hats/simplehats/teddy_bear_rembo" } },
+      { "threshold": 1194, "model": { "type": "model", "model": "lom:item/hats/simplehats/the_noise" } },
+      { "threshold": 1195, "model": { "type": "model", "model": "lom:item/hats/simplehats/tinkerhat" } },
+      { "threshold": 1196, "model": { "type": "model", "model": "lom:item/hats/simplehats/triangleshades" } },
+      { "threshold": 1197, "model": { "type": "model", "model": "lom:item/hats/simplehats/tricorne" } },
+      { "threshold": 1198, "model": { "type": "model", "model": "lom:item/hats/simplehats/tvhead" } },
+      { "threshold": 1199, "model": { "type": "model", "model": "lom:item/hats/simplehats/tvheadrat" } },
+      { "threshold": 1200, "model": { "type": "model", "model": "lom:item/hats/simplehats/tvheadstatic" } },
+      { "threshold": 1201, "model": { "type": "model", "model": "lom:item/hats/simplehats/unicornhorn" } },
+      { "threshold": 1202, "model": { "type": "model", "model": "lom:item/hats/simplehats/vikinghat" } },
+      { "threshold": 1203, "model": { "type": "model", "model": "lom:item/hats/simplehats/vikinghatbeard" } },
+      { "threshold": 1204, "model": { "type": "model", "model": "lom:item/hats/simplehats/winghat" } },
+      { "threshold": 1205, "model": { "type": "model", "model": "lom:item/hats/simplehats/zigzagwitchhat" } }
     ]
   }
 }

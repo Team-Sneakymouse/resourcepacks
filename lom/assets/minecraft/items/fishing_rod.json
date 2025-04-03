@@ -3,148 +3,100 @@
     "type": "range_dispatch",
     "property": "custom_model_data",
     "fallback": {
-      "type": "model",
-      "model": "minecraft:item/fishing_rod"
+      "type": "minecraft:condition",
+      "property": "minecraft:fishing_rod/cast",
+      "on_true": { "type": "minecraft:model", "model": "minecraft:item/fishing_rod_cast" },
+      "on_false": { "type": "minecraft:model",  "model": "minecraft:item/fishing_rod" }
     },
     "entries": [
       {
         "threshold": 33,
         "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_old"
-        }
-      },
-      {
-        "threshold": 33,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_handle_white"
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_true": { "type": "minecraft:model", "model": "lom:item/tools/kites/kite_handle_white" },
+          "on_false": { "type": "minecraft:model",  "model": "lom:item/tools/kites/kite_old" }
         }
       },
       {
         "threshold": 37,
         "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_black"
-        }
-      },
-      {
-        "threshold": 37,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_handle_white"
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_true": { "type": "minecraft:model", "model": "lom:item/tools/kites/kite_handle_white" },
+          "on_false": { "type": "minecraft:model",  "model": "lom:item/tools/kites/kite_black" }
         }
       },
       {
         "threshold": 38,
         "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_blue"
-        }
-      },
-      {
-        "threshold": 38,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_handle_white"
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_true": { "type": "minecraft:model", "model": "lom:item/tools/kites/kite_handle_white" },
+          "on_false": { "type": "minecraft:model",  "model": "lom:item/tools/kites/kite_blue" }
         }
       },
       {
         "threshold": 39,
         "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_gold"
-        }
-      },
-      {
-        "threshold": 39,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_handle_white"
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_true": { "type": "minecraft:model", "model": "lom:item/tools/kites/kite_handle_white" },
+          "on_false": { "type": "minecraft:model",  "model": "lom:item/tools/kites/kite_gold" }
         }
       },
       {
         "threshold": 40,
         "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_green"
-        }
-      },
-      {
-        "threshold": 40,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_handle_white"
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_true": { "type": "minecraft:model", "model": "lom:item/tools/kites/kite_handle_white" },
+          "on_false": { "type": "minecraft:model",  "model": "lom:item/tools/kites/kite_green" }
         }
       },
       {
         "threshold": 41,
         "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_pink"
-        }
-      },
-      {
-        "threshold": 41,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_handle_white"
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_true": { "type": "minecraft:model", "model": "lom:item/tools/kites/kite_handle_white" },
+          "on_false": { "type": "minecraft:model",  "model": "lom:item/tools/kites/kite_pink" }
         }
       },
       {
         "threshold": 42,
         "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_redankh"
-        }
-      },
-      {
-        "threshold": 42,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_handle_white"
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_true": { "type": "minecraft:model", "model": "lom:item/tools/kites/kite_handle_white" },
+          "on_false": { "type": "minecraft:model",  "model": "lom:item/tools/kites/kite_redankh" }
         }
       },
       {
         "threshold": 43,
         "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_redtree"
-        }
-      },
-      {
-        "threshold": 43,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_handle_white"
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_true": { "type": "minecraft:model", "model": "lom:item/tools/kites/kite_handle_white" },
+          "on_false": { "type": "minecraft:model",  "model": "lom:item/tools/kites/kite_redtree" }
         }
       },
       {
         "threshold": 44,
         "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_whiteankh"
-        }
-      },
-      {
-        "threshold": 44,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_handle_white"
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_true": { "type": "minecraft:model", "model": "lom:item/tools/kites/kite_handle_white" },
+          "on_false": { "type": "minecraft:model",  "model": "lom:item/tools/kites/kite_whiteankh" }
         }
       },
       {
         "threshold": 45,
         "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_whitetree"
-        }
-      },
-      {
-        "threshold": 45,
-        "model": {
-          "type": "model",
-          "model": "lom:item/tools/kites/kite_handle_white"
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_true": { "type": "minecraft:model", "model": "lom:item/tools/kites/kite_handle_white" },
+          "on_false": { "type": "minecraft:model",  "model": "lom:item/tools/kites/kite_whitetree" }
         }
       }
     ]

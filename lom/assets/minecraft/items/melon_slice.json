@@ -2,354 +2,57 @@
   "model": {
     "type": "range_dispatch",
     "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "minecraft:item/melon_slice"
-    },
+    "fallback": { "type": "model", "model": "minecraft:item/melon_slice" },
     "entries": [
-      {
-        "threshold": 1,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/cocktail_1"
-        }
-      },
-      {
-        "threshold": 2,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/cocktail_2"
-        }
-      },
-      {
-        "threshold": 3,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/cocktail_3"
-        }
-      },
-      {
-        "threshold": 4,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink1"
-        }
-      },
-      {
-        "threshold": 5,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink2"
-        }
-      },
-      {
-        "threshold": 6,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink3"
-        }
-      },
-      {
-        "threshold": 7,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink4"
-        }
-      },
-      {
-        "threshold": 8,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink5"
-        }
-      },
-      {
-        "threshold": 9,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink6"
-        }
-      },
-      {
-        "threshold": 10,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink7"
-        }
-      },
-      {
-        "threshold": 11,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink8"
-        }
-      },
-      {
-        "threshold": 12,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink9"
-        }
-      },
-      {
-        "threshold": 13,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink10"
-        }
-      },
-      {
-        "threshold": 14,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink11"
-        }
-      },
-      {
-        "threshold": 15,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink12"
-        }
-      },
-      {
-        "threshold": 16,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink13"
-        }
-      },
-      {
-        "threshold": 17,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink14"
-        }
-      },
-      {
-        "threshold": 18,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink15"
-        }
-      },
-      {
-        "threshold": 19,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink16"
-        }
-      },
-      {
-        "threshold": 20,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink17"
-        }
-      },
-      {
-        "threshold": 21,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink18"
-        }
-      },
-      {
-        "threshold": 22,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink19"
-        }
-      },
-      {
-        "threshold": 23,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink20"
-        }
-      },
-      {
-        "threshold": 24,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink21"
-        }
-      },
-      {
-        "threshold": 25,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink22"
-        }
-      },
-      {
-        "threshold": 26,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink23"
-        }
-      },
-      {
-        "threshold": 27,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink24"
-        }
-      },
-      {
-        "threshold": 28,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink25"
-        }
-      },
-      {
-        "threshold": 29,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink26"
-        }
-      },
-      {
-        "threshold": 30,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink27"
-        }
-      },
-      {
-        "threshold": 31,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink28"
-        }
-      },
-      {
-        "threshold": 32,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink29"
-        }
-      },
-      {
-        "threshold": 33,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink30"
-        }
-      },
-      {
-        "threshold": 34,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink31"
-        }
-      },
-      {
-        "threshold": 35,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink32"
-        }
-      },
-      {
-        "threshold": 36,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink33"
-        }
-      },
-      {
-        "threshold": 37,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink34"
-        }
-      },
-      {
-        "threshold": 38,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink35"
-        }
-      },
-      {
-        "threshold": 39,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink36"
-        }
-      },
-      {
-        "threshold": 40,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink37"
-        }
-      },
-      {
-        "threshold": 41,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink38"
-        }
-      },
-      {
-        "threshold": 42,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink39"
-        }
-      },
-      {
-        "threshold": 43,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink40"
-        }
-      },
-      {
-        "threshold": 44,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink41"
-        }
-      },
-      {
-        "threshold": 45,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink42"
-        }
-      },
-      {
-        "threshold": 46,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink43"
-        }
-      },
-      {
-        "threshold": 47,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink44"
-        }
-      },
-      {
-        "threshold": 48,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/drink45"
-        }
-      },
-      {
-        "threshold": 49,
-        "model": {
-          "type": "model",
-          "model": "lom:item/items/prototype-drinks/pirate1"
-        }
-      }
+      { "threshold": 1, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/cocktail_1" } },
+      { "threshold": 2, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/cocktail_2" } },
+      { "threshold": 3, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/cocktail_3" } },
+      { "threshold": 4, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink1" } },
+      { "threshold": 5, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink2" } },
+      { "threshold": 6, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink3" } },
+      { "threshold": 7, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink4" } },
+      { "threshold": 8, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink5" } },
+      { "threshold": 9, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink6" } },
+      { "threshold": 10, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink7" } },
+      { "threshold": 11, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink8" } },
+      { "threshold": 12, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink9" } },
+      { "threshold": 13, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink10" } },
+      { "threshold": 14, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink11" } },
+      { "threshold": 15, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink12" } },
+      { "threshold": 16, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink13" } },
+      { "threshold": 17, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink14" } },
+      { "threshold": 18, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink15" } },
+      { "threshold": 19, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink16" } },
+      { "threshold": 20, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink17" } },
+      { "threshold": 21, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink18" } },
+      { "threshold": 22, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink19" } },
+      { "threshold": 23, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink20" } },
+      { "threshold": 24, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink21" } },
+      { "threshold": 25, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink22" } },
+      { "threshold": 26, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink23" } },
+      { "threshold": 27, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink24" } },
+      { "threshold": 28, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink25" } },
+      { "threshold": 29, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink26" } },
+      { "threshold": 30, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink27" } },
+      { "threshold": 31, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink28" } },
+      { "threshold": 32, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink29" } },
+      { "threshold": 33, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink30" } },
+      { "threshold": 34, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink31" } },
+      { "threshold": 35, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink32" } },
+      { "threshold": 36, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink33" } },
+      { "threshold": 37, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink34" } },
+      { "threshold": 38, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink35" } },
+      { "threshold": 39, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink36" } },
+      { "threshold": 40, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink37" } },
+      { "threshold": 41, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink38" } },
+      { "threshold": 42, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink39" } },
+      { "threshold": 43, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink40" } },
+      { "threshold": 44, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink41" } },
+      { "threshold": 45, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink42" } },
+      { "threshold": 46, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink43" } },
+      { "threshold": 47, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink44" } },
+      { "threshold": 48, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/drink45" } },
+      { "threshold": 49, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/pirate1" } }
     ]
   }
 }
