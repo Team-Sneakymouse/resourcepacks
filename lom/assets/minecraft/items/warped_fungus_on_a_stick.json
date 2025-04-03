@@ -31,6 +31,7 @@
       { "threshold": 25, "model": { "type": "model", "model": "lom:item/tools/racingflag" } },
       { "threshold": 26, "model": { "type": "model", "model": "lom:item/tools/horsebrush" } },
       { "threshold": 27, "model": { "type": "model", "model": "lom:item/tools/clipboard" } },
+      { "threshold": 28, "model": { "type": "model", "model": "lom:item/tools/lumberjackaxe" } },
       
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/items/badges/water" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/items/badges/fire" } },
