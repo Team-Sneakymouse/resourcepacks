@@ -41,6 +41,9 @@
 	"axe.timber5": {
 		"sounds": ["lom:axe/axe.timber5"]
 	},
+	"sfx.pickupwood": {
+		"sounds": ["lom:sfx/pickupwood"]
+	},
 	"pickaxe.mine": {
 		"sounds": [
 			"lom:pickaxe/pickaxe.mine1",
