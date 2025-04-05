@@ -13,5 +13,11 @@
 	},
 	"stealth": {
 		"sounds": ["lom:stealth"]
+	},
+	"computer.beep": {
+		"sounds": ["lom:computer.beep"]
+	},
+	"sfx.sawmill": {
+		"sounds": ["lom:sfx.sawmill"]
 	}
   }
