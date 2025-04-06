@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "lom:item/tools/staffs/geode_staff",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "lom:item/tools/staffs/staffs_2",
+		"particle": "lom:item/tools/staffs/staffs_2"
+	}
+}

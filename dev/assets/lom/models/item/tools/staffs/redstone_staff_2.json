@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "lom:item/tools/staffs/redstone_staff",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "lom:item/tools/staffs/staffs_2",
+		"1": "lom:item/tools/staffs/redstone_staff_gears_2",
+		"particle": "lom:item/tools/staffs/staffs_2"
+	}
+}

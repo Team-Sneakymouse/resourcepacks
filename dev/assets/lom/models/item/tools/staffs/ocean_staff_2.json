@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "lom:item/tools/staffs/ocean_staff",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "lom:item/tools/staffs/staffs_2"
+	}
+}
