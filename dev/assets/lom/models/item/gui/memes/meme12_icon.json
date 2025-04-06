@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/gui/meme_icon",
+	"textures": {
+		"0": "lom:item/gui/memes/meme12"
+	}
+}

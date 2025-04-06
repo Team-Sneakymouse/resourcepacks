@@ -2082,7 +2082,21 @@
       { "threshold": 7396, "model": { "type": "model", "model": "lom:item/gui/numbers/yellow-96" } },
       { "threshold": 7397, "model": { "type": "model", "model": "lom:item/gui/numbers/yellow-97" } },
       { "threshold": 7398, "model": { "type": "model", "model": "lom:item/gui/numbers/yellow-98" } },
-      { "threshold": 7399, "model": { "type": "model", "model": "lom:item/gui/numbers/yellow-99" } }
+      { "threshold": 7398, "model": { "type": "model", "model": "lom:item/gui/numbers/yellow-98" } },
+
+      { "threshold": 8001, "model": { "type": "model", "model": "lom:item/gui/memes/meme1_icon" } },
+      { "threshold": 8002, "model": { "type": "model", "model": "lom:item/gui/memes/meme2_icon" } },
+      { "threshold": 8003, "model": { "type": "model", "model": "lom:item/gui/memes/meme3_icon" } },
+      { "threshold": 8004, "model": { "type": "model", "model": "lom:item/gui/memes/meme4_icon" } },
+      { "threshold": 8005, "model": { "type": "model", "model": "lom:item/gui/memes/meme5_icon" } },
+      { "threshold": 8006, "model": { "type": "model", "model": "lom:item/gui/memes/meme6_icon" } },
+      { "threshold": 8006, "model": { "type": "model", "model": "lom:item/gui/memes/meme6_icon" } },
+      { "threshold": 8007, "model": { "type": "model", "model": "lom:item/gui/memes/meme7_icon" } },
+      { "threshold": 8008, "model": { "type": "model", "model": "lom:item/gui/memes/meme8_icon" } },
+      { "threshold": 8010, "model": { "type": "model", "model": "lom:item/gui/memes/meme10_icon" } },
+      { "threshold": 8011, "model": { "type": "model", "model": "lom:item/gui/memes/meme11_icon" } },
+      { "threshold": 8012, "model": { "type": "model", "model": "lom:item/gui/memes/meme12_icon" } },
+      { "threshold": 8013, "model": { "type": "model", "model": "lom:item/gui/memes/meme13_icon" } }
     ]
   }
 }

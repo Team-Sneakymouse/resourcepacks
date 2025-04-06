@@ -1,0 +1,10 @@
+{
+	"parent": "lom:item/gui/meme",
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, 50],
+			"scale": [0.33, 0.33, 0.33]
+		}
+	}
+}
