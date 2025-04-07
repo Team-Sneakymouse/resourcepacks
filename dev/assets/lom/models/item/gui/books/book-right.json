@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "lom:item/gui/books/book",
+	"display": {
+		"gui": {
+			"rotation": [0.0, 180.0, 0.0],
+			"translation": [-0.75, 14.5, 0],
+			"scale": [2.9, 2.8, 2.8]
+		}
+	}
+}

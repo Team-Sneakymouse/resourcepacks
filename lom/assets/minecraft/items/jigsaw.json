@@ -1397,6 +1397,7 @@
       { "threshold": 3055, "model": { "type": "model", "model": "lom:item/gui/powerplant/powerplant_scale3" } },
       { "threshold": 3056, "model": { "type": "model", "model": "lom:item/gui/powerplant/powerplant_scale4" } },
       { "threshold": 3057, "model": { "type": "model", "model": "lom:item/gui/powerplant/powerplant_scale5" } },
+      { "threshold": 3058, "model": { "type": "model", "model": "lom:item/gui/bookshelf_gui" } },
 
       { "threshold": 3101, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius" } },
       { "threshold": 3102, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius1" } },
@@ -1647,6 +1648,10 @@
       { "threshold": 5035, "model": { "type": "model", "model": "lom:item/gui/spellperks/tc" } },
       { "threshold": 5036, "model": { "type": "model", "model": "lom:item/gui/spellperks/tc-l" } },
 
+      { "threshold": 5401, "model": { "type": "model", "model": "lom:item/gui/books/book-left" } },
+      { "threshold": 5402, "model": { "type": "model", "model": "lom:item/gui/books/book-middle" } },
+      { "threshold": 5403, "model": { "type": "model", "model": "lom:item/gui/books/book-right" } },
+      
       { "threshold": 5501, "model": { "type": "model", "model": "lom:item/gui/backpackbattles/bb_single" } },
       { "threshold": 5502, "model": { "type": "model", "model": "lom:item/gui/backpackbattles/bb_line" } },
       { "threshold": 5503, "model": { "type": "model", "model": "lom:item/gui/backpackbattles/bb_plus" } },
