@@ -90,6 +90,9 @@
       { "threshold": 85, "model": { "type": "model", "model": "lom:item/entities/lumber_log_cherry" } },
       { "threshold": 86, "model": { "type": "model", "model": "lom:item/entities/lumber_log_jungle" } },
       { "threshold": 87, "model": { "type": "model", "model": "lom:item/entities/lumber_log_spruce" } },
+      { "threshold": 88, "model": { "type": "model", "model": "lom:item/entities/bellow1" } },
+      { "threshold": 89, "model": { "type": "model", "model": "lom:item/entities/bellow2" } },
+
       { "threshold": 101, "model": { "type": "model", "model": "lom:item/entities/torture_machines/electric_chair" } },
       { "threshold": 102, "model": { "type": "model", "model": "lom:item/entities/torture_machines/punish_bracelets" } },
       { "threshold": 103, "model": { "type": "model", "model": "lom:item/entities/torture_machines/medieval_stocks" } },
@@ -115,6 +118,7 @@
       { "threshold": 123, "model": { "type": "model", "model": "lom:item/entities/scanblue" } },
       { "threshold": 124, "model": { "type": "model", "model": "lom:item/entities/scanblue2" } },
       { "threshold": 125, "model": { "type": "model", "model": "lom:item/entities/scanblue3" } },
+
       { "threshold": 201, "model": { "type": "model", "model": "lom:item/entities/racks/racks_flamethrower" } },
       { "threshold": 202, "model": { "type": "model", "model": "lom:item/entities/racks/racks_wrench" } },
       { "threshold": 203, "model": { "type": "model", "model": "lom:item/entities/racks/racks_hammer" } },
@@ -122,6 +126,7 @@
       { "threshold": 205, "model": { "type": "model", "model": "lom:item/entities/racks/racks_foamer" } },
       { "threshold": 206, "model": { "type": "model", "model": "lom:item/entities/racks/racks_runeblade" } },
       { "threshold": 207, "model": { "type": "model", "model": "lom:item/entities/racks/racks_runeblade2" } },
+
       { "threshold": 301, "model": { "type": "model", "model": "lom:item/entities/willyswheels/fire_engine" } },
       { "threshold": 302, "model": { "type": "model", "model": "lom:item/entities/willyswheels/alfa_romeo_spider" } },
       { "threshold": 303, "model": { "type": "model", "model": "lom:item/entities/willyswheels/honda_s2000_suki" } },
@@ -130,6 +135,7 @@
       { "threshold": 306, "model": { "type": "model", "model": "lom:item/entities/willyswheels/lamborghini" } },
       { "threshold": 307, "model": { "type": "model", "model": "lom:item/entities/willyswheels/forklift" } },
       { "threshold": 308, "model": { "type": "model", "model": "lom:item/entities/willyswheels/pizza_boy" } },
+
       { "threshold": 400, "model": { "type": "model", "model": "lom:item/entities/digits/0" } },
       { "threshold": 401, "model": { "type": "model", "model": "lom:item/entities/digits/1" } },
       { "threshold": 402, "model": { "type": "model", "model": "lom:item/entities/digits/2" } },
@@ -140,6 +146,7 @@
       { "threshold": 407, "model": { "type": "model", "model": "lom:item/entities/digits/7" } },
       { "threshold": 408, "model": { "type": "model", "model": "lom:item/entities/digits/8" } },
       { "threshold": 409, "model": { "type": "model", "model": "lom:item/entities/digits/9" } },
+
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_details" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_main" } },
       { "threshold": 1003, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_prompt1" } },
