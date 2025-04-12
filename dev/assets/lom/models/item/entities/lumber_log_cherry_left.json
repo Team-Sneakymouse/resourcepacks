@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "lom:item/entities/lumber_log_acacia_left",
+	"textures": {
+		"0": "block/cherry_log",
+		"1": "block/cherry_log_top",
+		"particle": "block/cherry_log"
+	}
+}
