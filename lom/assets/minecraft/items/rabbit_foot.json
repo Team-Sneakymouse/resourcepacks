@@ -144,6 +144,7 @@
       { "threshold": 138, "model": { "type": "model", "model": "lom:item/items/lumber_wood_cherry" } },
       { "threshold": 139, "model": { "type": "model", "model": "lom:item/items/lumber_wood_jungle" } },
       { "threshold": 140, "model": { "type": "model", "model": "lom:item/items/lumber_wood_spruce" } },
+      { "threshold": 141, "model": { "type": "model", "model": "lom:item/tools/blueprints/blueprint_partyhouse" } },
 
       { "threshold": 1000, "model": { "type": "model", "model": "lom:item/items/crates/crate_stock" } },
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/items/crates/crate_cheese" } },
