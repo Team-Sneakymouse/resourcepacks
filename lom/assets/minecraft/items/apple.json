@@ -96,7 +96,11 @@
       { "threshold": 90, "model": { "type": "model", "model": "lom:item/items/halloween/venomcandy" } },
       { "threshold": 91, "model": { "type": "model", "model": "lom:item/hats/simplehats/candycane" } },
       { "threshold": 92, "model": { "type": "model", "model": "lom:item/hats/simplehats/christmascakehat" } },
-      { "threshold": 93, "model": { "type": "model", "model": "lom:item/items/swammie" } }
+      { "threshold": 93, "model": { "type": "model", "model": "lom:item/items/swammie" } },
+      { "threshold": 94, "model": { "type": "model", "model": "lom:item/items/banana" } },
+      { "threshold": 95, "model": { "type": "model", "model": "lom:item/items/egg" } },
+      { "threshold": 96, "model": { "type": "model", "model": "lom:item/items/cherry" } },
+      { "threshold": 97, "model": { "type": "model", "model": "lom:item/items/chagamushroom" } }
     ]
   }
 }
