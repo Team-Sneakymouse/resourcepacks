@@ -1398,6 +1398,10 @@
       { "threshold": 3056, "model": { "type": "model", "model": "lom:item/gui/powerplant/powerplant_scale4" } },
       { "threshold": 3057, "model": { "type": "model", "model": "lom:item/gui/powerplant/powerplant_scale5" } },
       { "threshold": 3058, "model": { "type": "model", "model": "lom:item/gui/bookshelf_gui" } },
+      { "threshold": 3059, "model": { "type": "model", "model": "lom:item/gui/business_paycheck_gui1" } },
+      { "threshold": 3060, "model": { "type": "model", "model": "lom:item/gui/business_paycheck_gui2" } },
+      { "threshold": 3061, "model": { "type": "model", "model": "lom:item/gui/business_paycheck_gui3" } },
+      { "threshold": 3062, "model": { "type": "model", "model": "lom:item/gui/business_paycheck_gui4" } },
 
       { "threshold": 3101, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius" } },
       { "threshold": 3102, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius1" } },
