@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/npcs/progressbar/progressbar_gold",
+  "textures": {
+    "texture": "lom:item/gui/npcs/progressbar/progressbar_gold5"
+  }
+}

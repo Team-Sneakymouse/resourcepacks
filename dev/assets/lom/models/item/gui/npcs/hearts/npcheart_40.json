@@ -1,6 +1,6 @@
-{ 
-    "parent": "minecraft:item/generated", 
-    "textures": { 
-        "layer0": "lom:item/gui/npcs/hearts/npcheart_40" 
-    } 
-} 
+{
+  "parent": "lom:item/gui/npcs/hearts/npcheart",
+  "textures": {
+    "texture": "lom:item/gui/npcs/hearts/npcheart_40"
+  }
+}

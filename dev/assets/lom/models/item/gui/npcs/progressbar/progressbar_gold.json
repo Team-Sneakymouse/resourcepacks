@@ -1,0 +1,12 @@
+{
+  "parent": "lom:item/gui/3x1-0",
+  "textures": {
+    "texture": "lom:item/gui/npcs/progressbar/progressbar_gold25"
+  },
+  "display": {
+    "gui": {
+      "scale": [3.4, 3.4, 3.4],
+      "translation": [68.5, 17, 0]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "lom:item/gui/1x1-0",
+  "textures": {
+    "texture": "lom:item/gui/npcs/hearts/npcheart_0"
+  },
+  "display": {
+    "gui": {
+      "scale": [2.3, 2.3, 2.3],
+      "translation": [-8, 36, 0]
+    }
+  }
+}
