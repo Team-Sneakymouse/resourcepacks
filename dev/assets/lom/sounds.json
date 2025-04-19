@@ -25,5 +25,8 @@
 	},
 	"music.happybirthday": {
 		"sounds": ["lom:music.happybirthday"]
+	},
+	"sfx.whistle": {
+		"sounds": ["lom:sfx.whistle"]
 	}
   }
