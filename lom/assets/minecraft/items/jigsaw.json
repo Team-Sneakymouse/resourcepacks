@@ -1463,6 +1463,7 @@
       { "threshold": 3126, "model": { "type": "model", "model": "lom:item/gui/npcs/npc_questcomplete" } },
       { "threshold": 3127, "model": { "type": "model", "model": "lom:item/gui/npcs/npc_trading" } },
       { "threshold": 3128, "model": { "type": "model", "model": "lom:item/gui/npcs/npc_quest" } },
+      { "threshold": 3129, "model": { "type": "model", "model": "lom:item/gui/npcs/jacktimbers_quest1" } },
 
       { "threshold": 3201, "model": { "type": "model", "model": "lom:item/gui/crates/crate_brickton" } },
       { "threshold": 3202, "model": { "type": "model", "model": "lom:item/gui/crates/crate_darkvale" } },
