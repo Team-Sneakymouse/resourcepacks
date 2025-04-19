@@ -1,0 +1,180 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/jigsaw"
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "item/gui/skilltree"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "item/gui/classselection"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-warrior"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-ranger"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-paladin"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-builder"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-blacksmith"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-baker"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-highpaladin"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-warpriest"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-barber"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-scientist"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-heretic"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-gravedigger"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-suncleric"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-architect"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-rivermaster"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-skirmisher"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/class-berserker"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/skill-dragon1"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/skill-dragon2"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/skill-dragon3"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/skill-dragon4"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "model",
+          "model": "item/gui/icons/skill-dragon5"
+        }
+      }
+    ]
+  }
+}
