@@ -17,6 +17,7 @@
       { "threshold": 107, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin50" } },
       { "threshold": 108, "model": { "type": "model", "model": "lom:item/gui/icons/dragoncoin100" } },
       
+      { "threshold": 1000, "model": { "type": "model", "model": "lom:item/gui/memes/logo" } },
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/gui/memes/meme1" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/gui/memes/meme2" } },
       { "threshold": 1003, "model": { "type": "model", "model": "lom:item/gui/memes/meme3" } },

@@ -2131,6 +2131,7 @@
       { "threshold": 7398, "model": { "type": "model", "model": "lom:item/gui/numbers/yellow-98" } },
       { "threshold": 7398, "model": { "type": "model", "model": "lom:item/gui/numbers/yellow-98" } },
 
+      { "threshold": 8000, "model": { "type": "model", "model": "lom:item/gui/memes/logo_icon" } },
       { "threshold": 8001, "model": { "type": "model", "model": "lom:item/gui/memes/meme1_icon" } },
       { "threshold": 8002, "model": { "type": "model", "model": "lom:item/gui/memes/meme2_icon" } },
       { "threshold": 8003, "model": { "type": "model", "model": "lom:item/gui/memes/meme3_icon" } },
