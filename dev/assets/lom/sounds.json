@@ -28,8 +28,5 @@
 	},
 	"sfx.whistle": {
 		"sounds": ["lom:sfx.whistle"]
-	},
-	"bricktok": {
-		"sounds": ["lom:bricktok"]
 	}
   }

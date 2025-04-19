@@ -1440,5 +1440,8 @@
 	  "sounds": [
 		"lom:prototypekit/wind.hurricanewave"
 	  ]
+	},
+	"bricktok": {
+		"sounds": ["lom:bricktok"]
 	}
 }
