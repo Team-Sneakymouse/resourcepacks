@@ -128,6 +128,7 @@
       { "threshold": 123, "model": { "type": "model", "model": "lom:item/entities/scanblue" } },
       { "threshold": 124, "model": { "type": "model", "model": "lom:item/entities/scanblue2" } },
       { "threshold": 125, "model": { "type": "model", "model": "lom:item/entities/scanblue3" } },
+      { "threshold": 126, "model": { "type": "model", "model": "lom:item/entities/discoball" } },
 
       { "threshold": 201, "model": { "type": "model", "model": "lom:item/entities/racks/racks_flamethrower" } },
       { "threshold": 202, "model": { "type": "model", "model": "lom:item/entities/racks/racks_wrench" } },

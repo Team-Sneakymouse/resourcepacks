@@ -20,12 +20,6 @@
 	"sfx.sawmill": {
 		"sounds": ["lom:sfx.sawmill"]
 	},
-	"birthdaysurprise": {
-		"sounds": ["lom:birthdaysurprise"]
-	},
-	"music.happybirthday": {
-		"sounds": ["lom:music.happybirthday"]
-	},
 	"sfx.whistle": {
 		"sounds": ["lom:sfx.whistle"]
 	}

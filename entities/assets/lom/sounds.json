@@ -31,5 +31,11 @@
 	},
 	"stackitlose": {
 		"sounds": ["lom:stackitlose"]
+	},
+	"birthdaysurprise": {
+		"sounds": ["lom:birthdaysurprise"]
+	},
+	"music.happybirthday": {
+		"sounds": ["lom:music.happybirthday"]
 	}
 }
