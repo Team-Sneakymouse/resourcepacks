@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/npcs/hearts/npcheart",
+  "textures": {
+    "texture": "lom:item/gui/npcs/hearts/npcheart_47"
+  }
+}

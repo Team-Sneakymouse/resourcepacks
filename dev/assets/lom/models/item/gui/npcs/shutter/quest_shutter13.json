@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/npcs/shutter/shutter",
+  "textures": {
+    "texture": "lom:item/gui/npcs/shutter/quest_shutter13"
+  }
+}
