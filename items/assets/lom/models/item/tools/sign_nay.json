@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench by eranos123",
+	"parent": "lom:item/items/prototype-items/protest_sign",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "block/oak_planks",
+		"1": "lom:item/tools/sign_nay",
+		"particle": "block:minecraft/oak_planks"
+	}
+}
