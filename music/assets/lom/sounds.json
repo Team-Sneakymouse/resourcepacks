@@ -65,5 +65,9 @@
 	},
 	"godfatherash": {
 		"sounds": ["lom:godfatherash"]
+	},
+	"music.goldenmonocle": {
+		"sounds": ["lom:goldenmonocle"],
+		"stream": true
 	}
 }
