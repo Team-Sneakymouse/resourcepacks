@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lom:item/gui/guessgame/tripledots"
+  },
+  "display": {
+    "gui": {
+	  "translation": [6, -8, 0]
+	}
+  }
+}
