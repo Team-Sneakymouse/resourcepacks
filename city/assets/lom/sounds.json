@@ -7,114 +7,48 @@
 	},
 	"goblinaction": {
 		"sounds": [
-			{
-				"name": "lom:goblinaction1",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinaction2",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinaction3",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinaction4",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinaction5",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinaction6",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinaction7",
-				"stream": true
-			}
+			{ "name": "lom:goblinaction1", "stream": true },
+			{ "name": "lom:goblinaction2", "stream": true },
+			{ "name": "lom:goblinaction3", "stream": true },
+			{ "name": "lom:goblinaction4", "stream": true },
+			{ "name": "lom:goblinaction5", "stream": true },
+			{ "name": "lom:goblinaction6", "stream": true },
+			{ "name": "lom:goblinaction7", "stream": true }
 		]
 	},
 	"goblinhurt": {
 		"sounds": [
-			{
-				"name": "lom:goblinhurt1",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinhurt2",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinhurt3",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinhurt4",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinhurt5",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinhurt6",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinhurt7",
-				"stream": true
-			}
+			{ "name": "lom:goblinhurt1", "stream": true },
+			{ "name": "lom:goblinhurt2", "stream": true },
+			{ "name": "lom:goblinhurt3", "stream": true },
+			{ "name": "lom:goblinhurt4", "stream": true },
+			{ "name": "lom:goblinhurt5", "stream": true },
+			{ "name": "lom:goblinhurt6", "stream": true },
+			{ "name": "lom:goblinhurt7", "stream": true }
 		]
 	},
 	"goblindie": {
 		"sounds": [
-			{
-				"name": "lom:goblindie1",
-				"stream": true
-			},
-			{
-				"name": "lom:goblindie2",
-				"stream": true
-			},
-			{
-				"name": "lom:goblindie3",
-				"stream": true
-			}
+			{ "name": "lom:goblindie1", "stream": true },
+			{ "name": "lom:goblindie2", "stream": true },
+			{ "name": "lom:goblindie3", "stream": true }
 		]
 	},
 	"goblinspawn": {
 		"sounds": [
-			{
-				"name": "lom:goblinspawn1",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinspawn2",
-				"stream": true
-			},
-			{
-				"name": "lom:goblinspawn3",
-				"stream": true
-			}
+			{ "name": "lom:goblinspawn1", "stream": true },
+			{ "name": "lom:goblinspawn2", "stream": true },
+			{ "name": "lom:goblinspawn3", "stream": true }
 		]
 	},
 	"goblinkaboomready": {
 		"sounds": [
-			{
-				"name": "lom:goblinkaboomready",
-				"stream": true
-			}
+			{ "name": "lom:goblinkaboomready", "stream": true }
 		]
 	},
 	"goblinkaboomfire": {
 		"sounds": [
-			{
-				"name": "lom:goblinkaboomfire",
-				"stream": true
-			}
+			{ "name": "lom:goblinkaboomfire", "stream": true }
 		]
 	},
 	"daragorfirebreath": {
@@ -177,5 +111,16 @@
 	},
 	"quake": {
 		"sounds": ["lom:quake"]
-	}
+	},
+	"jimmylootbox1": { "sounds": ["lom:gift_jimmy/jimmylootbox1"] },
+	"jimmylootbox2": { "sounds": ["lom:gift_jimmy/jimmylootbox2"] },
+	"jimmylootbox3": { "sounds": ["lom:gift_jimmy/jimmylootbox3"] },
+	"jimmylootbox4": { "sounds": ["lom:gift_jimmy/jimmylootbox4"] },
+	"jimmylootbox5": { "sounds": ["lom:gift_jimmy/jimmylootbox5"] },
+	"jimmylootbox6": { "sounds": ["lom:gift_jimmy/jimmylootbox6"] },
+	"jimmylootbox7": { "sounds": ["lom:gift_jimmy/jimmylootbox7"] },
+	"jimmylootbox8": { "sounds": ["lom:gift_jimmy/jimmylootbox8"] },
+	"jimmylootbox9": { "sounds": ["lom:gift_jimmy/jimmylootbox9"] },
+	"jimmylootbox10": { "sounds": ["lom:gift_jimmy/jimmylootbox10"] },
+	"jimmylootbox11": { "sounds": ["lom:gift_jimmy/jimmylootbox11"] }
 }
