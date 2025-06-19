@@ -1858,5 +1858,56 @@
 			"ambient/cave/cave18",
 			"ambient/cave/cave19"
 		]
+	},
+	"block.resin_bricks.break": {
+		"replace": true,
+		"sounds": [
+			"dig/stone1",
+			"dig/stone2",
+			"dig/stone3",
+			"dig/stone4"
+		]
+	},
+	"block.resin_bricks.place": {
+		"replace": true,
+		"sounds": [
+			"dig/stone1",
+			"dig/stone2",
+			"dig/stone3",
+			"dig/stone4"
+		]
+	},
+	"block.resin_bricks.hit": {
+		"replace": true,
+		"sounds": [
+			"step/stone1",
+			"step/stone2",
+			"step/stone3",
+			"step/stone4",
+			"step/stone5",
+			"step/stone6"
+		]
+	},
+	"block.resin_bricks.fall": {
+		"replace": true,
+		"sounds": [
+			"step/stone1",
+			"step/stone2",
+			"step/stone3",
+			"step/stone4",
+			"step/stone5",
+			"step/stone6"
+		]
+	},
+	"block.resin_bricks.step": {
+		"replace": true,
+		"sounds": [
+			"step/stone1",
+			"step/stone2",
+			"step/stone3",
+			"step/stone4",
+			"step/stone5",
+			"step/stone6"
+		]
 	}
 }
