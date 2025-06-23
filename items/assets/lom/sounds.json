@@ -290,5 +290,17 @@
 	},
 	"jobboardopen": {
 		"sounds": ["lom:jobboardopen"]
-	}
+	},
+	"jimmylootbox1": { "sounds": ["lom:gift_jimmy/jimmylootbox1"] },
+	"jimmylootbox2": { "sounds": ["lom:gift_jimmy/jimmylootbox2"] },
+	"jimmylootbox3": { "sounds": ["lom:gift_jimmy/jimmylootbox3"] },
+	"jimmylootbox4": { "sounds": ["lom:gift_jimmy/jimmylootbox4"] },
+	"jimmylootbox5": { "sounds": ["lom:gift_jimmy/jimmylootbox5"] },
+	"jimmylootbox6": { "sounds": ["lom:gift_jimmy/jimmylootbox6"] },
+	"jimmylootbox7": { "sounds": ["lom:gift_jimmy/jimmylootbox7"] },
+	"jimmylootbox8": { "sounds": ["lom:gift_jimmy/jimmylootbox8"] },
+	"jimmylootbox9": { "sounds": ["lom:gift_jimmy/jimmylootbox9"] },
+	"jimmylootbox10": { "sounds": ["lom:gift_jimmy/jimmylootbox10"] },
+	"jimmylootbox11": { "sounds": ["lom:gift_jimmy/jimmylootbox11"] },
+	"jimmylootbox12": { "sounds": ["lom:gift_jimmy/jimmylootbox12"] }
 }
