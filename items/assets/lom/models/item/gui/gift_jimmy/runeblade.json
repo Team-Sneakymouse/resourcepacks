@@ -1,0 +1,10 @@
+{
+  "parent": "lom:item/weapons/lowq_runeblade",
+  "display": {
+    "gui": {
+      "rotation": [90, 45, -90],
+      "translation": [0, -1.25, 0],
+      "scale": [3.75, 3.75, 3.75]
+    }
+  }
+}

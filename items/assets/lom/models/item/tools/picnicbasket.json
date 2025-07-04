@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/barrel",
+	"parent2": "minecraft:item/generated",
+	"textures2": {
+		"layer0": "lom:item/tools/picnicbasket"
+	}
+}

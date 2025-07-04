@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lom:item/items/random"
+  },
+  "display": {
+    "gui": {
+      "scale": [2.5, 2.5, 2.5]
+    }
+  }
+}

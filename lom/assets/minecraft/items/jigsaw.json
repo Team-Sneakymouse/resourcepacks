@@ -1382,7 +1382,23 @@
       { "threshold": 2916, "model": { "type": "model", "model": "lom:item/icons/map/money_icon" } },
       { "threshold": 2917, "model": { "type": "model", "model": "lom:item/icons/map/pickaxe_icon" } },
       { "threshold": 2918, "model": { "type": "model", "model": "lom:item/icons/map/water_icon" } },
-
+      
+      { "threshold": 2951, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/random" } },
+      { "threshold": 2952, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/jackpot" } },
+      { "threshold": 2953, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/skillshard" } },
+      { "threshold": 2954, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/dragoncoins" } },
+      { "threshold": 2955, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/muk" } },
+      { "threshold": 2956, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/pennies" } },
+      { "threshold": 2957, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/exp" } },
+      { "threshold": 2958, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/blacklotus" } },
+      { "threshold": 2959, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/cookie" } },
+      { "threshold": 2960, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/picnicbasket" } },
+      { "threshold": 2961, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/milk" } },
+      { "threshold": 2962, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/muk" } },
+      { "threshold": 2963, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/cheese" } },
+      { "threshold": 2964, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/runeblade" } },
+      { "threshold": 2965, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/magicalcontroller" } },
+      
       { "threshold": 3000, "model": { "type": "model", "model": "lom:item/gui/6rows" } },
       { "threshold": 3001, "model": { "type": "model", "model": "lom:item/gui/skillmenu" } },
       { "threshold": 3002, "model": { "type": "model", "model": "lom:item/gui/skilltree" } },
@@ -1444,6 +1460,7 @@
       { "threshold": 3060, "model": { "type": "model", "model": "lom:item/gui/business_paycheck_gui2" } },
       { "threshold": 3061, "model": { "type": "model", "model": "lom:item/gui/business_paycheck_gui3" } },
       { "threshold": 3062, "model": { "type": "model", "model": "lom:item/gui/business_paycheck_gui4" } },
+      { "threshold": 3063, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/loot_box_ui" } },
 
       { "threshold": 3101, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius" } },
       { "threshold": 3102, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius1" } },

@@ -1,0 +1,9 @@
+{
+  "parent": "lom:item/tools/picnicbasket",
+  "display": {
+    "gui": {
+      "rotation": [ 30, 225, 0 ],
+      "scale": [1.5625, 1.5625, 1.5625]
+    }
+  }
+}
