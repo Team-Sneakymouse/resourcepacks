@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/items/fish/.fish4",
+  "textures": {
+    "layer0": "lom:item/items/fish/silverfin"
+  }
+}

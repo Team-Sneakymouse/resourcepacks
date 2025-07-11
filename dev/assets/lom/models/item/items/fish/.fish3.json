@@ -1,0 +1,32 @@
+{
+	"format_version": "0.81.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "lom:item/items/fish/ancientkoi"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.8, 0.8, 0.8],
+			"rotation": [75, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.8, 0.8, 0.8],
+			"rotation": [75, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0.8, 0.8, 0.8],
+			"translation": [-1, 2, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.8, 0.8, 0.8],
+			"translation": [-1, 2, 0]
+		},
+		"gui": {
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"fixed": {
+			"scale": [1.1, 1.1, 1.1]
+		}
+	}
+}
