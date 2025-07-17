@@ -1,0 +1,151 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/ancientkoi.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA00"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/banditfish.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA01"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/brickjaw.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA02"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/catfish.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA03"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/cobblefish.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA04"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/ghostfish.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA05"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/glimmerscale.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA06"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/kingfish.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA07"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/leapfish.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA08"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/mirrorfish.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA09"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/moonray.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA10"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/mukfish.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA11"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/pearlscaletrout.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA12"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/runecarp.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA13"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/silverfin.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA14"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/starfallsalmon.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA15"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/stonegill.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA16"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/stormsnapper.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA17"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/swammie.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA18"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/tunafish.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA19"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/voidguppy.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA20"]
+		}
+	]
+}

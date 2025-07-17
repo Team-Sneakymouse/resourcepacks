@@ -1,13 +1,37 @@
 {
 	"comments": [
-		"Available characters: \uE000 - \uF8FF",
+		"Private Use Area: \uE000 - \uF8FF",
 		"\uE000 - \uE049: keyboard symbols", [
-			"\uE000 - left mouse",
-			"\uE001 - right mouse"
+			"\uE000: left mouse",
+			"\uE001: right mouse"
 		],
 		"\uE050 - \uE059: space symbols", [
-			"\uE050 - pause menu spacer 1",
-			"\uE051 - pause menu spacer 2"
+			"\uE050: pause menu spacer 1",
+			"\uE051: pause menu spacer 2"
+		],
+
+		"\uEA00 - \uEAFF: items", [
+			"\uEA00: ancientkoi",
+			"\uEA01: banditfish",
+			"\uEA02: brickjaw",
+			"\uEA03: catfish",
+			"\uEA04: cobblefish",
+			"\uEA05: ghostfish",
+			"\uEA06: glimmerscale",
+			"\uEA07: kingfish",
+			"\uEA08: leapfish",
+			"\uEA09: mirrorfish",
+			"\uEA10: moonray",
+			"\uEA11: mukfish",
+			"\uEA12: pearlscaletrout",
+			"\uEA13: runecarp",
+			"\uEA14: silverfin",
+			"\uEA15: starfallsalmon",
+			"\uEA16: stonegill",
+			"\uEA17: stormsnapper",
+			"\uEA18: swammie",
+			"\uEA19: tunafish",
+			"\uEA20: voidguppy"
 		]
 	],
     "providers": [{
@@ -35,5 +59,8 @@
 	},{
 		"type": "reference",
 		"id": "lom:pausemenu"
+	},{
+		"type": "reference",
+		"id": "lom:items/fish"
 	}]
 }
