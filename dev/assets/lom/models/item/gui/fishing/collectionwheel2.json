@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/fishing/collectionwheel",
+  "textures": {
+    "texture": "lom:item/gui/fishing/collectionwheel2"
+  }
+}

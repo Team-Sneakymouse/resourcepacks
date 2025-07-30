@@ -1,6 +1,6 @@
 {
   "parent": "lom:item/gui/fishing/fishing_journal",
   "textures": {
-    "texture": "lom:item/gui/fishing/fishing_journal_ancientkoi"
+    "texture": "lom:item/gui/fishing/fishing_journal_pearlscaletrout"
   }
 }
