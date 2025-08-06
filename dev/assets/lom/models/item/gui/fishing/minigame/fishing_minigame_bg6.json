@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/6rows-0",
+  "textures": {
+    "texture": "lom:item/gui/fishing/minigame/fishing_minigame_bg6"
+  }
+}

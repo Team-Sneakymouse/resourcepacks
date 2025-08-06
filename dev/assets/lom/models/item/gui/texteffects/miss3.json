@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/3x3-4",
+  "textures": {
+    "texture": "lom:item/gui/texteffects/miss3"
+  }
+}

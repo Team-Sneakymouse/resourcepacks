@@ -1526,6 +1526,13 @@
       { "threshold": 3312, "model": { "type": "model", "model": "lom:item/gui/guessgame/coinfall_silver" } },
       { "threshold": 3313, "model": { "type": "model", "model": "lom:item/gui/guessgame/coinfall_gold" } },
 
+      { "threshold": 3401, "model": { "type": "model", "model": "lom:item/gui/fishing/minigame/fishing_minigame_bg1" } },
+      { "threshold": 3402, "model": { "type": "model", "model": "lom:item/gui/fishing/minigame/fishing_minigame_bg2" } },
+      { "threshold": 3403, "model": { "type": "model", "model": "lom:item/gui/fishing/minigame/fishing_minigame_bg3" } },
+      { "threshold": 3404, "model": { "type": "model", "model": "lom:item/gui/fishing/minigame/fishing_minigame_bg4" } },
+      { "threshold": 3405, "model": { "type": "model", "model": "lom:item/gui/fishing/minigame/fishing_minigame_bg5" } },
+      { "threshold": 3406, "model": { "type": "model", "model": "lom:item/gui/fishing/minigame/fishing_minigame_bg6" } },
+      
       { "threshold": 3431, "model": { "type": "model", "model": "lom:item/gui/fishing/fishing_journal1" } },
       { "threshold": 3432, "model": { "type": "model", "model": "lom:item/gui/fishing/fishing_journal2" } },
       { "threshold": 3433, "model": { "type": "model", "model": "lom:item/gui/fishing/fishing_journal3" } },
