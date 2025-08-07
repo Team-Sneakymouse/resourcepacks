@@ -1,0 +1,20 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [16, 9],
+	"textures": {
+		"particle": "lom:item/entities/dvc_full",
+		"texture": "lom:item/entities/dvc_full"
+	},
+	"elements": [
+		{
+			"from": [-16, -5.5, 16],
+			"to": [32, 21.5, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		}
+	]
+}
