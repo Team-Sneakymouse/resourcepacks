@@ -1470,6 +1470,8 @@
       { "threshold": 3070, "model": { "type": "model", "model": "lom:item/gui/fishing/fishingtacklebox7" } },
       { "threshold": 3071, "model": { "type": "model", "model": "lom:item/gui/fishing/fishingtacklebox8" } },
       { "threshold": 3072, "model": { "type": "model", "model": "lom:item/gui/fishing/fishingtacklebox9" } },
+      { "threshold": 3073, "model": { "type": "model", "model": "lom:item/gui/arrow-left" } },
+      { "threshold": 3074, "model": { "type": "model", "model": "lom:item/gui/arrow-right" } },
 
       { "threshold": 3101, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius" } },
       { "threshold": 3102, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius1" } },
