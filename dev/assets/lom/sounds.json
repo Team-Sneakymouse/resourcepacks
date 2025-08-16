@@ -22,17 +22,5 @@
 	},
 	"sfx.whistle": {
 		"sounds": ["lom:sfx.whistle"]
-	},
-	"music.minigame.fishing.basic": {
-		"sounds": ["lom:music/minigame.fishing.basic"]
-	},
-	"music.minigame.fishing.big": {
-		"sounds": ["lom:music/minigame.fishing.big"]
-	},
-	"music.minigame.fishing.rapid": {
-		"sounds": ["lom:music/minigame.fishing.rapid"]
-	},
-	"music.minigame.fishing.super": {
-		"sounds": ["lom:music/minigame.fishing.super"]
 	}
   }
