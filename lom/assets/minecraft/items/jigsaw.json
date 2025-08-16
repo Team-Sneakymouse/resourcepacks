@@ -1576,6 +1576,7 @@
       { "threshold": 3469, "model": { "type": "model", "model": "lom:item/gui/fishing/fishing_journal11" } },
       { "threshold": 3470, "model": { "type": "model", "model": "lom:item/gui/fishing/fishing_journal12" } },
       { "threshold": 3471, "model": { "type": "model", "model": "lom:item/gui/fishing/fishing_journal_swammie" } },
+      { "threshold": 3472, "model": { "type": "model", "model": "lom:item/gui/fishing/fishing_journal_candyshrimp" } },
 
       { "threshold": 3501, "model": { "type": "model", "model": "lom:item/gui/spells/blossom-spellbook" } },
       { "threshold": 3502, "model": { "type": "model", "model": "lom:item/gui/spells/blossom" } },

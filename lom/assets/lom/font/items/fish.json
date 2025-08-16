@@ -146,6 +146,69 @@
 			"height": 10,
 			"ascent": 8,
 			"chars": ["\uEA20"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/babykraken.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA21"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/candyshrimp.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA22"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/deadscale.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA23"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/dragonfish.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA24"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/lavaeel.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA25"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/princefish.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA26"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/rocklobster.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA27"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/smellysquid.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA28"]
+		},
+		{
+			"type": "bitmap",
+			"file": "lom:item/items/fish/starfruit.png",
+			"height": 10,
+			"ascent": 8,
+			"chars": ["\uEA29"]
 		}
 	]
 }

@@ -395,7 +395,7 @@
       { "threshold": 3482, "model": { "type": "model", "model": "lom:item/gui/fishing/fishcircle-moonray" } },
       { "threshold": 3483, "model": { "type": "model", "model": "lom:item/gui/fishing/fishcircle-mukfish" } },
       { "threshold": 3484, "model": { "type": "model", "model": "lom:item/gui/fishing/fishcircle-pearlscaletrout" } },
-      { "threshold": 3485, "model": { "type": "model", "model": "lom:item/gui/fishing/fishcircle-princescale" } },
+      { "threshold": 3485, "model": { "type": "model", "model": "lom:item/gui/fishing/fishcircle-princefish" } },
       { "threshold": 3486, "model": { "type": "model", "model": "lom:item/gui/fishing/fishcircle-rocklobster" } },
       { "threshold": 3487, "model": { "type": "model", "model": "lom:item/gui/fishing/fishcircle-runecarp" } },
       { "threshold": 3488, "model": { "type": "model", "model": "lom:item/gui/fishing/fishcircle-silverfin" } },
