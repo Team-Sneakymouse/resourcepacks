@@ -22,5 +22,8 @@
 	},
 	"sfx.whistle": {
 		"sounds": ["lom:sfx.whistle"]
+	},
+	"sfx.tincan": {
+		"sounds": ["lom:sfx.tincan1", "lom:sfx.tincan2", "lom:sfx.tincan3"]
 	}
   }
