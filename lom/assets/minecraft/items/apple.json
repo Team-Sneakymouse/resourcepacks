@@ -100,7 +100,8 @@
       { "threshold": 94, "model": { "type": "model", "model": "lom:item/items/banana" } },
       { "threshold": 95, "model": { "type": "model", "model": "lom:item/items/egg" } },
       { "threshold": 96, "model": { "type": "model", "model": "lom:item/items/cherry" } },
-      { "threshold": 97, "model": { "type": "model", "model": "lom:item/items/chagamushroom" } }
+      { "threshold": 97, "model": { "type": "model", "model": "lom:item/items/chagamushroom" } },
+      { "threshold": 98, "model": { "type": "model", "model": "lom:item/items/meat" } }
     ]
   }
 }
