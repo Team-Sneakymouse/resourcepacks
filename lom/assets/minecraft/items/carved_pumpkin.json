@@ -84,6 +84,7 @@
       { "threshold": 78, "model": { "type": "model", "model": "lom:item/hats/aviators" } },
       { "threshold": 79, "model": { "type": "model", "model": "lom:item/hats/krampus" } },
       { "threshold": 80, "model": { "type": "model", "model": "lom:item/hats/thane_circlet" } },
+
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/hats/somehats/axe_hat" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/hats/somehats/beret_red" } },
       { "threshold": 1003, "model": { "type": "model", "model": "lom:item/hats/somehats/beret_tint" } },

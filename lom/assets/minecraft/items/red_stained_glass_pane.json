@@ -31,6 +31,7 @@
       { "threshold": 1011, "model": { "type": "model", "model": "lom:item/gui/memes/meme11" } },
       { "threshold": 1012, "model": { "type": "model", "model": "lom:item/gui/memes/meme12" } },
       { "threshold": 1013, "model": { "type": "model", "model": "lom:item/gui/memes/meme13" } },
+
       { "threshold": 2001, "model": { "type": "model", "model": "lom:item/icons/jobboard/bluefist" } },
       { "threshold": 2002, "model": { "type": "model", "model": "lom:item/icons/jobboard/blueharp" } },
       { "threshold": 2003, "model": { "type": "model", "model": "lom:item/icons/jobboard/bluemagic" } },
@@ -57,6 +58,7 @@
       { "threshold": 2024, "model": { "type": "model", "model": "lom:item/icons/jobboard/yellowswords" } },
       { "threshold": 2025, "model": { "type": "model", "model": "lom:item/gui/checkmark" } },
       { "threshold": 2026, "model": { "type": "model", "model": "lom:item/gui/warning" } },
+      { "threshold": 2027, "model": { "type": "model", "model": "lom:item/hats/hazmat_helm" } },
 
       { "threshold": 2100, "model": { "type": "model", "model": "lom:item/gui/npcs/hearts/npcheart_0" } },
       { "threshold": 2101, "model": { "type": "model", "model": "lom:item/gui/npcs/hearts/npcheart_1" } },
