@@ -73,6 +73,7 @@
 
       { "threshold": 67, "model": { "type": "model", "model": "lom:item/tools/sign_aye" } },
       { "threshold": 68, "model": { "type": "model", "model": "lom:item/tools/sign_nay" } },
+      { "threshold": 69, "model": { "type": "model", "model": "lom:item/tools/presence_shank" } },
       
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/items/badges/water" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/items/badges/fire" } },
