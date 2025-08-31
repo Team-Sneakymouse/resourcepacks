@@ -22,14 +22,5 @@
 	},
 	"sfx.whistle": {
 		"sounds": ["lom:sfx.whistle"]
-	},
-	"sfx.tincan": {
-		"sounds": ["lom:sfx.tincan1", "lom:sfx.tincan2", "lom:sfx.tincan3"]
-	},
-	"sfx.spear": {
-		"sounds": ["lom:sfx.spear1", "lom:sfx.spear2"]
-	},
-	"sfx.fishstab": {
-		"sounds": ["lom:sfx.fishstab1", "lom:sfx.fishstab2", "lom:sfx.fishstab3", "lom:sfx.fishstab4"]
 	}
   }
