@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench by MsDvil",
+	"parent": "lom:item/entities/banana",
+	"textures": {
+		"0": "lom:item/entities/goldenbanana",
+		"particle": "lom:item/entities/goldenbanana"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [91, 0, 0],
+			"translation": [0, -1.5, 4.75],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [91, 0, 0],
+			"translation": [0, -1.5, 4.75],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 10.5, 0],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 10.5, 0],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"ground": {
+			"translation": [0, 6, 0],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"gui": {
+			"rotation": [26, 164, 0],
+			"translation": [0, 5.5, 0],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"head": {
+			"translation": [-0.75, 17.75, 0],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"fixed": {
+			"translation": [0, 4.5, 0],
+			"scale": [1.4, 1.4, 1.4]
+		}
+	}
+}

@@ -158,6 +158,9 @@
       { "threshold": 152, "model": { "type": "model", "model": "lom:item/items/fish/tincan" } },
       { "threshold": 153, "model": { "type": "model", "model": "lom:item/items/fish/treasurekey" } },
       { "threshold": 154, "model": { "type": "model", "model": "lom:item/items/deadrat" } },
+      { "threshold": 155, "model": { "type": "model", "model": "lom:item/items/goldenbanana" } },
+      { "threshold": 156, "model": { "type": "model", "model": "lom:item/items/goldenbananapeel" } },
+      { "threshold": 157, "model": { "type": "model", "model": "lom:item/items/scrollofnecromancy" } },
 
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },

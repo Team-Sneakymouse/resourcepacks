@@ -102,6 +102,7 @@
       { "threshold": 97, "model": { "type": "model", "model": "lom:item/entities/lumber_log_jungle_right" } },
       { "threshold": 98, "model": { "type": "model", "model": "lom:item/entities/lumber_log_spruce_left" } },
       { "threshold": 99, "model": { "type": "model", "model": "lom:item/entities/lumber_log_spruce_right" } },
+      { "threshold": 100, "model": { "type": "model", "model": "lom:item/entities/goldenbanana" } },
 
       { "threshold": 101, "model": { "type": "model", "model": "lom:item/entities/torture_machines/electric_chair" } },
       { "threshold": 102, "model": { "type": "model", "model": "lom:item/entities/torture_machines/punish_bracelets" } },
