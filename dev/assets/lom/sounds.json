@@ -17,9 +17,6 @@
 	"computer.beep": {
 		"sounds": ["lom:computer.beep"]
 	},
-	"sfx.sawmill": {
-		"sounds": ["lom:sfx.sawmill"]
-	},
 	"sfx.whistle": {
 		"sounds": ["lom:sfx.whistle"]
 	}

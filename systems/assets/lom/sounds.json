@@ -1464,5 +1464,8 @@
 	},
 	"sfx.fishstab": {
 		"sounds": ["lom:sfx.fishstab1", "lom:sfx.fishstab2", "lom:sfx.fishstab3", "lom:sfx.fishstab4"]
+	},
+	"sfx.sawmill": {
+		"sounds": ["lom:sfx.sawmill"]
 	}
 }
