@@ -132,6 +132,7 @@
       { "threshold": 126, "model": { "type": "model", "model": "lom:item/entities/discoball" } },
       { "threshold": 127, "model": { "type": "model", "model": "lom:item/entities/dvc_full" } },
       { "threshold": 128, "model": { "type": "model", "model": "lom:item/entities/stomper" } },
+      { "threshold": 129, "model": { "type": "model", "model": "lom:item/entities/trashcan" } },
 
       { "threshold": 201, "model": { "type": "model", "model": "lom:item/entities/racks/racks_flamethrower" } },
       { "threshold": 202, "model": { "type": "model", "model": "lom:item/entities/racks/racks_wrench" } },
