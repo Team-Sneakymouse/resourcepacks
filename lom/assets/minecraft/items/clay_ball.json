@@ -199,7 +199,9 @@
       { "threshold": 1035, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-scan" } },
       { "threshold": 1036, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-scanbar" } },
       { "threshold": 1037, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-failed" } },
-      { "threshold": 1038, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-failed2" } }
+      { "threshold": 1038, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-failed2" } },
+      { "threshold": 1039, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_fillorange" } },
+      { "threshold": 1040, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_searching" } }
     ]
   }
 }
