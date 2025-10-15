@@ -14,7 +14,15 @@
       { "threshold": 8, "model": { "type": "model", "model": "lom:item/items/wine_bottle" } },
       { "threshold": 9, "model": { "type": "model", "model": "lom:item/items/exp" } },
       { "threshold": 10, "model": { "type": "model", "model": "lom:item/items/small_mana_potion" } },
-      { "threshold": 11, "model": { "type": "model", "model": "lom:item/items/large_mana_potion" } }
+      { "threshold": 11, "model": { "type": "model", "model": "lom:item/items/large_mana_potion" } },
+      { "threshold": 12, "model": { "type": "model", "model": "lom:item/items/honey" } },
+      { "threshold": 13, "model": { "type": "model", "model": "lom:item/items/dwarven_ale" } },
+      { "threshold": 14, "model": { "type": "model", "model": "lom:item/items/ale" } },
+      { "threshold": 15, "model": { "type": "model", "model": "lom:item/items/blood_bottle" } },
+      { "threshold": 16, "model": { "type": "model", "model": "lom:item/items/oil_bottle" } },
+      { "threshold": 17, "model": { "type": "model", "model": "lom:item/items/soap_bottle" } },
+      { "threshold": 18, "model": { "type": "model", "model": "lom:item/items/sprinkle_bottle" } },
+      { "threshold": 19, "model": { "type": "model", "model": "lom:item/items/wine_bottle" } }
     ]
   }
 }
