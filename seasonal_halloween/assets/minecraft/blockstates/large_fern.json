@@ -1,0 +1,36 @@
+{
+    "variants": {
+        "half=lower": [
+		{ "model": "block/tombstone_1" , "weight": 15},
+		{ "model": "block/tombstone_1" , "y": 180 , "weight": 15},
+		{ "model": "block/tombstone_2" , "weight": 3},
+		{ "model": "block/tombstone_2" , "y": 180 , "weight": 3},
+		{ "model": "block/tombstone_3" , "weight": 1},
+		{ "model": "block/tombstone_3" , "y": 180 , "weight": 1},
+		{ "model": "block/tombstone_4_bottom" , "weight": 8},
+		{ "model": "block/tombstone_4_bottom" , "y": 180 , "weight": 8},
+		{ "model": "block/tombstone_5_bottom" , "weight": 5},
+		{ "model": "block/tombstone_5_bottom" , "y": 180 , "weight": 5},
+		{ "model": "block/tombstone_6" , "weight": 1},
+		{ "model": "block/tombstone_6" , "y": 180 , "weight": 1},
+		{ "model": "block/tombstone_7_bottom" , "weight": 1},
+		{ "model": "block/tombstone_7_bottom" , "y": 180 , "weight": 1}
+	],
+        "half=upper": [
+		{ "model": "block/nothing" , "weight": 15},
+		{ "model": "block/nothing" , "y": 180 , "weight": 15},
+		{ "model": "block/nothing" , "weight": 3},
+		{ "model": "block/nothing" , "y": 180 , "weight": 3},
+		{ "model": "block/nothing" , "weight": 1},
+		{ "model": "block/nothing" , "y": 180 , "weight": 1},
+		{ "model": "block/tombstone_4_top" , "weight": 8},
+		{ "model": "block/tombstone_4_top" , "y": 180 , "weight": 8},
+		{ "model": "block/tombstone_5_top" , "weight": 5},
+		{ "model": "block/tombstone_5_top" , "y": 180 , "weight": 5},
+		{ "model": "block/nothing" , "weight": 1},
+		{ "model": "block/nothing" , "y": 180 , "weight": 1},
+		{ "model": "block/tombstone_7_top" , "weight": 1},
+		{ "model": "block/tombstone_7_top" , "y": 180 , "weight": 1}
+	]
+    }
+}

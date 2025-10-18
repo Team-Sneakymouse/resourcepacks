@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "lom:block/spiderweb2",
+		"particle": "lom:block/spiderweb"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 0],
+			"to": [8, 16, 16],
+			"faces": {
+				"east": {"uv": [16, 16, 0, 0], "texture": "#0"},
+				"west": {"uv": [0, 16, 16, 0], "texture": "#0"}
+			}
+		}
+	]
+}

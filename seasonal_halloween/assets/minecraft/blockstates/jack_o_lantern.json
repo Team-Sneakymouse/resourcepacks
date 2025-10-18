@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "facing=east":[{"model": "lom:block/jack_o_lantern","y": 90},
+      {"model": "lom:block/jack_o_lantern2","y": 90},
+	  {"model": "lom:block/jack_o_lantern3","y": 90},
+	  {"model": "lom:block/jack_o_lantern4","y": 90},
+	  {"model": "lom:block/jack_o_lantern5","y": 90},
+	  {"model": "lom:block/jack_o_lantern6","y": 90},
+	  {"model": "lom:block/jack_o_lantern7","y": 90}
+    ],
+    "facing=north":[{"model": "lom:block/jack_o_lantern"},
+      {"model": "lom:block/jack_o_lantern2"},
+	  {"model": "lom:block/jack_o_lantern3"},
+	  {"model": "lom:block/jack_o_lantern4"},
+	  {"model": "lom:block/jack_o_lantern5"},
+	  {"model": "lom:block/jack_o_lantern6"},
+	  {"model": "lom:block/jack_o_lantern7"}
+    ],
+    "facing=south":[{"model": "lom:block/jack_o_lantern","y": 180},
+      {"model": "lom:block/jack_o_lantern2","y": 180},
+	  {"model": "lom:block/jack_o_lantern3","y": 180},
+	  {"model": "lom:block/jack_o_lantern4","y": 180},
+	  {"model": "lom:block/jack_o_lantern5","y": 180},
+	  {"model": "lom:block/jack_o_lantern6","y": 180},
+	  {"model": "lom:block/jack_o_lantern7","y": 180}
+    ],
+    "facing=west":[{"model": "lom:block/jack_o_lantern","y": 270},
+      {"model": "lom:block/jack_o_lantern2","y": 270},
+	  {"model": "lom:block/jack_o_lantern3","y": 270},
+	  {"model": "lom:block/jack_o_lantern4","y": 270},
+	  {"model": "lom:block/jack_o_lantern5","y": 270},
+	  {"model": "lom:block/jack_o_lantern6","y": 270},
+	  {"model": "lom:block/jack_o_lantern7","y": 270}
+    ]
+  }
+}

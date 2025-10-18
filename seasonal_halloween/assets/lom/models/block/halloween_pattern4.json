@@ -1,0 +1,7 @@
+
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "lom:block/halloween_pattern4"
+  }
+}
