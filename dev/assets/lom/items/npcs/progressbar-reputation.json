@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_rep100" },
+    "entries": [
+      { "threshold": 10, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_rep10", "tints": [ { "type": "minecraft:dye", "default": -16122112 } ] } },
+      { "threshold": 20, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_rep20", "tints": [ { "type": "minecraft:dye", "default": -16122112 } ] } },
+      { "threshold": 30, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_rep30", "tints": [ { "type": "minecraft:dye", "default": -16122112 } ] } },
+      { "threshold": 40, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_rep40", "tints": [ { "type": "minecraft:dye", "default": -16122112 } ] } },
+      { "threshold": 50, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_rep50", "tints": [ { "type": "minecraft:dye", "default": -16122112 } ] } },
+      { "threshold": 60, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_rep60", "tints": [ { "type": "minecraft:dye", "default": -16122112 } ] } },
+      { "threshold": 70, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_rep70", "tints": [ { "type": "minecraft:dye", "default": -16122112 } ] } },
+      { "threshold": 80, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_rep80", "tints": [ { "type": "minecraft:dye", "default": -16122112 } ] } },
+      { "threshold": 90, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_rep90", "tints": [ { "type": "minecraft:dye", "default": -16122112 } ] } },
+      { "threshold": 100, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_rep100", "tints": [ { "type": "minecraft:dye", "default": -16122112 } ] } }
+    ]
+  }
+}

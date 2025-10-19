@@ -1,0 +1,11 @@
+{
+	"model": {
+	  "type": "minecraft:select",
+	  "property": "custom_model_data",
+	  "fallback": { "type": "model", "model": "lom:item/gui/npcs/npc_quest" },
+	  "cases": [
+		{ "when": "incomplete", "model": { "type": "model", "model": "lom:item/gui/npcs/npc_quest" } },
+		{ "when": "complete", "model": { "type": "model", "model": "lom:item/gui/npcs/npc_questcomplete" } }
+	  ]
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter1" },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter1" } },
+      { "threshold": 2, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter2" } },
+      { "threshold": 3, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter3" } },
+      { "threshold": 4, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter4" } },
+      { "threshold": 5, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter5" } },
+      { "threshold": 6, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter6" } },
+      { "threshold": 7, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter7" } },
+      { "threshold": 8, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter8" } },
+      { "threshold": 9, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter9" } },
+      { "threshold": 10, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter10" } },
+      { "threshold": 11, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter11" } },
+      { "threshold": 12, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter12" } },
+      { "threshold": 13, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter13" } },
+      { "threshold": 14, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter14" } },
+      { "threshold": 15, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/shop_shutter15" } }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
   "parent": "lom:item/gui/4x1-c",
   "textures": {
-    "texture": "lom:item/gui/npcs/progressbar/progressbar_gold25"
+    "texture": "lom:item/gui/npcs/progressbar/progressbar_rep100"
   },
   "display": {
     "gui": {
