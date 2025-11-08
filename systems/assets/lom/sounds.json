@@ -1467,5 +1467,20 @@
 	},
 	"sfx.sawmill": {
 		"sounds": ["lom:sfx.sawmill"]
+	},
+	"sfx.honorchains.catch": {
+		"sounds": ["lom:honorchains.catch"]
+	},
+	"sfx.honorchains.locked": {
+		"sounds": ["lom:honorchains.locked"]
+	},
+	"sfx.honorchains.loop": {
+		"sounds": ["lom:honorchains.loop"]
+	},
+	"sfx.honorchains.throw": {
+		"sounds": ["lom:honorchains.throw1","lom:honorchains.throw2","lom:honorchains.throw3","lom:honorchains.throw4"]
+	},
+	"sfx.recordscratch": {
+		"sounds": ["lom:recordscratch"]
 	}
 }
