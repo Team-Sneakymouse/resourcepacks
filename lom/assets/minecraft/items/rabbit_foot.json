@@ -162,6 +162,9 @@
       { "threshold": 156, "model": { "type": "model", "model": "lom:item/items/goldenbananapeel" } },
       { "threshold": 157, "model": { "type": "model", "model": "lom:item/items/scrollofnecromancy" } },
       { "threshold": 158, "model": { "type": "model", "model": "lom:item/items/holywrit" } },
+      { "threshold": 159, "model": { "type": "model", "model": "lom:item/tools/prisonclothes" } },
+      { "threshold": 160, "model": { "type": "model", "model": "lom:item/tools/dynamite" } },
+      { "threshold": 161, "model": { "type": "model", "model": "lom:item/tools/honorchains" } },
 
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },

@@ -302,5 +302,8 @@
 	"jimmylootbox9": { "sounds": ["lom:gift_jimmy/jimmylootbox9"] },
 	"jimmylootbox10": { "sounds": ["lom:gift_jimmy/jimmylootbox10"] },
 	"jimmylootbox11": { "sounds": ["lom:gift_jimmy/jimmylootbox11"] },
-	"jimmylootbox12": { "sounds": ["lom:gift_jimmy/jimmylootbox12"] }
+	"jimmylootbox12": { "sounds": ["lom:gift_jimmy/jimmylootbox12"] },
+	"sfx.dynamite": {
+		"sounds": ["lom:sfx.dynamite1", "lom:sfx.dynamite2", "lom:sfx.dynamite3", "lom:sfx.dynamite4", "lom:sfx.dynamite5"]
+	}
 }
