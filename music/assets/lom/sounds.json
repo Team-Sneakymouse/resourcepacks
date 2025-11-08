@@ -69,5 +69,9 @@
 	"music.goldenmonocle": {
 		"sounds": ["lom:goldenmonocle"],
 		"stream": true
+	},
+	"music.chase": {
+		"sounds": ["lom:chase"],
+		"stream": true
 	}
 }
