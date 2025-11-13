@@ -46,5 +46,8 @@
 	},
 	"shipbeamup": {
 		"sounds": [{ "name": "lom:shipbeamup", "stream": true }]
+	},
+	"sfx.paladincall": {
+		"sounds": ["lom:sfx.paladincall"]
 	}
 }
