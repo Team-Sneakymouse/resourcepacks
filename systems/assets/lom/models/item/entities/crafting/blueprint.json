@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by eranos123",
+	"parent": "lom:item/items/envelope",
+	"textures": {
+		"0": "lom:item/tools/blueprints/blueprint_partyhouse",
+		"1": "lom:item/items/envelope_ahnk",
+		"particle": "lom:item/tools/blueprints/blueprint_partyhouse"
+	}
+}

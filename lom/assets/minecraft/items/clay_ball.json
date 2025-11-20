@@ -202,7 +202,18 @@
       { "threshold": 1038, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner-failed2" } },
       { "threshold": 1039, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_fillorange" } },
       { "threshold": 1040, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_searching" } },
-      { "threshold": 1041, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_pickpocketing" } }
+      { "threshold": 1041, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_pickpocketing" } },
+      
+      { "threshold": 2001, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_deckofcards" } },
+      { "threshold": 2002, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_dragondust" } },
+      { "threshold": 2003, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_dynamite" } },
+      { "threshold": 2004, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_emergencyflare" } },
+      { "threshold": 2005, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_flowercrown" } },
+      { "threshold": 2006, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_mukpie" } },
+      { "threshold": 2007, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_skeletonkey" } },
+      { "threshold": 2008, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_smokebomb" } },
+      { "threshold": 2009, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_swammiex" } },
+      { "threshold": 2010, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_torch" } }
     ]
   }
 }

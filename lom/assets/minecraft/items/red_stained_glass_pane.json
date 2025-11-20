@@ -411,7 +411,19 @@
       { "threshold": 3496, "model": { "type": "model", "model": "lom:item/gui/fishing/fishcircle-voidguppy" } },
       { "threshold": 3497, "model": { "type": "model", "model": "lom:item/gui/fishing/fishcircle-bronze" } },
       { "threshold": 3498, "model": { "type": "model", "model": "lom:item/gui/fishing/fishcircle-silver" } },
-      { "threshold": 3499, "model": { "type": "model", "model": "lom:item/gui/fishing/fishcircle-gold" } }
+      { "threshold": 3499, "model": { "type": "model", "model": "lom:item/gui/fishing/fishcircle-gold" } },
+
+      { "threshold": 12000, "model": { "type": "model", "model": "lom:item/gui/crafting/crafticon_locked" } },
+      { "threshold": 12001, "model": { "type": "model", "model": "lom:item/gui/crafting/crafticon_deckofcards" } },
+      { "threshold": 12002, "model": { "type": "model", "model": "lom:item/gui/crafting/crafticon_dragondust" } },
+      { "threshold": 12003, "model": { "type": "model", "model": "lom:item/gui/crafting/crafticon_dynamite" } },
+      { "threshold": 12004, "model": { "type": "model", "model": "lom:item/gui/crafting/crafticon_emergencyflare" } },
+      { "threshold": 12005, "model": { "type": "model", "model": "lom:item/gui/crafting/crafticon_flowercrown" } },
+      { "threshold": 12006, "model": { "type": "model", "model": "lom:item/gui/crafting/crafticon_mukpie" } },
+      { "threshold": 12007, "model": { "type": "model", "model": "lom:item/gui/crafting/crafticon_skeletonkey" } },
+      { "threshold": 12008, "model": { "type": "model", "model": "lom:item/gui/crafting/crafticon_smokebomb" } },
+      { "threshold": 12009, "model": { "type": "model", "model": "lom:item/gui/crafting/crafticon_swammiex" } },
+      { "threshold": 12010, "model": { "type": "model", "model": "lom:item/gui/crafting/crafticon_torch" } }
     ]
   }
 }

@@ -2271,7 +2271,19 @@
       { "threshold": 8010, "model": { "type": "model", "model": "lom:item/gui/memes/meme10_icon" } },
       { "threshold": 8011, "model": { "type": "model", "model": "lom:item/gui/memes/meme11_icon" } },
       { "threshold": 8012, "model": { "type": "model", "model": "lom:item/gui/memes/meme12_icon" } },
-      { "threshold": 8013, "model": { "type": "model", "model": "lom:item/gui/memes/meme13_icon" } }
+      { "threshold": 8013, "model": { "type": "model", "model": "lom:item/gui/memes/meme13_icon" } },
+
+      { "threshold": 12000, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_main" } },
+      { "threshold": 12001, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_deckofcards" } },
+      { "threshold": 12002, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_dragondust" } },
+      { "threshold": 12003, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_dynamite" } },
+      { "threshold": 12004, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_emergencyflare" } },
+      { "threshold": 12005, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_flowercrown" } },
+      { "threshold": 12006, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_mukpie" } },
+      { "threshold": 12007, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_skeletonkey" } },
+      { "threshold": 12008, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_smokebomb" } },
+      { "threshold": 12009, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_swammiex" } },
+      { "threshold": 12010, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_torch" } }
     ]
   }
 }
