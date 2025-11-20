@@ -48,6 +48,15 @@
                     "on_true": { "type": "model", "model": "lom:item/tools/fishbook_open" },
                     "on_false": { "type": "model", "model": "lom:item/tools/fishbook" }
                 }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/tools/craftbook_open" },
+                    "on_false": { "type": "model", "model": "lom:item/tools/craftbook" }
+                }
             }
         ]
     }
