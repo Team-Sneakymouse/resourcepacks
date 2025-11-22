@@ -57,6 +57,15 @@
                     "on_true": { "type": "model", "model": "lom:item/tools/craftbook_open" },
                     "on_false": { "type": "model", "model": "lom:item/tools/craftbook" }
                 }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/tools/smokebomb2" },
+                    "on_false": { "type": "model", "model": "lom:item/tools/smokebomb1" }
+                }
             }
         ]
     }

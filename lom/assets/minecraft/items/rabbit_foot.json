@@ -166,6 +166,8 @@
       { "threshold": 160, "model": { "type": "model", "model": "lom:item/tools/dynamite" } },
       { "threshold": 161, "model": { "type": "model", "model": "lom:item/tools/honorchains" } },
       { "threshold": 162, "model": { "type": "model", "model": "lom:item/items/wantedposter" } },
+      { "threshold": 163, "model": { "type": "model", "model": "lom:item/tools/smokebomb1" } },
+      { "threshold": 164, "model": { "type": "model", "model": "lom:item/tools/smokebomb2" } },
 
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },

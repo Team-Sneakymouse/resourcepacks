@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/entities/template_big",
+  "textures": {
+    "0": "lom:item/entities/dragondust4"
+  }
+}
