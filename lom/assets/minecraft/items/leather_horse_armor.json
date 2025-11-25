@@ -16,6 +16,11 @@
         "type": "model",
         "model": "lom:item/tools/scryingorb_tint",
         "tints": [ { "type": "minecraft:dye", "default": 16777215 } ]
+      }},
+      { "threshold": 3, "model": {
+        "type": "model",
+        "model": "lom:item/hats/simplehats/partyhat",
+        "tints": [ { "type": "minecraft:dye", "default": 16239891 } ]
       }}
     ]
   }
