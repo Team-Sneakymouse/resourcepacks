@@ -1,1 +1,1 @@
-python3.10 make_xp_bar.py
+python make_xp_bar.py
