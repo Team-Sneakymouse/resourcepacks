@@ -93,5 +93,9 @@
 	"music.monica": {
 		"sounds": ["lom:music/music.monica"],
 		"stream": true
+	},
+	"music.casino": {
+		"sounds": ["lom:music/music.casino"],
+		"stream": true
 	}
 }

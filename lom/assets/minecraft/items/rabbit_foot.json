@@ -171,6 +171,7 @@
       { "threshold": 165, "model": { "type": "model", "model": "lom:item/tools/mystery_box" } },
       { "threshold": 166, "model": { "type": "model", "model": "lom:item/items/swammiex" } },
       { "threshold": 167, "model": { "type": "model", "model": "lom:item/tools/treasuremap" } },
+      { "threshold": 168, "model": { "type": "model", "model": "minecraft:item/gold_ingot" } },
 
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
