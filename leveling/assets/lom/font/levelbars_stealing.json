@@ -1,0 +1,1804 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/000.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/001.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/002.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/003.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/004.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/005.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/006.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/007.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/008.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/009.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/010.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/011.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/012.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/013.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/014.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/015.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/016.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/017.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/018.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/019.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/020.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/021.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/022.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/023.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/024.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/025.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/026.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/027.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/028.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/029.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/030.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/031.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/032.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/033.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/034.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/035.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/036.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/037.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/038.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/039.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/040.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/041.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/042.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/043.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/044.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/045.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/046.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/047.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/048.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/049.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/050.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/051.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/052.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/053.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/054.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/055.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/056.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/057.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/058.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/059.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE059"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/060.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE060"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/061.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE061"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/062.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE062"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/063.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE063"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/064.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE064"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/065.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE065"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/066.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE066"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/067.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE067"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/068.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE068"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/069.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE069"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/070.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE070"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/071.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE071"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/072.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE072"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/073.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE073"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/074.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE074"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/075.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE075"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/076.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE076"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/077.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE077"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/078.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE078"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/079.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE079"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/080.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE080"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/081.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE081"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/082.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE082"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/083.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE083"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/084.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE084"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/085.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE085"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/086.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE086"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/087.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE087"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/088.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE088"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/089.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE089"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/090.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE090"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/091.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE091"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/092.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE092"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/093.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE093"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/094.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE094"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/095.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE095"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/096.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE096"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/097.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE097"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/098.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE098"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/099.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE099"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/100.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE100"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/101.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE101"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/102.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE102"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/103.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE103"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/104.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE104"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/105.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE105"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/106.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE106"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/107.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE107"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/108.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE108"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/109.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE109"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/110.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE110"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/111.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE111"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/112.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE112"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/113.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE113"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/114.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE114"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/115.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE115"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/116.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE116"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/117.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE117"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/118.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE118"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/119.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE119"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/120.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE120"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/121.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE121"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/122.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE122"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/123.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE123"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/124.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE124"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/125.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE125"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/126.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE126"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/127.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE127"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/128.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE128"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/129.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE129"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/130.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE130"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/131.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE131"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/132.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE132"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/133.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE133"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/134.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE134"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/135.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE135"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/136.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE136"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/137.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE137"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/138.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE138"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/139.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE139"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/140.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE140"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/141.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE141"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/142.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE142"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/143.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE143"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/144.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE144"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/145.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE145"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/146.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE146"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/147.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE147"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/148.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE148"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/149.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE149"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/150.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE150"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/151.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE151"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/152.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE152"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/153.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE153"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/154.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE154"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/155.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE155"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/156.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE156"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/157.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE157"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/158.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE158"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/159.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE159"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/160.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE160"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/161.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE161"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/162.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE162"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/163.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE163"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/164.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE164"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/165.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE165"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/166.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE166"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/167.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE167"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/168.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE168"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/169.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE169"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/170.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE170"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/171.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE171"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/172.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE172"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/173.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE173"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/174.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE174"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/175.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE175"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/176.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE176"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/177.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE177"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/178.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE178"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/179.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE179"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/180.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE180"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/181.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE181"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/182.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE182"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/183.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE183"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/184.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE184"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/185.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE185"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/186.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE186"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/187.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE187"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/188.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE188"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/189.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE189"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/190.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE190"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/191.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE191"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/192.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE192"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/193.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE193"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/194.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE194"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/195.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE195"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/196.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE196"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/197.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE197"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/198.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE198"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/levelbars_stealing/199.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE199"
+            ]
+        }
+    ]
+}
