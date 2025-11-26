@@ -133,6 +133,11 @@
       { "threshold": 127, "model": { "type": "model", "model": "lom:item/entities/dvc_full" } },
       { "threshold": 128, "model": { "type": "model", "model": "lom:item/entities/stomper" } },
       { "threshold": 129, "model": { "type": "model", "model": "lom:item/entities/trashcan" } },
+      { "threshold": 130, "model": { "type": "model", "model": "lom:item/entities/eggsplat1" } },
+      { "threshold": 131, "model": { "type": "model", "model": "lom:item/entities/eggsplat2" } },
+      { "threshold": 132, "model": { "type": "model", "model": "lom:item/entities/eggsplat3" } },
+      { "threshold": 133, "model": { "type": "model", "model": "lom:item/entities/eggsplat4" } },
+      { "threshold": 134, "model": { "type": "model", "model": "lom:item/entities/eggsplat5" } },
 
       { "threshold": 201, "model": { "type": "model", "model": "lom:item/entities/racks/racks_flamethrower" } },
       { "threshold": 202, "model": { "type": "model", "model": "lom:item/entities/racks/racks_wrench" } },

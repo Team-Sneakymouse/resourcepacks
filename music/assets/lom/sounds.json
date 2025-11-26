@@ -73,5 +73,25 @@
 	"music.chase": {
 		"sounds": ["lom:chase"],
 		"stream": true
+	},
+	"music.chesthunters": {
+		"sounds": ["lom:music/music.chesthunters"],
+		"stream": true
+	},
+	"music.cliffhangers": {
+		"sounds": ["lom:music/music.cliffhangers"],
+		"stream": true
+	},
+	"music.jumptraining": {
+		"sounds": ["lom:music/music.jumptraining"],
+		"stream": true
+	},
+	"music.jumptraining2": {
+		"sounds": ["lom:music/music.jumptraining2"],
+		"stream": true
+	},
+	"music.monica": {
+		"sounds": ["lom:music/music.monica"],
+		"stream": true
 	}
 }

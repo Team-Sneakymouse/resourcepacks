@@ -2283,7 +2283,10 @@
       { "threshold": 12007, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_skeletonkey" } },
       { "threshold": 12008, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_smokebomb" } },
       { "threshold": 12009, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_swammiex" } },
-      { "threshold": 12010, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_torch" } }
+      { "threshold": 12010, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_torch" } },
+      { "threshold": 12011, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_counterfeitcoin" } },
+      { "threshold": 12012, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_firework" } },
+      { "threshold": 12013, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_treasuremap" } }
     ]
   }
 }

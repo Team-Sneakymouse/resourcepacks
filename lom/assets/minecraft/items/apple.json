@@ -104,7 +104,20 @@
       { "threshold": 98, "model": { "type": "model", "model": "lom:item/items/meat" } },
       { "threshold": 99, "model": { "type": "model", "model": "lom:item/items/goldenbanana" } },
       { "threshold": 100, "model": { "type": "model", "model": "lom:item/items/dragondust" } },
-      { "threshold": 101, "model": { "type": "model", "model": "lom:item/items/burntmuk" } }
+      { "threshold": 102, "model": { "type": "model", "model": "lom:item/items/burntmuk" } },
+      { "threshold": 103, "model": { "type": "model", "model": "lom:item/items/burgers/burger" } },
+      { "threshold": 104, "model": { "type": "model", "model": "lom:item/items/burgers/burgerbrickton" } },
+      { "threshold": 105, "model": { "type": "model", "model": "lom:item/items/burgers/burgerdarkvale" } },
+      { "threshold": 106, "model": { "type": "model", "model": "lom:item/items/burgers/burgerdwarven" } },
+      { "threshold": 107, "model": { "type": "model", "model": "lom:item/items/burgers/burgergoattown" } },
+      { "threshold": 108, "model": { "type": "model", "model": "lom:item/items/burgers/burgergrove" } },
+      { "threshold": 109, "model": { "type": "model", "model": "lom:item/items/burgers/burgermoonbay" } },
+      { "threshold": 110, "model": { "type": "model", "model": "lom:item/items/burgers/burgerroyal" } },
+      { "threshold": 111, "model": { "type": "model", "model": "lom:item/items/burgers/burgerrainbow" } },
+      { "threshold": 112, "model": { "type": "model", "model": "lom:item/items/burgers/burgersouthshire" } },
+      { "threshold": 113, "model": { "type": "model", "model": "lom:item/items/burgers/burgersticky" } },
+      { "threshold": 114, "model": { "type": "model", "model": "minecraft:item/egg" } },
+      { "threshold": 115, "model": { "type": "model", "model": "minecraft:item/bread" } }
     ]
   }
 }
