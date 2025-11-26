@@ -111,7 +111,7 @@ json_data = {
 }
 
 # Determine the JSON file path
-json_file_path = os.path.join("lom", "assets", "lom", "font", f"{video_name}.json")
+json_file_path = os.path.join("leveling", "assets", "lom", "font", f"{video_name}.json")
 
 # Create the directory if it doesn't exist
 os.makedirs(os.path.dirname(json_file_path), exist_ok=True)
