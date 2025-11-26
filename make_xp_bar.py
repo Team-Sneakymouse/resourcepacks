@@ -15,7 +15,7 @@ if os.path.exists(frames_dir):
     if os.path.isdir(frames_dir):
         shutil.rmtree(frames_dir)
 os.makedirs(frames_dir, exist_ok=True)
-output_dir = f'lom/assets/lom/textures/font/{video_name}'
+output_dir = f'leveling/assets/lom/textures/font/{video_name}'
 os.makedirs(output_dir, exist_ok=True)
 
 # Define ffprobe command to get video information
