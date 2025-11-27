@@ -1482,5 +1482,122 @@
 	},
 	"sfx.recordscratch": {
 		"sounds": ["lom:recordscratch"]
+	},
+    "casino.bonus1": {
+		"sounds": ["lom:casino/casino.bonus1"]
+	},
+    "casino.bonus2": {
+		"sounds": ["lom:casino/casino.bonus2"]
+	},
+    "casino.bonus3": {
+		"sounds": ["lom:casino/casino.bonus3"]
+	},
+    "casino.bonus4": {
+		"sounds": ["lom:casino/casino.bonus4"]
+	},
+    "casino.chesthunters1": {
+		"sounds": ["lom:casino/casino.chesthunters1"]
+	},
+    "casino.chesthunters2": {
+		"sounds": ["lom:casino/casino.chesthunters2"]
+	},
+    "casino.chesthunters3": {
+		"sounds": ["lom:casino/casino.chesthunters3"]
+	},
+    "casino.chesthunters4": {
+		"sounds": ["lom:casino/casino.chesthunters4"]
+	},
+    "casino.chesthunters5": {
+		"sounds": ["lom:casino/casino.chesthunters5"]
+	},
+    "casino.chesthunters6": {
+		"sounds": ["lom:casino/casino.chesthunters6"]
+	},
+    "casino.chesthunters7": {
+		"sounds": ["lom:casino/casino.chesthunters7"]
+	},
+    "casino.chesthunters8": {
+		"sounds": ["lom:casino/casino.chesthunters8"]
+	},
+    "casino.chips": {
+		"sounds": ["lom:casino/casino.chips"]
+	},
+    "casino.dvz1": {
+		"sounds": ["lom:casino/casino.dvz1"]
+	},
+    "casino.dvz2": {
+		"sounds": ["lom:casino/casino.dvz2"]
+	},
+    "casino.dvz3": {
+		"sounds": ["lom:casino/casino.dvz3"]
+	},
+    "casino.dvz4": {
+		"sounds": ["lom:casino/casino.dvz4"]
+	},
+    "casino.dvz5": {
+		"sounds": ["lom:casino/casino.dvz5"]
+	},
+    "casino.dvz6": {
+		"sounds": ["lom:casino/casino.dvz6"]
+	},
+    "casino.dvz7": {
+		"sounds": ["lom:casino/casino.dvz7"]
+	},
+    "casino.dvz8": {
+		"sounds": ["lom:casino/casino.dvz8"]
+	},
+    "casino.dvzlose": {
+		"sounds": ["lom:casino/casino.dvzlose"]
+	},
+    "casino.dvzmain": {
+		"sounds": ["lom:casino/casino.dvzmain"]
+	},
+    "casino.jimmyminesweeaper1": {
+		"sounds": ["lom:casino/casino.jimmyminesweeaper1"]
+	},
+    "casino.jimmyminesweeaper2": {
+		"sounds": ["lom:casino/casino.jimmyminesweeaper2"]
+	},
+    "casino.jimmyminesweeaper3": {
+		"sounds": ["lom:casino/casino.jimmyminesweeaper3"]
+	},
+    "casino.jimmyminesweeaper4": {
+		"sounds": ["lom:casino/casino.jimmyminesweeaper4"]
+	},
+    "casino.jimmyminesweeaper5": {
+		"sounds": ["lom:casino/casino.jimmyminesweeaper5"]
+	},
+    "casino.oom1": {
+		"sounds": ["lom:casino/casino.oom1"]
+	},
+    "casino.oom2": {
+		"sounds": ["lom:casino/casino.oom2"]
+	},
+    "casino.oom3": {
+		"sounds": ["lom:casino/casino.oom3"]
+	},
+    "casino.oom4": {
+		"sounds": ["lom:casino/casino.oom4"]
+	},
+    "casino.oom5": {
+		"sounds": ["lom:casino/casino.oom5"]
+	},
+    "casino.oom6": {
+		"sounds": ["lom:casino/casino.oom6"]
+	},
+    "casino.oom7": {
+		"sounds": ["lom:casino/casino.oom7"]
+	},
+    "casino.oom8": {
+		"sounds": ["lom:casino/casino.oom8"]
+	},
+    "casino.rps1": {
+		"sounds": ["lom:casino/casino.rps1"]
+	},
+    "casino.rps2": {
+		"sounds": ["lom:casino/casino.rps2"]
+	},
+    "casino.rps3": {
+		"sounds": ["lom:casino/casino.rps3"]
 	}
 }
