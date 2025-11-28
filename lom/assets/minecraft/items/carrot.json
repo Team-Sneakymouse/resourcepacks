@@ -22,7 +22,8 @@
       { "threshold": 16, "model": { "type": "model", "model": "lom:item/items/oil_bottle" } },
       { "threshold": 17, "model": { "type": "model", "model": "lom:item/items/soap_bottle" } },
       { "threshold": 18, "model": { "type": "model", "model": "lom:item/items/sprinkle_bottle" } },
-      { "threshold": 19, "model": { "type": "model", "model": "lom:item/items/wine_bottle" } }
+      { "threshold": 19, "model": { "type": "model", "model": "lom:item/items/wine_bottle" } },
+      { "threshold": 20, "model": { "type": "model", "model": "lom:item/items/swammiex" } }
     ]
   }
 }

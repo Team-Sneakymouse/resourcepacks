@@ -169,9 +169,11 @@
       { "threshold": 163, "model": { "type": "model", "model": "lom:item/tools/smokebomb1" } },
       { "threshold": 164, "model": { "type": "model", "model": "lom:item/tools/smokebomb2" } },
       { "threshold": 165, "model": { "type": "model", "model": "lom:item/tools/mystery_box" } },
-      { "threshold": 166, "model": { "type": "model", "model": "lom:item/items/swammiex" } },
+      
       { "threshold": 167, "model": { "type": "model", "model": "lom:item/tools/treasuremap" } },
       { "threshold": 168, "model": { "type": "model", "model": "minecraft:item/gold_ingot" } },
+      { "threshold": 169, "model": { "type": "model", "model": "minecraft:item/torch" } },
+      { "threshold": 170, "model": { "type": "model", "model": "lom:item/tools/emergencyflare" } },
 
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
