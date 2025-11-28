@@ -236,7 +236,10 @@
       { "threshold": 2007, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_skeletonkey" } },
       { "threshold": 2008, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_smokebomb" } },
       { "threshold": 2009, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_swammiex" } },
-      { "threshold": 2010, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_torch" } }
+      { "threshold": 2010, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_torch" } },
+      { "threshold": 2011, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_counterfeitcoin" } },
+      { "threshold": 2012, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_firework" } },
+      { "threshold": 2013, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_treasuremap" } }
     ]
   }
 }
