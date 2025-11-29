@@ -34,8 +34,5 @@
 	},
 	"birthdaysurprise": {
 		"sounds": ["lom:birthdaysurprise"]
-	},
-	"music.happybirthday": {
-		"sounds": ["lom:music.happybirthday"]
 	}
 }

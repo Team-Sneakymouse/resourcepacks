@@ -97,5 +97,8 @@
 	"music.casino": {
 		"sounds": ["lom:music/music.casino"],
 		"stream": true
+	},
+	"music.happybirthday": {
+		"sounds": ["lom:music.happybirthday"]
 	}
 }

@@ -174,6 +174,8 @@
       { "threshold": 168, "model": { "type": "model", "model": "minecraft:item/gold_ingot" } },
       { "threshold": 169, "model": { "type": "model", "model": "minecraft:item/torch" } },
       { "threshold": 170, "model": { "type": "model", "model": "lom:item/tools/emergencyflare" } },
+      { "threshold": 171, "model": { "type": "model", "model": "lom:item/items/crafting_note" } },
+      { "threshold": 172, "model": { "type": "model", "model": "lom:item/items/vip_pass1" } },
 
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
