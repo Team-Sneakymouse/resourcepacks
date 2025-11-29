@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/hats/simplehats/spyzombie",
+	"textures": {
+		"0": "lom:item/hats/spybruce"
+	}
+}
