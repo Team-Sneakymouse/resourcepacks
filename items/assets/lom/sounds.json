@@ -305,5 +305,27 @@
 	"jimmylootbox12": { "sounds": ["lom:gift_jimmy/jimmylootbox12"] },
 	"sfx.dynamite": {
 		"sounds": ["lom:sfx.dynamite1", "lom:sfx.dynamite2", "lom:sfx.dynamite3", "lom:sfx.dynamite4", "lom:sfx.dynamite5"]
-	}
+	},
+	"lootbox.banana": { "sounds": ["lom:gift_jimmy/lootbox.banana"] },
+	"lootbox.blacklotus": { "sounds": ["lom:gift_jimmy/lootbox.blacklotus"] },
+	"lootbox.cake": { "sounds": ["lom:gift_jimmy/lootbox.cake"] },
+	"lootbox.casinobox": { "sounds": ["lom:gift_jimmy/lootbox.casinobox"] },
+	"lootbox.cheese": { "sounds": ["lom:gift_jimmy/lootbox.cheese"] },
+	"lootbox.cherry": { "sounds": ["lom:gift_jimmy/lootbox.cherry"] },
+	"lootbox.cookies": { "sounds": ["lom:gift_jimmy/lootbox.cookies"] },
+	"lootbox.craftingnotes": { "sounds": ["lom:gift_jimmy/lootbox.craftingnotes"] },
+	"lootbox.dragoncoins": { "sounds": ["lom:gift_jimmy/lootbox.dragoncoins"] },
+	"lootbox.exp": { "sounds": ["lom:gift_jimmy/lootbox.exp"] },
+	"lootbox.fishingrod": { "sounds": ["lom:gift_jimmy/lootbox.fishingrod"] },
+	"lootbox.jackpot": { "sounds": ["lom:gift_jimmy/lootbox.jackpot"] },
+	"lootbox.lootbox": { "sounds": ["lom:gift_jimmy/lootbox.lootbox"] },
+	"lootbox.milk": { "sounds": ["lom:gift_jimmy/lootbox.milk"] },
+	"lootbox.muk": { "sounds": ["lom:gift_jimmy/lootbox.muk"] },
+	"lootbox.penny": { "sounds": ["lom:gift_jimmy/lootbox.penny"] },
+	"lootbox.rarehat": { "sounds": ["lom:gift_jimmy/lootbox.rarehat"] },
+	"lootbox.rarescroll": { "sounds": ["lom:gift_jimmy/lootbox.rarescroll"] },
+	"lootbox.vippass": { "sounds": ["lom:gift_jimmy/lootbox.vippass"] },
+	"lootbox.wand": { "sounds": ["lom:gift_jimmy/lootbox.wand"] },
+	"lootbox.weapon": { "sounds": ["lom:gift_jimmy/lootbox.weapon"] }
+	
 }
