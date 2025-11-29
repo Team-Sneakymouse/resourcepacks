@@ -249,7 +249,12 @@
       { "threshold": 243, "model": { "type": "model", "model": "lom:item/items/prototype-items/weapon37" } },
       { "threshold": 244, "model": { "type": "model", "model": "lom:item/items/prototype-items/weapon38" } },
       { "threshold": 245, "model": { "type": "model", "model": "lom:item/items/prototype-items/weapon39" } },
-      { "threshold": 246, "model": { "type": "model", "model": "lom:item/items/prototype-items/weapon40" } }
+      { "threshold": 246, "model": { "type": "model", "model": "lom:item/items/prototype-items/weapon40" } },
+      { "threshold": 247, "model": { "type": "model", "model": "lom:item/items/prototype-items/bike-horn" } },
+      { "threshold": 248, "model": { "type": "model", "model": "lom:item/items/prototype-items/coconut" } },
+      { "threshold": 249, "model": { "type": "model", "model": "lom:item/items/prototype-items/coloured-juggling-balls" } },
+      { "threshold": 250, "model": { "type": "model", "model": "lom:item/items/prototype-items/snowglobe" } },
+      { "threshold": 251, "model": { "type": "model", "model": "lom:item/items/prototype-items/tuna" } }
     ]
   }
 }

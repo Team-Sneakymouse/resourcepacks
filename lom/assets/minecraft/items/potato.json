@@ -46,7 +46,20 @@
       { "threshold": 41, "model": { "type": "model", "model": "lom:item/items/prototype-food/exploding_muffin" } },
       { "threshold": 42, "model": { "type": "model", "model": "lom:item/items/prototype-food/eyescream" } },
       { "threshold": 43, "model": { "type": "model", "model": "lom:item/items/prototype-food/fries" } },
-      { "threshold": 44, "model": { "type": "model", "model": "lom:item/items/prototype-food/icecream" } }
+      { "threshold": 44, "model": { "type": "model", "model": "lom:item/items/prototype-food/icecream" } },
+      { "threshold": 45, "model": { "type": "model", "model": "lom:item/items/prototype-food/candies" } },
+      { "threshold": 46, "model": { "type": "model", "model": "lom:item/items/prototype-food/candy" } },
+      { "threshold": 47, "model": { "type": "model", "model": "lom:item/items/prototype-food/chocolate_b_ar" } },
+      { "threshold": 48, "model": { "type": "model", "model": "lom:item/items/prototype-food/csggjggm" } },
+      { "threshold": 49, "model": { "type": "model", "model": "lom:item/items/prototype-food/gumball" } },
+      { "threshold": 50, "model": { "type": "model", "model": "lom:item/items/prototype-food/gummy_worms" } },
+      { "threshold": 51, "model": { "type": "model", "model": "lom:item/items/prototype-food/kebab" } },
+      { "threshold": 52, "model": { "type": "model", "model": "lom:item/items/prototype-food/mermaid_candy" } },
+      { "threshold": 53, "model": { "type": "model", "model": "lom:item/items/prototype-food/salad" } },
+      { "threshold": 54, "model": { "type": "model", "model": "lom:item/items/prototype-food/sushi-roll" } },
+      { "threshold": 55, "model": { "type": "model", "model": "lom:item/items/prototype-food/sushi_1" } },
+      { "threshold": 56, "model": { "type": "model", "model": "lom:item/items/prototype-food/texture" } },
+      { "threshold": 57, "model": { "type": "model", "model": "lom:item/items/prototype-food/truffle" } }
     ]
   }
 }
