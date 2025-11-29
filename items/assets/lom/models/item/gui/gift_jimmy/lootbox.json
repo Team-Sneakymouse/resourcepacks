@@ -1,0 +1,10 @@
+{
+  "parent": "lom:item/items/gift_jimmy",
+  "display": {
+    "gui": {
+      "rotation": [30, -135, 0],
+      "translation": [0, 12, 0],
+      "scale": [3.33, 3.33, 3.33]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/gift_jimmy/gift_icon",
+  "textures": {
+    "layer0": "lom:item/items/vip_pass1"
+  }
+}

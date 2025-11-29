@@ -1,0 +1,11 @@
+{
+  "parent": "lom:item/gui/gift_jimmy/gift_icon",
+  "textures": {
+    "layer0": "minecraft:item/cake"
+  },
+  "display": {
+    "gui": {
+      "scale": [2.0, 2.0, 2.0]
+    }
+  }
+}

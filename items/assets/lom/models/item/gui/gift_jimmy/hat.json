@@ -1,0 +1,10 @@
+{
+  "parent": "lom:item/hats/simplehats/jesterhat",
+  "display": {
+    "gui": {
+      "rotation": [35, -135, 0],
+      "translation": [0, 0, 0],
+      "scale": [1.5, 1.5, 1.5]
+    }
+  }
+}

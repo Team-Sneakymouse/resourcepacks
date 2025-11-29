@@ -1,0 +1,10 @@
+{
+  "parent": "lom:item/tools/fishingrods/purple_fishing_rod",
+  "display": {
+    "gui": {
+      "rotation": [-45, -21, -41],
+      "translation": [2.5, 2, -3.25],
+      "scale": [3.0, 3.0, 3.0]
+    }
+  }
+}
