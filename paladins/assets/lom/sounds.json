@@ -49,5 +49,8 @@
 	},
 	"sfx.paladincall": {
 		"sounds": ["lom:sfx.paladincall"]
+	},
+	"sfx.metalgear": {
+		"sounds": ["lom:sfx.metalgear"]
 	}
 }
