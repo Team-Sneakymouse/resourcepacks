@@ -104,7 +104,8 @@
       { "threshold": 98, "model": { "type": "model", "model": "lom:item/items/meat" } },
       { "threshold": 99, "model": { "type": "model", "model": "lom:item/items/goldenbanana" } },
       { "threshold": 100, "model": { "type": "model", "model": "lom:item/items/dragondust" } },
-      { "threshold": 102, "model": { "type": "model", "model": "lom:item/items/burntmuk" } },
+      { "threshold": 101, "model": { "type": "model", "model": "lom:item/items/burntmuk" } },
+      
       { "threshold": 103, "model": { "type": "model", "model": "lom:item/items/burgers/burger" } },
       { "threshold": 104, "model": { "type": "model", "model": "lom:item/items/burgers/burgerbrickton" } },
       { "threshold": 105, "model": { "type": "model", "model": "lom:item/items/burgers/burgerdarkvale" } },
