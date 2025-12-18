@@ -1,0 +1,12 @@
+{
+  "parent": "lom:item/gui/1x1-0",
+  "textures": {
+    "texture": "lom:item/gui/horses/bond_10"
+  },
+  "display": {
+    "gui": {
+      "scale": [3, 3, 3],
+      "translation": [-0.3, -2.3, 0]
+    }
+  }
+}
