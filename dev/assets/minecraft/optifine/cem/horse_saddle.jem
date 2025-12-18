@@ -1,6 +1,6 @@
 {
 	"textureSize": [256, 256],
-	"texture": "textures/entity/horse/saddle.png",
+	"texture": "optifine/random/entity/horse/saddle.png",
 	"models": [
 		{
 			"part": "head",

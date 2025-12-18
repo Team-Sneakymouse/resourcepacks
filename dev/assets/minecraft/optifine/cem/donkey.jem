@@ -16,7 +16,7 @@
 							"id": "headpiece2",
 							"invertAxis": "xy",
 							"translate": [0, 13.9213, -4.0163],
-							"texture": "textures/entity/horse/saddle.png",
+							"texture": "optifine/random/entity/horse/saddle.png",
 							"textureSize": [256, 256],
 							"boxes": [
 								{
@@ -160,7 +160,7 @@
 					"id": "left_rein2",
 					"invertAxis": "xy",
 					"translate": [0, 25.5, -5.5],
-					"texture": "textures/entity/horse/saddle.png",
+					"texture": "optifine/random/entity/horse/saddle.png",
 					"textureSize": [256, 256],
 					"submodels": [
 						{
@@ -1681,7 +1681,7 @@
 									"invertAxis": "xy",
 									"translate": [0, 1.25, 0],
 									"rotate": [20, 0, 0],
-									"texture": "textures/entity/horse/horse_eyes.png",
+									"texture": "optifine/random/entity/horse/horse_eyes.png",
 									"textureSize": [256, 256],
 									"boxes": [
 										{
@@ -1928,7 +1928,7 @@
 					"id": "saddlesss",
 					"invertAxis": "xy",
 					"translate": [0, 13, 6],
-					"texture": "textures/entity/horse/saddle.png",
+					"texture": "optifine/random/entity/horse/saddle.png",
 					"textureSize": [256, 256],
 					"submodels": [
 						{
