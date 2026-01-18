@@ -195,6 +195,7 @@
       { "threshold": 526, "model": { "type": "model", "model": "lom:item/entities/casino_lounges/table" } },
       { "threshold": 527, "model": { "type": "model", "model": "lom:item/entities/casino_lounges/wall_cue_rack" } },
       { "threshold": 528, "model": { "type": "model", "model": "lom:item/entities/metalgear" } },
+      { "threshold": 529, "model": { "type": "model", "model": "lom:item/entities/scooter" } },
 
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_details" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_main" } },
