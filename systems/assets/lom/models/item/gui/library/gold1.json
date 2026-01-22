@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/2x2-2.5",
+  "textures": {
+    "texture": "lom:item/gui/library/gold1"
+  }
+}

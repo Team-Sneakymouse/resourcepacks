@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/library/books/book-right",
+  "textures": {
+    "0": "lom:item/gui/library/books/book54"
+  }
+}
