@@ -103,7 +103,6 @@
       { "threshold": 98, "model": { "type": "model", "model": "lom:item/entities/lumber_log_spruce_left" } },
       { "threshold": 99, "model": { "type": "model", "model": "lom:item/entities/lumber_log_spruce_right" } },
       { "threshold": 100, "model": { "type": "model", "model": "lom:item/entities/goldenbanana" } },
-
       { "threshold": 101, "model": { "type": "model", "model": "lom:item/entities/torture_machines/electric_chair" } },
       { "threshold": 102, "model": { "type": "model", "model": "lom:item/entities/torture_machines/punish_bracelets" } },
       { "threshold": 103, "model": { "type": "model", "model": "lom:item/entities/torture_machines/medieval_stocks" } },
@@ -239,6 +238,14 @@
       { "threshold": 1040, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_searching" } },
       { "threshold": 1041, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_pickpocketing" } },
       
+      { "threshold": 1901, "model": { "type": "model", "model": "lom:item/entities/leaderboards/leaderboard_monday" } },
+      { "threshold": 1902, "model": { "type": "model", "model": "lom:item/entities/leaderboards/leaderboard_tuesday" } },
+      { "threshold": 1903, "model": { "type": "model", "model": "lom:item/entities/leaderboards/leaderboard_wednesday" } },
+      { "threshold": 1904, "model": { "type": "model", "model": "lom:item/entities/leaderboards/leaderboard_thrusday" } },
+      { "threshold": 1905, "model": { "type": "model", "model": "lom:item/entities/leaderboards/leaderboard_friday" } },
+      { "threshold": 1906, "model": { "type": "model", "model": "lom:item/entities/leaderboards/leaderboard_saturday" } },
+      { "threshold": 1907, "model": { "type": "model", "model": "lom:item/entities/leaderboards/leaderboard_sunday" } },
+
       { "threshold": 2001, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_deckofcards" } },
       { "threshold": 2002, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_dragondust" } },
       { "threshold": 2003, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_dynamite" } },
