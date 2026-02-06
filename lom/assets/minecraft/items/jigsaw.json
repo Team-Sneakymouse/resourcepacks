@@ -2333,7 +2333,8 @@
       { "threshold": 13029, "model": { "type": "model", "model": "lom:item/gui/help_images/help_sprint" } },
       { "threshold": 13030, "model": { "type": "model", "model": "lom:item/gui/help_images/help_sticky" } },
       { "threshold": 13031, "model": { "type": "model", "model": "lom:item/gui/help_images/help_stickydistrict" } },
-      { "threshold": 13032, "model": { "type": "model", "model": "lom:item/gui/help_images/help_swim" } }
+      { "threshold": 13032, "model": { "type": "model", "model": "lom:item/gui/help_images/help_swim" } },
+      { "threshold": 13033, "model": { "type": "model", "model": "lom:item/gui/help_images/help_sciencejob" } }
     ]
   }
 }
