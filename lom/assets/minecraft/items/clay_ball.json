@@ -137,6 +137,7 @@
       { "threshold": 132, "model": { "type": "model", "model": "lom:item/entities/eggsplat3" } },
       { "threshold": 133, "model": { "type": "model", "model": "lom:item/entities/eggsplat4" } },
       { "threshold": 134, "model": { "type": "model", "model": "lom:item/entities/eggsplat5" } },
+      { "threshold": 135, "model": { "type": "model", "model": "lom:item/entities/dead_goat" } },
 
       { "threshold": 201, "model": { "type": "model", "model": "lom:item/entities/racks/racks_flamethrower" } },
       { "threshold": 202, "model": { "type": "model", "model": "lom:item/entities/racks/racks_wrench" } },
