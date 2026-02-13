@@ -13,7 +13,9 @@
       { "threshold": 7, "model": { "type": "model", "model": "lom:item/items/plushies/laz" } },
       { "threshold": 8, "model": { "type": "model", "model": "lom:item/items/plushies/demonyanba" } },
       { "threshold": 9, "model": { "type": "model", "model": "lom:item/items/plushies/thanebarry" } },
-      { "threshold": 666, "model": { "type": "model", "model": "lom:item/items/plushies/msdvil" } }
+      { "threshold": 666, "model": { "type": "model", "model": "lom:item/items/plushies/msdvil" } },
+
+      { "threshold": 1001, "model": { "type": "model", "model": "lom:item/items/straw" } }
     ]
   }
 }
