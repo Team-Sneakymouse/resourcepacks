@@ -177,6 +177,11 @@
       { "threshold": 171, "model": { "type": "model", "model": "lom:item/items/crafting_note" } },
       { "threshold": 172, "model": { "type": "model", "model": "lom:item/items/vip_pass1" } },
       { "threshold": 173, "model": { "type": "model", "model": "lom:item/items/leather" } },
+      { "threshold": 174, "model": { "type": "model", "model": "lom:item/tools/dart1" } },
+      { "threshold": 175, "model": { "type": "model", "model": "lom:item/tools/dart2" } },
+      { "threshold": 176, "model": { "type": "model", "model": "lom:item/tools/dart3" } },
+      { "threshold": 177, "model": { "type": "model", "model": "lom:item/tools/dart4" } },
+      { "threshold": 178, "model": { "type": "model", "model": "lom:item/tools/dart5" } },
 
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
