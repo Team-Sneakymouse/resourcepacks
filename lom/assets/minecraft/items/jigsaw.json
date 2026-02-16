@@ -2334,7 +2334,20 @@
       { "threshold": 13030, "model": { "type": "model", "model": "lom:item/gui/help_images/help_sticky" } },
       { "threshold": 13031, "model": { "type": "model", "model": "lom:item/gui/help_images/help_stickydistrict" } },
       { "threshold": 13032, "model": { "type": "model", "model": "lom:item/gui/help_images/help_swim" } },
-      { "threshold": 13033, "model": { "type": "model", "model": "lom:item/gui/help_images/help_sciencejob" } }
+      { "threshold": 13033, "model": { "type": "model", "model": "lom:item/gui/help_images/help_sciencejob" } },
+
+      { "threshold": 14001, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui" } },
+      { "threshold": 14002, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_boxes" } },
+      { "threshold": 14003, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire" } },
+      { "threshold": 14004, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire1" } },
+      { "threshold": 14005, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire2" } },
+      { "threshold": 14006, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire3" } },
+      { "threshold": 14007, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire4" } },
+      { "threshold": 14008, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire5" } },
+      { "threshold": 14009, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire6" } },
+      { "threshold": 14010, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire7" } },
+      { "threshold": 14011, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire8" } },
+      { "threshold": 14012, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire9" } }
     ]
   }
 }

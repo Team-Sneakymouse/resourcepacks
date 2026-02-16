@@ -1,0 +1,10 @@
+{
+	"parent": "lom:item/gui/blacksmith/forge_gui_fire",
+	"display": {
+		"gui": {
+			"rotation": [0, -90, 0],
+			"translation": [57, -40.79, -5],
+			"scale": [0.0001, 4, 4]
+		}
+	}
+}
