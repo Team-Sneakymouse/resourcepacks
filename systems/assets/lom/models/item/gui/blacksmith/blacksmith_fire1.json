@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/blacksmith/blacksmith_fire",
+  "textures": {
+    "texture": "lom:item/gui/blacksmith/blacksmith_fire1"
+  }
+}

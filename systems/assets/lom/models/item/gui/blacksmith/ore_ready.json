@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/blacksmith/icon_ore",
+  "textures": {
+    "texture": "lom:item/gui/blacksmith/ore_ready"
+  }
+}

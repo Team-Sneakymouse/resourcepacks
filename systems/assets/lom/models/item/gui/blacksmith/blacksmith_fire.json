@@ -1,0 +1,12 @@
+{
+  "parent": "lom:item/gui/2x2-c",
+  "textures": {
+    "texture": "lom:item/gui/blacksmith/blacksmith_fire"
+  },
+  "display": {
+    "gui": {
+      "scale": [0.9, 0.9, 0.9],
+      "translation": [21, 10, 0]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "lom:item/gui/2x2-c",
+  "textures": {
+    "texture": "lom:item/gui/blacksmith/blacksmith_locked"
+  },
+  "display": {
+    "gui": {
+      "scale": [0.6, 0.6, 0.6],
+      "translation": [2, -1, 0]
+    }
+  }
+}

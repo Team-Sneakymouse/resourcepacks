@@ -1,0 +1,9 @@
+{
+	"parent": "lom:item/gui/2x2-c",
+	"display": {
+		"gui": {
+			"scale": [0.70, 0.70, 0.70],
+			"translation": [2, -3, 0]
+		}
+	}
+}

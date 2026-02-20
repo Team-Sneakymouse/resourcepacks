@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/blacksmith/icon_gold",
+  "textures": {
+    "texture": "lom:item/gui/blacksmith/gold_empty"
+  }
+}

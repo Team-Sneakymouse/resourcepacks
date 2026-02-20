@@ -196,6 +196,7 @@
       { "threshold": 527, "model": { "type": "model", "model": "lom:item/entities/casino_lounges/wall_cue_rack" } },
       { "threshold": 528, "model": { "type": "model", "model": "lom:item/entities/metalgear" } },
       { "threshold": 529, "model": { "type": "model", "model": "lom:item/entities/scooter" } },
+      { "threshold": 530, "model": { "type": "model", "model": "lom:item/gui/blacksmith/blacksmith_box" } },
 
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_details" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_main" } },
