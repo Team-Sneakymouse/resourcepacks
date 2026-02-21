@@ -13,5 +13,38 @@
 		"replace": true,
 		"sounds": ["lom:random/custom.bowhit1", "lom:random/custom.bowhit2", "lom:random/custom.bowhit3", "lom:random/custom.bowhit4"],
 		"subtitle": "subtitles.entity.arrow.hit"
+	},
+	"block.mud_bricks.fall": {
+		"replace": true,
+		"sounds": ["step/stone1", "step/stone2", "step/stone3", "step/stone4", "step/stone5", "step/stone6"]
+	},
+	"block.mud_bricks.step": {
+		"replace": true,
+		"sounds": ["step/stone1", "step/stone2", "step/stone3", "step/stone4", "step/stone5", "step/stone6"],
+		"subtitle": "subtitles.block.generic.footsteps"
+	},
+	"block.muddy_mangrove_roots.break": {
+		"replace": true,
+		"sounds": ["dig/stone1", "dig/stone2", "dig/stone3", "dig/stone4"],
+		"subtitle": "subtitles.block.generic.break"
+	},
+	"block.muddy_mangrove_roots.fall": {
+		"replace": true,
+		"sounds": ["step/stone1", "step/stone2", "step/stone3", "step/stone4", "step/stone5", "step/stone6"]
+	},
+	"block.muddy_mangrove_roots.hit": {
+		"replace": true,
+		"sounds": ["step/stone1", "step/stone2", "step/stone3", "step/stone4", "step/stone5", "step/stone6"],
+		"subtitle": "subtitles.block.generic.hit"
+	},
+	"block.muddy_mangrove_roots.place": {
+		"replace": true,
+		"sounds": ["dig/stone1", "dig/stone2", "dig/stone3", "dig/stone4"],
+		"subtitle": "subtitles.block.generic.place"
+	},
+	"block.muddy_mangrove_roots.step": {
+		"replace": true,
+		"sounds": ["step/stone1", "step/stone2", "step/stone3", "step/stone4", "step/stone5", "step/stone6"],
+		"subtitle": "subtitles.block.generic.footsteps"
 	}
 }
