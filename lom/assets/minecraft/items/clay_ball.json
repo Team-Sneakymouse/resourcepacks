@@ -240,6 +240,7 @@
       { "threshold": 1040, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_searching" } },
       { "threshold": 1041, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_pickpocketing" } },
       { "threshold": 1042, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_burgler" } },
+      { "threshold": 1043, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_sellingdrugs" } },
       
       { "threshold": 1901, "model": { "type": "model", "model": "lom:item/entities/leaderboards/leaderboard_monday" } },
       { "threshold": 1902, "model": { "type": "model", "model": "lom:item/entities/leaderboards/leaderboard_tuesday" } },
