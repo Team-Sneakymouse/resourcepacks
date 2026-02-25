@@ -241,6 +241,11 @@
       { "threshold": 1041, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_pickpocketing" } },
       { "threshold": 1042, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_burgler" } },
       { "threshold": 1043, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_sellingdrugs" } },
+      { "threshold": 1044, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_fillheat" } },
+      { "threshold": 1045, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_fillred" } },
+      { "threshold": 1046, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_heat" } },
+      { "threshold": 1047, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_coal" } },
+      { "threshold": 1048, "model": { "type": "model", "model": "lom:item/entities/vidwindows/bar_fillcoal" } },
       
       { "threshold": 1901, "model": { "type": "model", "model": "lom:item/entities/leaderboards/leaderboard_monday" } },
       { "threshold": 1902, "model": { "type": "model", "model": "lom:item/entities/leaderboards/leaderboard_tuesday" } },
