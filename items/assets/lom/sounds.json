@@ -326,6 +326,6 @@
 	"lootbox.rarescroll": { "sounds": ["lom:gift_jimmy/lootbox.rarescroll"] },
 	"lootbox.vippass": { "sounds": ["lom:gift_jimmy/lootbox.vippass"] },
 	"lootbox.wand": { "sounds": ["lom:gift_jimmy/lootbox.wand"] },
-	"lootbox.weapon": { "sounds": ["lom:gift_jimmy/lootbox.weapon"] }
-	
+	"lootbox.weapon": { "sounds": ["lom:gift_jimmy/lootbox.weapon"] },
+	"items/spraycan": { "sounds": ["lom:items/spraycan"] }
 }

@@ -74,6 +74,10 @@
       { "threshold": 67, "model": { "type": "model", "model": "lom:item/tools/sign_aye" } },
       { "threshold": 68, "model": { "type": "model", "model": "lom:item/tools/sign_nay" } },
       { "threshold": 69, "model": { "type": "model", "model": "lom:item/tools/presence_shank" } },
+      { "threshold": 70, "model": { "type": "model", "model": "lom:item/tools/spraycan_blue" } },
+      { "threshold": 71, "model": { "type": "model", "model": "lom:item/tools/spraycan_green" } },
+      { "threshold": 72, "model": { "type": "model", "model": "lom:item/tools/spraycan_pink" } },
+      { "threshold": 73, "model": { "type": "model", "model": "lom:item/tools/spraycan_red" } },
       
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/items/badges/water" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/items/badges/fire" } },
