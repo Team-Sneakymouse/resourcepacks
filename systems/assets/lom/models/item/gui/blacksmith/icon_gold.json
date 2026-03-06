@@ -3,7 +3,7 @@
 	"display": {
 		"gui": {
 			"scale": [0.70, 0.70, 0.70],
-			"translation": [3, -3, 0]
+			"translation": [3, -3, 20]
 		}
 	}
 }

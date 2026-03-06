@@ -2,5 +2,12 @@
   "parent": "lom:item/gui/6rows-0",
   "textures": {
     "texture": "lom:item/gui/blacksmith/forge_gui"
-  }
+  },
+	"display": {
+		"gui": {
+			"rotation": [0, -90, 0],
+			"translation": [74, -34.75, 15],
+			"scale": [0.0001, 4, 4]
+		}
+	}
 }
