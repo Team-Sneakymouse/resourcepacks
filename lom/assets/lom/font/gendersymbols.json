@@ -1,0 +1,25 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "lom:font/gendersymbols/mars.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["♂"]
+    },
+    {
+      "type": "bitmap",
+      "file": "lom:font/gendersymbols/venus.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["♀"]
+    },
+    {
+      "type": "bitmap",
+      "file": "lom:font/gendersymbols/combined.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": ["⚥"]
+    }
+  ]
+}
