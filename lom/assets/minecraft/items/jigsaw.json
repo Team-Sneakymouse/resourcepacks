@@ -2336,6 +2336,9 @@
       { "threshold": 13031, "model": { "type": "model", "model": "lom:item/gui/help_images/help_stickydistrict" } },
       { "threshold": 13032, "model": { "type": "model", "model": "lom:item/gui/help_images/help_swim" } },
       { "threshold": 13033, "model": { "type": "model", "model": "lom:item/gui/help_images/help_sciencejob" } },
+      { "threshold": 13034, "model": { "type": "model", "model": "lom:item/gui/help_images/help_crazyroleplay" } },
+      { "threshold": 13035, "model": { "type": "model", "model": "lom:item/gui/help_images/warning1" } },
+      { "threshold": 13036, "model": { "type": "model", "model": "lom:item/gui/help_images/warning2" } },
 
       { "threshold": 14001, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui" } },
       { "threshold": 14002, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_boxes" } },

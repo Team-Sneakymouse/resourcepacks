@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/3rows",
+  "textures": {
+    "texture": "lom:item/gui/help_images/warning1"
+  }
+}
