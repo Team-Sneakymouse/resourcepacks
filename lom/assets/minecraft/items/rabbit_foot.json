@@ -184,6 +184,7 @@
       { "threshold": 178, "model": { "type": "model", "model": "lom:item/tools/dart5" } },
       { "threshold": 179, "model": { "type": "model", "model": "lom:item/items/bar_steel" } },
       { "threshold": 180, "model": { "type": "model", "model": "lom:item/items/bar_gold" } },
+      { "threshold": 181, "model": { "type": "model", "model": "lom:item/tools/molotov" } },
 
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },

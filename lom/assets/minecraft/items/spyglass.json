@@ -12,7 +12,13 @@
     },
     "entries": [
       { "threshold": 1, "model": { "type": "minecraft:model", "model": "lom:item/items/tinderflame_in_hand" }},
-      { "threshold": 2, "model": { "type": "minecraft:model", "model": "lom:item/tools/magnifyingglass" }}
+      { "threshold": 2, "model": { "type": "minecraft:model", "model": "lom:item/tools/magnifyingglass" }},
+      { "threshold": 3, "model":  {
+          "type": "condition",
+          "property": "minecraft:using_item",
+          "on_true": { "type": "model", "model": "lom:item/weapons/sniper_rifle_scoped" },
+          "on_false": { "type": "model", "model": "lom:item/weapons/sniper_rifle" }
+      }}
     ]
   }
 }

@@ -1,0 +1,10 @@
+{
+	"parent": "lom:item/weapons/sniper_rifle",
+	"display": {
+		"head": {
+			"rotation": [0, 0, 0],
+			"translation": [0, -3, -13],
+			"scale": [1.27, 1.27, 1.27]
+		}
+	}
+}

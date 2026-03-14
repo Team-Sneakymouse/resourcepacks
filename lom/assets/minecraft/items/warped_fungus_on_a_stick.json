@@ -32,6 +32,7 @@
       { "threshold": 26, "model": { "type": "model", "model": "lom:item/tools/horsebrush" } },
       { "threshold": 27, "model": { "type": "model", "model": "lom:item/tools/clipboard" } },
       { "threshold": 28, "model": { "type": "model", "model": "lom:item/tools/lumberjackaxe" } },
+      { "threshold": 29, "model": { "type": "model", "model": "lom:item/weapons/sniper_rifle" } },
 
       { "threshold": 29, "model": { "type": "model", "model": "lom:item/tools/basic_staff" } },
       { "threshold": 30, "model": { "type": "model", "model": "lom:item/tools/staffs/blossom_staff" } },
