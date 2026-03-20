@@ -81,6 +81,7 @@
       { "threshold": 2047, "model": { "type": "model", "model": "lom:item/gui/blacksmith/blacksmith_fire" } },
       { "threshold": 2048, "model": { "type": "model", "model": "lom:item/gui/blacksmith/blacksmith_fire1" } },
       { "threshold": 2049, "model": { "type": "model", "model": "lom:item/gui/blacksmith/blacksmith_fire2" } },
+      { "threshold": 2050, "model": { "type": "model", "model": "lom:item/hats/simplehats/rimglasses" } },
 
       { "threshold": 2100, "model": { "type": "model", "model": "lom:item/gui/npcs/hearts/npcheart_0" } },
       { "threshold": 2101, "model": { "type": "model", "model": "lom:item/gui/npcs/hearts/npcheart_1" } },
