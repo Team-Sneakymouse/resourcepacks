@@ -1,0 +1,8 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "lom:item/gui/npcs/arrow-right" },
+    "entries": []
+   }
+}
