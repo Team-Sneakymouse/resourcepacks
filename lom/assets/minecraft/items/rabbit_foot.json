@@ -193,6 +193,9 @@
       { "threshold": 187, "model": { "type": "model", "model": "lom:item/tools/pool" } },
       { "threshold": 188, "model": { "type": "model", "model": "lom:item/tools/skeletonkey" } },
       { "threshold": 189, "model": { "type": "model", "model": "lom:item/items/gem1" } },
+      { "threshold": 190, "model": { "type": "model", "model": "lom:item/tools/scryingorb_tint", "tints": [ { "type": "minecraft:dye", "default": -15362066 } ] } },
+      { "threshold": 191, "model": { "type": "model", "model": "lom:item/tools/scryingorb_tint", "tints": [ { "type": "minecraft:dye", "default": -1163200 } ] } },
+      { "threshold": 192, "model": { "type": "model", "model": "lom:item/tools/scryingorb_tint", "tints": [ { "type": "minecraft:dye", "default": -1158669 } ] } },
 
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
