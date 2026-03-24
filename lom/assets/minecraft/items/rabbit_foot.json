@@ -197,6 +197,7 @@
       { "threshold": 191, "model": { "type": "model", "model": "lom:item/tools/scryingorb_tint", "tints": [ { "type": "minecraft:dye", "default": -1163200 } ] } },
       { "threshold": 192, "model": { "type": "model", "model": "lom:item/tools/scryingorb_tint", "tints": [ { "type": "minecraft:dye", "default": -1158669 } ] } },
       { "threshold": 193, "model": { "type": "model", "model": "lom:item/items/baloon", "tints": [ { "type": "minecraft:dye", "default": -1158669 } ] } },
+      { "threshold": 194, "model": { "type": "model", "model": "lom:item/tools/webslinger"} },
 
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
