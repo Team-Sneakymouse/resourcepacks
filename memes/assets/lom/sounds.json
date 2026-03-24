@@ -31,5 +31,11 @@
 	},
 	"sfx.ignite5": {
 		"sounds": ["lom:sfx/ignite5"]
+	},
+	"music.captainamerica": {
+		"sounds": ["lom:music.captainamerica"]
+	},
+	"music.spiderman": {
+		"sounds": ["lom:music.spiderman"]
 	}
 }
