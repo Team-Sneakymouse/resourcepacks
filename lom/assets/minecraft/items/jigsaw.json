@@ -1487,6 +1487,7 @@
       { "threshold": 3076, "model": { "type": "model", "model": "lom:item/gui/bag-of-holding" } },
       { "threshold": 3077, "model": { "type": "model", "model": "lom:item/gui/jukeboxgui" } },
       { "threshold": 3078, "model": { "type": "model", "model": "lom:item/gui/mannequin_frame" } },
+      { "threshold": 3079, "model": { "type": "model", "model": "lom:item/gui/mlmorb_gui" } },
 
       { "threshold": 3101, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius" } },
       { "threshold": 3102, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius1" } },
