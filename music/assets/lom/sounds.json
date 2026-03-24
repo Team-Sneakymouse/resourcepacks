@@ -99,6 +99,6 @@
 		"stream": true
 	},
 	"music.happybirthday": {
-		"sounds": ["lom:music.happybirthday"]
+		"sounds": ["lom:music/music.happybirthday"]
 	}
 }
