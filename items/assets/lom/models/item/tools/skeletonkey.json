@@ -2,11 +2,12 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by Narkles",
 	"textures": {
-		"0": "lom:item/tools/skeletonkey_teeth2",
+		"0": "lom:item/tools/skeletonkey_teeth_l1",
 		"2": "block/bone_block_side",
 		"5": "block/mushroom_stem",
+		"6": "lom:item/tools/skeletonkey_teeth_r1",
 		"8": "lom:item/items/pearl2",
-		"particle": "lom:item/tools/skeletonkey_teeth2"
+		"particle": "lom:item/tools/skeletonkey_teeth_l1"
 	},
 	"elements": [
 		{
@@ -199,8 +200,8 @@
 			"to": [7.65, 2.25, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [5.75, -0.5, 8]},
 			"faces": {
-				"north": {"uv": [0, 1, 16, 15], "rotation": 180, "texture": "#0"},
-				"south": {"uv": [0, 0, 16, 14], "texture": "#0"}
+				"north": {"uv": [0, 1, 16, 15], "rotation": 180, "texture": "#6"},
+				"south": {"uv": [0, 0, 16, 14], "texture": "#6"}
 			}
 		},
 		{
@@ -254,12 +255,14 @@
 		{
 			"name": "group",
 			"origin": [7, 1, 1],
+			"scope": 0,
 			"color": 1,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 		},
 		{
 			"name": "group",
 			"origin": [9, 1, 1],
+			"scope": 0,
 			"color": 1,
 			"children": [12, 13, 14, 15]
 		}
