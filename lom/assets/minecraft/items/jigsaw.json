@@ -2352,7 +2352,18 @@
       { "threshold": 14009, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire6" } },
       { "threshold": 14010, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire7" } },
       { "threshold": 14011, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire8" } },
-      { "threshold": 14012, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire9" } }
+      { "threshold": 14012, "model": { "type": "model", "model": "lom:item/gui/blacksmith/forge_gui_fire9" } },
+
+      { "threshold": 14101, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_bang" } },
+      { "threshold": 14102, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_1" } },
+      { "threshold": 14103, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_2" } },
+      { "threshold": 14104, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_button_upgrade_inactive" } },
+      { "threshold": 14105, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_button_upgrade_active" } },
+      { "threshold": 14106, "model": { "type": "model", "model": "lom:item/gui/tools/pickaxe_gui_t0" } },
+      { "threshold": 14107, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_1_left" } },
+      { "threshold": 14108, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_1_right" } },
+      { "threshold": 14109, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_2_left" } },
+      { "threshold": 14110, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_2_right" } }
     ]
   }
 }

@@ -1,0 +1,30 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "lom:item/gui/tools/blacksmith_upgrade_1",
+		"texture": "lom:item/gui/tools/blacksmith_upgrade_1"
+	},
+	"elements": [
+		{
+			"from": [0.75, 0, 8],
+			"to": [15.25, 14.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"east": {"uv": [2, 0, 2, 14.5], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 0, 14.5], "texture": "#missing"},
+				"up": {"uv": [0, 0, 14.5, 0], "texture": "#missing"},
+				"down": {"uv": [0, 2, 14.5, 2], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [0, 1, 0],
+			"scale": [2.6, 2.75, 2.75]
+		}
+	}
+}

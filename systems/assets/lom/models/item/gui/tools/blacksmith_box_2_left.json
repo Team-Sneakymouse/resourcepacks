@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/tools/blacksmith_box_left",
+  "textures": {
+    "texture": "lom:item/gui/tools/blacksmith_box_2"
+  }
+}

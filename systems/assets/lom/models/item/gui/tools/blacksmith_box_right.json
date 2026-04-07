@@ -1,0 +1,9 @@
+{
+  "parent": "lom:item/gui/tools/blacksmith_box",
+	"display": {
+		"gui": {
+			"translation": [-18, 0, 0],
+			"scale": [1.6, 1.6, 1]
+		}
+	}
+}
