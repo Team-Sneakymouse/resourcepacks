@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench by EliteCreatures",
 	"texture_size": [64, 64],
 	"textures": {
@@ -201,12 +202,12 @@
 			"scale": [0.22594, 0.22594, 0.22594]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 180, 0],
+			"rotation": [0, -180, 0],
 			"translation": [0.5, 4, 0],
 			"scale": [0.34328, 0.34328, 0.34328]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 180, 0],
+			"rotation": [0, -180, 0],
 			"translation": [0.5, 4, 0],
 			"scale": [0.34328, 0.34328, 0.34328]
 		},
@@ -220,19 +221,20 @@
 			"scale": [0.65492, 0.65492, 0.65492]
 		},
 		"head": {
-			"rotation": [0, 180, 0],
+			"rotation": [0, -180, 0],
 			"translation": [0, -30.4, -19.25],
 			"scale": [1.6, 1.6, 1.6]
 		},
 		"fixed": {
-			"translation": [0, 0, 8],
-			"scale": [2, 2, 2]
+			"translation": [0, 0, 2],
+			"scale": [0.5, 0.5, 0.5]
 		}
 	},
 	"groups": [
 		{
 			"name": "group",
 			"origin": [6.37286, 11.05202, 22.046],
+			"scope": 0,
 			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
 		},

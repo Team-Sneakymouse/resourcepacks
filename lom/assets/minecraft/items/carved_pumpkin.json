@@ -88,6 +88,9 @@
       { "threshold": 82, "model": { "type": "model", "model": "lom:item/hats/spybruce" } },
       { "threshold": 83, "model": { "type": "model", "model": "lom:item/hats/spyjimmy" } },
       { "threshold": 84, "model": { "type": "model", "model": "lom:item/hats/rat_ears" } },
+      { "threshold": 85, "model": { "type": "model", "model": "lom:item/tools/parachute" } },
+      { "threshold": 86, "model": { "type": "model", "model": "lom:item/tools/parachute_gpo" } },
+      { "threshold": 87, "model": { "type": "model", "model": "lom:item/hats/propeller_hat" } },
 
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/hats/somehats/axe_hat" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/hats/somehats/beret_red" } },

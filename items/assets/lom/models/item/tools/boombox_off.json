@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench by eranos123",
+	"parent": "lom:item/tools/boombox",
+	"textures": {
+		"1": "lom:item/tools/boombox_2_static"
+	}
+}

@@ -76,10 +76,6 @@
       { "threshold": 71, "model": { "type": "model", "model": "lom:item/tools/spraycan_green" } },
       { "threshold": 72, "model": { "type": "model", "model": "lom:item/tools/spraycan_pink" } },
       { "threshold": 73, "model": { "type": "model", "model": "lom:item/tools/spraycan_red" } },
-      { "threshold": 74, "model": { "type": "model", "model": "lom:item/weapons/water_gun" } },
-      { "threshold": 75, "model": { "type": "model", "model": "lom:item/weapons/future_gun" } },
-      { "threshold": 76, "model": { "type": "model", "model": "lom:item/tools/chainsaw" } },
-      { "threshold": 77, "model": { "type": "model", "model": "lom:item/tools/powerdrill" } },
       
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/items/badges/water" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/items/badges/fire" } },

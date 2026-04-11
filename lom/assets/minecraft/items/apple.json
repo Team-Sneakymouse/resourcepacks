@@ -38,8 +38,6 @@
       { "threshold": 32, "model": { "type": "model", "model": "lom:item/items/cookie2" } },
       { "threshold": 33, "model": { "type": "model", "model": "lom:item/items/goatmilk" } },
       { "threshold": 34, "model": { "type": "model", "model": "lom:item/items/pinkmilk" } },
-      { "threshold": 35, "model": { "type": "model", "model": "lom:item/items/food/apple" } },
-      { "threshold": 36, "model": { "type": "model", "model": "lom:item/items/food/golden_apple" } },
       { "threshold": 37, "model": { "type": "model", "model": "lom:item/items/food/enchanted_golden_apple" } },
       { "threshold": 38, "model": { "type": "model", "model": "lom:item/items/food/melon_slice" } },
       { "threshold": 39, "model": { "type": "model", "model": "lom:item/items/food/glistering_melon_slice" } },
@@ -72,11 +70,7 @@
       { "threshold": 66, "model": { "type": "model", "model": "lom:item/items/food/cookie" } },
       { "threshold": 67, "model": { "type": "model", "model": "lom:item/items/food/pumpkin_pie" } },
       { "threshold": 68, "model": { "type": "model", "model": "lom:item/items/food/rotten_flesh" } },
-      { "threshold": 69, "model": { "type": "model", "model": "lom:item/items/food/bowl" } },
-      { "threshold": 70, "model": { "type": "model", "model": "lom:item/items/food/mushroom_stew" } },
-      { "threshold": 71, "model": { "type": "model", "model": "lom:item/items/food/beetroot_soup" } },
-      { "threshold": 72, "model": { "type": "model", "model": "lom:item/items/food/rabbit_stew" } },
-      { "threshold": 73, "model": { "type": "model", "model": "lom:item/items/food/suspicious_stew" } },
+
       { "threshold": 74, "model": { "type": "model", "model": "lom:item/items/dwarven_ale" } },
       { "threshold": 75, "model": { "type": "model", "model": "lom:item/items/ale" } },
       { "threshold": 76, "model": { "type": "model", "model": "lom:item/items/blood_bottle" } },
@@ -119,7 +113,9 @@
       { "threshold": 113, "model": { "type": "model", "model": "lom:item/items/burgers/burgersticky" } },
       { "threshold": 114, "model": { "type": "model", "model": "minecraft:item/egg" } },
       { "threshold": 115, "model": { "type": "model", "model": "minecraft:item/bread" } },
-      { "threshold": 116, "model": { "type": "model", "model": "lom:item/items/mudpie" } }
+      { "threshold": 116, "model": { "type": "model", "model": "lom:item/items/mudpie" } },
+      { "threshold": 117, "model": { "type": "model", "model": "lom:item/items/taco" } },
+      { "threshold": 118, "model": { "type": "model", "model": "lom:item/items/coconut_half" } }
     ]
   }
 }

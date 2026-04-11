@@ -25,7 +25,12 @@
       { "threshold": 19, "model": { "type": "model", "model": "lom:item/items/wine_bottle" } },
       { "threshold": 20, "model": { "type": "model", "model": "lom:item/items/swammiex" } },
       { "threshold": 21, "model": { "type": "model", "model": "lom:item/tools/molotov" } },
-      { "threshold": 22, "model": { "type": "model", "model": "lom:item/items/ol_classic" } }
+      { "threshold": 22, "model": { "type": "model", "model": "lom:item/items/ol_classic" } },
+      { "threshold": 23, "model": { "type": "model", "model": "lom:item/items/shrines_blessing" } },
+      { "threshold": 24, "model": { "type": "model", "model": "lom:item/items/food/mushroom_stew" } },
+      { "threshold": 25, "model": { "type": "model", "model": "lom:item/items/food/beetroot_soup" } },
+      { "threshold": 26, "model": { "type": "model", "model": "lom:item/items/food/rabbit_stew" } },
+      { "threshold": 27, "model": { "type": "model", "model": "lom:item/items/food/suspicious_stew" } }
     ]
   }
 }

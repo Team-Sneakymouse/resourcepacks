@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench by EliteCreatures",
 	"texture_size": [64, 64],
 	"textures": {
@@ -336,14 +337,14 @@
 			"scale": [0.51563, 0.51563, 0.51563]
 		},
 		"head": {
-			"rotation": [0, 180, 0],
+			"rotation": [0, -180, 0],
 			"translation": [0, -30.4, 0],
 			"scale": [1.6, 1.6, 1.6]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -16],
-			"scale": [2, 2, 2]
+			"translation": [0, 0, -4],
+			"scale": [0.5, 0.5, 0.5]
 		}
 	}
 }

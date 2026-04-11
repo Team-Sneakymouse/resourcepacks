@@ -254,7 +254,11 @@
       { "threshold": 248, "model": { "type": "model", "model": "lom:item/items/prototype-items/coconut" } },
       { "threshold": 249, "model": { "type": "model", "model": "lom:item/items/prototype-items/coloured-juggling-balls" } },
       { "threshold": 250, "model": { "type": "model", "model": "lom:item/items/prototype-items/snowglobe" } },
-      { "threshold": 251, "model": { "type": "model", "model": "lom:item/items/prototype-items/tuna" } }
+      { "threshold": 251, "model": { "type": "model", "model": "lom:item/items/prototype-items/tuna" } },
+      { "threshold": 252, "model": { "type": "model", "model": "lom:item/weapons/water_gun" } },
+      { "threshold": 253, "model": { "type": "model", "model": "lom:item/weapons/future_gun" } },
+      { "threshold": 254, "model": { "type": "model", "model": "lom:item/tools/chainsaw" } },
+      { "threshold": 255, "model": { "type": "model", "model": "lom:item/tools/powerdrill" } }
     ]
   }
 }
