@@ -1,10 +1,10 @@
 {
-	"format_version": "1.21.6",
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench by vidokou",
 	"textures": {
-		"4": "block/coal_block",
-		"6": "block/red_mushroom_block",
-		"7": "block/comparator_on"
+		"4": "blocks/coal_block",
+		"6": "blocks/mushroom_block_skin_red",
+		"7": "blocks/comparator_on"
 	},
 	"elements": [
 		{
@@ -173,9 +173,34 @@
 			"translation": [0.75, 3.25, 0],
 			"scale": [1, 1, 1.13]
 		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [-0.5, 3.5, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-29, 75, -49],
+			"translation": [0, 3, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-65, -98, 13],
+			"translation": [-0.75, 1.5, -0.75]
+		},
 		"gui": {
-			"rotation": [45, 60, -60],
-			"translation": [0, -1, 0]
+			"rotation": [-5, 55, -39],
+			"translation": [0, -0.75, 0],
+			"scale": [1.34, 1.34, 1.34]
+		},
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 12.25, 0]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [-0.75, 2, -2],
+			"scale": [1, 1.5, 1.5]
+		},
+		"on_shelf": {
+			"rotation": [0, 90, 0]
 		}
 	},
 	"groups": [
@@ -183,12 +208,14 @@
 		{
 			"name": "Antenna",
 			"origin": [0, 0, 0],
+			"scope": 0,
 			"color": 0,
 			"children": [1, 2, 3]
 		},
 		{
 			"name": "Button",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [4, 5, 6, 7, 8, 9, 10, 11]
 		}
