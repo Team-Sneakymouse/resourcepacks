@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lom:item/items/clothing/clothing_0000s_0137_layer-30-copy-2"
+  }
+}
