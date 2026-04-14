@@ -83,7 +83,27 @@
       { "threshold": 86, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-6" } },
       { "threshold": 87, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-7" } },
       { "threshold": 88, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-8" } },
-      { "threshold": 89, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-9" } }
+      { "threshold": 89, "model": { "type": "model", "model": "lom:item/tools/wings/wings_19-9" } },
+      { "threshold": 90, "model": { "type": "model", "model": "lom:item/tools/wings/wings_1-a" } },
+      { "threshold": 91, "model": { "type": "model", "model": "lom:item/tools/wings/wings_1-1" } },
+      { "threshold": 92, "model": { "type": "model", "model": "lom:item/tools/wings/wings_1-2" } },
+      { "threshold": 93, "model": { "type": "model", "model": "lom:item/tools/wings/wings_1-3" } },
+      { "threshold": 94, "model": { "type": "model", "model": "lom:item/tools/wings/wings_1-4" } },
+      { "threshold": 95, "model": { "type": "model", "model": "lom:item/tools/wings/wings_1-5" } },
+      { "threshold": 96, "model": { "type": "model", "model": "lom:item/tools/wings/wings_1-6" } },
+      { "threshold": 97, "model": { "type": "model", "model": "lom:item/tools/wings/wings_1-7" } },
+      { "threshold": 98, "model": { "type": "model", "model": "lom:item/tools/wings/wings_1-8" } },
+      { "threshold": 99, "model": { "type": "model", "model": "lom:item/tools/wings/wings_1-9" } },
+      { "threshold": 100, "model": { "type": "model", "model": "lom:item/tools/wings/wings_14-a" } },
+      { "threshold": 101, "model": { "type": "model", "model": "lom:item/tools/wings/wings_14-1" } },
+      { "threshold": 102, "model": { "type": "model", "model": "lom:item/tools/wings/wings_14-2" } },
+      { "threshold": 103, "model": { "type": "model", "model": "lom:item/tools/wings/wings_14-3" } },
+      { "threshold": 104, "model": { "type": "model", "model": "lom:item/tools/wings/wings_14-4" } },
+      { "threshold": 105, "model": { "type": "model", "model": "lom:item/tools/wings/wings_14-5" } },
+      { "threshold": 106, "model": { "type": "model", "model": "lom:item/tools/wings/wings_14-6" } },
+      { "threshold": 107, "model": { "type": "model", "model": "lom:item/tools/wings/wings_14-7" } },
+      { "threshold": 108, "model": { "type": "model", "model": "lom:item/tools/wings/wings_14-8" } },
+      { "threshold": 109, "model": { "type": "model", "model": "lom:item/tools/wings/wings_14-9" } }
     ]
   }
 }

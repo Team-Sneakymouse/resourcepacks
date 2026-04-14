@@ -1,0 +1,21 @@
+{
+	"credit": "www.pixelmine.com",
+	"texture_size": [64, 64],
+	"parent": "lom:item/tools/wings/wings",
+	"textures": {
+		"0": "lom:item/tools/wings/wings_14",
+		"particle": "lom:item/tools/wings/wings_14"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [160, 0, 0],
+			"translation": [-6, -8, 11.5],
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [160, 0, 0],
+			"translation": [-6, -8, 11.5],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}
