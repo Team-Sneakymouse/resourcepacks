@@ -1,0 +1,11 @@
+{
+	"model": {
+	  "type": "minecraft:select",
+	  "property": "custom_model_data",
+	  "fallback": { "type": "model", "model": "lom:item/gui/npcs/talonwinechester_alt" },
+	  "cases": [
+		{ "when": "main", "model": { "type": "model", "model": "lom:item/gui/npcs/talonwinechester_main" } },
+		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/talonwinechester_alt" } }
+	  ]
+	}
+}
