@@ -1425,8 +1425,7 @@
       { "threshold": 3012, "model": { "type": "model", "model": "lom:item/gui/scootsash" } },
       { "threshold": 3013, "model": { "type": "model", "model": "lom:item/gui/confirmpurchase" } },
       { "threshold": 3014, "model": { "type": "model", "model": "lom:item/gui/bankui1" } },
-      { "threshold": 3015, "model": { "type": "model", "model": "lom:item/gui/bankui2" } },
-      { "threshold": 3016, "model": { "type": "model", "model": "lom:item/gui/bankui3" } },
+      
       { "threshold": 3017, "model": { "type": "model", "model": "lom:item/gui/icons/banknote" } },
       { "threshold": 3018, "model": { "type": "model", "model": "lom:item/gui/storeui" } },
       { "threshold": 3019, "model": { "type": "model", "model": "lom:item/gui/storeui_tomorrow" } },
