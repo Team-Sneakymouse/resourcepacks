@@ -5,7 +5,8 @@
 	  "fallback": { "type": "model", "model": "lom:item/gui/npcs/valereetaylor_alt" },
 	  "cases": [
 		{ "when": "main", "model": { "type": "model", "model": "lom:item/gui/npcs/valereetaylor_main" } },
-		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/valereetaylor_alt" } }
+		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/valereetaylor_alt" } },
+		{ "when": "tailor", "model": { "type": "model", "model": "lom:item/gui/npcs/valereetaylor_tailor" } }
 	  ]
 	}
 }

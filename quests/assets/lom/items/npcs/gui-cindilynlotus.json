@@ -5,7 +5,8 @@
 	  "fallback": { "type": "model", "model": "lom:item/gui/npcs/cindilynlotus_alt" },
 	  "cases": [
 		{ "when": "main", "model": { "type": "model", "model": "lom:item/gui/npcs/cindilynlotus_main" } },
-		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/cindilynlotus_alt" } }
+		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/cindilynlotus_alt" } },
+		{ "when": "tailor", "model": { "type": "model", "model": "lom:item/gui/npcs/cindilynlotus_tailor" } }
 	  ]
 	}
 }
