@@ -352,7 +352,28 @@
       { "threshold": 2010, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_torch" } },
       { "threshold": 2011, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_counterfeitcoin" } },
       { "threshold": 2012, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_firework" } },
-      { "threshold": 2013, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_treasuremap" } }
+      { "threshold": 2013, "model": { "type": "model", "model": "lom:item/entities/crafting/blueprint_treasuremap" } },
+
+      { "threshold": 3001, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/barrel_1" } },
+      { "threshold": 3002, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/barrel_2" } },
+      { "threshold": 3003, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/board_1" } },
+      { "threshold": 3004, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/boardsign_1" } },
+      { "threshold": 3005, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/box_1" } },
+      { "threshold": 3006, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/cargo_1" } },
+      { "threshold": 3007, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/cargo_2" } },
+      { "threshold": 3008, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/chair_1" } },
+      { "threshold": 3009, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/chair_2" } },
+      { "threshold": 3010, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/crate_1" } },
+      { "threshold": 3011, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/crate_2" } },
+      { "threshold": 3012, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/crate_3" } },
+      { "threshold": 3013, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/crate_4" } },
+      { "threshold": 3014, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/marketstall_1" } },
+      { "threshold": 3015, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/marketstall_2" } },
+      { "threshold": 3016, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/marketstall_3" } },
+      { "threshold": 3017, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/marketstall_4" } },
+      { "threshold": 3018, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/shelf_1" } },
+      { "threshold": 3019, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/table_1" } },
+      { "threshold": 3020, "model": { "type": "model", "model": "elitecreatures:medieval_market_decoration_v2/table_2" } }
     ]
   }
 }

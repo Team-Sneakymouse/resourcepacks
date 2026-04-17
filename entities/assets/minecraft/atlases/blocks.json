@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "medieval_market_decoration_v2",
+      "prefix": "medieval_market_decoration_v2/"
+    }
+  ]
+}
