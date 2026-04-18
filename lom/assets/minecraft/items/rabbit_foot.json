@@ -216,6 +216,9 @@
       { "threshold": 215, "model": { "type": "model", "model": "lom:item/items/food/golden_apple" } },
       { "threshold": 216, "model": { "type": "model", "model": "lom:item/items/food/bowl" } },
       { "threshold": 217, "model": { "type": "model", "model": "lom:item/tools/clipboard_paladin" } },
+      { "threshold": 218, "model": { "type": "model", "model": "lom:item/tools/price_gun", "tints": [{ "type": "minecraft:dye", "default": -5231322}] } },
+      { "threshold": 219, "model": { "type": "model", "model": "lom:item/tools/price_gun", "tints": [{ "type": "minecraft:dye", "default": -6447721}] } },
+      { "threshold": 220, "model": { "type": "model", "model": "lom:item/tools/price_gun", "tints": [{ "type": "minecraft:dye", "default": -8170446}] } },
       
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },

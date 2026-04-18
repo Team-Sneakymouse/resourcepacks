@@ -1599,5 +1599,8 @@
 	},
     "casino.rps3": {
 		"sounds": ["lom:casino/casino.rps3"]
+	},
+    "sfx.pricegun": {
+		"sounds": ["lom:sfx.pricegun"]
 	}
 }
