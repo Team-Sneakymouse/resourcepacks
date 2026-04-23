@@ -2,9 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench by vidokou",
 	"textures": {
-		"4": "blocks/coal_block",
-		"6": "blocks/mushroom_block_skin_red",
-		"7": "blocks/comparator_on"
+		"4": "block/coal_block",
+		"6": "block/red_mushroom_block",
+		"7": "block/comparator_on"
 	},
 	"elements": [
 		{
