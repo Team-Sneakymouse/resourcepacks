@@ -4,6 +4,11 @@
       "type": "directory",
       "source": "medieval_market_decoration_v2",
       "prefix": "medieval_market_decoration_v2/"
+    },
+    {
+      "type": "directory",
+      "source": "furnituresplus",
+      "prefix": "furnituresplus/"
     }
   ]
 }
