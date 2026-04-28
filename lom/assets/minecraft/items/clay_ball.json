@@ -282,6 +282,9 @@
       { "threshold": 529, "model": { "type": "model", "model": "lom:item/entities/scooter" } },
       { "threshold": 530, "model": { "type": "model", "model": "lom:item/gui/blacksmith/blacksmith_box" } },
       { "threshold": 531, "model": { "type": "model", "model": "lom:item/entities/wooden_beam" } },
+      { "threshold": 532, "model": { "type": "model", "model": "lom:item/items/baloon_floor", "tints": [{ "type": "minecraft:dye", "default": -1158669}]} },
+      { "threshold": 533, "model": { "type": "model", "model": "lom:item/items/baloon_wall", "tints": [{ "type": "minecraft:dye", "default": -1158669}]} },
+      { "threshold": 534, "model": { "type": "model", "model": "lom:item/items/baloon_ceiling", "tints": [{ "type": "minecraft:dye", "default": -1158669}]} },
 
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_details" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_main" } },

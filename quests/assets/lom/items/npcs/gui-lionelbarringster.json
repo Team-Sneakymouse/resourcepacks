@@ -5,7 +5,8 @@
 	  "fallback": { "type": "model", "model": "lom:item/gui/npcs/lionelbarringster_alt" },
 	  "cases": [
 		{ "when": "main", "model": { "type": "model", "model": "lom:item/gui/npcs/lionelbarringster_main" } },
-		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/lionelbarringster_alt" } }
+		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/lionelbarringster_alt" } },
+		{ "when": "taxes", "model": { "type": "model", "model": "lom:item/gui/npcs/lionelbarringster_taxes" } }
 	  ]
 	}
 }

@@ -1,0 +1,10 @@
+{
+	"parent": "lom:item/items/baloon",
+	"display": {
+		"fixed": {
+			"rotation": [-19, 0, 0],
+			"translation": [0, 9.25, -8.5],
+			"scale": [4, 4, 4]
+		}
+	}
+}
