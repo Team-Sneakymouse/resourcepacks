@@ -219,6 +219,8 @@
       { "threshold": 218, "model": { "type": "model", "model": "lom:item/tools/price_gun", "tints": [{ "type": "minecraft:dye", "default": -5231322}] } },
       { "threshold": 219, "model": { "type": "model", "model": "lom:item/tools/price_gun", "tints": [{ "type": "minecraft:dye", "default": -6447721}] } },
       { "threshold": 220, "model": { "type": "model", "model": "lom:item/tools/price_gun", "tints": [{ "type": "minecraft:dye", "default": -8170446}] } },
+      { "threshold": 221, "model": { "type": "model", "model": "lom:item/tools/price_gun", "tints": [{ "type": "minecraft:dye", "default": -13924957}] } },
+      { "threshold": 222, "model": { "type": "model", "model": "lom:item/items/gamblingvoucher" } },
       
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
@@ -370,6 +372,12 @@
       { "threshold": 648, "model": { "type": "model", "model": "lom:item/items/fish/starfruit3" } },
       { "threshold": 649, "model": { "type": "model", "model": "lom:item/items/fish/starfruit4" } },
       { "threshold": 650, "model": { "type": "model", "model": "lom:item/items/fish/starfruit5" } },
+      { "threshold": 651, "model": { "type": "model", "model": "lom:item/weapons/daggers/heavy_dagger" } },
+      { "threshold": 652, "model": { "type": "model", "model": "lom:item/weapons/daggers/iron_dagger" } },
+      { "threshold": 653, "model": { "type": "model", "model": "lom:item/weapons/daggers/metal_dagger" } },
+      { "threshold": 654, "model": { "type": "model", "model": "lom:item/weapons/daggers/steel_dagger" } },
+      { "threshold": 655, "model": { "type": "model", "model": "lom:item/weapons/daggers/stone_dagger" } },
+      { "threshold": 656, "model": { "type": "model", "model": "lom:item/weapons/daggers/wooden_dagger" } },
 
       { "threshold": 1000, "model": { "type": "model", "model": "lom:item/items/crates/crate_stock" } },
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/items/crates/crate_cheese" } },

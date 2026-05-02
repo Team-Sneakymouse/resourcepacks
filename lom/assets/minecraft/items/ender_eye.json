@@ -75,6 +75,106 @@
                     "on_true": { "type": "model", "model": "lom:item/tools/boombox_on" },
                     "on_false": { "type": "model", "model": "lom:item/tools/boombox_off" }
                 }
+            },
+
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/weapons/daggers/bone_dagger_mana" },
+                    "on_false": { "type": "model", "model": "lom:item/weapons/daggers/bone_dagger" }
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/weapons/daggers/curved_dagger_mana" },
+                    "on_false": { "type": "model", "model": "lom:item/weapons/daggers/curved_dagger" }
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/weapons/daggers/emperor_dagger_mana" },
+                    "on_false": { "type": "model", "model": "lom:item/weapons/daggers/emperor_dagger" }
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/weapons/daggers/ice_dagger_mana" },
+                    "on_false": { "type": "model", "model": "lom:item/weapons/daggers/ice_dagger" }
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/weapons/daggers/light_dagger_mana" },
+                    "on_false": { "type": "model", "model": "lom:item/weapons/daggers/light_dagger" }
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/weapons/daggers/mithril_dagger_mana" },
+                    "on_false": { "type": "model", "model": "lom:item/weapons/daggers/mithril_dagger" }
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/weapons/daggers/pirate_dagger_mana" },
+                    "on_false": { "type": "model", "model": "lom:item/weapons/daggers/pirate_dagger" }
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/weapons/daggers/poison_dagger_mana" },
+                    "on_false": { "type": "model", "model": "lom:item/weapons/daggers/poison_dagger" }
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/weapons/daggers/shadow_dagger_mana" },
+                    "on_false": { "type": "model", "model": "lom:item/weapons/daggers/shadow_dagger" }
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/weapons/daggers/twilight_dagger_mana" },
+                    "on_false": { "type": "model", "model": "lom:item/weapons/daggers/twilight_dagger" }
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/weapons/daggers/water_dagger_mana" },
+                    "on_false": { "type": "model", "model": "lom:item/weapons/daggers/water_dagger" }
+                }
             }
         ]
     }

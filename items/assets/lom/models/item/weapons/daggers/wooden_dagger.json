@@ -1,0 +1,104 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "lom:item/weapons/daggers/wooden_dagger",
+		"particle": "lom:item/weapons/daggers/wooden_dagger"
+	},
+	"elements": [
+		{
+			"from": [7.25, 4, 7],
+			"to": [8.75, 5.5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [7, 4, 8.5, 5.5], "texture": "#0"},
+				"east": {"uv": [2, 7, 0, 8.5], "texture": "#0"},
+				"south": {"uv": [7, 6, 8.5, 7.5], "texture": "#0"},
+				"west": {"uv": [0, 7, 2, 8.5], "texture": "#0"},
+				"up": {"uv": [8.5, 2, 7, 0], "texture": "#0"},
+				"down": {"uv": [8.5, 2, 7, 4], "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"from": [7.25, 9.5, 6],
+			"to": [8.75, 11, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"east": {"uv": [7, 4, 3, 5.5], "texture": "#0"},
+				"west": {"uv": [3, 4, 7, 5.5], "texture": "#0"},
+				"up": {"uv": [6.5, 4, 5, 0], "texture": "#0"},
+				"down": {"uv": [4.5, 6, 3, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 11, 6.5],
+			"to": [8, 17.5, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"east": {"uv": [3, 0, 0, 6.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.2525, 10.26537, 9.27373],
+			"to": [8.7475, 11.65119, 9.84776],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 9.5, 8]},
+			"faces": {
+				"east": {"uv": [2.5, 7, 2, 8.5], "texture": "#0"},
+				"south": {"uv": [7, 8, 8.5, 9.5], "texture": "#0"},
+				"west": {"uv": [2, 7, 2.5, 8.5], "texture": "#0"},
+				"up": {"uv": [10.5, 0.5, 9, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.2525, 8.73463, 5.57822],
+			"to": [8.7475, 10.12045, 6.15224],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 9, 1.5, 10.5], "texture": "#0"},
+				"east": {"uv": [9, 1, 9.5, 2.5], "texture": "#0"},
+				"west": {"uv": [9, 1, 9.5, 2.5], "texture": "#0"},
+				"down": {"uv": [10.5, 3, 9, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 5.5, 7.25],
+			"to": [8.5, 9.5, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [5, 6, 6, 10], "texture": "#0"},
+				"east": {"uv": [4.5, 0, 3, 4], "texture": "#0"},
+				"south": {"uv": [6, 6, 7, 10], "texture": "#0"},
+				"west": {"uv": [3, 0, 4.5, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-0.5, -0.75, 1],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.5, -0.75, 1],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"translation": [0.5, 0, 0.25]
+		},
+		"firstperson_lefthand": {
+			"translation": [0.5, 0, 0.25]
+		},
+		"ground": {
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [-90, 135, 90],
+			"translation": [-2.75, -2.5, 0],
+			"scale": [1.29, 1.29, 1.29]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, -3, 0]
+		}
+	}
+}

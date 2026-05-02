@@ -1,0 +1,121 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "lom:item/weapons/daggers/mithril_dagger",
+		"1": "lom:item/weapons/daggers/mithril_dagger_mana",
+		"particle": "lom:item/weapons/daggers/mithril_dagger"
+	},
+	"elements": [
+		{
+			"from": [7.25, 4, 7],
+			"to": [8.75, 5.5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [7, 7, 8.5, 8.5], "texture": "#0"},
+				"east": {"uv": [3, 7, 1, 8.5], "texture": "#0"},
+				"south": {"uv": [8, 0, 9.5, 1.5], "texture": "#0"},
+				"west": {"uv": [1, 7, 3, 8.5], "texture": "#0"},
+				"up": {"uv": [8.5, 5, 7, 3], "texture": "#0"},
+				"down": {"uv": [8.5, 5, 7, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.25, 4, 6.5],
+			"to": [8.75, 4.5, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [3, 9, 4.5, 9.5], "texture": "#0"},
+				"east": {"uv": [6, 3, 6.5, 3.5], "texture": "#0"},
+				"west": {"uv": [6, 3, 6.5, 3.5], "texture": "#0"},
+				"up": {"uv": [10.5, 4.5, 9, 4], "texture": "#0"},
+				"down": {"uv": [10.5, 5, 9, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.25, 9.5, 6.5],
+			"to": [8.75, 11, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [1, 9, 2.5, 10.5], "texture": "#0"},
+				"east": {"uv": [7, 4, 4, 5.5], "texture": "#0"},
+				"south": {"uv": [9, 2, 10.5, 3.5], "texture": "#0"},
+				"west": {"uv": [4, 4, 7, 5.5], "texture": "#0"},
+				"up": {"uv": [7.5, 3, 6, 0], "texture": "#0"},
+				"down": {"uv": [5.5, 6, 4, 9], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.25, 10.5, 6],
+			"to": [8.75, 11, 6.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [9, 6, 10.5, 6.5], "texture": "#0"},
+				"east": {"uv": [3, 7, 3.5, 7.5], "texture": "#0"},
+				"west": {"uv": [3, 7, 3.5, 7.5], "texture": "#0"},
+				"up": {"uv": [8.5, 9.5, 7, 9], "texture": "#0"},
+				"down": {"uv": [10.5, 7, 9, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.25, 10.5, 9.5],
+			"to": [8.75, 11, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"east": {"uv": [8, 2, 8.5, 2.5], "texture": "#0"},
+				"south": {"uv": [9, 8, 10.5, 8.5], "texture": "#0"},
+				"west": {"uv": [8, 2, 8.5, 2.5], "texture": "#0"},
+				"up": {"uv": [10.5, 9.5, 9, 9], "texture": "#0"},
+				"down": {"uv": [11.5, 0, 10, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 11, 6.25],
+			"to": [8, 17.5, 9.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"east": {"uv": [7, 0, 0, 13], "texture": "#1"},
+				"west": {"uv": [0, 0, 7, 13], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.5, 5.5, 7.25],
+			"to": [8.5, 9.5, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [6, 6, 7, 10], "texture": "#0"},
+				"east": {"uv": [5.5, 0, 4, 4], "texture": "#0"},
+				"south": {"uv": [0, 7, 1, 11], "texture": "#0"},
+				"west": {"uv": [4, 0, 5.5, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-0.5, -0.75, 1],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.5, -0.75, 1],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"translation": [0.5, 0, 0.25]
+		},
+		"firstperson_lefthand": {
+			"translation": [0.5, 0, 0.25]
+		},
+		"ground": {
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [-90, 135, 90],
+			"translation": [-2.75, -2.5, 0],
+			"scale": [1.29, 1.29, 1.29]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, -3, 0]
+		}
+	}
+}

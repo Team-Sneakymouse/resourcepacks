@@ -1,0 +1,13 @@
+{
+  "parent": "lom:item/gui/6rows-52",
+  "textures": {
+    "texture": "lom:item/gui/npcs/nadiyaazveltara_gambling3"
+  },
+	"display": {
+		"gui": {
+			"rotation": [0, -90, 0],
+			"translation": [-51, 55, 8],
+			"scale": [0.0001, 4, 3.95]
+		}
+	}
+}

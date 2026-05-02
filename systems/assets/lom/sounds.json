@@ -1602,5 +1602,11 @@
 	},
     "sfx.pricegun": {
 		"sounds": ["lom:sfx.pricegun"]
+	},
+    "sfx.gamblingcrate": {
+		"sounds": ["lom:sfx/sfx.gamblingcrate"]
+	},
+    "sfx.gamblingcrateclick": {
+		"sounds": ["lom:sfx/sfx.gamblingcrateclick"]
 	}
 }

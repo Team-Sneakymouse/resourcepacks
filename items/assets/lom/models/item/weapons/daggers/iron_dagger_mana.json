@@ -1,0 +1,85 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "lom:item/weapons/daggers/iron_dagger",
+		"1": "lom:item/weapons/daggers/iron_dagger_mana",
+		"particle": "lom:item/weapons/daggers/iron_dagger"
+	},
+	"elements": [
+		{
+			"from": [7.25, 4, 7],
+			"to": [8.75, 5.5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [4, 8, 5.5, 9.5], "texture": "#0"},
+				"east": {"uv": [2, 7, 0, 8.5], "texture": "#0"},
+				"south": {"uv": [8, 4, 9.5, 5.5], "texture": "#0"},
+				"west": {"uv": [0, 7, 2, 8.5], "texture": "#0"},
+				"up": {"uv": [3.5, 9, 2, 7], "texture": "#0"},
+				"down": {"uv": [9.5, 2, 8, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.25, 9.5, 6.75],
+			"to": [8.75, 11, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [6, 8, 7.5, 9.5], "texture": "#0"},
+				"east": {"uv": [8.5, 0, 6, 1.5], "texture": "#0"},
+				"south": {"uv": [8, 6, 9.5, 7.5], "texture": "#0"},
+				"west": {"uv": [6, 0, 8.5, 1.5], "texture": "#0"},
+				"up": {"uv": [7.5, 4.5, 6, 2], "texture": "#0"},
+				"down": {"uv": [7.5, 5, 6, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 11, 6],
+			"to": [8, 17.5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"east": {"uv": [8, 0, 0, 13], "texture": "#1"},
+				"west": {"uv": [0, 0, 8, 13], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.5, 5.5, 7.25],
+			"to": [8.5, 9.5, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 5, 8], "texture": "#0"},
+				"east": {"uv": [5.5, 0, 4, 4], "texture": "#0"},
+				"south": {"uv": [5, 4, 6, 8], "texture": "#0"},
+				"west": {"uv": [4, 0, 5.5, 4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-0.5, -0.75, 1],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.5, -0.75, 1],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"translation": [0.5, 0, 0.25]
+		},
+		"firstperson_lefthand": {
+			"translation": [0.5, 0, 0.25]
+		},
+		"ground": {
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [-90, 135, 90],
+			"translation": [-2.75, -2.5, 0],
+			"scale": [1.29, 1.29, 1.29]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, -3, 0]
+		}
+	}
+}
