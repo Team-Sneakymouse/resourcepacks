@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "lom:block/weaving_station",
+            "y": 90
+        },
+        "facing=north": {
+            "model": "lom:block/weaving_station"
+        },
+        "facing=south": {
+            "model": "lom:block/weaving_station",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "lom:block/weaving_station",
+            "y": 270
+        }
+    }
+}
