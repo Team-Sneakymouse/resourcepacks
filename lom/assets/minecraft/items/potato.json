@@ -59,7 +59,31 @@
       { "threshold": 54, "model": { "type": "model", "model": "lom:item/items/prototype-food/sushi-roll" } },
       { "threshold": 55, "model": { "type": "model", "model": "lom:item/items/prototype-food/sushi_1" } },
       { "threshold": 56, "model": { "type": "model", "model": "lom:item/items/prototype-food/texture" } },
-      { "threshold": 57, "model": { "type": "model", "model": "lom:item/items/prototype-food/truffle" } }
+      { "threshold": 57, "model": { "type": "model", "model": "lom:item/items/prototype-food/truffle" } },
+      
+      { "threshold": 58, "model": { "type": "model", "model": "lom:item/items/food/apple_pie" } },
+      { "threshold": 59, "model": { "type": "model", "model": "lom:item/items/food/bibimbap" } },
+      { "threshold": 60, "model": { "type": "model", "model": "lom:item/items/food/boxed_pizza" } },
+      { "threshold": 61, "model": { "type": "model", "model": "lom:item/items/food/chicken_box" } },
+      { "threshold": 62, "model": { "type": "model", "model": "lom:item/items/food/chicken_nugget" } },
+      { "threshold": 63, "model": { "type": "model", "model": "lom:item/items/food/chicken_set" } },
+      { "threshold": 64, "model": { "type": "model", "model": "lom:item/items/food/chocolate_cupcake" } },
+      { "threshold": 65, "model": { "type": "model", "model": "lom:item/items/food/coke" } },
+      { "threshold": 66, "model": { "type": "model", "model": "lom:item/items/food/fanta" } },
+      { "threshold": 67, "model": { "type": "model", "model": "lom:item/items/food/french_fries" } },
+      { "threshold": 68, "model": { "type": "model", "model": "lom:item/items/food/fried_chicken" } },
+      { "threshold": 69, "model": { "type": "model", "model": "lom:item/items/food/lettuce" } },
+      { "threshold": 70, "model": { "type": "model", "model": "lom:item/items/food/oreo" } },
+      { "threshold": 71, "model": { "type": "model", "model": "lom:item/items/food/pizza" } },
+      { "threshold": 72, "model": { "type": "model", "model": "lom:item/items/food/salmon_sushi" } },
+      { "threshold": 73, "model": { "type": "model", "model": "lom:item/items/food/soda_pop" } },
+      { "threshold": 74, "model": { "type": "model", "model": "lom:item/items/food/strawberry_cupcake" } },
+      { "threshold": 75, "model": { "type": "model", "model": "lom:item/items/food/sushi_roll" } },
+      { "threshold": 76, "model": { "type": "model", "model": "lom:item/items/food/sushi_set" } },
+      { "threshold": 77, "model": { "type": "model", "model": "lom:item/items/food/tonkatsu" } },
+      { "threshold": 78, "model": { "type": "model", "model": "lom:item/items/food/tonkatsu_set" } },
+      { "threshold": 79, "model": { "type": "model", "model": "lom:item/items/food/trifle" } },
+      { "threshold": 80, "model": { "type": "model", "model": "lom:item/items/food/vanilla_cupcake" } }
     ]
   }
 }
