@@ -1,0 +1,15 @@
+{
+	"model": {
+	  "type": "minecraft:select",
+	  "property": "custom_model_data",
+	  "fallback": { "type": "model", "model": "lom:item/gui/npcs/quests/johnmcguffin_quest_chaosemeralds" },
+	  "cases": [
+		{ "when": "chaosemeralds", "model": { "type": "model", "model": "lom:item/gui/npcs/quests/johnmcguffin_quest_chaosemeralds" } },
+		{ "when": "dangerrelics", "model": { "type": "model", "model": "lom:item/gui/npcs/quests/johnmcguffin_quest_dangerrelics" } },
+		{ "when": "dragonballs", "model": { "type": "model", "model": "lom:item/gui/npcs/quests/johnmcguffin_quest_dragonballs" } },
+		{ "when": "infinitystones", "model": { "type": "model", "model": "lom:item/gui/npcs/quests/johnmcguffin_quest_infinitystones" } },
+		{ "when": "milleniumpuzzles", "model": { "type": "model", "model": "lom:item/gui/npcs/quests/johnmcguffin_quest_milleniumpuzzles" } },
+		{ "when": "ringsofpower", "model": { "type": "model", "model": "lom:item/gui/npcs/quests/johnmcguffin_quest_ringsofpower" } }
+	  ]
+	}
+}
