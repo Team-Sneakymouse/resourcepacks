@@ -1608,5 +1608,11 @@
 	},
     "sfx.gamblingcrateclick": {
 		"sounds": ["lom:sfx/sfx.gamblingcrateclick"]
+	},
+    "sfx.gamblingcrate2": {
+		"sounds": ["lom:sfx/sfx.gamblingcrate2"]
+	},
+    "sfx.gamblingcrateclick2": {
+		"sounds": ["lom:sfx/sfx.gamblingcrateclick2"]
 	}
 }

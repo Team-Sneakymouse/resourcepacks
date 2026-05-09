@@ -70,6 +70,7 @@
       { "threshold": 66, "model": { "type": "model", "model": "lom:item/items/food/cookie" } },
       { "threshold": 67, "model": { "type": "model", "model": "lom:item/items/food/pumpkin_pie" } },
       { "threshold": 68, "model": { "type": "model", "model": "lom:item/items/food/rotten_flesh" } },
+      { "threshold": 69, "model": { "type": "model", "model": "lom:item/items/rocks/rock-omegastone" } },
 
       { "threshold": 74, "model": { "type": "model", "model": "lom:item/items/dwarven_ale" } },
       { "threshold": 75, "model": { "type": "model", "model": "lom:item/items/ale" } },

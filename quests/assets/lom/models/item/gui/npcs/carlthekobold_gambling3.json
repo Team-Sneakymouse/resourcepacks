@@ -1,7 +1,7 @@
 {
   "parent": "lom:item/gui/6rows-2",
   "textures": {
-    "texture": "lom:item/gui/npcs/nadiyaazveltara_gambling4"
+    "texture": "lom:item/gui/npcs/carlthekobold_gambling3"
   },
 	"display": {
 		"gui": {
