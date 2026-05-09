@@ -175,6 +175,24 @@
                     "on_true": { "type": "model", "model": "lom:item/weapons/daggers/water_dagger_mana" },
                     "on_false": { "type": "model", "model": "lom:item/weapons/daggers/water_dagger" }
                 }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/weapons/lichkingsblade_mana" },
+                    "on_false": { "type": "model", "model": "lom:item/weapons/lichkingsblade" }
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": { "type": "model", "model": "lom:item/weapons/demonedge_mana" },
+                    "on_false": { "type": "model", "model": "lom:item/weapons/demonedge" }
+                }
             }
         ]
     }
