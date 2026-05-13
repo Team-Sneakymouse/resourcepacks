@@ -1,0 +1,7 @@
+{
+	"parent": "lom:item/hats/hatventure/feathered_witch_hat_purple",
+	"textures": {
+		"1": "lom:item/hats/hatventure/feathered_witch_hat_black",
+		"particle": "lom:item/hats/hatventure/feathered_witch_hat_black"
+	}
+}

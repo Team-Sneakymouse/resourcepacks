@@ -1,0 +1,7 @@
+{
+	"parent": "lom:item/hats/hatventure/crooked_magic_hat_red",
+	"textures": {
+		"1": "lom:item/hats/hatventure/crooked_magic_hat_green",
+		"particle": "lom:item/hats/hatventure/crooked_magic_hat_green"
+	}
+}

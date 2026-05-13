@@ -1,0 +1,7 @@
+{
+	"parent": "lom:item/hats/hatventure/steampunk_top_hat_brown",
+	"textures": {
+		"1": "lom:item/hats/hatventure/steampunk_top_hat_gold",
+		"particle": "lom:item/hats/hatventure/steampunk_top_hat_gold"
+	}
+}
