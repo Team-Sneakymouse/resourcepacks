@@ -1,4 +1,5 @@
 {
+	"format_version": "1.9.0",
 	"credit": "Created By Yassou",
 	"texture_size": [32, 32],
 	"textures": {
@@ -65,11 +66,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [11, 2, 0]},
 			"faces": {
 				"north": {"uv": [0, 0, 6, 8], "texture": "#2"},
-				"east": {"uv": [0, 8, 0.5, 16], "texture": "#2"},
-				"south": {"uv": [6, 0, 12, 8], "texture": "#2"},
-				"west": {"uv": [0, 8, 0.5, 16], "texture": "#2"},
-				"up": {"uv": [12, 8, 6, 0], "texture": "#2"},
-				"down": {"uv": [12, 0, 6, 8], "texture": "#2"}
+				"south": {"uv": [6, 0, 12, 8], "texture": "#2"}
 			}
 		}
 	],
@@ -102,12 +99,13 @@
 			"scale": [0.55664, 0.55664, 0.55664]
 		},
 		"head": {
-			"translation": [0, -24.15, 0],
+			"rotation": [90, 180, 0],
+			"translation": [0, 4.85, -6.5],
 			"scale": [1.6, 1.6, 1.6]
 		},
 		"fixed": {
-			"rotation": [-90, 180, 0],
-			"translation": [0, 0, -16],
+			"rotation": [0, -180, 0],
+			"translation": [0, -8.5, -16],
 			"scale": [2, 2, 2]
 		}
 	}
