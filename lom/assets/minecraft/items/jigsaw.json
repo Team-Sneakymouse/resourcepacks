@@ -1489,6 +1489,9 @@
       { "threshold": 3079, "model": { "type": "model", "model": "lom:item/gui/mlmorb_gui" } },
       { "threshold": 3080, "model": { "type": "model", "model": "lom:item/gui/outfitmakerui" } },
       { "threshold": 3081, "model": { "type": "model", "model": "lom:item/gui/outfitmaker2" } },
+      { "threshold": 3082, "model": { "type": "model", "model": "lom:item/gui/trashcan_gui" } },
+      { "threshold": 3083, "model": { "type": "model", "model": "lom:item/gui/burglary_gui" } },
+      { "threshold": 3084, "model": { "type": "model", "model": "lom:item/gui/searching_gui" } },
 
       { "threshold": 3101, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius" } },
       { "threshold": 3102, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius1" } },
