@@ -327,5 +327,6 @@
 	"lootbox.vippass": { "sounds": ["lom:gift_jimmy/lootbox.vippass"] },
 	"lootbox.wand": { "sounds": ["lom:gift_jimmy/lootbox.wand"] },
 	"lootbox.weapon": { "sounds": ["lom:gift_jimmy/lootbox.weapon"] },
-	"items/spraycan": { "sounds": ["lom:items/spraycan"] }
+	"items/spraycan": { "sounds": ["lom:items/spraycan"] },
+	"sfx.onering": { "sounds": ["lom:sfx/sfx.onering"] }
 }
