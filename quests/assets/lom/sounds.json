@@ -88,5 +88,8 @@
 	},
 	"sfx.paper": {
 		"sounds": ["lom:sfx.paper"]
+	},
+	"questcomplete": {
+		"sounds": ["lom:questcomplete"]
 	}
 }

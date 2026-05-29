@@ -350,6 +350,87 @@
             "chars": [
                 "\uE038"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/questcomplete/039.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/questcomplete/040.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/questcomplete/041.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/questcomplete/042.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/questcomplete/043.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/questcomplete/044.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/questcomplete/045.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/questcomplete/046.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/questcomplete/047.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\uE047"
+            ]
         }
     ]
 }
