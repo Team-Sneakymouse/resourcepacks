@@ -1614,5 +1614,8 @@
 	},
     "sfx.gamblingcrateclick2": {
 		"sounds": ["lom:sfx/sfx.gamblingcrateclick2"]
+	},
+	"computer.mlm": {
+		"sounds": ["lom:computer.mlm"]
 	}
 }
