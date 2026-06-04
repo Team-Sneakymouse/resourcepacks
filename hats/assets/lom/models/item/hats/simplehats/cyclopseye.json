@@ -1,5 +1,6 @@
 {
-	"parent": "lom:item/hats/simplehats/hatparent",
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "lom:item/hats/simplehats/cyclopseye"
@@ -20,9 +21,11 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
+			"translation": [0, 0, 1.5],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"thirdperson_lefthand": {
+			"translation": [0, 0, 1.5],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_righthand": {
@@ -36,7 +39,8 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"ground": {
-			"translation": [0, 0, 6]
+			"translation": [0, -0.5, 0],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
 			"rotation": [35, -135, 0],
@@ -47,8 +51,11 @@
 			"scale": [1.12, 1.12, 1.12]
 		},
 		"fixed": {
-			"translation": [0, -2.5, 0],
-			"scale": [1.45, 1.45, 0.07]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 6.25, -2]
+		},
+		"on_shelf": {
+			"rotation": [0, -180, 0]
 		}
 	}
 }

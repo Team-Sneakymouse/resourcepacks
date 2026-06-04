@@ -1,6 +1,6 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
-	"parent": "lom:item/hats/simplehats/hatparent",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "lom:item/hats/simplehats/ghostmask"
@@ -22,10 +22,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"scale": [0.32, 0.32, 0.32]
+			"rotation": [83.5, 0, 0],
+			"scale": [0.2, 0.2, 0.2]
 		},
 		"thirdperson_lefthand": {
-			"scale": [0.32, 0.32, 0.32]
+			"rotation": [83.5, 0, 0],
+			"scale": [0.2, 0.2, 0.2]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 135, 0],
@@ -38,14 +40,19 @@
 			"scale": [0.44, 0.44, 0.44]
 		},
 		"ground": {
-			"scale": [0.7, 0.7, 0.7]
+			"translation": [0, 1, 0],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
 			"rotation": [35, -135, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"fixed": {
-			"scale": [1, 1, 0.01]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -7]
+		},
+		"on_shelf": {
+			"rotation": [0, -180, 0]
 		}
 	}
 }

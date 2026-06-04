@@ -1,5 +1,6 @@
 {
-	"parent": "lom:item/hats/simplehats/hatparent",
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "lom:item/hats/simplehats/spyzombie"
@@ -25,7 +26,6 @@
 			"faces": {
 				"north": {"uv": [12.5, 15.5, 13, 16], "texture": "#0"},
 				"east": {"uv": [4.5625, 10, 11.5625, 10.5], "texture": "#0"},
-				"south": {"uv": [6.5, 14.5, 7, 15], "texture": "#0"},
 				"west": {"uv": [4.5, 12.5, 11.5, 13], "texture": "#0"},
 				"up": {"uv": [3.3125, 16, 2.8125, 10.25], "texture": "#0"},
 				"down": {"uv": [10.5, 8.75, 10, 15.75], "texture": "#0"}
@@ -38,7 +38,6 @@
 			"faces": {
 				"north": {"uv": [10.5, 15.5, 11, 16], "texture": "#0"},
 				"east": {"uv": [3.5625, 9, 10.5625, 9.5], "texture": "#0"},
-				"south": {"uv": [7, 14, 7.5, 14.5], "texture": "#0"},
 				"west": {"uv": [3.5, 11.5, 10.5, 12], "texture": "#0"},
 				"up": {"uv": [2.3125, 16, 1.8125, 9.25], "texture": "#0"},
 				"down": {"uv": [9.5, 7.75, 9, 14.75], "texture": "#0"}
@@ -60,9 +59,11 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
+			"translation": [0, 0, 2],
 			"scale": [0.35, 0.35, 0.35]
 		},
 		"thirdperson_lefthand": {
+			"translation": [0, 0, 2],
 			"scale": [0.35, 0.35, 0.35]
 		},
 		"firstperson_righthand": {
@@ -76,8 +77,8 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"ground": {
-			"translation": [0, 1.5, 0],
-			"scale": [0.75, 0.75, 0.75]
+			"translation": [0, 1, 0],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
 			"rotation": [35, -135, 0],
@@ -87,7 +88,10 @@
 			"translation": [0, 0.75, -0.5]
 		},
 		"fixed": {
-			"scale": [1, 1, 0.01]
+			"translation": [0, 0, 6]
+		},
+		"on_shelf": {
+			"rotation": [0, -180, 0]
 		}
 	}
 }

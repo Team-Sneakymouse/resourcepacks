@@ -1,5 +1,6 @@
 {
-	"parent": "lom:item/hats/simplehats/hatparent",
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "lom:item/hats/simplehats/redshroomtexture"
@@ -178,11 +179,11 @@
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, 1, -2],
-			"scale": [0.33, 0.33, 0.33]
+			"scale": [0.25, 0.25, 0.25]
 		},
 		"thirdperson_lefthand": {
 			"translation": [0, 1, -2],
-			"scale": [0.33, 0.33, 0.33]
+			"scale": [0.25, 0.25, 0.25]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 135, 0],
@@ -196,7 +197,7 @@
 		},
 		"ground": {
 			"translation": [0, 1, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"scale": [0.25, 0.25, 0.25]
 		},
 		"gui": {
 			"rotation": [35, -135, 0],
@@ -207,15 +208,8 @@
 			"translation": [0, 9.25, 0]
 		},
 		"fixed": {
-			"translation": [0, 2.25, 0],
-			"scale": [0.5, 0.5, 0.33]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -8]
 		}
-	},
-	"groups": [
-		{
-			"name": "group",
-			"origin": [17, 8, 5],
-			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-		}
-	]
+	}
 }

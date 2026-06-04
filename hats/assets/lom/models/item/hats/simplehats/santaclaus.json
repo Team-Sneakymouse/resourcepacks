@@ -1,6 +1,6 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
-	"parent": "lom:item/hats/simplehats/hatparent",
 	"texture_size": [64, 64],
 	"textures": {
 		"2": "lom:item/hats/simplehats/santaclaus"
@@ -24,12 +24,10 @@
 			"to": [15.26, 12.385, 14.05],
 			"rotation": {"angle": -45, "axis": "x", "origin": [-1.68, 10.57, -1.68]},
 			"faces": {
-				"north": {"uv": [4.25, 6, 8, 8.75], "texture": "#2"},
 				"east": {"uv": [8, 2.75, 11, 5.5], "texture": "#2"},
 				"south": {"uv": [8, 0, 11.75, 2.75], "texture": "#2"},
 				"west": {"uv": [8, 5.5, 11, 8.25], "texture": "#2"},
-				"up": {"uv": [8, 3, 4.25, 0], "texture": "#2"},
-				"down": {"uv": [8, 3, 4.25, 6], "texture": "#2"}
+				"up": {"uv": [8, 3, 4.25, 0], "texture": "#2"}
 			}
 		},
 		{
@@ -37,7 +35,6 @@
 			"to": [14.05, 11.175, 17.68],
 			"rotation": {"angle": -45, "axis": "x", "origin": [-1.68, 10.57, -1.68]},
 			"faces": {
-				"north": {"uv": [8, 8.25, 11, 11], "texture": "#2"},
 				"east": {"uv": [12.25, 5.25, 13.25, 8], "texture": "#2"},
 				"south": {"uv": [0, 8.5, 3, 11.25], "texture": "#2"},
 				"west": {"uv": [12.25, 8, 13.25, 10.75], "texture": "#2"},
@@ -50,12 +47,11 @@
 			"to": [10.42, 9.965, 18.89],
 			"rotation": {"angle": -45, "axis": "x", "origin": [-1.68, 10.57, -1.68]},
 			"faces": {
-				"north": {"uv": [11, 5.25, 12.25, 8], "texture": "#2"},
+				"north": {"uv": [11, 8, 12.25, 10.75], "texture": "#2"},
 				"east": {"uv": [7.25, 11, 8.5, 13.75], "texture": "#2"},
 				"south": {"uv": [11, 8, 12.25, 10.75], "texture": "#2"},
 				"west": {"uv": [8.5, 11, 9.75, 13.75], "texture": "#2"},
-				"up": {"uv": [11, 14, 9.75, 12.75], "texture": "#2"},
-				"down": {"uv": [14.5, 9.25, 13.25, 10.5], "texture": "#2"}
+				"up": {"uv": [11, 13, 9.75, 12.75], "texture": "#2"}
 			}
 		},
 		{
@@ -72,9 +68,9 @@
 			}
 		},
 		{
-			"from": [1.4, 7.325, 0.3],
-			"to": [3.6, 9.525, 1.4],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-0.8, -1.8, -0.8]},
+			"from": [1.4, 7.325, 0.2725],
+			"to": [3.6, 9.525, 1.3725],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.8, -1.8, -0.8275]},
 			"faces": {
 				"north": {"uv": [11, 12.75, 11.5, 13.25], "texture": "#2"},
 				"east": {"uv": [7, 11.25, 7.25, 11.75], "texture": "#2"},
@@ -93,7 +89,6 @@
 				"east": {"uv": [7, 12.25, 7.25, 12.75], "texture": "#2"},
 				"south": {"uv": [13.25, 11.5, 14, 12], "texture": "#2"},
 				"west": {"uv": [7, 12.75, 7.25, 13.25], "texture": "#2"},
-				"up": {"uv": [3.75, 8.75, 3, 8.5], "texture": "#2"},
 				"down": {"uv": [8, 10.75, 7.25, 11], "texture": "#2"}
 			}
 		},
@@ -132,14 +127,13 @@
 				"east": {"uv": [7, 13.25, 7.25, 13.75], "texture": "#2"},
 				"south": {"uv": [13.25, 12, 14, 12.5], "texture": "#2"},
 				"west": {"uv": [2, 13.75, 2.25, 14.25], "texture": "#2"},
-				"up": {"uv": [1.25, 14, 0.5, 13.75], "texture": "#2"},
 				"down": {"uv": [2, 13.75, 1.25, 14], "texture": "#2"}
 			}
 		},
 		{
-			"from": [12.4, 7.325, 0.3],
-			"to": [14.6, 9.525, 1.4],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-0.8, -1.8, -0.8]},
+			"from": [12.4, 7.325, 0.2725],
+			"to": [14.6, 9.525, 1.3725],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.8, -1.8, -0.8275]},
 			"faces": {
 				"north": {"uv": [13.25, 13.25, 13.75, 13.75], "texture": "#2"},
 				"east": {"uv": [2.25, 13.75, 2.5, 14.25], "texture": "#2"},
@@ -153,11 +147,11 @@
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, -1, 0],
-			"scale": [0.41, 0.41, 0.41]
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"thirdperson_lefthand": {
 			"translation": [0, -1, 0],
-			"scale": [0.41, 0.41, 0.41]
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 130, 0],
@@ -170,7 +164,7 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
-			"scale": [0.5, 0.5, 0.5]
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
 			"rotation": [35, -135, 0],
@@ -178,20 +172,25 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"fixed": {
-			"translation": [0, 0, -1],
-			"scale": [1, 1, 0.1]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -9.25]
+		},
+		"on_shelf": {
+			"rotation": [0, -180, 0]
 		}
 	},
 	"groups": [
 		{
 			"name": "santahat",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [0, 1, 2, 3, 4]
 		},
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [5, 6, 7, 8, 9, 10]
 		}

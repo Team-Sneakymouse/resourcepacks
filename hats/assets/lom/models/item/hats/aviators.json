@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "lom:item/hats/aviators",
@@ -6,7 +7,6 @@
 	},
 	"elements": [
 		{
-			"name": "glasses",
 			"from": [0, 0, 0],
 			"to": [16, 8.25, 0.2],
 			"rotation": {"angle": 0, "axis": "y", "origin": [14, 0, 0]},
@@ -16,7 +16,6 @@
 			}
 		},
 		{
-			"name": "temple1",
 			"from": [0, -0.25, 0],
 			"to": [0.2, 8, 12.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [14, 0, 0]},
@@ -26,7 +25,6 @@
 			}
 		},
 		{
-			"name": "temple2",
 			"from": [15.75, -0.25, 0],
 			"to": [15.95, 8, 12.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [14, 0, 0]},
@@ -39,13 +37,13 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [42, 0, 0],
-			"translation": [-2.25, 0, 1.75],
-			"scale": [0.4, 0.4, 0.4]
+			"translation": [0, -0.5, 2.75],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [42, 0, 0],
-			"translation": [-2.25, 0, 1.75],
-			"scale": [0.4, 0.4, 0.4]
+			"translation": [0, -0.5, 2.75],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"firstperson_righthand": {
 			"translation": [3.25, 0, 0],
@@ -56,18 +54,23 @@
 			"scale": [0.55, 0.55, 0.55]
 		},
 		"ground": {
-			"translation": [0, 3.25, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [0, 1.5, 0],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
-			"translation": [0, 4, 1]
+			"rotation": [-152, -51, -180],
+			"translation": [-1.25, 3.25, 1],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"head": {
 			"translation": [0, 0.75, -0.4],
 			"scale": [0.84, 0.84, 0.84]
 		},
 		"fixed": {
-			"translation": [0, 4.25, 5.75]
+			"translation": [0, 4.25, 8]
+		},
+		"on_shelf": {
+			"rotation": [0, -180, 0]
 		}
 	}
 }

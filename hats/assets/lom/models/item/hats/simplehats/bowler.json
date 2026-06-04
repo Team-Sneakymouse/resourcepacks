@@ -1,6 +1,6 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
-	"parent": "lom:item/hats/simplehats/hatparent",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "lom:item/hats/simplehats/bowler"
@@ -15,8 +15,7 @@
 				"east": {"uv": [8.516, 0.016, 12.484, 1.484], "texture": "#0", "tintindex": 0},
 				"south": {"uv": [8.516, 1.516, 12.484, 2.984], "texture": "#0", "tintindex": 0},
 				"west": {"uv": [8.516, 3.016, 12.484, 4.484], "texture": "#0", "tintindex": 0},
-				"up": {"uv": [8.484, 3.984, 4.516, 0.016], "texture": "#0", "tintindex": 0},
-				"down": {"uv": [8.484, 0, 4.516, 3.968], "texture": "#0", "tintindex": 0}
+				"up": {"uv": [8.484, 3.984, 4.516, 0.016], "texture": "#0", "tintindex": 0}
 			}
 		},
 		{
@@ -53,8 +52,8 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
-			"translation": [0, -5, 0],
-			"scale": [0.6, 0.6, 0.6]
+			"translation": [0, -1.75, 0],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
 			"rotation": [35, -135, 0],
@@ -62,8 +61,8 @@
 			"scale": [0.6, 0.6, 0.6]
 		},
 		"fixed": {
-			"translation": [0, -5, 0],
-			"scale": [1, 1, 0.01]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, 1.75]
 		}
 	}
 }

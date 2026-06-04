@@ -1,5 +1,6 @@
 {
-	"parent": "lom:item/hats/simplehats/hatparent",
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "lom:item/hats/simplehats/moreeyes"
 	},
@@ -111,7 +112,8 @@
 			"scale": [0.55, 0.55, 0.55]
 		},
 		"ground": {
-			"scale": [0.7, 0.7, 0.7]
+			"translation": [0, 0.75, 0],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
 			"rotation": [35, -135, 0],
@@ -121,8 +123,8 @@
 			"translation": [3, 0, 0]
 		},
 		"fixed": {
-			"translation": [4, -2.25, 0],
-			"scale": [1, 1, 0.18]
+			"rotation": [-90, 0, 0],
+			"translation": [2.25, 0, -7]
 		}
 	}
 }

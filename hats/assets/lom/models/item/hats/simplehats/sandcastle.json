@@ -1,5 +1,6 @@
 {
-	"parent": "lom:item/hats/simplehats/hatparent",
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "lom:item/hats/simplehats/sandcastle"
@@ -64,8 +65,7 @@
 				"east": {"uv": [9.53, 6.03, 11.47, 6.97], "texture": "#0"},
 				"south": {"uv": [9.53, 7.03, 11.47, 7.97], "texture": "#0"},
 				"west": {"uv": [9.53, 8.03, 11.47, 8.97], "texture": "#0"},
-				"up": {"uv": [7.47, 10.97, 5.53, 9.03], "texture": "#0"},
-				"down": {"uv": [11.47, 0.03, 9.53, 1.97], "texture": "#0"}
+				"up": {"uv": [7.47, 10.97, 5.53, 9.03], "texture": "#0"}
 			}
 		},
 		{
@@ -74,11 +74,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.975, 9.5, 7]},
 			"faces": {
 				"north": {"uv": [6.516, 11.25, 7.484, 12.75], "texture": "#0"},
-				"east": {"uv": [9.75, 10.25, 9.984, 10.484], "texture": "#0"},
-				"south": {"uv": [7.484, 11.25, 6.516, 12.75], "texture": "#0"},
-				"west": {"uv": [9.75, 9.25, 9.984, 9.484], "texture": "#0"},
-				"up": {"uv": [9.984, 9.984, 9.75, 9.75], "rotation": 270, "texture": "#0"},
-				"down": {"uv": [9.984, 10.75, 9.75, 10.984], "rotation": 90, "texture": "#0"}
+				"south": {"uv": [7.484, 11.25, 6.516, 12.75], "texture": "#0"}
 			}
 		},
 		{
@@ -96,12 +92,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, -3, 0],
-			"scale": [0.48, 0.48, 0.48]
+			"translation": [0, -2, 0],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, -3, 0],
-			"scale": [0.48, 0.48, 0.48]
+			"translation": [0, -2, 0],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 135, 0],
@@ -114,7 +110,8 @@
 			"scale": [0.65, 0.65, 0.65]
 		},
 		"ground": {
-			"translation": [0, -10, 0]
+			"translation": [0, -3, 0],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
 			"rotation": [35, -135, 0],
@@ -125,8 +122,11 @@
 			"scale": [1.05, 1.05, 1.05]
 		},
 		"fixed": {
-			"translation": [0, -9.75, 0],
-			"scale": [1, 1, 0.04]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, 6]
+		},
+		"on_shelf": {
+			"rotation": [0, -180, 0]
 		}
 	}
 }

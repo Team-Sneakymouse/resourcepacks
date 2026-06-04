@@ -1,5 +1,6 @@
 {
-	"parent": "lom:item/hats/simplehats/hatparent",
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "lom:item/hats/simplehats/lilbow"
 	},
@@ -62,14 +63,18 @@
 			"translation": [8, 0, 0]
 		},
 		"ground": {
-			"translation": [-5.5, -4.25, 6.75]
+			"translation": [0, -1, 0],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
 			"rotation": [35, -135, 0],
 			"translation": [-0.75, 2, 0]
 		},
 		"fixed": {
-			"scale": [1, 1, 0.04]
+			"translation": [-5.75, -4, 5.5]
+		},
+		"on_shelf": {
+			"rotation": [0, -180, 0]
 		}
 	}
 }

@@ -1,6 +1,6 @@
 {
-	"parent": "lom:item/hats/simplehats/hatparent",
-	"texture_size": [16, 16],
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "lom:item/hats/simplehats/chalk_stick",
 		"particle": "lom:item/hats/simplehats/chalk_stick"
@@ -29,24 +29,31 @@
 			"scale": [0.55, 0.55, 0.55]
 		},
 		"firstperson_righthand": {
-			"translation": [5, 2, 0],
+			"rotation": [76, 15, 0],
+			"translation": [1, 0.25, 7.5],
 			"scale": [0.55, 0.55, 0.55]
 		},
 		"firstperson_lefthand": {
-			"translation": [5, 2, 0],
+			"rotation": [76, 15, 0],
+			"translation": [-1.75, 0.25, 7.5],
 			"scale": [0.55, 0.55, 0.55]
 		},
 		"ground": {
-			"translation": [2, 0, 7],
-			"scale": [0.9, 0.9, 0.9]
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
 			"rotation": [35, -135, 0],
 			"translation": [-7, 5, 0]
 		},
+		"head": {
+			"translation": [2.25, -1.75, 0]
+		},
 		"fixed": {
-			"translation": [0, 1, 0],
-			"scale": [1, 1, 0.02]
+			"rotation": [90, -1, 0],
+			"translation": [1.75, -7.5, 3.25]
+		},
+		"on_shelf": {
+			"rotation": [-90, -180, 0]
 		}
 	}
 }

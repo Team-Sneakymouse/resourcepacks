@@ -1,7 +1,9 @@
 {
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
 	"parent": "lom:item/hats/hatventure/feathered_witch_hat_purple",
 	"textures": {
-		"1": "lom:item/hats/hatventure/feathered_witch_hat_black",
-		"particle": "lom:item/hats/hatventure/feathered_witch_hat_black"
+		"1": "lom:item/hats/hatventure/feathered_witch_hat_black_base",
+		"particle": "lom:item/hats/hatventure/feathered_witch_hat_black_base"
 	}
 }

@@ -1,6 +1,6 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
-	"parent": "lom:item/hats/simplehats/hatparent",
 	"textures": {
 		"0": "lom:item/hats/simplehats/goggles"
 	},
@@ -11,9 +11,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [-1.568, -2.12, -1.568]},
 			"faces": {
 				"north": {"uv": [1, 9, 2, 9.5], "texture": "#0", "tintindex": 0},
-				"east": {"uv": [4, 9, 5, 9.5], "texture": "#0"},
 				"south": {"uv": [5, 9, 6, 9.5], "texture": "#0"},
-				"west": {"uv": [6, 9, 7, 9.5], "texture": "#0"},
 				"up": {"uv": [9.5, 3, 8.5, 2], "texture": "#0"},
 				"down": {"uv": [4, 8.5, 3, 9.5], "texture": "#0"}
 			}
@@ -65,26 +63,21 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"ground": {
-			"translation": [0, 0.5, 5.25],
-			"scale": [0.8, 0.8, 0.8]
+			"translation": [0, 0.25, 0],
+			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
 			"rotation": [35, -135, 0],
 			"translation": [-4.75, 4, 0]
 		},
 		"head": {
-			"translation": [0, 2.75, 0]
+			"translation": [0, 2.75, -0.25]
 		},
 		"fixed": {
-			"translation": [0, 0, 5.5]
+			"translation": [0, 2, 5.5]
+		},
+		"on_shelf": {
+			"rotation": [0, -180, 0]
 		}
-	},
-	"groups": [
-		{
-			"name": "Dorkglassesandteeth",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": [0, 1, 2]
-		}
-	]
+	}
 }
