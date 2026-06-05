@@ -52,5 +52,137 @@
 	},
 	"sfx.metalgear": {
 		"sounds": ["lom:sfx.metalgear"]
+	},
+	"paladindropsongs.avengers": {
+		"sounds": ["lom:dropsongs/avengers"]
+	},
+	"paladindropsongs.bardcurse": {
+		"sounds": ["lom:dropsongs/bardcurse"]
+	},
+	"paladindropsongs.bluemonday": {
+		"sounds": ["lom:dropsongs/bluemonday"]
+	},
+	"paladindropsongs.bonnavista": {
+		"sounds": ["lom:dropsongs/bonnavista"]
+	},
+	"paladindropsongs.boysarebackintown": {
+		"sounds": ["lom:dropsongs/boysarebackintown"]
+	},
+	"paladindropsongs.carryonwaywardson": {
+		"sounds": ["lom:dropsongs/carryonwaywardson"]
+	},
+	"paladindropsongs.dancingqueen": {
+		"sounds": ["lom:dropsongs/dancingqueen"]
+	},
+	"paladindropsongs.dangerzone": {
+		"sounds": ["lom:dropsongs/dangerzone"]
+	},
+	"paladindropsongs.dontstopbelieving": {
+		"sounds": ["lom:dropsongs/dontstopbelieving"]
+	},
+	"paladindropsongs.dontstopmenow": {
+		"sounds": ["lom:dropsongs/dontstopmenow"]
+	},
+	"paladindropsongs.dragonball": {
+		"sounds": ["lom:dropsongs/dragonball"]
+	},
+	"paladindropsongs.dreamon": {
+		"sounds": ["lom:dropsongs/dreamon"]
+	},
+	"paladindropsongs.everybodywantsruletheworld": {
+		"sounds": ["lom:dropsongs/everybodywantsruletheworld"]
+	},
+	"paladindropsongs.eyeofthetiger": {
+		"sounds": ["lom:dropsongs/eyeofthetiger"]
+	},
+	"paladindropsongs.finalcountdown": {
+		"sounds": ["lom:dropsongs/finalcountdown"]
+	},
+	"paladindropsongs.finalfantasyfate": {
+		"sounds": ["lom:dropsongs/finalfantasyfate"]
+	},
+	"paladindropsongs.fortuneson": {
+		"sounds": ["lom:dropsongs/fortuneson"]
+	},
+	"paladindropsongs.freebird": {
+		"sounds": ["lom:dropsongs/freebird"]
+	},
+	"paladindropsongs.guilestheme": {
+		"sounds": ["lom:dropsongs/guilestheme"]
+	},
+	"paladindropsongs.halo": {
+		"sounds": ["lom:dropsongs/halo"]
+	},
+	"paladindropsongs.herecomestherain": {
+		"sounds": ["lom:dropsongs/herecomestherain"]
+	},
+	"paladindropsongs.ineedahero": {
+		"sounds": ["lom:dropsongs/ineedahero"]
+	},
+	"paladindropsongs.jojosteelballrun": {
+		"sounds": ["lom:dropsongs/jojosteelballrun"]
+	},
+	"paladindropsongs.journey": {
+		"sounds": ["lom:dropsongs/journey"]
+	},
+	"paladindropsongs.liveandlearn": {
+		"sounds": ["lom:dropsongs/liveandlearn"]
+	},
+	"paladindropsongs.livingonaprayer": {
+		"sounds": ["lom:dropsongs/livingonaprayer"]
+	},
+	"paladindropsongs.paintthetownred": {
+		"sounds": ["lom:dropsongs/paintthetownred"]
+	},
+	"paladindropsongs.powerrangers": {
+		"sounds": ["lom:dropsongs/powerrangers"]
+	},
+	"paladindropsongs.powerrush": {
+		"sounds": ["lom:dropsongs/powerrush"]
+	},
+	"paladindropsongs.rainingmen": {
+		"sounds": ["lom:dropsongs/rainingmen"]
+	},
+	"paladindropsongs.rasputin": {
+		"sounds": ["lom:dropsongs/rasputin"]
+	},
+	"paladindropsongs.rockyoulikeahurricane": {
+		"sounds": ["lom:dropsongs/rockyoulikeahurricane"]
+	},
+	"paladindropsongs.runaway": {
+		"sounds": ["lom:dropsongs/runaway"]
+	},
+	"paladindropsongs.runwithus": {
+		"sounds": ["lom:dropsongs/runwithus"]
+	},
+	"paladindropsongs.scatmanworld": {
+		"sounds": ["lom:dropsongs/scatmanworld"]
+	},
+	"paladindropsongs.september": {
+		"sounds": ["lom:dropsongs/september"]
+	},
+	"paladindropsongs.shoottothrill": {
+		"sounds": ["lom:dropsongs/shoottothrill"]
+	},
+	"paladindropsongs.skyrim": {
+		"sounds": ["lom:dropsongs/skyrim"]
+	},
+	"paladindropsongs.spacejimmy": {
+		"sounds": ["lom:dropsongs/spacejimmy"]
+	},
+	"paladindropsongs.ssj3": {
+		"sounds": ["lom:dropsongs/ssj3"]
+	},
+	"paladindropsongs.vicecity": {
+		"sounds": ["lom:dropsongs/vicecity"]
+	},
+	"paladindropsongs.welcometothejungle": {
+		"sounds": ["lom:dropsongs/welcometothejungle"]
+	},
+	"paladindropsongs.windhimup": {
+		"sounds": ["lom:dropsongs/windhimup"]
+	},
+	"paladindropsongs.ymca": {
+		"sounds": ["lom:dropsongs/ymca"]
 	}
 }
