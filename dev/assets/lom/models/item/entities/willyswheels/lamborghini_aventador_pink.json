@@ -1,0 +1,13 @@
+{
+	"credit": "www.sebxter.pl",
+	"parent": "lom:item/entities/willyswheels/lamborghini_aventador_sv",
+	"textures": {
+		"0": "lom:item/entities/willyswheels/lamborghini_aventador_pink",
+		"7": "lom:item/entities/willyswheels/lamborghini_aventador_sv_decoration",
+		"101": "lom:item/entities/willyswheels/tires_and_seats",
+		"102": "lom:item/entities/willyswheels/car_steering_wheel",
+		"103": "lom:item/entities/willyswheels/tires",
+		"104": "lom:item/entities/willyswheels/seats_texture",
+		"105": "lom:item/entities/willyswheels/dashboard"
+	}
+}

@@ -35,6 +35,10 @@
       {
         "threshold": 0.8,
         "model": { "type": "minecraft:model", "model": "lom:item/entities/willyswheels/pizza_boy" }
+      },
+      {
+        "threshold": 0.9,
+        "model": { "type": "minecraft:model", "model": "lom:item/entities/willyswheels/lamborghini_aventador_pink" }
       }
     ]
   }
