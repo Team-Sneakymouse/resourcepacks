@@ -284,5 +284,17 @@
 	"block.fire.ambient": {
 		"replace": true,
 		"sounds": []
+	},
+	"entity.panda.ambient": {
+		"replace": true,
+		"sounds": []
+	},
+	"entity.panda.aggressive_ambient": {
+		"replace": true,
+		"sounds": []
+	},
+	"entity.panda.worried_ambient": {
+		"replace": true,
+		"sounds": []
 	}
 }
