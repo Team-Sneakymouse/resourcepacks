@@ -1615,6 +1615,39 @@
     "sfx.gamblingcrateclick2": {
 		"sounds": ["lom:sfx/sfx.gamblingcrateclick2"]
 	},
+	"ringtone.azveltaraz": {
+		"sounds": ["lom:ringtones/ringtone.azveltaraz"]
+	},
+	"ringtone.cursedforever": {
+		"sounds": ["lom:ringtones/ringtone.cursedforever"]
+	},
+	"ringtone.goldenmonocle": {
+		"sounds": ["lom:ringtones/ringtone.goldenmonocle"]
+	},
+	"ringtone.legalcrime": {
+		"sounds": ["lom:ringtones/ringtone.legalcrime"]
+	},
+	"ringtone.lustmanscalling": {
+		"sounds": ["lom:ringtones/ringtone.lustmanscalling"]
+	},
+	"ringtone.memestreet": {
+		"sounds": ["lom:ringtones/ringtone.memestreet"]
+	},
+	"ringtone.mlmrelax": {
+		"sounds": ["lom:ringtones/ringtone.mlmrelax"]
+	},
+	"ringtone.papawilly": {
+		"sounds": ["lom:ringtones/ringtone.papawilly"]
+	},
+	"ringtone.dontmouth": {
+		"sounds": ["lom:ringtones/ringtone.dontmouth"]
+	},
+	"ringtone.tilii": {
+		"sounds": ["lom:ringtones/ringtone.tilii"]
+	},
+	"ringtone.topten": {
+		"sounds": ["lom:ringtones/ringtone.topten"]
+	},
 	"computer.mlm": {
 		"sounds": ["lom:computer.mlm"]
 	}

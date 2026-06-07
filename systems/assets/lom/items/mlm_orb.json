@@ -1,0 +1,12 @@
+{
+      "model": {
+            "type": "minecraft:select",
+            "property": "custom_model_data",
+            "fallback": { "type": "model", "model": "lom:item/gui/mlmorb_blank" },
+            "cases": [
+                  { "when": "background", "model": { "type": "model", "model": "lom:item/gui/mlmorb_blank" } },
+                  { "when": "home", "model": { "type": "model", "model": "lom:item/gui/mlmorb_gui" } },
+                  { "when": "addcontact", "model": { "type": "model", "model": "lom:item/gui/mlmorb_addcontact" } }
+            ]
+      }
+}
