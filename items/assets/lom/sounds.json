@@ -328,5 +328,6 @@
 	"lootbox.wand": { "sounds": ["lom:gift_jimmy/lootbox.wand"] },
 	"lootbox.weapon": { "sounds": ["lom:gift_jimmy/lootbox.weapon"] },
 	"items/spraycan": { "sounds": ["lom:items/spraycan"] },
-	"sfx.onering": { "sounds": ["lom:sfx/sfx.onering"] }
+	"sfx.onering": { "sounds": ["lom:sfx/sfx.onering"] },
+	"sfx.yugioh": { "sounds": ["lom:sfx/sfx.yugioh"] }
 }
