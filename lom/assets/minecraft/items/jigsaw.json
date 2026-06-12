@@ -2299,6 +2299,8 @@
       { "threshold": 8010, "model": { "type": "model", "model": "lom:item/gui/memes/meme10_icon" } },
       { "threshold": 8011, "model": { "type": "model", "model": "lom:item/gui/memes/meme11_icon" } },
       { "threshold": 8012, "model": { "type": "model", "model": "lom:item/gui/memes/meme12_icon" } },
+      { "threshold": 8013, "model": { "type": "model", "model": "lom:item/gui/memes/meme13_icon" } },
+      { "threshold": 8014, "model": { "type": "model", "model": "lom:item/gui/memes/meme14_icon" } },
       
       { "threshold": 9001, "model": { "type": "model", "model": "lom:item/gui/horses/horse_journaltest" } },
 
