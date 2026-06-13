@@ -230,6 +230,7 @@
       { "threshold": 229, "model": { "type": "model", "model": "lom:item/tools/backpack", "tints": [{ "type": "minecraft:dye", "default": -8170446}] } },
       { "threshold": 230, "model": { "type": "model", "model": "lom:item/items/koboldgamblingvoucher" } },
       { "threshold": 231, "model": { "type": "model", "model": "lom:item/items/mixtape" } },
+      { "threshold": 232, "model": { "type": "model", "model": "lom:item/items/sexyball" } },
       
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
