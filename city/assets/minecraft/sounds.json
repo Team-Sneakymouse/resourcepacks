@@ -50,5 +50,9 @@
 	"entity.silverfish.ambient": {
 		"replace": true,
 		"sounds": []
+	},
+	"entity.villager.death": {
+		"replace": true,
+		"sounds": ["lom:deathsound"]
 	}
 }
