@@ -76,6 +76,13 @@
       { "threshold": 71, "model": { "type": "model", "model": "lom:item/tools/spraycan_green" } },
       { "threshold": 72, "model": { "type": "model", "model": "lom:item/tools/spraycan_pink" } },
       { "threshold": 73, "model": { "type": "model", "model": "lom:item/tools/spraycan_red" } },
+      { "threshold": 74, "model": { "type": "minecraft:composite",
+        "models": [
+          { "type": "model", "model": "lom:item/hats/simplehats/chi_ears" },
+          { "type": "model", "model": "lom:item/hats/scouter-low" }
+        ]
+      }},
+      
       
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/items/badges/water" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/items/badges/fire" } },
