@@ -1,0 +1,10 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "lom:item/items/mixtape",
+	"textures": {
+		"0": "lom:item/items/mixtape",
+		"1": "lom:item/items/mixtape_radical",
+		"particle": "lom:item/items/mixtape"
+	}
+}

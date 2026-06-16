@@ -231,6 +231,8 @@
       { "threshold": 230, "model": { "type": "model", "model": "lom:item/items/koboldgamblingvoucher" } },
       { "threshold": 231, "model": { "type": "model", "model": "lom:item/items/mixtape" } },
       { "threshold": 232, "model": { "type": "model", "model": "lom:item/items/sexyball" } },
+      { "threshold": 233, "model": { "type": "model", "model": "lom:item/items/mixtape_gold", "tints": [{ "type": "minecraft:dye", "default": -3797747 }] } },
+      { "threshold": 234, "model": { "type": "model", "model": "lom:item/items/mixtape_radical" } },
       
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
