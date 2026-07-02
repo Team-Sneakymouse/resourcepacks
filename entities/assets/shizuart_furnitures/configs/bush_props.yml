@@ -1,0 +1,1206 @@
+info:
+  namespace: shizuart_furnitures
+
+items:
+  bush2:
+    enabled: true
+    display_name: Bush
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/bush
+      model_id: 2480052
+  bush_pink_flowers2:
+    enabled: true
+    display_name: Bush with pink flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/bush_pink_flowers
+      model_id: 2480053
+  bush_blue_flowers2:
+    enabled: true
+    display_name: Bush with blue flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/bush_blue_flowers
+      model_id: 2480054
+  bush_white_flowers2:
+    enabled: true
+    display_name: Bush with white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/bush_white_flowers
+      model_id: 2480055
+  bush_purple_flowers2:
+    enabled: true
+    display_name: Bush with purple flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/bush_purple_flowers
+      model_id: 2480056
+  small_bush:
+    enabled: true
+    display_name: Small bush
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_bush
+      model_id: 2480057
+  small_bush_pink_flowers:
+    enabled: true
+    display_name: Small bush with pink flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_bush_pink_flowers
+      model_id: 2480058
+  small_bush_blue_flowers:
+    enabled: true
+    display_name: Small bush with blue flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_bush_blue_flowers
+      model_id: 2480059
+  small_bush_white_flowers:
+    enabled: true
+    display_name: Small bush with white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_bush_white_flowers
+      model_id: 2480060
+  small_bush_purple_flowers:
+    enabled: true
+    display_name: Small bush with purple flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_bush_purple_flowers
+      model_id: 2480061
+  small_plant:
+    enabled: true
+    display_name: Small round bush
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_plant
+      model_id: 2480063
+  small_plant_pink_flowers:
+    enabled: true
+    display_name: Small round bush with pink flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_plant_pink_flowers
+      model_id: 2480064
+  small_plant_blue_flowers:
+    enabled: true
+    display_name: Small round bush with blue flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_plant_blue_flowers
+      model_id: 2480065
+  small_plant_white_flowers:
+    enabled: true
+    display_name: Small round bush with white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_plant_white_flowers
+      model_id: 2480066
+  small_plant_purple_flowers:
+    enabled: true
+    display_name: Small round bush with purple flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_plant_purple_flowers
+      model_id: 2480067
+  long_squared_bush:
+    enabled: true
+    display_name: Squared long bush
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: -0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/long_squared_bush
+      model_id: 2480068
+  long_round_bush:
+    enabled: true
+    display_name: Rounded long bush
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: -0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/long_round_bush
+      model_id: 2480069
+  long_round_bush_blue_flowers:
+    enabled: true
+    display_name: Rounded long bush with blue flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: -0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/long_round_bush_blue_flowers
+      model_id: 2480070
+  long_round_bush_pink_flowers:
+    enabled: true
+    display_name: Rounded long bush with pink flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: -0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/long_round_bush_pink_flowers
+      model_id: 2480071
+  long_round_bush_white_flowers:
+    enabled: true
+    display_name: Rounded long bush with white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: -0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/long_round_bush_white_flowers
+      model_id: 2480072
+  long_round_bush_purple_flowers:
+    enabled: true
+    display_name: Rounded long bush with purple flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: -0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/long_round_bush_purple_flowers
+      model_id: 2480073
+  long_squared_bush_pink_flowers:
+    enabled: true
+    display_name: Squared long bush with pink flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: -0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/long_squared_bush_pink_flowers
+      model_id: 2480074
+  long_squared_bush_blue_flowers:
+    enabled: true
+    display_name: Squared long bush with blue flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: -0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/long_squared_bush_blue_flowers
+      model_id: 2480075
+  long_squared_bush_white_flowers:
+    enabled: true
+    display_name: Squared long bush with white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: -0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/long_squared_bush_white_flowers
+      model_id: 2480076
+  long_squared_bush_purple_flowers:
+    enabled: true
+    display_name: Squared long bush with purple flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: -0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/long_squared_bush_purple_flowers
+      model_id: 2480077
+  small_long_bush:
+    enabled: true
+    display_name: Long small bush
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_long_bush
+      model_id: 2480078
+  small_long_bush_pink_flowers:
+    enabled: true
+    display_name: Long small bush with pink flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_long_bush_pink_flowers
+      model_id: 2480079
+  small_long_bush_blue_flowers:
+    enabled: true
+    display_name: Long small bush with blue flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_long_bush_blue_flowers
+      model_id: 2480080
+  small_long_bush_white_flowers:
+    enabled: true
+    display_name: Long small bush with white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_long_bush_white_flowers
+      model_id: 2480081
+  small_long_bush_purple_flowers:
+    enabled: true
+    display_name: Long small bush with purple flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:bush_props/small_long_bush_purple_flowers
+      model_id: 2480082
+
+#0af022ae6a3920356741cba1cf652797

@@ -1,0 +1,41 @@
+info:
+  namespace: shizuart_furnitures
+
+categories:
+  bush_props:
+    enabled: true
+    icon: "shizuart_furnitures:bush2"
+    name: "Bush Props"
+    items:
+      - "shizuart_furnitures:bush2"
+      - "shizuart_furnitures:bush_pink_flowers2"
+      - "shizuart_furnitures:bush_blue_flowers2"
+      - "shizuart_furnitures:bush_white_flowers2"
+      - "shizuart_furnitures:bush_purple_flowers2"
+      - "shizuart_furnitures:small_bush"
+      - "shizuart_furnitures:small_bush_pink_flowers"
+      - "shizuart_furnitures:small_bush_blue_flowers"
+      - "shizuart_furnitures:small_bush_white_flowers"
+      - "shizuart_furnitures:small_bush_purple_flowers"
+      - "shizuart_furnitures:small_plant"
+      - "shizuart_furnitures:small_plant_pink_flowers"
+      - "shizuart_furnitures:small_plant_blue_flowers"
+      - "shizuart_furnitures:small_plant_white_flowers"
+      - "shizuart_furnitures:small_plant_purple_flowers"
+      - "shizuart_furnitures:long_squared_bush"
+      - "shizuart_furnitures:long_round_bush"
+      - "shizuart_furnitures:long_round_bush_blue_flowers"
+      - "shizuart_furnitures:long_round_bush_pink_flowers"
+      - "shizuart_furnitures:long_round_bush_white_flowers"
+      - "shizuart_furnitures:long_round_bush_purple_flowers"
+      - "shizuart_furnitures:long_squared_bush_pink_flowers"
+      - "shizuart_furnitures:long_squared_bush_blue_flowers"
+      - "shizuart_furnitures:long_squared_bush_white_flowers"
+      - "shizuart_furnitures:long_squared_bush_purple_flowers"
+      - "shizuart_furnitures:small_long_bush"
+      - "shizuart_furnitures:small_long_bush_pink_flowers"
+      - "shizuart_furnitures:small_long_bush_blue_flowers"
+      - "shizuart_furnitures:small_long_bush_white_flowers"
+      - "shizuart_furnitures:small_long_bush_purple_flowers"
+
+#0af022ae6a3920356741cba1cf652797

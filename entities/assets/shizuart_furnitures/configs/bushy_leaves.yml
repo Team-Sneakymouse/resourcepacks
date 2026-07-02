@@ -1,0 +1,132 @@
+info:
+  namespace: shizuart_furnitures
+
+items:
+  bushy_leaves_template:
+    template: true
+    enabled: true
+    display_name: ""
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: true
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+
+  fire_leaves:
+    display_name: "Fire Leaves"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/fire_leaves
+
+  orange_leaves:
+    display_name: "Orange Leaves"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/orange_leaves
+
+  blue_leaves:
+    display_name: "Blue Leaves"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/blue_leaves
+
+  pink_leaves:
+    display_name: "Pink Leaves"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/pink_leaves
+
+  purple_leaves:
+    display_name: "Purple Leaves"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/purple_leaves
+
+  white_leaves:
+    display_name: "White Leaves"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/white_leaves
+
+  green_leaves:
+    display_name: "Green Leaves"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/green_leaves
+
+  leaves_with_blue_flowers:
+    display_name: "Leaves With Blue Flowers"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/leaves_with_blue_flowers
+
+  leaves_with_pink_flowers:
+    display_name: "Leaves With Pink Flowers"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/leaves_with_pink_flowers
+
+  leaves_with_purple_flowers:
+    display_name: "Leaves With Purple Flowers"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/leaves_with_purple_flowers
+
+  leaves_with_white_flowers:
+    display_name: "Leaves With White Flowers"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/leaves_with_white_flowers
+
+  leaves_with_small_blue_flowers:
+    display_name: "Leaves With Small Blue Flowers"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/leaves_with_small_blue_flowers
+
+  leaves_with_small_pink_flowers:
+    display_name: "Leaves With Small Pink Flowers"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/leaves_with_small_pink_flowers
+
+  leaves_with_small_purple_flowers:
+    display_name: "Leaves With Small Purple Flowers"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/leaves_with_small_purple_flowers
+
+  leaves_with_small_white_flowers:
+    display_name: "Leaves With Small White Flowers"
+    variant_of: bushy_leaves_template
+    graphics:
+      model: bushy_leaves/leaves_with_small_white_flowers
+
+#6eb6143fda287f65c599bcc43599f151

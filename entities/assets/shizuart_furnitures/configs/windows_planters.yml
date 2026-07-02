@@ -1,0 +1,1806 @@
+info:
+  namespace: shizuart_furnitures
+
+items:
+  windows_planter:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter
+      model_id: 2660051
+  windows_planter2:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter2
+      model_id: 2660052
+  windows_planter3:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter3
+      model_id: 2660053
+  windows_planter_a:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_a
+      model_id: 2660054
+  windows_planter_a2:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_a2
+      model_id: 2660055
+  windows_planter_a3:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_a3
+      model_id: 2660056
+  bell_white_flower:
+    enabled: true
+    display_name: Bell flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/bell_white_flower
+      model_id: 2660057
+  big_white_flower:
+    enabled: true
+    display_name: Big flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/big_white_flower
+      model_id: 2660058
+  big_white_flower2:
+    enabled: true
+    display_name: Big flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/big_white_flower2
+      model_id: 2660087
+  big_white_flower3:
+    enabled: true
+    display_name: Big flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/big_white_flower3
+      model_id: 2660088
+  blooming_white_flower:
+    enabled: true
+    display_name: Blooming flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/blooming_white_flower
+      model_id: 2660059
+  medium_white_flower:
+    enabled: true
+    display_name: Medium white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/medium_white_flower
+      model_id: 2660060
+  really_small_white_flower:
+    enabled: true
+    display_name: Really small white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/really_small_white_flower
+      model_id: 2660061
+  small_white_flower:
+    enabled: true
+    display_name: Small white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/small_white_flower
+      model_id: 2660062
+  windows_planter_b:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_b
+      model_id: 2660063
+  windows_planter_b2:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_b2
+      model_id: 2660064
+  windows_planter_b3:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_b3
+      model_id: 2660065
+  windows_planter_c:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_c
+      model_id: 2660066
+  windows_planter_c2:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_c2
+      model_id: 2660067
+  windows_planter_c3:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_c3
+      model_id: 2660068
+  windows_planter_1:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_1
+      model_id: 2660069
+  windows_planter2_1:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter2_1
+      model_id: 2660070
+  windows_planter3_1:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter3_1
+      model_id: 2660071
+  windows_planter_a_1:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_a_1
+      model_id: 2660072
+  windows_planter_a2_1:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_a2_1
+      model_id: 2660073
+  windows_planter_a3_1:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_a3_1
+      model_id: 2660074
+  bell_white_flower_1:
+    enabled: true
+    display_name: Bell flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/bell_white_flower_1
+      model_id: 2660075
+  big_white_flower_1:
+    enabled: true
+    display_name: Big flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/big_white_flower_1
+      model_id: 2660076
+  big_white_flower2_1:
+    enabled: true
+    display_name: Big flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/big_white_flower2_1
+      model_id: 2660089
+  big_white_flower3_1:
+    enabled: true
+    display_name: Big flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/big_white_flower3_1
+      model_id: 2660090
+  blooming_white_flower_1:
+    enabled: true
+    display_name: Blooming flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/blooming_white_flower_1
+      model_id: 2660077
+  blooming_white_flower2_1:
+    enabled: true
+    display_name: Blooming flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/blooming_white_flower2_1
+      model_id: 2660091
+  blooming_white_flower3_1:
+    enabled: true
+    display_name: Blooming flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/blooming_white_flower3_1
+      model_id: 2660092
+  medium_white_flower_1:
+    enabled: true
+    display_name: Medium white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/medium_white_flower_1
+      model_id: 2660078
+  really_small_white_flower_1:
+    enabled: true
+    display_name: Really small white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/really_small_white_flower_1
+      model_id: 2660079
+  small_white_flower_1:
+    enabled: true
+    display_name: Small white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.2
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/small_white_flower_1
+      model_id: 2660080
+  windows_planter_b_1:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_b_1
+      model_id: 2660081
+  windows_planter_b2_1:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_b2_1
+      model_id: 2660082
+  windows_planter_b3_1:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_b3_1
+      model_id: 2660083
+  windows_planter_c_1:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_c_1
+      model_id: 2660084
+  windows_planter_c2_1:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_c2_1
+      model_id: 2660085
+  windows_planter_c3_1:
+    enabled: true
+    display_name: Windows planter
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:windows_planters/windows_planter_c3_1
+      model_id: 2660086
+
+#6259e53751cd13fe1ee1b9a1e88ab23a

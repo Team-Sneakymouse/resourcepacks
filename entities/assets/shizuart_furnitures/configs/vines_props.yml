@@ -1,0 +1,2157 @@
+info:
+  namespace: shizuart_furnitures
+
+items:
+  vine_cube:
+    enabled: true
+    display_name: Vine cube
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0.03
+            z: 0
+          scale:
+            x: 0.52
+            y: 0.52
+            z: 0.52
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_cube
+      model_id: 2610051
+  vine_cube_blue:
+    enabled: true
+    display_name: Vine cube blue
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0.03
+            z: 0
+          scale:
+            x: 0.52
+            y: 0.52
+            z: 0.52
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_cube_blue
+      model_id: 2610052
+  vine_cube_pink:
+    enabled: true
+    display_name: Vine cube pink
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0.03
+            z: 0
+          scale:
+            x: 0.52
+            y: 0.52
+            z: 0.52
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_cube_pink
+      model_id: 2610053
+  vine_cube_purple:
+    enabled: true
+    display_name: Vine cube purple
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0.03
+            z: 0
+          scale:
+            x: 0.52
+            y: 0.52
+            z: 0.52
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_cube_purple
+      model_id: 2610054
+  vine_cube_white:
+    enabled: true
+    display_name: Vine cube white
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0.03
+            z: 0
+          scale:
+            x: 0.52
+            y: 0.52
+            z: 0.52
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_cube_white
+      model_id: 2610055
+  vines_windows:
+    enabled: true
+    display_name: Window surround vines
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 3
+          width: 3
+          height_offset: -0.5
+          width_offset: -0.5
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vines_windows
+      model_id: 2610056
+  vines_wall:
+    enabled: true
+    display_name: Wall vines
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 3
+          width: 3
+          width_offset: -0.5
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vines_wall
+      model_id: 2610057
+  vine_ivy_wall_small:
+    enabled: true
+    display_name: Small ivy
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 3
+          width: 1
+          height_offset: -2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_ivy_wall_small
+      model_id: 2610062
+  vine_ivy_wall_small_blue_flowers:
+    enabled: true
+    display_name: Small ivy with blue flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 3
+          width: 1
+          height_offset: -2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_ivy_wall_small_blue_flowers
+      model_id: 2610063
+  vine_ivy_wall_small_pink_flowers:
+    enabled: true
+    display_name: Small ivy with pink flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 3
+          width: 1
+          height_offset: -2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_ivy_wall_small_pink_flowers
+      model_id: 2610064
+  vine_ivy_wall_small_purple_flowers:
+    enabled: true
+    display_name: Small ivy with purple flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 3
+          width: 1
+          height_offset: -2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_ivy_wall_small_purple_flowers
+      model_id: 2610065
+  vine_ivy_wall_small_white_flowers:
+    enabled: true
+    display_name: Small ivy with white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 3
+          width: 1
+          height_offset: -2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_ivy_wall_small_white_flowers
+      model_id: 2610066
+  vine_ivy_wall_small_patch:
+    enabled: true
+    display_name: Small ivy patch
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_ivy_wall_small_patch
+      model_id: 2610067
+  vine_roof:
+    enabled: true
+    display_name: Roof vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof
+      model_id: 2610068
+  vine_roof_blue:
+    enabled: true
+    display_name: Blue roof vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_blue
+      model_id: 2610069
+  vine_roof_pink:
+    enabled: true
+    display_name: Pink roof vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_pink
+      model_id: 2610070
+  vine_roof_purple:
+    enabled: true
+    display_name: Purple roof vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_purple
+      model_id: 2610071
+  vine_roof_white:
+    enabled: true
+    display_name: White roof vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_white
+      model_id: 2610072
+  vine_roof_blue_flowers:
+    enabled: true
+    display_name: Roof vine with blue flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_blue_flowers
+      model_id: 2610073
+  vine_roof_pink_flowers:
+    enabled: true
+    display_name: Roof vine with pink flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_pink_flowers
+      model_id: 2610074
+  vine_roof_purple_flowers:
+    enabled: true
+    display_name: Roof vine with purple flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_purple_flowers
+      model_id: 2610075
+  vine_roof_white_flowers:
+    enabled: true
+    display_name: Roof vine with white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_white_flowers
+      model_id: 2610076
+  vine_roof_small:
+    enabled: true
+    display_name: Small roof vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_small
+      model_id: 2610077
+  vine_roof_small_blue:
+    enabled: true
+    display_name: Small roof blue vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_small_blue
+      model_id: 2610078
+  vine_roof_small_pink:
+    enabled: true
+    display_name: Small roof pink vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_small_pink
+      model_id: 2610079
+  vine_roof_small_purple:
+    enabled: true
+    display_name: Small roof purple vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_small_purple
+      model_id: 2610080
+  vine_roof_small_white:
+    enabled: true
+    display_name: Small roof white vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_small_white
+      model_id: 2610081
+  vine_roof_small_blue_flowers:
+    enabled: true
+    display_name: Small roof vine with blue flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_small_blue_flowers
+      model_id: 2610082
+  vine_roof_small_pink_flowers:
+    enabled: true
+    display_name: Small roof vine with pink flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_small_pink_flowers
+      model_id: 2610083
+  vine_roof_small_purple_flowers:
+    enabled: true
+    display_name: Small roof vine with purple flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_small_purple_flowers
+      model_id: 2610084
+  vine_roof_small_white_flowers:
+    enabled: true
+    display_name: Small roof vine with white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_roof_small_white_flowers
+      model_id: 2610085
+  vine_tree:
+    enabled: true
+    display_name: Tree vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_tree
+      model_id: 2610086
+  vine_tree_2:
+    enabled: true
+    display_name: Tree vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_tree_2
+      model_id: 2610087
+  vine_tree_3:
+    enabled: true
+    display_name: Tree vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_tree_3
+      model_id: 2610088
+  vine_tree_4:
+    enabled: true
+    display_name: Tree vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_tree_4
+      model_id: 2610089
+  vine_tree_5:
+    enabled: true
+    display_name: Tree vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_tree_5
+      model_id: 2610090
+  vine_tree_6:
+    enabled: true
+    display_name: Tree vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_tree_6
+      model_id: 2610091
+  vine_tree_long:
+    enabled: true
+    display_name: Long tree vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_tree_long
+      model_id: 2610092
+  vine_tree_long_blue_flowers:
+    enabled: true
+    display_name: Long tree vine with blue flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_tree_long_blue_flowers
+      model_id: 2610093
+  vine_tree_long_pink_flowers:
+    enabled: true
+    display_name: Long tree vine with pink flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_tree_long_pink_flowers
+      model_id: 2610094
+  vine_tree_long_purple_flowers:
+    enabled: true
+    display_name: Long tree vine with purple flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_tree_long_purple_flowers
+      model_id: 2610095
+  vine_tree_long_white_flowers:
+    enabled: true
+    display_name: Long tree vine with white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: true
+          floor: false
+          walls: false
+        hitbox:
+          height: 3
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_tree_long_white_flowers
+      model_id: 2610096
+  vine_wall:
+    enabled: true
+    display_name: Wall vine
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 3
+          width: 1
+          height_offset: -2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_wall
+      model_id: 2610097
+  vine_wall_blue_flowers:
+    enabled: true
+    display_name: Wall vine with blue flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 3
+          width: 1
+          height_offset: -2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_wall_blue_flowers
+      model_id: 2610098
+  vine_wall_pink_flowers:
+    enabled: true
+    display_name: Wall vine with pink flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 3
+          width: 1
+          height_offset: -2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_wall_pink_flowers
+      model_id: 2610099
+  vine_wall_purple_flowers:
+    enabled: true
+    display_name: Wall vine with purple flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 3
+          width: 1
+          height_offset: -2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_wall_purple_flowers
+      model_id: 2610100
+  vine_wall_white_flowers:
+    enabled: true
+    display_name: Wall vine with white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 3
+          width: 1
+          height_offset: -2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_wall_white_flowers
+      model_id: 2610101
+  vines_wall_top:
+    enabled: true
+    display_name: Top wall vines
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 3
+          width_offset: -0.5
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vines_wall_top
+      model_id: 2610102
+  vine_small_wall:
+    enabled: true
+    display_name: Small wall vines
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 1
+          width: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vine_small_wall
+      model_id: 2610103
+  vines_wall_big:
+    enabled: true
+    display_name: Big wall vines
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: false
+          walls: true
+        hitbox:
+          height: 4
+          width: 3
+          height_offset: -3
+          width_offset: -0.5
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:vines_props/vines_wall_big
+      model_id: 2610104
+
+#2fd43ab3a82e860ae39c70963cbf643a

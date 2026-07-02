@@ -1,0 +1,51 @@
+info:
+  namespace: shizuart_furnitures
+
+categories:
+  flora_props:
+    enabled: true
+    icon: "shizuart_furnitures:flora_daisy_purple"
+    name: "Flora Props"
+    items:
+      - "shizuart_furnitures:flora_bush_plant"
+      - "shizuart_furnitures:flora_bush_plant_blue"
+      - "shizuart_furnitures:flora_bush_plant_pink"
+      - "shizuart_furnitures:flora_bush_plant_purple"
+      - "shizuart_furnitures:flora_bush_plant_white"
+      - "shizuart_furnitures:flora_bush_plant_yellow"
+      - "shizuart_furnitures:flora_daisy"
+      - "shizuart_furnitures:flora_daisy_blue"
+      - "shizuart_furnitures:flora_daisy_pink"
+      - "shizuart_furnitures:flora_daisy_purple"
+      - "shizuart_furnitures:flora_daisy_yellow"
+      - "shizuart_furnitures:flora_flower_blue"
+      - "shizuart_furnitures:flora_flower_pink"
+      - "shizuart_furnitures:flora_flower_purple"
+      - "shizuart_furnitures:flora_flower_white"
+      - "shizuart_furnitures:flora_flower_yellow"
+      - "shizuart_furnitures:flora_flower2_blue"
+      - "shizuart_furnitures:flora_flower2_pink"
+      - "shizuart_furnitures:flora_flower2_purple"
+      - "shizuart_furnitures:flora_flower2_white"
+      - "shizuart_furnitures:flora_flower2_yellow"
+      - "shizuart_furnitures:flora_long_bush_plant"
+      - "shizuart_furnitures:flora_long_bush_plant_blue"
+      - "shizuart_furnitures:flora_long_bush_plant_pink"
+      - "shizuart_furnitures:flora_long_bush_plant_purple"
+      - "shizuart_furnitures:flora_long_bush_plant_white"
+      - "shizuart_furnitures:flora_long_bush_plant_yellow"
+      - "shizuart_furnitures:flora_long_plant"
+      - "shizuart_furnitures:flora_small_flower_blue"
+      - "shizuart_furnitures:flora_small_flower_pink"
+      - "shizuart_furnitures:flora_small_flower_purple"
+      - "shizuart_furnitures:flora_small_flower_white"
+      - "shizuart_furnitures:flora_small_flower_yellow"
+      - "shizuart_furnitures:flora_small_plant"
+      - "shizuart_furnitures:flora_star_flower"
+      - "shizuart_furnitures:flora_star_flower_blue"
+      - "shizuart_furnitures:flora_star_flower_pink"
+      - "shizuart_furnitures:flora_star_flower_purple"
+      - "shizuart_furnitures:flora_star_flower_yellow"
+      - "shizuart_furnitures:flora_tropical_plant"
+
+#42b920b324e992ff4382fb5d08426ae6

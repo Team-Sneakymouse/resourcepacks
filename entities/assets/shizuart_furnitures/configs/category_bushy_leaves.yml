@@ -1,0 +1,26 @@
+info:
+  namespace: shizuart_furnitures
+
+categories:
+  bushy_leaves:
+    enabled: true
+    icon: "shizuart_furnitures:fire_leaves"
+    name: "Bushy Leaves"
+    items:
+      - "shizuart_furnitures:fire_leaves"
+      - "shizuart_furnitures:orange_leaves"
+      - "shizuart_furnitures:blue_leaves"
+      - "shizuart_furnitures:pink_leaves"
+      - "shizuart_furnitures:purple_leaves"
+      - "shizuart_furnitures:white_leaves"
+      - "shizuart_furnitures:green_leaves"
+      - "shizuart_furnitures:leaves_with_blue_flowers"
+      - "shizuart_furnitures:leaves_with_pink_flowers"
+      - "shizuart_furnitures:leaves_with_purple_flowers"
+      - "shizuart_furnitures:leaves_with_white_flowers"
+      - "shizuart_furnitures:leaves_with_small_blue_flowers"
+      - "shizuart_furnitures:leaves_with_small_pink_flowers"
+      - "shizuart_furnitures:leaves_with_small_purple_flowers"
+      - "shizuart_furnitures:leaves_with_small_white_flowers"
+
+#6eb6143fda287f65c599bcc43599f151

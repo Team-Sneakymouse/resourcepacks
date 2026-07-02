@@ -1,0 +1,1580 @@
+info:
+  namespace: shizuart_furnitures
+items:
+  lake_barrier:
+    enabled: true
+    display_name: Barrier
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_barrier
+      model_id: 2690051
+  lake_bench:
+    enabled: true
+    display_name: Stone bench
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+      furniture_sit:
+        sit_height: 0.9
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_bench
+      model_id: 2690052
+  lake_cattail:
+    enabled: true
+    display_name: Cattail
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_cattail
+      model_id: 2690053
+  lake_herb:
+    enabled: true
+    display_name: Grass
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_herb
+      model_id: 2690054
+  lake_sedge:
+    enabled: true
+    display_name: Sedge
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_sedge
+      model_id: 2690060
+  lake_dragonfly:
+    enabled: true
+    display_name: Dragonfly
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.5
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_dragonfly
+      model_id: 2690055
+  lake_nenuphars:
+    enabled: true
+    display_name: Nenuphars
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.5
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_nenuphars
+      model_id: 2690056
+  lake_waterlily:
+    enabled: true
+    display_name: Waterlily
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 0.5
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_waterlily
+      model_id: 2690057
+  lake_pole:
+    enabled: true
+    display_name: Pole
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_pole
+      model_id: 2690058
+  lake_pole2:
+    enabled: true
+    display_name: Pole
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_pole2
+      model_id: 2690059
+  lake_trunk:
+    enabled: true
+    display_name: Trunk
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_trunk
+      model_id: 2690061
+  lake_trunk_moss:
+    enabled: true
+    display_name: Mossy trunk
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_trunk_moss
+      model_id: 2690062
+  lake_trunk_moss_mushroom:
+    enabled: true
+    display_name: Mossy trunk with mushrooms
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 1
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_trunk_moss_mushroom
+      model_id: 2690063
+  lake_lantern:
+    enabled: true
+    display_name: Fireflies lantern
+    behaviours:
+      furniture:
+        light_level: 15
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_lantern
+      model_id: 2690064
+  pontoon_block:
+    enabled: true
+    display_name: Pontoon block
+    specific_properties:
+      block:
+        placed_model:
+          type: REAL_NOTE
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - shizuart_furnitures:lake_props/pontoon_block.png
+      model_id: 2690065
+  lake_pontoon_barrier:
+    enabled: true
+    display_name: Pontoon barrier
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          width: 2
+          width_offset: -1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_pontoon_barrier
+      model_id: 2690066
+  lake_rock:
+    enabled: true
+    display_name: Rock
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_rock
+      model_id: 2690067
+  lake_rocks:
+    enabled: true
+    display_name: Rocks
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_rocks
+      model_id: 2690068
+  lake_pebbles:
+    enabled: true
+    display_name: Pebbles
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_pebbles
+      model_id: 2690069
+  lake_pebbles2:
+    enabled: true
+    display_name: Pebbles
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_pebbles2
+      model_id: 2690070
+  lake_pebbles3:
+    enabled: true
+    display_name: Pebbles
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_pebbles3
+      model_id: 2690071
+  lake_red_mushroom:
+    enabled: true
+    display_name: Red mushrooms
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_red_mushroom
+      model_id: 2690072
+  lake_brown_mushroom:
+    enabled: true
+    display_name: Brown mushrooms
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_brown_mushroom
+      model_id: 2690073
+  lake_purple_mushroom:
+    enabled: true
+    display_name: Purple mushrooms
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_purple_mushroom
+      model_id: 2690074
+  lake_solo_red_mushroom:
+    enabled: true
+    display_name: Red mushroom
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_solo_red_mushroom
+      model_id: 2690075
+  lake_solo_brown_mushroom:
+    enabled: true
+    display_name: Brown mushroom
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_solo_brown_mushroom
+      model_id: 2690076
+  lake_solo_purple_mushroom:
+    enabled: true
+    display_name: Purple mushroom
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_solo_purple_mushroom
+      model_id: 2690077
+  lake_green_leaves_pile:
+    enabled: true
+    display_name: Green leaves pile
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_green_leaves_pile
+      model_id: 2690078
+  lake_yellow_leaves_pile:
+    enabled: true
+    display_name: Yellow leaves pile
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_yellow_leaves_pile
+      model_id: 2690079
+  lake_red_leaves_pile:
+    enabled: true
+    display_name: Red leaves pile
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_red_leaves_pile
+      model_id: 2690080
+  lake_green_leaves:
+    enabled: true
+    display_name: Green leaves
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_green_leaves
+      model_id: 2690081
+  lake_yellow_leaves:
+    enabled: true
+    display_name: Yellow leaves
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_yellow_leaves
+      model_id: 2690082
+  lake_red_leaves:
+    enabled: true
+    display_name: Red leaves
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_red_leaves
+      model_id: 2690083
+  lake_green_leaves2:
+    enabled: true
+    display_name: Green leaves
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_green_leaves2
+      model_id: 2690084
+  lake_yellow_leaves2:
+    enabled: true
+    display_name: Yellow leaves
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_yellow_leaves2
+      model_id: 2690085
+  lake_red_leaves2:
+    enabled: true
+    display_name: Red leaves
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_red_leaves2
+      model_id: 2690086
+  lake_green_bush:
+    enabled: true
+    display_name: Green bush
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_green_bush
+      model_id: 2690087
+  lake_yellow_bush:
+    enabled: true
+    display_name: Yellow bush
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_yellow_bush
+      model_id: 2690088
+  lake_red_bush:
+    enabled: true
+    display_name: Red bush
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:lake_props/lake_red_bush
+      model_id: 2690089
+
+#9c92811b23c8c8a0a96e715a2d6afe55

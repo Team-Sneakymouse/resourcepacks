@@ -1,0 +1,21 @@
+info:
+  namespace: shizuart_furnitures
+
+categories:
+  mushrooms_props:
+    enabled: true
+    icon: "shizuart_furnitures:big_blue_mushroom"
+    name: "Mushrooms Props"
+    items:
+      - "shizuart_furnitures:big_blue_mushroom"
+      - "shizuart_furnitures:big_blue_mushrooms"
+      - "shizuart_furnitures:blue_mushroom"
+      - "shizuart_furnitures:blue_mushrooms"
+      - "shizuart_furnitures:big_red_mushroom"
+      - "shizuart_furnitures:big_red_mushrooms"
+      - "shizuart_furnitures:red_mushroom"
+      - "shizuart_furnitures:red_mushrooms"
+      - "shizuart_furnitures:big_brown_mushroom"
+      - "shizuart_furnitures:brown_mushroom"
+
+#789c3f297b188f7a45f3fa3ea161aa6e

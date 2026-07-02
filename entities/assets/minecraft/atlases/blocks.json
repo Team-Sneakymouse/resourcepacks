@@ -9,6 +9,41 @@
       "type": "directory",
       "source": "furnituresplus",
       "prefix": "furnituresplus/"
+    },
+    {
+      "type": "directory",
+      "source": "bush_props",
+      "prefix": "bush_props/"
+    },
+    {
+      "type": "directory",
+      "source": "bushy_leaves",
+      "prefix": "bushy_leaves/"
+    },
+    {
+      "type": "directory",
+      "source": "flora_props",
+      "prefix": "flora_props/"
+    },
+    {
+      "type": "directory",
+      "source": "lake_props",
+      "prefix": "lake_props/"
+    },
+    {
+      "type": "directory",
+      "source": "mushrooms_props",
+      "prefix": "mushrooms_props/"
+    },
+    {
+      "type": "directory",
+      "source": "vines_props",
+      "prefix": "vines_props/"
+    },
+    {
+      "type": "directory",
+      "source": "windows_planters_props",
+      "prefix": "windows_planters_props/"
     }
   ]
 }

@@ -1,0 +1,1620 @@
+info:
+  namespace: shizuart_furnitures
+
+items:
+  flora_bush_plant:
+    enabled: true
+    display_name: Bush plant
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_bush_plant
+      model_id: 2670051
+  flora_bush_plant_blue:
+    enabled: true
+    display_name: Bush plant blue
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_bush_plant_blue
+      model_id: 2670052
+  flora_bush_plant_pink:
+    enabled: true
+    display_name: Bush plant pink
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_bush_plant_pink
+      model_id: 2670053
+  flora_bush_plant_purple:
+    enabled: true
+    display_name: Bush plant purple
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_bush_plant_purple
+      model_id: 2670054
+  flora_bush_plant_white:
+    enabled: true
+    display_name: Bush plant white
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_bush_plant_white
+      model_id: 2670055
+  flora_bush_plant_yellow:
+    enabled: true
+    display_name: Bush plant yellow
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_bush_plant_yellow
+      model_id: 2670056
+  flora_daisy:
+    enabled: true
+    display_name: White daisy
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_daisy
+      model_id: 2670057
+  flora_daisy_blue:
+    enabled: true
+    display_name: Blue daisy
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_daisy_blue
+      model_id: 2670058
+  flora_daisy_pink:
+    enabled: true
+    display_name: Pink daisy
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_daisy_pink
+      model_id: 2670059
+  flora_daisy_purple:
+    enabled: true
+    display_name: Purple daisy
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_daisy_purple
+      model_id: 2670060
+  flora_daisy_yellow:
+    enabled: true
+    display_name: Yellow daisy
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_daisy_yellow
+      model_id: 2670061
+  flora_flower_blue:
+    enabled: true
+    display_name: Blue flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_flower_blue
+      model_id: 2670062
+  flora_flower_pink:
+    enabled: true
+    display_name: Pink flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_flower_pink
+      model_id: 2670063
+  flora_flower_purple:
+    enabled: true
+    display_name: Purple flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_flower_purple
+      model_id: 2670064
+  flora_flower_white:
+    enabled: true
+    display_name: White flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_flower_white
+      model_id: 2670065
+  flora_flower_yellow:
+    enabled: true
+    display_name: Yellow flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_flower_yellow
+      model_id: 2670066
+  flora_flower2_blue:
+    enabled: true
+    display_name: Blue flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_flower2_blue
+      model_id: 2670067
+  flora_flower2_pink:
+    enabled: true
+    display_name: Pink flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_flower2_pink
+      model_id: 2670068
+  flora_flower2_purple:
+    enabled: true
+    display_name: Purple flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_flower2_purple
+      model_id: 2670069
+  flora_flower2_white:
+    enabled: true
+    display_name: White flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_flower2_white
+      model_id: 2670070
+  flora_flower2_yellow:
+    enabled: true
+    display_name: Yellow flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_flower2_yellow
+      model_id: 2670071
+  flora_long_bush_plant:
+    enabled: true
+    display_name: Long bush plant
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_long_bush_plant
+      model_id: 2670072
+  flora_long_bush_plant_blue:
+    enabled: true
+    display_name: Long bush plant with blue flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_long_bush_plant_blue
+      model_id: 2670073
+  flora_long_bush_plant_pink:
+    enabled: true
+    display_name: Long bush plant with pink flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_long_bush_plant_pink
+      model_id: 2670074
+  flora_long_bush_plant_purple:
+    enabled: true
+    display_name: Long bush plant with purple flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_long_bush_plant_purple
+      model_id: 2670075
+  flora_long_bush_plant_white:
+    enabled: true
+    display_name: Long bush plant with white flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_long_bush_plant_white
+      model_id: 2670076
+  flora_long_bush_plant_yellow:
+    enabled: true
+    display_name: Long bush plant with yellow flowers
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_long_bush_plant_yellow
+      model_id: 2670077
+  flora_long_plant:
+    enabled: true
+    display_name: Big fern plant
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_long_plant
+      model_id: 2670078
+  flora_small_flower_blue:
+    enabled: true
+    display_name: Small blue flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_small_flower_blue
+      model_id: 2670079
+  flora_small_flower_pink:
+    enabled: true
+    display_name: Small pink flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_small_flower_pink
+      model_id: 2670080
+  flora_small_flower_purple:
+    enabled: true
+    display_name: Small purple flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_small_flower_purple
+      model_id: 2670081
+  flora_small_flower_white:
+    enabled: true
+    display_name: Small white flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_small_flower_white
+      model_id: 2670082
+  flora_small_flower_yellow:
+    enabled: true
+    display_name: Small yellow flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_small_flower_yellow
+      model_id: 2670083
+  flora_small_plant:
+    enabled: true
+    display_name: Small plant
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_small_plant
+      model_id: 2670084
+  flora_star_flower:
+    enabled: true
+    display_name: White star flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_star_flower
+      model_id: 2670085
+  flora_star_flower_blue:
+    enabled: true
+    display_name: Blue star flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_star_flower_blue
+      model_id: 2670086
+  flora_star_flower_pink:
+    enabled: true
+    display_name: Pink star flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_star_flower_pink
+      model_id: 2670087
+  flora_star_flower_purple:
+    enabled: true
+    display_name: Purple star flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_star_flower_purple
+      model_id: 2670088
+  flora_star_flower_yellow:
+    enabled: true
+    display_name: Yellow star flower
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_star_flower_yellow
+      model_id: 2670089
+  flora_tropical_plant:
+    enabled: true
+    display_name: Tropical plant
+    behaviours:
+      furniture:
+        solid: false
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        opposite_direction: true
+        sound:
+          place:
+            name: block.cherry_leaves.place
+          break:
+            name: block.cherry_leaves.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    resource:
+      material: PAPER
+      generate: false
+      model_path: shizuart_furnitures:flora_props/flora_tropical_plant
+      model_id: 2670090
+
+#42b920b324e992ff4382fb5d08426ae6

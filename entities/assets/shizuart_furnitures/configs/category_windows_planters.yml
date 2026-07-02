@@ -1,0 +1,53 @@
+info:
+  namespace: shizuart_furnitures
+
+categories:
+  windows_planters:
+    enabled: true
+    icon: "shizuart_furnitures:windows_planter"
+    name: "Windows planters"
+    items:
+      - "shizuart_furnitures:windows_planter"
+      - "shizuart_furnitures:windows_planter2"
+      - "shizuart_furnitures:windows_planter3"
+      - "shizuart_furnitures:windows_planter_a"
+      - "shizuart_furnitures:windows_planter_a2"
+      - "shizuart_furnitures:windows_planter_a3"
+      - "shizuart_furnitures:bell_white_flower"
+      - "shizuart_furnitures:big_white_flower"
+      - "shizuart_furnitures:big_white_flower2"
+      - "shizuart_furnitures:big_white_flower3"
+      - "shizuart_furnitures:blooming_white_flower"
+      - "shizuart_furnitures:medium_white_flower"
+      - "shizuart_furnitures:really_small_white_flower"
+      - "shizuart_furnitures:small_white_flower"
+      - "shizuart_furnitures:windows_planter_b"
+      - "shizuart_furnitures:windows_planter_b2"
+      - "shizuart_furnitures:windows_planter_b3"
+      - "shizuart_furnitures:windows_planter_c"
+      - "shizuart_furnitures:windows_planter_c2"
+      - "shizuart_furnitures:windows_planter_c3"
+      - "shizuart_furnitures:windows_planter_1"
+      - "shizuart_furnitures:windows_planter2_1"
+      - "shizuart_furnitures:windows_planter3_1"
+      - "shizuart_furnitures:windows_planter_a_1"
+      - "shizuart_furnitures:windows_planter_a2_1"
+      - "shizuart_furnitures:windows_planter_a3_1"
+      - "shizuart_furnitures:bell_white_flower_1"
+      - "shizuart_furnitures:big_white_flower_1"
+      - "shizuart_furnitures:big_white_flower2_1"
+      - "shizuart_furnitures:big_white_flower3_1"
+      - "shizuart_furnitures:blooming_white_flower_1"
+      - "shizuart_furnitures:blooming_white_flower2_1"
+      - "shizuart_furnitures:blooming_white_flower3_1"
+      - "shizuart_furnitures:medium_white_flower_1"
+      - "shizuart_furnitures:really_small_white_flower_1"
+      - "shizuart_furnitures:small_white_flower_1"
+      - "shizuart_furnitures:windows_planter_b_1"
+      - "shizuart_furnitures:windows_planter_b2_1"
+      - "shizuart_furnitures:windows_planter_b3_1"
+      - "shizuart_furnitures:windows_planter_c_1"
+      - "shizuart_furnitures:windows_planter_c2_1"
+      - "shizuart_furnitures:windows_planter_c3_1"
+
+#6259e53751cd13fe1ee1b9a1e88ab23a

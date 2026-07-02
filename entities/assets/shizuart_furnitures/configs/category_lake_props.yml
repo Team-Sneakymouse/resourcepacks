@@ -1,0 +1,50 @@
+info:
+  namespace: shizuart_furnitures
+
+categories:
+  lake_props:
+    enabled: true
+    icon: "shizuart_furnitures:lake_cattail"
+    name: "Lake Props"
+    items:
+      - "shizuart_furnitures:lake_barrier"
+      - "shizuart_furnitures:lake_bench"
+      - "shizuart_furnitures:lake_cattail"
+      - "shizuart_furnitures:lake_herb"
+      - "shizuart_furnitures:lake_sedge"
+      - "shizuart_furnitures:lake_dragonfly"
+      - "shizuart_furnitures:lake_nenuphars"
+      - "shizuart_furnitures:lake_waterlily"
+      - "shizuart_furnitures:lake_pole"
+      - "shizuart_furnitures:lake_pole2"
+      - "shizuart_furnitures:lake_trunk"
+      - "shizuart_furnitures:lake_trunk_moss"
+      - "shizuart_furnitures:lake_trunk_moss_mushroom"
+      - "shizuart_furnitures:lake_lantern"
+      - "shizuart_furnitures:pontoon_block"
+      - "shizuart_furnitures:lake_pontoon_barrier"
+      - "shizuart_furnitures:lake_rock"
+      - "shizuart_furnitures:lake_rocks"
+      - "shizuart_furnitures:lake_pebbles"
+      - "shizuart_furnitures:lake_pebbles2"
+      - "shizuart_furnitures:lake_pebbles3"
+      - "shizuart_furnitures:lake_red_mushroom"
+      - "shizuart_furnitures:lake_brown_mushroom"
+      - "shizuart_furnitures:lake_purple_mushroom"
+      - "shizuart_furnitures:lake_solo_red_mushroom"
+      - "shizuart_furnitures:lake_solo_brown_mushroom"
+      - "shizuart_furnitures:lake_solo_purple_mushroom"
+      - "shizuart_furnitures:lake_green_leaves_pile"
+      - "shizuart_furnitures:lake_yellow_leaves_pile"
+      - "shizuart_furnitures:lake_red_leaves_pile"
+      - "shizuart_furnitures:lake_green_leaves"
+      - "shizuart_furnitures:lake_yellow_leaves"
+      - "shizuart_furnitures:lake_red_leaves"
+      - "shizuart_furnitures:lake_green_leaves2"
+      - "shizuart_furnitures:lake_yellow_leaves2"
+      - "shizuart_furnitures:lake_red_leaves2"
+      - "shizuart_furnitures:lake_green_bush"
+      - "shizuart_furnitures:lake_yellow_bush"
+      - "shizuart_furnitures:lake_red_bush"
+
+#9c92811b23c8c8a0a96e715a2d6afe55

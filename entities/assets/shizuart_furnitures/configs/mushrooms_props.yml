@@ -1,0 +1,418 @@
+info:
+  namespace: shizuart_furnitures
+
+items:
+  big_blue_mushroom:
+    enabled: true
+    display_name: Big blue mushroom
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 4
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    graphics:
+      material: PAPER
+      generate: false
+      model: shizuart_furnitures:mushrooms_props/big_blue_mushroom
+  big_blue_mushrooms:
+    enabled: true
+    display_name: Big blue mushrooms
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 4
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 1
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    graphics:
+      material: PAPER
+      generate: false
+      model: shizuart_furnitures:mushrooms_props/big_blue_mushrooms
+  blue_mushroom:
+    enabled: true
+    display_name: Blue mushroom
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    graphics:
+      material: PAPER
+      generate: false
+      model: shizuart_furnitures:mushrooms_props/blue_mushroom
+  blue_mushrooms:
+    enabled: true
+    display_name: Blue mushrooms
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    graphics:
+      material: PAPER
+      generate: false
+      model: shizuart_furnitures:mushrooms_props/blue_mushrooms
+  big_red_mushroom:
+    enabled: true
+    display_name: Big red mushroom
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 4
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    graphics:
+      material: PAPER
+      generate: false
+      model: shizuart_furnitures:mushrooms_props/big_red_mushroom
+  big_red_mushrooms:
+    enabled: true
+    display_name: Big red mushrooms
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 4
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    graphics:
+      material: PAPER
+      generate: false
+      model: shizuart_furnitures:mushrooms_props/big_red_mushrooms
+  red_mushroom:
+    enabled: true
+    display_name: Red mushroom
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    graphics:
+      material: PAPER
+      generate: false
+      model: shizuart_furnitures:mushrooms_props/red_mushroom
+  red_mushrooms:
+    enabled: true
+    display_name: Red mushrooms
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    graphics:
+      material: PAPER
+      generate: false
+      model: shizuart_furnitures:mushrooms_props/red_mushrooms
+  big_brown_mushroom:
+    enabled: true
+    display_name: Big brown mushroom
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 2
+          width: 3
+          length: 3
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: -0.5
+            z: 0
+          scale:
+            x: 1
+            y: 1
+            z: 1
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    graphics:
+      material: PAPER
+      generate: false
+      model: shizuart_furnitures:mushrooms_props/big_brown_mushroom
+  brown_mushroom:
+    enabled: true
+    display_name: Brown mushroom
+    behaviours:
+      furniture:
+        solid: true
+        entity: item_display
+        fixed_rotation: true
+        placeable_on:
+          ceiling: false
+          floor: true
+          walls: false
+        hitbox:
+          height: 1
+        opposite_direction: true
+        sound:
+          place:
+            name: block.wood.place
+          break:
+            name: block.wood.break
+        display_transformation:
+          transform: FIXED
+          translation:
+            x: 0
+            y: 0
+            z: 0
+          scale:
+            x: 0.5
+            y: 0.5
+            z: 0.5
+          right_rotation:
+            axis_angle:
+              angle: -90
+              axis:
+                x: 1
+                y: 0
+                z: 0
+    graphics:
+      material: PAPER
+      generate: false
+      model: shizuart_furnitures:mushrooms_props/brown_mushroom
+
+#789c3f297b188f7a45f3fa3ea161aa6e
