@@ -329,5 +329,8 @@
 	"lootbox.weapon": { "sounds": ["lom:gift_jimmy/lootbox.weapon"] },
 	"items/spraycan": { "sounds": ["lom:items/spraycan"] },
 	"sfx.onering": { "sounds": ["lom:sfx/sfx.onering"] },
-	"sfx.yugioh": { "sounds": ["lom:sfx/sfx.yugioh"] }
+	"sfx.yugioh": { "sounds": ["lom:sfx/sfx.yugioh"] },
+	"scrollofmonkeybusiness": { "sounds": ["lom:scrollofmonkeybusiness"] },
+	"scrollofkillerrabbit1": { "sounds": ["lom:scrollofkillerrabbit1"] },
+	"scrollofkillerrabbit2": { "sounds": ["lom:scrollofkillerrabbit2"] }
 }
