@@ -234,6 +234,8 @@
       { "threshold": 233, "model": { "type": "model", "model": "lom:item/items/mixtape_gold", "tints": [{ "type": "minecraft:dye", "default": -3797747 }] } },
       { "threshold": 234, "model": { "type": "model", "model": "lom:item/items/mixtape_radical" } },
       { "threshold": 235, "model": { "type": "model", "model": "lom:item/items/scrollofmonkeybusiness" } },
+      { "threshold": 236, "model": { "type": "model", "model": "lom:item/items/dirtybrick" } },
+      { "threshold": 237, "model": { "type": "model", "model": "lom:item/items/dirtygoldbar" } },
       
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
