@@ -116,7 +116,8 @@
       { "threshold": 115, "model": { "type": "model", "model": "minecraft:item/bread" } },
       { "threshold": 116, "model": { "type": "model", "model": "lom:item/items/mudpie" } },
       { "threshold": 117, "model": { "type": "model", "model": "lom:item/items/taco" } },
-      { "threshold": 118, "model": { "type": "model", "model": "lom:item/items/coconut_half" } }
+      { "threshold": 118, "model": { "type": "model", "model": "lom:item/items/coconut_half" } },
+      { "threshold": 119, "model": { "type": "model", "model": "lom:item/items/soggy_bread" } }
     ]
   }
 }
