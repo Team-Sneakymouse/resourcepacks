@@ -5,7 +5,11 @@
 	  "fallback": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_alt" },
 	  "cases": [
 		{ "when": "main", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_main" } },
-		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_alt" } }
+		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_alt" } },
+		{ "when": "gambling1", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_gambling1" } },
+		{ "when": "gambling2", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_gambling2" } },
+		{ "when": "gambling3", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_gambling3" } },
+		{ "when": "fence", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_fence" } }
 	  ]
 	}
 }

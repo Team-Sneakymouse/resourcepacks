@@ -1493,6 +1493,7 @@
       { "threshold": 3083, "model": { "type": "model", "model": "lom:item/gui/burglary_gui" } },
       { "threshold": 3084, "model": { "type": "model", "model": "lom:item/gui/searching_gui" } },
       { "threshold": 3085, "model": { "type": "model", "model": "lom:item/gui/bohbagexpander" } },
+      { "threshold": 3086, "model": { "type": "model", "model": "lom:item/gui/noticeofstolenproperty" } },
 
       { "threshold": 3101, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius" } },
       { "threshold": 3102, "model": { "type": "model", "model": "lom:item/gui/npcs/darrius1" } },
@@ -1533,6 +1534,7 @@
       { "threshold": 3137, "model": { "type": "model", "model": "lom:item/gui/npcs/carlthekobold_gambling2" } },
       { "threshold": 3138, "model": { "type": "model", "model": "lom:item/gui/npcs/carlthekobold_gambling2a" } },
       { "threshold": 3139, "model": { "type": "model", "model": "lom:item/gui/npcs/carlthekobold_gambling3" } },
+      { "threshold": 3140, "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_fence" } },
 
       { "threshold": 3201, "model": { "type": "model", "model": "lom:item/gui/crates/crate_brickton" } },
       { "threshold": 3202, "model": { "type": "model", "model": "lom:item/gui/crates/crate_darkvale" } },

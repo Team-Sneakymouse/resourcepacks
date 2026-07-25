@@ -244,6 +244,8 @@
       { "threshold": 243, "model": { "type": "model", "model": "lom:item/weapons/gravedigger" } },
       { "threshold": 244, "model": { "type": "model", "model": "lom:item/weapons/warhammer" } },
       { "threshold": 245, "model": { "type": "model", "model": "lom:item/weapons/runeblade" } },
+      { "threshold": 246, "model": { "type": "model", "model": "lom:item/items/stolengoods" } },
+      { "threshold": 247, "model": { "type": "model", "model": "lom:item/items/gponotice" } },
       
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
