@@ -1650,5 +1650,8 @@
 	},
 	"computer.mlm": {
 		"sounds": ["lom:computer.mlm"]
+	},
+	"stealth": {
+		"sounds": ["lom:stealth"]
 	}
 }
