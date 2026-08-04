@@ -1,0 +1,30 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "lom:item/gui/npcs/quests/jimmy_quest_bomb"
+	},
+	"elements": [
+		{
+			"name": "PlaneX1",
+			"from": [7.25, -6.75, -12.31],
+			"to": [7.251, 4.7684, 29.44],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1.25, 0.95]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [0, -90, 0],
+			"translation": [57, -34.75, -8],
+			"scale": [0.0001, 4, 4]
+		}
+	}
+}
