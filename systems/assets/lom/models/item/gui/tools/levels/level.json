@@ -1,0 +1,31 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "lom:item/gui/tools/levels/lv100",
+		"texture": "lom:item/gui/tools/levels/lv100"
+	},
+	"elements": [
+		{
+			"name": "PlaneX1",
+			"from": [7.25, 6, 6.75],
+			"to": [7.251, 7.1268, 9.3125],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 14, 20]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [0, -90, 0],
+			"translation": [1.25, 32.5, -8],
+			"scale": [0.0001, 4, 4]
+		}
+	}
+}

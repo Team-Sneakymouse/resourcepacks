@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/tools/levels/level",
+  "textures": {
+    "texture": "lom:item/gui/tools/levels/lv54"
+  }
+}
