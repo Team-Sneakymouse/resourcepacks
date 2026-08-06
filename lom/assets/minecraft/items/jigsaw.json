@@ -2321,6 +2321,17 @@
       { "threshold": 12011, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_counterfeitcoin" } },
       { "threshold": 12012, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_firework" } },
       { "threshold": 12013, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_treasuremap" } },
+      { "threshold": 12014, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_brick" } },
+      { "threshold": 12015, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_crowbar" } },
+      { "threshold": 12016, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_expp" } },
+      { "threshold": 12017, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_largemanapotion" } },
+      { "threshold": 12018, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_nutsandbolts" } },
+      { "threshold": 12019, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_oil" } },
+      { "threshold": 12020, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_omegastone" } },
+      { "threshold": 12021, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_pearl" } },
+      { "threshold": 12022, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_soulstone" } },
+      { "threshold": 12023, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_stone" } },
+      { "threshold": 12024, "model": { "type": "model", "model": "lom:item/gui/crafting/craftingjournal_wrench" } },
 
       { "threshold": 13000, "model": { "type": "model", "model": "lom:item/gui/help_images/help_nyi" } },
       { "threshold": 13001, "model": { "type": "model", "model": "lom:item/gui/help_images/help_bountiesandjail" } },
@@ -2383,6 +2394,7 @@
       { "threshold": 14108, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_1_right" } },
       { "threshold": 14109, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_2_left" } },
       { "threshold": 14110, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_2_right" } }
+
     ]
   }
 }
