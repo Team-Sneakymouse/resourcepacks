@@ -743,6 +743,7 @@
       { "threshold": 12023, "model": { "type": "model", "model": "lom:item/gui/crafting/crafticon_stone" } },
       { "threshold": 12024, "model": { "type": "model", "model": "lom:item/gui/crafting/crafticon_wrench" } },
       
+      { "threshold": 14000, "model": { "type": "model", "model": "lom:item/gui/tools/levels/lv0" } },
       { "threshold": 14001, "model": { "type": "model", "model": "lom:item/gui/tools/levels/lv1" } },
       { "threshold": 14002, "model": { "type": "model", "model": "lom:item/gui/tools/levels/lv2" } },
       { "threshold": 14003, "model": { "type": "model", "model": "lom:item/gui/tools/levels/lv3" } },

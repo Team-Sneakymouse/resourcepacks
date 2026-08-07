@@ -2389,11 +2389,19 @@
       { "threshold": 14103, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_2" } },
       { "threshold": 14104, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_button_upgrade_inactive" } },
       { "threshold": 14105, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_button_upgrade_active" } },
-      { "threshold": 14106, "model": { "type": "model", "model": "lom:item/gui/tools/pickaxe_gui_t0" } },
+      { "threshold": 14106, "model": { "type": "model", "model": "lom:item/gui/tools/error" } },
       { "threshold": 14107, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_1_left" } },
       { "threshold": 14108, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_1_right" } },
       { "threshold": 14109, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_2_left" } },
-      { "threshold": 14110, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_2_right" } }
+      { "threshold": 14110, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_2_right" } },
+      
+      { "threshold": 14200, "model": { "type": "model", "model": "lom:item/gui/tools/pickaxe_gui_t0" } },
+      { "threshold": 14201, "model": { "type": "model", "model": "lom:item/gui/tools/pickaxe_gui_t1" } },
+      { "threshold": 14202, "model": { "type": "model", "model": "lom:item/gui/tools/pickaxe_gui_t2" } },
+      { "threshold": 14203, "model": { "type": "model", "model": "lom:item/gui/tools/pickaxe_gui_t3" } },
+      { "threshold": 14204, "model": { "type": "model", "model": "lom:item/gui/tools/pickaxe_gui_t4" } },
+      { "threshold": 14205, "model": { "type": "model", "model": "lom:item/gui/tools/pickaxe_gui_t5" } },
+      { "threshold": 14206, "model": { "type": "model", "model": "lom:item/gui/tools/pickaxe_gui_t6" } }
 
     ]
   }
