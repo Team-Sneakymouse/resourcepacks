@@ -246,6 +246,9 @@
       { "threshold": 245, "model": { "type": "model", "model": "lom:item/weapons/runeblade" } },
       { "threshold": 246, "model": { "type": "model", "model": "lom:item/items/stolengoods" } },
       { "threshold": 247, "model": { "type": "model", "model": "lom:item/items/gponotice" } },
+      { "threshold": 248, "model": { "type": "model", "model": "lom:item/items/leather-raw" } },
+      { "threshold": 249, "model": { "type": "model", "model": "lom:item/items/leather-fine" } },
+      { "threshold": 250, "model": { "type": "model", "model": "lom:item/items/leather-exquiste" } },
       
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
