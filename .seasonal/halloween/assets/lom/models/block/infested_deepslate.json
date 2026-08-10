@@ -1,7 +1,0 @@
-{
-	"parent": "block/cube_column",
-	"textures": {
-		"end": "lom:block/infested_deepslate_top",
-		"side": "lom:block/infested_deepslate"
-	}
-}

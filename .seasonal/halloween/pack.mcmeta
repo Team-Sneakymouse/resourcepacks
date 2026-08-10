@@ -1,9 +1,0 @@
-{
-	"id": "00000000-5555-4321-a000-000000000014",
-	"name": "seasonal",
-	"pack": {
-		"pack_format": 32,
-		"supporetd_formats": [32, 46],
-		"description": "Halloween assets for Lords of Minecraft"
-	}
-}
