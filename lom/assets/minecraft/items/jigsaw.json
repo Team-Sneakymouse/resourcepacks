@@ -2394,6 +2394,7 @@
       { "threshold": 14108, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_1_right" } },
       { "threshold": 14109, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_2_left" } },
       { "threshold": 14110, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_2_right" } },
+      { "threshold": 14111, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_button_tierup_active" } },
       
       { "threshold": 14200, "model": { "type": "model", "model": "lom:item/gui/tools/pickaxe_gui_t0" } },
       { "threshold": 14201, "model": { "type": "model", "model": "lom:item/gui/tools/pickaxe_gui_t1" } },
