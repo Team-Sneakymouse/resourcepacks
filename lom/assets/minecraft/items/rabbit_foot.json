@@ -249,7 +249,8 @@
       { "threshold": 248, "model": { "type": "model", "model": "lom:item/items/leather-raw" } },
       { "threshold": 249, "model": { "type": "model", "model": "lom:item/items/leather-fine" } },
       { "threshold": 250, "model": { "type": "model", "model": "lom:item/items/leather-exquiste" } },
-      { "threshold": 250, "model": { "type": "model", "model": "lom:item/items/bagexpander" } },
+      { "threshold": 251, "model": { "type": "model", "model": "lom:item/items/bagexpander" } },
+      { "threshold": 252, "model": { "type": "model", "model": "lom:item/tools/upgradebook" } },
       
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
