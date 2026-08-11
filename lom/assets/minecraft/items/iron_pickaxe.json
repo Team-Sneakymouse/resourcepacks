@@ -10,7 +10,9 @@
       { "threshold": 4, "model": { "type": "model", "model": "lom:item/tools/pickaxes/iron_pickaxe" } },
       { "threshold": 5, "model": { "type": "model", "model": "lom:item/tools/pickaxes/golden_pickaxe" } },
       { "threshold": 6, "model": { "type": "model", "model": "lom:item/tools/pickaxes/diamond_pickaxe" } },
-      { "threshold": 7, "model": { "type": "model", "model": "lom:item/tools/pickaxes/platinum_pickaxe" } }
+      { "threshold": 7, "model": { "type": "model", "model": "lom:item/tools/pickaxes/platinum_pickaxe" } },
+      { "threshold": 8, "model": { "type": "model", "model": "lom:item/tools/pickaxes/silver_pickaxe" } },
+      { "threshold": 9, "model": { "type": "model", "model": "lom:item/tools/pickaxes/bronze_pickaxe" } }
     ]
   }
 }

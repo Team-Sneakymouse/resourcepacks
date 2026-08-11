@@ -1,0 +1,6 @@
+{
+	"parent": "lom:item/tools/pickaxes/iron_pickaxe",
+	"textures": {
+		"0": "lom:item/tools/pickaxes/silver_pickaxe"
+	}
+}
