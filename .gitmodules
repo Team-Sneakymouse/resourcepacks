@@ -1,0 +1,3 @@
+[submodule "resourcepacks-craftengine"]
+	path = resourcepacks-craftengine
+	url = git@github.com:Team-Sneakymouse/resourcepacks-craftengine.git
