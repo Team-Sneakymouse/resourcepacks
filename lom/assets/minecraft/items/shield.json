@@ -54,6 +54,15 @@
           "on_true": { "type": "model", "model": "lom:item/shields/thewall_blocking" },
           "on_false": { "type": "model", "model": "lom:item/shields/thewall" }
         }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": { "type": "model", "model": "lom:item/shields/carriage_wheel_blocking" },
+          "on_false": { "type": "model", "model": "lom:item/shields/carriage_wheel" }
+        }
       }
     ]
   }
