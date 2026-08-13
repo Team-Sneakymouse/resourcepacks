@@ -153,6 +153,7 @@
       { "threshold": 148, "model": { "type": "model", "model": "lom:item/tools/boombox_on" } },
       { "threshold": 149, "model": { "type": "model", "model": "lom:item/entities/cannon_emplacement" } },
       { "threshold": 150, "model": { "type": "model", "model": "lom:item/tools/crystal_ball" } },
+      { "threshold": 151, "model": { "type": "model", "model": "lom:item/tools/microscope" } },
 
       { "threshold": 201, "model": { "type": "model", "model": "lom:item/entities/racks/racks_flamethrower" } },
       { "threshold": 202, "model": { "type": "model", "model": "lom:item/entities/racks/racks_wrench" } },
