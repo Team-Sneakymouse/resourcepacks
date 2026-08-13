@@ -63,6 +63,10 @@
           "on_true": { "type": "model", "model": "lom:item/shields/carriage_wheel_blocking" },
           "on_false": { "type": "model", "model": "lom:item/shields/carriage_wheel" }
         }
+      },
+      {
+        "threshold": 7,
+        "model": { "type": "model", "model": "lom:item/tools/glove" }
       }
     ]
   }

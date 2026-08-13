@@ -82,7 +82,8 @@
           { "type": "model", "model": "lom:item/hats/scouter-low" }
         ]
       }},
-      
+      { "threshold": 75, "model": { "type": "model", "model": "lom:item/tools/glove" } },
+
       
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/items/badges/water" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/items/badges/fire" } },
