@@ -251,6 +251,7 @@
       { "threshold": 250, "model": { "type": "model", "model": "lom:item/items/leather-exquiste" } },
       { "threshold": 251, "model": { "type": "model", "model": "lom:item/items/bagexpander" } },
       { "threshold": 252, "model": { "type": "model", "model": "lom:item/tools/upgradebook" } },
+      { "threshold": 253, "model": { "type": "model", "model": "lom:item/tools/suitcase" } },
       
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
