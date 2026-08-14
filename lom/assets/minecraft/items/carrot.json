@@ -31,7 +31,9 @@
       { "threshold": 25, "model": { "type": "model", "model": "lom:item/items/food/beetroot_soup" } },
       { "threshold": 26, "model": { "type": "model", "model": "lom:item/items/food/rabbit_stew" } },
       { "threshold": 27, "model": { "type": "model", "model": "lom:item/items/food/suspicious_stew" } },
-      { "threshold": 28, "model": { "type": "model", "model": "lom:item/items/item-expp" } }
+      { "threshold": 28, "model": { "type": "model", "model": "lom:item/items/item-expp" } },
+      { "threshold": 29, "model": { "type": "model", "model": "lom:item/items/flaskofcorruption" } },
+      { "threshold": 30, "model": { "type": "model", "model": "lom:item/items/koboldbrew" } }
     ]
   }
 }
