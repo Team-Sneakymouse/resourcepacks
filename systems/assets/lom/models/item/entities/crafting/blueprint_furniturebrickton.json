@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/entities/crafting/blueprint",
+  "textures": {
+    "0": "lom:item/entities/crafting/blueprint_furniturebrickton"
+  }
+}
