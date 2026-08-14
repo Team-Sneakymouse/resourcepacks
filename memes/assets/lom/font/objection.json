@@ -1,0 +1,328 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/000.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/001.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/002.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/003.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/004.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/005.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/006.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/007.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/008.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/009.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/010.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue00a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/011.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue00b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/012.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue00c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/013.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue00d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/014.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue00e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/015.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue00f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/016.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/017.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/018.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/019.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/020.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/021.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/022.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/023.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/024.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/025.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/026.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue01a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/027.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue01b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/028.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue01c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/029.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue01d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/030.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue01e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/031.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue01f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/032.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/033.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/034.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "lom:font/objection/035.png",
+            "ascent": 136,
+            "height": 256,
+            "chars": [
+                "\ue023"
+            ]
+        }
+    ]
+}
