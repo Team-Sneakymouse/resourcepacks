@@ -331,6 +331,7 @@
 	"lootbox.gamblingvoucher": { "sounds": ["lom:gift_jimmy/lootbox.gamblingvoucher"] },
 	"lootbox.glue": { "sounds": ["lom:gift_jimmy/lootbox.glue"] },
 	"lootbox.goldenmixtape": { "sounds": ["lom:gift_jimmy/lootbox.goldenmixtape"] },
+	"lootbox.holywrit": { "sounds": ["lom:gift_jimmy/lootbox.holywrit"] },
 	"lootbox.medal": { "sounds": ["lom:gift_jimmy/lootbox.medal"] },
 	"lootbox.mixtape": { "sounds": ["lom:gift_jimmy/lootbox.mixtape"] },
 	"lootbox.moltenflow": { "sounds": ["lom:gift_jimmy/lootbox.moltenflow"] },
