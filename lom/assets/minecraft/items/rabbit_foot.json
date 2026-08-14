@@ -252,6 +252,7 @@
       { "threshold": 251, "model": { "type": "model", "model": "lom:item/items/bagexpander" } },
       { "threshold": 252, "model": { "type": "model", "model": "lom:item/tools/upgradebook" } },
       { "threshold": 253, "model": { "type": "model", "model": "lom:item/tools/suitcase" } },
+      { "threshold": 254, "model": { "type": "model", "model": "lom:item/tools/seafoam" } },
       
       { "threshold": 501, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi1" } },
       { "threshold": 502, "model": { "type": "model", "model": "lom:item/items/fish/ancientkoi2" } },
