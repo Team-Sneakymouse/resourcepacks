@@ -1,6 +1,6 @@
 {
 	"format_version": "1.9.0",
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by eranos123",
 	"textures": {
 		"0": "lom:item/tools/glove",
 		"particle": "lom:item/tools/glove"
