@@ -309,6 +309,7 @@
       { "threshold": 532, "model": { "type": "model", "model": "lom:item/items/baloon_floor", "tints": [{ "type": "minecraft:dye", "default": -1158669}]} },
       { "threshold": 533, "model": { "type": "model", "model": "lom:item/items/baloon_wall", "tints": [{ "type": "minecraft:dye", "default": -1158669}]} },
       { "threshold": 534, "model": { "type": "model", "model": "lom:item/items/baloon_ceiling", "tints": [{ "type": "minecraft:dye", "default": -1158669}]} },
+      { "threshold": 535, "model": { "type": "model", "model": "lom:item/entities/superdynamite" } },
 
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_details" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/entities/vidwindows/scanner_main" } },
