@@ -100,6 +100,17 @@
       { "threshold": 94, "model": { "type": "model", "model": "lom:item/hats/hatventure/steampunk_top_hat_black" } },
       { "threshold": 95, "model": { "type": "model", "model": "lom:item/hats/hatventure/steampunk_top_hat_brown" } },
       { "threshold": 96, "model": { "type": "model", "model": "lom:item/hats/hatventure/steampunk_top_hat_gold" } },
+      { "threshold": 97, "model": { "type": "model", "model": "partyhatpack:item/partyhatpack/cake_hat" } },
+      { "threshold": 98, "model": { "type": "model", "model": "partyhatpack:item/partyhatpack/colorful_flower_hat" } },
+      { "threshold": 99, "model": { "type": "model", "model": "partyhatpack:item/partyhatpack/colorful_top_hat" } },
+      { "threshold": 100, "model": { "type": "model", "model": "partyhatpack:item/partyhatpack/cone_hat" } },
+      { "threshold": 101, "model": { "type": "model", "model": "partyhatpack:item/partyhatpack/jester_hat" } },
+      { "threshold": 102, "model": { "type": "model", "model": "partyhatpack:item/partyhatpack/origami_crown" } },
+      { "threshold": 103, "model": { "type": "model", "model": "partyhatpack:item/partyhatpack/party_glasses" } },
+      { "threshold": 104, "model": { "type": "model", "model": "partyhatpack:item/partyhatpack/party_hat" } },
+      { "threshold": 105, "model": { "type": "model", "model": "partyhatpack:item/partyhatpack/party_hat_v2" } },
+      { "threshold": 106, "model": { "type": "model", "model": "partyhatpack:item/partyhatpack/wizard_party_hat" } },
+
 
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/hats/somehats/axe_hat" } },
       { "threshold": 1002, "model": { "type": "model", "model": "lom:item/hats/somehats/beret_red" } },
