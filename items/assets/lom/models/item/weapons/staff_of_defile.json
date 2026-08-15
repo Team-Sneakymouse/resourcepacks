@@ -1,6 +1,13 @@
 {
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
 		"layer0": "lom:item/weapons/staff_of_defile"
+	},
+	"display": {
+		"fixed": {
+			"translation": [0, 0, -0.5]
+		}
 	}
 }

@@ -1,6 +1,16 @@
 {
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
 		"layer0": "lom:item/weapons/wand_of_fire"
+	},
+	"display": {
+		"ground": {
+			"translation": [0, 4.75, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -0.5]
+		}
 	}
 }

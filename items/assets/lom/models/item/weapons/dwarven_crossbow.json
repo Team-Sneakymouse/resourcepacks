@@ -1,6 +1,17 @@
 {
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
 		"layer0": "lom:item/weapons/dwarven_crossbow"
+	},
+	"display": {
+		"ground": {
+			"translation": [0, 3.75, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -1],
+			"scale": [2, 2, 2]
+		}
 	}
 }
