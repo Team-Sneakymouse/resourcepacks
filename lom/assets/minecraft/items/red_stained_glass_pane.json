@@ -87,6 +87,7 @@
       { "threshold": 2052, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/lootboxredgem" } },
       { "threshold": 2053, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/lootboxredgemblank" } },
       { "threshold": 2054, "model": { "type": "model", "model": "lom:item/gui/gift_jimmy/lootboxredgemanimated" } },
+      { "threshold": 2055, "model": { "type": "model", "model": "lom:item/items/legal_swammies" } },
 
       { "threshold": 2100, "model": { "type": "model", "model": "lom:item/gui/npcs/hearts/npcheart_0" } },
       { "threshold": 2101, "model": { "type": "model", "model": "lom:item/gui/npcs/hearts/npcheart_1" } },
