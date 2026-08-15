@@ -1,6 +1,0 @@
-{
-  "parent": "lom:item/gui/6rows-front",
-  "textures": {
-    "texture": "lom:item/gui/crafting/craftingjournal_darkvale"
-  }
-}
