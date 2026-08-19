@@ -4,7 +4,7 @@
 	"texture_size": [64, 32],
 	"textures": {
 		"0": "lom:item/entities/dead_sheep",
-		"1": "entity/sheep/sheep_fur",
+		"1": "lom:item/entities/sheep_fur",
 		"particle": "lom:item/entities/dead_sheep"
 	},
 	"elements": [

@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/oak_planks",
 		"1": "lom:item/items/prototype-items/against_sign",
-		"particle": "block:minecraft/oak_planks"
+		"particle": "block/oak_planks"
 	},
 	"elements": [
 		{

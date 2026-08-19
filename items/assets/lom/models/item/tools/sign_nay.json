@@ -5,6 +5,6 @@
 	"textures": {
 		"0": "block/oak_planks",
 		"1": "lom:item/tools/sign_nay",
-		"particle": "block:minecraft/oak_planks"
+		"particle": "block/oak_planks"
 	}
 }

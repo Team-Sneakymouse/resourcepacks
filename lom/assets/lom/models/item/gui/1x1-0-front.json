@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "lom:item/gui/npcs/hearts/npcheart_0",
-		"texture": "lom:item/gui/npcs/hearts/npcheart_0"
+		"particle": "lom:item/gui/npcs/hearts/npcheart_1",
+		"texture": "lom:item/gui/npcs/hearts/npcheart_1"
 	},
 	"elements": [
 		{

@@ -2,14 +2,14 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by eranos123",
 	"textures": {
-		"0": "smooth_stone",
-		"2": "anvil",
-		"3": "barrel_side",
-		"4": "black_concrete",
-		"5": "spruce_planks",
-		"6": "red_wool",
-		"8": "white_wool",
-		"particle": "smooth_stone"
+		"0": "block/smooth_stone",
+		"2": "block/anvil",
+		"3": "block/barrel_side",
+		"4": "block/black_concrete",
+		"5": "block/spruce_planks",
+		"6": "block/red_wool",
+		"8": "block/white_wool",
+		"particle": "block/smooth_stone"
 	},
 	"elements": [
 		{
