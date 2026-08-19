@@ -1,6 +1,6 @@
 {
-	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
 	"textures": {
 		"1": "lom:item/weapons/hammer_spike",
 		"2": "lom:item/weapons/hammer_head",

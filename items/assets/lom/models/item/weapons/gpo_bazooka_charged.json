@@ -4,6 +4,7 @@
 	"textures": {
 		"0": "lom:item/weapons/bazooka_ahnk",
 		"2": "block/anvil",
+		"5": "block/black_stained_glass",
 		"6": "block/red_stained_glass",
 		"7": "block/black_concrete",
 		"8": "block/red_terracotta",
