@@ -2,8 +2,8 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by Narkles",
 	"textures": {
-		"0": "lom:item/block/prismarine",
-		"2": "lom:item/block/dried_kelp_side",
+		"0": "lom:item/tools/seafoamshell",
+		"2": "lom:item/tools/ducttapetexture",
 		"4": "lom:item/block/red_concrete",
 		"5": "lom:item/block/yellow_concrete",
 		"6": "lom:item/block/blue_concrete",
@@ -16,7 +16,7 @@
 		"43": "lom:item/block/green_stained_glass",
 		"44": "lom:item/block/red_stained_glass",
 		"45": "lom:item/block/yellow_stained_glass",
-		"particle": "lom:item/block/prismarine"
+		"particle": "lom:item/tools/seafoamshell"
 	},
 	"elements": [
 		{
