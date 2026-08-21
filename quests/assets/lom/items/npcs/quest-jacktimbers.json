@@ -6,5 +6,6 @@
 	  "cases": [
 		{ "when": "learningtojack", "model": { "type": "model", "model": "lom:item/gui/npcs/jacktimbers_quest1" } }
 	  ]
-	}
+	},
+  "oversized_in_gui": true
 }

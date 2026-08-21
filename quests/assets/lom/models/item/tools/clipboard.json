@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench by vidokou",
 	"textures": {
-		"0": "block/stripped_oak_log",
-		"1": "block/iron_block",
-		"2": "block/iron_trapdoor",
-		"6": "block/quartz_pillar",
-		"particle": "block/stripped_oak_log"
+		"0": "lom:item/block/stripped_oak_log",
+		"1": "lom:item/block/iron_block",
+		"2": "lom:item/block/iron_trapdoor",
+		"6": "lom:item/block/quartz_pillar_side",
+		"particle": "lom:item/block/stripped_oak_log"
 	},
 	"elements": [
 		{

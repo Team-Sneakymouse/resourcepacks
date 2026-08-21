@@ -2,7 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"6": "minecraft:block/respawn_anchor_top",
+		"6": "lom:item/block/respawn_anchor_top",
 		"flamethrower_paladin_accessory": "lom:item/weapons/dvz_flamer_accessory_paladin",
 		"flamethrower_paladin_barrel": "lom:item/weapons/dvz_flamer_barrel_paladin",
 		"flamethrower_paladin_handle": "lom:item/weapons/dvz_flamer_handle_paladin"

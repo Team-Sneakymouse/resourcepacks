@@ -2,11 +2,11 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench by crazygeek516",
 	"textures": {
-		"3": "block/blackstone",
-		"4": "block/fire_coral_block",
-		"5": "block/stone",
-		"6": "block/gold_block",
-		"particle": "block/blackstone"
+		"3": "lom:item/block/blackstone",
+		"4": "lom:item/block/fire_coral_block",
+		"5": "lom:item/block/stone",
+		"6": "lom:item/block/gold_block",
+		"particle": "lom:item/block/blackstone"
 	},
 	"elements": [
 		{

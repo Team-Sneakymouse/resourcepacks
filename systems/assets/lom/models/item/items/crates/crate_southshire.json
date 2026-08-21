@@ -2,12 +2,13 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"texture_size": [64, 64],
 	"textures": {
+		"missing": "lom:item/missing",
 		"5": "lom:item/items/crates/label",
-		"particle": "block/quartz_bricks",
-		"inner": "block/quartz_bricks",
-		"outer_rim": "block/blue_concrete",
-		"inner_top": "block/chiseled_quartz_block_top",
-		"outer": "block/stripped_spruce_log",
+		"particle": "lom:item/block/quartz_bricks",
+		"inner": "lom:item/block/quartz_bricks",
+		"outer_rim": "lom:item/block/blue_concrete",
+		"inner_top": "lom:item/block/chiseled_quartz_block_top",
+		"outer": "lom:item/block/stripped_spruce_log",
 		"item": "lom:item/items/invisible"
 	},
 	"elements": [

@@ -11,5 +11,6 @@
 		{ "when": "gambling3", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_gambling3" } },
 		{ "when": "fence", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_fence" } }
 	  ]
-	}
+	},
+  "oversized_in_gui": true
 }

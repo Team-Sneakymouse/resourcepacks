@@ -2,6 +2,7 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
 	"textures": {
+		"missing": "lom:item/missing",
 		"particle": "lom:item/gui/tools/blacksmith_upgrade_1",
 		"texture": "lom:item/gui/tools/blacksmith_upgrade_1"
 	},

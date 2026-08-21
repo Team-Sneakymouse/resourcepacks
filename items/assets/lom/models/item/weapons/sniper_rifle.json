@@ -3,11 +3,11 @@
 	"credit": "Made with Blockbench by eranos123",
 	"textures": {
 		"0": "lom:item/weapons/sniper_rifle",
-		"3": "block/stripped_mangrove_log",
-		"4": "block/black_concrete",
-		"5": "block/anvil",
+		"3": "lom:item/block/stripped_mangrove_log",
+		"4": "lom:item/block/black_concrete",
+		"5": "lom:item/block/anvil",
 		"6": "lom:item/weapons/lordofmc_ahnk",
-		"7": "block/smooth_stone",
+		"7": "lom:item/block/smooth_stone",
 		"particle": "lom:item/weapons/sniper_rifle"
 	},
 	"elements": [

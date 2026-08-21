@@ -1,16 +1,16 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "block/sculk_sensor_tendril_active",
-		"10": "block/pink_stained_glass",
-		"13": "block/light_blue_concrete",
-		"14": "block/diamond_block",
-		"15": "block/magenta_concrete",
-		"16": "block/iron_block",
-		"18": "block/pink_glazed_terracotta",
-		"21": "block/chain_command_block_conditional",
-		"22": "block/repeating_command_block_back",
-		"particle": "block/pink_stained_glass"
+		"3": "lom:item/block/sculk_sensor_tendril_active",
+		"10": "lom:item/block/pink_stained_glass",
+		"13": "lom:item/block/light_blue_concrete",
+		"14": "lom:item/block/diamond_block",
+		"15": "lom:item/block/magenta_concrete",
+		"16": "lom:item/block/iron_block",
+		"18": "lom:item/block/pink_glazed_terracotta",
+		"21": "lom:item/block/chain_command_block_conditional",
+		"22": "lom:item/block/repeating_command_block_back",
+		"particle": "lom:item/block/pink_stained_glass"
 	},
 	"elements": [
 		{

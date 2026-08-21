@@ -7,5 +7,6 @@
       { "threshold": 1, "model": { "type": "model", "model": "lom:item/items/crates/crate_muk" } },
       { "threshold": 2, "model": { "type": "model", "model": "lom:item/items/crates/crate_mudpie" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

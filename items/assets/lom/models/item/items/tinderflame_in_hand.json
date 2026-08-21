@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/white_concrete",
-		"1": "block/lapis_block",
-		"particle": "block/lapis_block",
+		"0": "lom:item/block/white_concrete",
+		"1": "lom:item/block/lapis_block",
+		"particle": "lom:item/block/lapis_block",
 		"spyglass": "item/spyglass_model"
 	},
 	"elements": [

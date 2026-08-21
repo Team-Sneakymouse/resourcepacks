@@ -21,5 +21,6 @@
       { "threshold": 15, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/quest_shutter15" } },
       { "threshold": 16, "model": { "type": "model", "model": "lom:item/gui/npcs/shutter/quest_shutter16" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

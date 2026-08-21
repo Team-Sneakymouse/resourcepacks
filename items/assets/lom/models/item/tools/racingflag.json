@@ -2,8 +2,9 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/oak_log_top",
-		"1": "block/stripped_oak_log",
+		"missing": "lom:item/missing",
+		"0": "lom:item/block/oak_log_top",
+		"1": "lom:item/block/stripped_oak_log",
 		"3": "lom:item/tools/racingflag",
 		"particle": "lom:item/tools/racingflag"
 	},

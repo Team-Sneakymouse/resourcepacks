@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"8": "block/stripped_oak_log",
-		"14": "block/respawn_anchor_top",
+		"8": "lom:item/block/stripped_oak_log",
+		"14": "lom:item/block/respawn_anchor_top",
 		"15": "lom:item/weapons/dvz_flamer_accessory_paladin",
 		"16": "lom:item/weapons/dvz_flamer_barrel_paladin",
 		"17": "lom:item/weapons/dvz_flamer_handle_paladin"

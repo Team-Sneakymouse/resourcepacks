@@ -1,9 +1,12 @@
 {
-	"id": "00000000-5555-4321-a000-000000000016",
-	"name": "tutorial",
-	"pack": {
-		"pack_format": 46,
-		"supporetd_formats": [46, 55],
-		"description": "Tutorial assets for Lords of Minecraft"
-	}
+  "id": "00000000-5555-4321-a000-000000000016",
+  "name": "tutorial",
+  "pack": {
+    "description": "Tutorial assets for Lords of Minecraft",
+    "min_format": [
+      88,
+      0
+    ],
+    "max_format": 2147483647
+  }
 }

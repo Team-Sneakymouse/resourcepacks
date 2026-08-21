@@ -7,5 +7,6 @@
       { "threshold": 1, "model": { "type": "model", "model": "lom:item/items/crates/crate_honey" } },
       { "threshold": 2, "model": { "type": "model", "model": "lom:item/items/crates/crate_goo" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

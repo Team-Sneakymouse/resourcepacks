@@ -2,12 +2,13 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by eranos123",
 	"textures": {
-		"0": "block/barrel_side",
+		"missing": "lom:item/missing",
+		"0": "lom:item/block/barrel_side",
 		"1": "lom:item/tools/drill_head_animation",
 		"2": "lom:item/tools/drill_head_animation_2",
-		"3": "block/repeater",
+		"3": "lom:item/block/repeater",
 		"4": "lom:item/tools/chainsaw",
-		"particle": "block/barrel_side"
+		"particle": "lom:item/block/barrel_side"
 	},
 	"elements": [
 		{

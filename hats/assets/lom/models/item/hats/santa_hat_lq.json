@@ -2,9 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench by 22yhjjjj",
 	"textures": {
-		"0": "block/birch_log",
-		"1": "block/red_glazed_terracotta",
-		"particle": "block/birch_log"
+		"0": "lom:item/block/birch_log",
+		"1": "lom:item/block/red_glazed_terracotta",
+		"particle": "lom:item/block/birch_log"
 	},
 	"elements": [
 		{

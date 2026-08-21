@@ -85,5 +85,6 @@
       { "threshold": 79, "model": { "type": "model", "model": "lom:item/items/food/trifle" } },
       { "threshold": 80, "model": { "type": "model", "model": "lom:item/items/food/vanilla_cupcake" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

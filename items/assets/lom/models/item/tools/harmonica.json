@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench eranos123",
 	"textures": {
-		"0": "block/black_concrete",
-		"1": "block/anvil",
-		"2": "block/iron_block",
-		"particle": "block/black_concrete"
+		"0": "lom:item/block/black_concrete",
+		"1": "lom:item/block/anvil",
+		"2": "lom:item/block/iron_block",
+		"particle": "lom:item/block/black_concrete"
 	},
 	"elements": [
 		{

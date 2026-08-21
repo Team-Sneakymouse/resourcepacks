@@ -7,5 +7,6 @@
 		{ "when": "main", "model": { "type": "model", "model": "lom:item/gui/npcs/jimmyslums_main" } },
 		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/jimmyslums_alt" } }
 	  ]
-	}
+	},
+  "oversized_in_gui": true
 }

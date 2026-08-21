@@ -30,5 +30,6 @@
       { "threshold": 24, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_gold24" } },
       { "threshold": 25, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_gold25" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

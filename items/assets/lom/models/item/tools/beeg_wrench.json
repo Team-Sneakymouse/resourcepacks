@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench by becktyrion",
 	"textures": {
-		"0": "block/black_concrete",
-		"1": "block/black_concrete_powder",
-		"2": "block/gray_concrete",
-		"3": "block/gray_concrete_powder",
-		"4": "block/light_gray_concrete",
-		"6": "block/red_concrete",
-		"particle": "block/black_concrete"
+		"0": "lom:item/block/black_concrete",
+		"1": "lom:item/block/black_concrete_powder",
+		"2": "lom:item/block/gray_concrete",
+		"3": "lom:item/block/gray_concrete_powder",
+		"4": "lom:item/block/light_gray_concrete",
+		"6": "lom:item/block/red_concrete",
+		"particle": "lom:item/block/black_concrete"
 	},
 	"elements": [
 		{

@@ -32,5 +32,6 @@
                   { "when": "display_8r", "model": { "type": "model", "model": "lom:item/gui/elevator/elevator_8" } },
                   { "when": "display_9r", "model": { "type": "model", "model": "lom:item/gui/elevator/elevator_9" } }
             ]
-      }
+      },
+  "oversized_in_gui": true
 }

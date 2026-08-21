@@ -6,7 +6,7 @@
 		"2": "lom:item/weapons/hammer_head",
 		"4": "lom:item/weapons/hammer_frame",
 		"5": "lom:item/weapons/hammer_handle",
-		"8": "block/stripped_oak_log",
+		"8": "lom:item/block/stripped_oak_log",
 		"13": "lom:item/weapons/hammer_inlet"
 	},
 	"elements": [

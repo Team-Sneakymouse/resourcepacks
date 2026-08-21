@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench by becktyrion",
 	"parent": "lom:item/tools/beeg_wrench",
 	"textures": {
-		"0": "block/black_concrete",
-		"1": "block/black_concrete_powder",
-		"2": "block/red_concrete",
-		"3": "block/red_concrete_powder",
-		"4": "block/nether_wart_block",
-		"6": "block/gold_block",
-		"particle": "block/black_concrete"
+		"0": "lom:item/block/black_concrete",
+		"1": "lom:item/block/black_concrete_powder",
+		"2": "lom:item/block/red_concrete",
+		"3": "lom:item/block/red_concrete_powder",
+		"4": "lom:item/block/nether_wart_block",
+		"6": "lom:item/block/gold_block",
+		"particle": "lom:item/block/black_concrete"
 	}
 }

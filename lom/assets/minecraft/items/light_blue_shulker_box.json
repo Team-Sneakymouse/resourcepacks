@@ -8,5 +8,6 @@
       { "threshold": 2, "model": { "type": "model", "model": "lom:item/items/crates/crate_spellthread" } },
       { "threshold": 3, "model": { "type": "model", "model": "lom:item/items/crates/crate_sprinklebottle" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

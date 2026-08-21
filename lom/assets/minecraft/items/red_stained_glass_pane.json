@@ -865,5 +865,6 @@
       { "threshold": 14099, "model": { "type": "model", "model": "lom:item/gui/tools/levels/lv99" } },
       { "threshold": 14100, "model": { "type": "model", "model": "lom:item/gui/tools/levels/lv100" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

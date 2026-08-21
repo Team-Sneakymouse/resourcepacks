@@ -2,8 +2,8 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by eranos123",
 	"textures": {
-		"0": "block/white_wool",
-		"particle": "block/white_wool"
+		"0": "lom:item/block/white_wool",
+		"particle": "lom:item/block/white_wool"
 	},
 	"elements": [
 		{

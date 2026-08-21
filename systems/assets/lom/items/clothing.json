@@ -211,5 +211,6 @@
 		{ "threshold": 205, "model": { "type": "model", "model": "lom:item/items/clothing/clothing_0000s_0204_layer-1-copy-6" } },
 		{ "threshold": 206, "model": { "type": "model", "model": "lom:item/items/clothing/clothing_0000s_0205_layer-1" } }
 	]
-  }
+  },
+  "oversized_in_gui": true
 }

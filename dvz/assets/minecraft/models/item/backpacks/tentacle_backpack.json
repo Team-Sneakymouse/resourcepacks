@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/sculk_sensor_bottom",
-		"particle": "block/sculk_sensor_bottom"
+		"0": "lom:item/block/sculk_sensor_bottom",
+		"particle": "lom:item/block/sculk_sensor_bottom"
 	},
 	"elements": [
 		{

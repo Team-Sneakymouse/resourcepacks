@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"parent": "lom:item/items/balls/ball_blue",
 	"textures": {
-		"0": "minecraft:block/chiseled_red_sandstone",
-		"particle": "minecraft:block/chiseled_red_sandstone"
+		"0": "lom:item/block/chiseled_red_sandstone",
+		"particle": "lom:item/block/chiseled_red_sandstone"
 	}
 }

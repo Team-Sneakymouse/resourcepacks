@@ -2,11 +2,11 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/orange_stained_glass",
-		"2": "block/white_concrete",
+		"0": "lom:item/block/orange_stained_glass",
+		"2": "lom:item/block/white_concrete",
 		"3": "lom:item/items/envelope_ahnk",
 		"4": "lom:item/items/fish/swammie",
-		"particle": "block/orange_stained_glass"
+		"particle": "lom:item/block/orange_stained_glass"
 	},
 	"elements": [
 		{

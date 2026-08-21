@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
     "gui_light": "front",
 	"textures": {
-		"0": "block/hopper_outside",
-		"1": "block/redstone_block",
-		"particle": "block/hopper_outside"
+		"0": "lom:item/block/hopper_outside",
+		"1": "lom:item/block/redstone_block",
+		"particle": "lom:item/block/hopper_outside"
 	},
 	"elements": [
 		{

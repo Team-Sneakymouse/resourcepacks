@@ -10,5 +10,6 @@
       { "threshold": 4, "model": { "type": "model", "model": "abyss_pack:item/abyss_shovel_white" } },
       { "threshold": 5, "model": { "type": "model", "model": "abyss_pack:item/abyss_shovel_black" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

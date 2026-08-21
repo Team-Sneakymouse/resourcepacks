@@ -1,10 +1,11 @@
 {
 	"credit": "Made with Blockbench by becktyrion",
 	"textures": {
-		"1": "block/barrel_side",
-		"2": "block/barrel_top_open",
-		"3": "block/white_wool",
-		"particle": "block/white_wool"
+		"missing": "lom:item/missing",
+		"1": "lom:item/block/barrel_side",
+		"2": "lom:item/block/barrel_top_open",
+		"3": "lom:item/block/white_wool",
+		"particle": "lom:item/block/white_wool"
 	},
 	"elements": [
 		{

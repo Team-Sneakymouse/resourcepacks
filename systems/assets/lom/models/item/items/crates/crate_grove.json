@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"texture_size": [64, 64],
 	"textures": {
+		"missing": "lom:item/missing",
 		"4": "lom:item/items/crates/grove/grove",
 		"5": "lom:item/items/crates/grove/vines_sides_grapes",
 		"6": "lom:item/items/crates/grove/vines_front_grove",
@@ -419,7 +420,7 @@
 			"rotation": { "angle": 0, "axis": "y", "origin": [17, 3, 1] },
 			"faces": {
 				"north": { "uv": [4, 4, 3.875, 4.375], "texture": "#4" },
-				"east": { "uv": [15.25, 0, 0.125, 16.125], "texture": "#5" },
+				"east": { "uv": [15.25, 0, 0.125, 16], "texture": "#5" },
 				"south": { "uv": [2, 6, 1.875, 6.375], "texture": "#4" },
 				"west": { "uv": [6.5, 3.875, 4.375, 4.25], "texture": "#4" },
 				"up": { "uv": [3.25, 9.125, 3.375, 7], "texture": "#4" },

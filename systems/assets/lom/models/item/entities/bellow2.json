@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/spruce_planks",
-		"2": "block/barrel_side",
-		"3": "block/barrel_top_open",
-		"4": "block/black_glazed_terracotta",
-		"particle": "block/spruce_planks"
+		"0": "lom:item/block/spruce_planks",
+		"2": "lom:item/block/barrel_side",
+		"3": "lom:item/block/barrel_top_open",
+		"4": "lom:item/block/black_glazed_terracotta",
+		"particle": "lom:item/block/spruce_planks"
 	},
 	"elements": [
 		{

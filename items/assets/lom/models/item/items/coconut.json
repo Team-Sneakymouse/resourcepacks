@@ -2,9 +2,10 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by Narkles",
 	"textures": {
-		"0": "block/stripped_dark_oak_log",
-		"1": "block/black_concrete",
-		"particle": "block/stripped_dark_oak_log"
+		"missing": "lom:item/missing",
+		"0": "lom:item/block/stripped_dark_oak_log",
+		"1": "lom:item/block/black_concrete",
+		"particle": "lom:item/block/stripped_dark_oak_log"
 	},
 	"elements": [
 		{

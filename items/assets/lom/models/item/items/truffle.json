@@ -2,8 +2,8 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/cauldron_inner",
-		"particle": "block/cauldron_inner"
+		"0": "lom:item/block/cauldron_inner",
+		"particle": "lom:item/block/cauldron_inner"
 	},
 	"elements": [
 		{

@@ -2,6 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "Not to be reused. Created for the Lords of Minecraft Server",
 	"textures": {
+		"missing": "lom:item/missing",
 		"0": "lom:item/hats/hats_crown1",
 		"1": "lom:item/hats/hats_crown2"
 	},

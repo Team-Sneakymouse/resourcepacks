@@ -2,6 +2,7 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by eranos123",
 	"textures": {
+		"missing": "lom:item/missing",
 		"0": "lom:item/tools/boombox",
 		"1": "lom:item/tools/boombox_2",
 		"particle": "lom:item/tools/boombox"

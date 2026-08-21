@@ -2,8 +2,9 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by eranos123",
 	"textures": {
+		"missing": "lom:item/missing",
 		"0": "lom:item/tools/chainsaw",
-		"1": "block/barrel_side",
+		"1": "lom:item/block/barrel_side",
 		"3": "lom:item/tools/chainsaw_blade",
 		"particle": "lom:item/tools/chainsaw"
 	},

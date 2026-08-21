@@ -2,13 +2,14 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/stripped_oak_log",
-		"1": "block/red_wool",
-		"2": "block/light_blue_wool",
-		"3": "block/yellow_wool",
-		"4": "block/lime_wool",
-		"6": "block/magenta_concrete",
-		"particle": "block/stripped_oak_log"
+		"missing": "lom:item/missing",
+		"0": "lom:item/block/stripped_oak_log",
+		"1": "lom:item/block/red_wool",
+		"2": "lom:item/block/light_blue_wool",
+		"3": "lom:item/block/yellow_wool",
+		"4": "lom:item/block/lime_wool",
+		"6": "lom:item/block/magenta_concrete",
+		"particle": "lom:item/block/stripped_oak_log"
 	},
 	"elements": [
 		{

@@ -20,5 +20,6 @@
           "on_false": { "type": "model", "model": "lom:item/weapons/sniper_rifle" }
       }}
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

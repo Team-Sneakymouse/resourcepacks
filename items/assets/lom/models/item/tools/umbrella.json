@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench by eranos123",
 	"textures": {
 		"0": "lom:item/tools/umbrella",
-		"1": "block/crimson_planks",
+		"1": "lom:item/block/crimson_planks",
 		"particle": "lom:item/tools/umbrella"
 	},
 	"elements": [

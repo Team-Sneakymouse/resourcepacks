@@ -35,5 +35,6 @@
       { "threshold": 29, "model": { "type": "model", "model": "lom:item/items/flaskofcorruption" } },
       { "threshold": 30, "model": { "type": "model", "model": "lom:item/items/koboldbrew" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

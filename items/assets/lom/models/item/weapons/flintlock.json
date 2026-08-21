@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/dark_oak_planks",
-		"3": "block/exposed_copper"
+		"1": "lom:item/block/dark_oak_planks",
+		"3": "lom:item/block/exposed_copper"
 	},
 	"elements": [
 		{

@@ -1,3 +1,4 @@
 {
-	"model": { "type": "model", "model": "lom:item/gui/npcs/npc_trading" }
+	"model": { "type": "model", "model": "lom:item/gui/npcs/npc_trading" },
+  "oversized_in_gui": true
 }

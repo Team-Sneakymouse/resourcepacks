@@ -3,11 +3,11 @@
 	"parent": "lom:item/weapons/gpo_bazooka",
 	"textures": {
 		"0": "lom:item/weapons/bazooka_ahnk",
-		"2": "block/anvil",
-		"7": "block/black_concrete",
-		"8": "block/red_terracotta",
-		"button1": "block/black_stained_glass",
-		"button2": "block/black_stained_glass",
-		"button3": "block/black_stained_glass"
+		"2": "lom:item/block/anvil",
+		"7": "lom:item/block/black_concrete",
+		"8": "lom:item/block/red_terracotta",
+		"button1": "lom:item/block/black_stained_glass",
+		"button2": "lom:item/block/black_stained_glass",
+		"button3": "lom:item/block/black_stained_glass"
 	}
 }

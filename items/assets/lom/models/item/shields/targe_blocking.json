@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
     "gui_light": "front",
 	"textures": {
-		"0": "block/redstone_block",
-		"1": "block/ice",
-		"2": "block/iron_block",
-		"particle": "block/redstone_block"
+		"0": "lom:item/block/redstone_block",
+		"1": "lom:item/block/ice",
+		"2": "lom:item/block/iron_block",
+		"particle": "lom:item/block/redstone_block"
 	},
 	"elements": [
 		{

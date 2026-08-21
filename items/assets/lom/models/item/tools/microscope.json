@@ -2,9 +2,9 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by MysteryWiz",
 	"textures": {
-		"0": "block/quartz_block_side",
-		"3": "block/netherite_block",
-		"particle": "block/quartz_block_side"
+		"0": "lom:item/block/quartz_block_side",
+		"3": "lom:item/block/netherite_block",
+		"particle": "lom:item/block/quartz_block_side"
 	},
 	"elements": [
 		{

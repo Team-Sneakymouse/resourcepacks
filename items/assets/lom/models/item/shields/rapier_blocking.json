@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/iron_block",
+		"0": "lom:item/block/iron_block",
 		"1": "item/lead",
-		"2": "block/basalt_side",
-		"particle": "block/iron_block"
+		"2": "lom:item/block/basalt_side",
+		"particle": "lom:item/block/iron_block"
 	},
 	"elements": [
 		{

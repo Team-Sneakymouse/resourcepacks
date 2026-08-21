@@ -62,5 +62,6 @@
       { "threshold": 57, "model": { "type": "model", "model": "lom:item/tools/egg" } },
       { "threshold": 58, "model": { "type": "model", "model": "lom:item/weapons/warbanner" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

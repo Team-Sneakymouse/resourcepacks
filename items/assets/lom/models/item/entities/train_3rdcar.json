@@ -2,10 +2,11 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/andesite",
-		"1": "block/anvil",
-		"3": "block/honeycomb_block",
-		"particle": "block/andesite"
+		"missing": "lom:item/missing",
+		"0": "lom:item/block/andesite",
+		"1": "lom:item/block/anvil",
+		"3": "lom:item/block/honeycomb_block",
+		"particle": "lom:item/block/andesite"
 	},
 	"elements": [
 		{

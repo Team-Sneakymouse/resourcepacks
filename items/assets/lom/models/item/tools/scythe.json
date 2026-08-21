@@ -2,10 +2,11 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by Narkles",
 	"textures": {
-		"0": "block/iron_block",
-		"1": "block/polished_basalt_side",
-		"2": "block/dark_oak_log",
-		"particle": "block/iron_block"
+		"missing": "lom:item/missing",
+		"0": "lom:item/block/iron_block",
+		"1": "lom:item/block/polished_basalt_side",
+		"2": "lom:item/block/dark_oak_log",
+		"particle": "lom:item/block/iron_block"
 	},
 	"elements": [
 		{

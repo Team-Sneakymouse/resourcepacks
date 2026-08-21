@@ -137,5 +137,6 @@
       { "threshold": 130, "model": { "type": "model", "model": "lom:item/gui/npcs/hearts/npcheart_130" } },
       { "threshold": 131, "model": { "type": "model", "model": "lom:item/gui/npcs/hearts/npcheart_131" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

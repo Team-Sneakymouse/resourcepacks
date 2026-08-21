@@ -8,5 +8,6 @@
                   { "when": "home", "model": { "type": "model", "model": "lom:item/gui/mlmorb_gui" } },
                   { "when": "addcontact", "model": { "type": "model", "model": "lom:item/gui/mlmorb_addcontact" } }
             ]
-      }
+      },
+  "oversized_in_gui": true
 }

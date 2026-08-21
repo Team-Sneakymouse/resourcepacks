@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"texture_size": [128, 128],
 	"textures": {
+		"missing": "lom:item/missing",
 		"particle": "lom:item/items/crates/base",
 		"texture": "lom:item/items/crates/base",
 		"label": "lom:item/items/crates/label",

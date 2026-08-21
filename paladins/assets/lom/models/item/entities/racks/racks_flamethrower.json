@@ -8,7 +8,7 @@
 		"3": "lom:item/weapons/dvz_flamer_chassis_paladin",
 		"4": "lom:item/weapons/dvz_flamer_handle_paladin",
 		"5": "lom:item/weapons/dvz_flamer_hose_paladin",
-		"8": "block/stripped_oak_log"
+		"8": "lom:item/block/stripped_oak_log"
 	},
 	"elements": [
 		{

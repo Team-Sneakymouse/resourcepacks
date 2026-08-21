@@ -859,5 +859,6 @@
       { "threshold": 6042, "model": { "type": "model", "model": "birthdaypack:item/birthday_table_02" } }
 
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

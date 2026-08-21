@@ -318,5 +318,6 @@
       { "threshold": 1204, "model": { "type": "model", "model": "lom:item/hats/simplehats/winghat" } },
       { "threshold": 1205, "model": { "type": "model", "model": "lom:item/hats/simplehats/zigzagwitchhat" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

@@ -2,11 +2,11 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/barrel_side",
-		"1": "block/barrel_top",
-		"2": "block/barrel_bottom",
+		"0": "lom:item/block/barrel_side",
+		"1": "lom:item/block/barrel_top",
+		"2": "lom:item/block/barrel_bottom",
 		"3": "item/leather",
-		"particle": "block/barrel_side"
+		"particle": "lom:item/block/barrel_side"
 	},
 	"elements": [
 		{

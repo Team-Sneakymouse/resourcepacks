@@ -2,8 +2,9 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"texture_size": [8, 8],
 	"textures": {
-		"2": "block/stripped_oak_log",
-		"5": "block/white_wool"
+		"missing": "lom:item/missing",
+		"2": "lom:item/block/stripped_oak_log",
+		"5": "lom:item/block/white_wool"
 	},
 	"elements": [
 		{

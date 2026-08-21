@@ -1438,5 +1438,6 @@
       { "threshold": 8519, "model": { "type": "model", "model": "lom:item/items/worship/light-pool-of-bounty" } },
       { "threshold": 8520, "model": { "type": "model", "model": "lom:item/items/worship/light-rising-sunlight" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

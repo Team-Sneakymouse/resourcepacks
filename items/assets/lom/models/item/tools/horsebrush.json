@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench by MsDvil",
 	"textures": {
-		"3": "block/black_wool",
-		"4": "block/gray_wool",
-		"5": "block/stripped_dark_oak_log"
+		"missing": "lom:item/missing",
+		"3": "lom:item/block/black_wool",
+		"4": "lom:item/block/gray_wool",
+		"5": "lom:item/block/stripped_dark_oak_log"
 	},
 	"elements": [
 		{

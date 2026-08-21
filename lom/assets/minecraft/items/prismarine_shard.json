@@ -29,5 +29,6 @@
       { "threshold": 5024, "model": { "type": "model", "model": "lom:item/items/nou_game/nou_timeout" } },
       { "threshold": 5025, "model": { "type": "model", "model": "lom:item/items/nou_game/nou_youwin" }  }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

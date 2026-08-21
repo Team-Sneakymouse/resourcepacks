@@ -2,9 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/white_wool",
-		"1": "block/hay_block_top",
-		"particle": "block/white_wool"
+		"0": "lom:item/block/white_wool",
+		"1": "lom:item/block/hay_block_top",
+		"particle": "lom:item/block/white_wool"
 	},
 	"elements": [
 		{

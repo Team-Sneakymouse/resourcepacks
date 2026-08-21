@@ -10,5 +10,6 @@
       { "threshold": 4, "model": { "type": "model", "model": "lom:item/tools/manastone4" } },
       { "threshold": 5, "model": { "type": "model", "model": "lom:item/tools/manastone5" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

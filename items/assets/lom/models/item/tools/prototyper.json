@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench by vidokou",
 	"textures": {
-		"3": "block/sculk_sensor_tendril_active",
-		"4": "block/crafter_south",
-		"5": "block/crafter_top_crafting",
-		"6": "block/crafter_east",
-		"7": "block/crafter_bottom",
-		"8": "block/red_stained_glass",
-		"9": "block/red_mushroom_block"
+		"3": "lom:item/block/sculk_sensor_tendril_active",
+		"4": "lom:item/block/crafter_south",
+		"5": "lom:item/block/crafter_top_crafting",
+		"6": "lom:item/block/crafter_east",
+		"7": "lom:item/block/crafter_bottom",
+		"8": "lom:item/block/red_stained_glass",
+		"9": "lom:item/block/red_mushroom_block"
 	},
 	"elements": [
 		{

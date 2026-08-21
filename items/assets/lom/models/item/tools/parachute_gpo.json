@@ -2,10 +2,10 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by eranos123",
 	"textures": {
-		"0": "block/white_wool",
-		"1": "block/red_wool",
+		"0": "lom:item/block/white_wool",
+		"1": "lom:item/block/red_wool",
 		"2": "lom:item/items/envelope_ahnk",
-		"particle": "block/white_wool"
+		"particle": "lom:item/block/white_wool"
 	},
 	"elements": [
 		{

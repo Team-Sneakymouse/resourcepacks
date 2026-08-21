@@ -2,9 +2,9 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/white_wool",
+		"0": "lom:item/block/white_wool",
 		"1": "lom:item/items/baloon",
-		"particle": "block/white_wool"
+		"particle": "lom:item/block/white_wool"
 	},
 	"elements": [
 		{

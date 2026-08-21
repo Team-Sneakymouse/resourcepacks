@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [228, 72],
 	"textures": {
+		"missing": "lom:item/missing",
 		"texture": "lom:item/gui/npcs/darrius4alt",
 		"particle": "lom:item/gui/npcs/darrius4alt"
 	},

@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"parent": "lom:item/entities/hulahoops/hulahoop_candycane",
 	"textures": {
-		"highlight": "block/bamboo_stalk",
-		"main": "block/bamboo_stalk"
+		"highlight": "lom:item/block/bamboo_stalk",
+		"main": "lom:item/block/bamboo_stalk"
 	}
 }

@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "minecraft:block/barrel_side",
-		"1": "minecraft:block/iron_block",
-		"2": "minecraft:block/brown_wool",
-		"3": "minecraft:block/lava_still",
-		"particle": "minecraft:block/barrel_side"
+		"0": "lom:item/block/barrel_side",
+		"1": "lom:item/block/iron_block",
+		"2": "lom:item/block/brown_wool",
+		"3": "lom:item/block/lava_still",
+		"particle": "lom:item/block/barrel_side"
 	},
 	"elements": [
 		{

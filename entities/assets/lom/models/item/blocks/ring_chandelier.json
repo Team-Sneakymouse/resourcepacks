@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench by 22yhjjjj",
 	"textures": {
-		"0": "block/polished_blackstone_bricks",
-		"1": "block/chiseled_polished_blackstone",
-		"2": "block/red_candle_lit",
-		"3": "block/chain",
-		"particle": "block/polished_blackstone_bricks"
+		"0": "lom:item/block/polished_blackstone_bricks",
+		"1": "lom:item/block/chiseled_polished_blackstone",
+		"2": "lom:item/block/red_candle_lit",
+		"3": "lom:item/block/iron_chain",
+		"particle": "lom:item/block/polished_blackstone_bricks"
 	},
 	"elements": [
 		{

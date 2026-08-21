@@ -2,12 +2,13 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by eranos123",
 	"textures": {
+		"missing": "lom:item/missing",
 		"0": "lom:item/tools/mini_gun",
-		"1": "block/barrel_side",
+		"1": "lom:item/block/barrel_side",
 		"2": "lom:item/tools/mini_gun_2",
-		"3": "block/anvil",
-		"5": "block/observer_side",
-		"6": "block/black_concrete",
+		"3": "lom:item/block/anvil",
+		"5": "lom:item/block/observer_side",
+		"6": "lom:item/block/black_concrete",
 		"particle": "lom:item/tools/mini_gun"
 	},
 	"elements": [

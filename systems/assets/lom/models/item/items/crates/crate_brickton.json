@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"texture_size": [128, 128],
 	"textures": {
+		"missing": "lom:item/missing",
 		"1": "lom:item/items/crates/label",
 		"3": "lom:item/items/crates/brickton/bricks",
 		"4": "lom:item/items/crates/brickton/brickton",

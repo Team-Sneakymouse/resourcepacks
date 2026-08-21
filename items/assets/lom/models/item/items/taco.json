@@ -2,10 +2,10 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by Narkles",
 	"textures": {
-		"10": "block/yellow_terracotta",
-		"12": "block/brown_concrete_powder",
-		"16": "block/bamboo_small_leaves",
-		"particle": "block/yellow_terracotta"
+		"10": "lom:item/block/yellow_terracotta",
+		"12": "lom:item/block/brown_concrete_powder",
+		"16": "lom:item/block/bamboo_small_leaves",
+		"particle": "lom:item/block/yellow_terracotta"
 	},
 	"elements": [
 		{

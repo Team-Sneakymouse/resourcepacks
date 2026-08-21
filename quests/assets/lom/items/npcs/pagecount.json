@@ -4,5 +4,6 @@
     "property": "custom_model_data",
     "fallback": { "type": "model", "model": "lom:item/gui/npcs/arrow-right" },
     "entries": []
-   }
+   },
+  "oversized_in_gui": true
 }

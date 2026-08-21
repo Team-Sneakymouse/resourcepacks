@@ -105,5 +105,6 @@
       { "threshold": 108, "model": { "type": "model", "model": "lom:item/tools/wings/wings_14-8" } },
       { "threshold": 109, "model": { "type": "model", "model": "lom:item/tools/wings/wings_14-9" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

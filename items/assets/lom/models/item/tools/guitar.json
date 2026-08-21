@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench by eranos123",
 	"textures": {
-		"1": "block/black_concrete",
-		"2": "block/white_wool",
-		"4": "block/anvil",
-		"6": "block/dark_oak_planks",
-		"9": "block/stripped_oak_log",
-		"particle": "block/white_wool"
+		"1": "lom:item/block/black_concrete",
+		"2": "lom:item/block/white_wool",
+		"4": "lom:item/block/anvil",
+		"6": "lom:item/block/dark_oak_planks",
+		"9": "lom:item/block/stripped_oak_log",
+		"particle": "lom:item/block/white_wool"
 	},
 	"elements": [
 		{

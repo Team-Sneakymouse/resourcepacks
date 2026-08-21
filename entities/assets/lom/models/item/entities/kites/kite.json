@@ -2,12 +2,13 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"texture_size": [32, 32],
 	"textures": {
-		"particle": "block/stripped_oak_log",
-		"frame": "block/stripped_oak_log",
+		"missing": "lom:item/missing",
+		"particle": "lom:item/block/stripped_oak_log",
+		"frame": "lom:item/block/stripped_oak_log",
 		"image": "lom:item/items/invisible",
-		"sail": "block/red_concrete",
-		"tail": "block/raw_gold_block",
-		"bow": "block/red_concrete"
+		"sail": "lom:item/block/red_concrete",
+		"tail": "lom:item/block/raw_gold_block",
+		"bow": "lom:item/block/red_concrete"
 	},
 	"elements": [
 		{

@@ -3,11 +3,11 @@
 	"texture_size": [32, 32],
 	"parent": "lom:item/entities/kites/kite",
 	"textures": {
-		"particle": "block/brain_coral_block",
-		"sail": "block/brain_coral_block",
-		"frame": "block/stripped_oak_log",
-		"tail": "block/amethyst_block",
-		"bow": "block/brain_coral_block",
+		"particle": "lom:item/block/brain_coral_block",
+		"sail": "lom:item/block/brain_coral_block",
+		"frame": "lom:item/block/stripped_oak_log",
+		"tail": "lom:item/block/amethyst_block",
+		"bow": "lom:item/block/brain_coral_block",
 		"image": "lom:item/items/invisible"
 	}
 }

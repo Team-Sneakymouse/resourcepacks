@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/dark_oak_planks",
-		"1": "block/anvil",
-		"particle": "block/anvil"
+		"0": "lom:item/block/dark_oak_planks",
+		"1": "lom:item/block/anvil",
+		"particle": "lom:item/block/anvil"
 	},
 	"elements": [
 		{

@@ -14,5 +14,6 @@
       { "threshold": 8, "model": { "type": "model", "model": "lom:item/tools/pickaxes/silver_pickaxe" } },
       { "threshold": 9, "model": { "type": "model", "model": "lom:item/tools/pickaxes/bronze_pickaxe" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

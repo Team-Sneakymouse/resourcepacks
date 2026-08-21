@@ -7,5 +7,6 @@
 		{ "when": "incomplete", "model": { "type": "model", "model": "lom:item/gui/npcs/npc_quest" } },
 		{ "when": "complete", "model": { "type": "model", "model": "lom:item/gui/npcs/npc_questcomplete" } }
 	  ]
-	}
+	},
+  "oversized_in_gui": true
 }

@@ -1,10 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"missing": "lom:item/missing",
 		"particle": "lom:item/items/stackit",
 		"label": "lom:item/items/stackit",
-		"box_upper": "block/cyan_concrete_powder",
-		"box_lower": "block/blue_concrete"
+		"box_upper": "lom:item/block/cyan_concrete_powder",
+		"box_lower": "lom:item/block/blue_concrete"
 	},
 	"elements": [
 		{

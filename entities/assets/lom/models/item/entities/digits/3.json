@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/quartz_block_bottom",
-		"particle": "block/quartz_block_bottom"
+		"0": "lom:item/block/quartz_block_bottom",
+		"particle": "lom:item/block/quartz_block_bottom"
 	},
 	"elements": [
 		{

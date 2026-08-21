@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"8": "block/stripped_oak_log",
+		"8": "lom:item/block/stripped_oak_log",
 		"18": "lom:item/weapons/runemk1_blade",
 		"19": "lom:item/weapons/runemk1_shell",
 		"20": "lom:item/weapons/runemk1_guard",

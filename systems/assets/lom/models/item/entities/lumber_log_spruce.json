@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "lom:item/entities/lumber_log_acacia",
 	"textures": {
-		"0": "block/spruce_log",
-		"1": "block/spruce_log_top",
-		"particle": "block/spruce_log"
+		"0": "lom:item/block/spruce_log",
+		"1": "lom:item/block/spruce_log_top",
+		"particle": "lom:item/block/spruce_log"
 	}
 }

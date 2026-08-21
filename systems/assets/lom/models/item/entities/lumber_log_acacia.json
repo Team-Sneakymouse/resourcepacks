@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/acacia_log",
-		"1": "block/acacia_log_top",
-		"particle": "block/acacia_log"
+		"0": "lom:item/block/acacia_log",
+		"1": "lom:item/block/acacia_log_top",
+		"particle": "lom:item/block/acacia_log"
 	},
 	"elements": [
 		{

@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"missing": "lom:item/missing",
 		"0": "lom:item/entities/groundsmash",
 		"particle": "lom:item/entities/groundsmash"
 	},

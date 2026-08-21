@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench by MsDvil",
 	"textures": {
-		"1": "block/exposed_copper"
+		"1": "lom:item/block/exposed_copper"
 	},
 	"elements": [
 		{

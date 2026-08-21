@@ -188,5 +188,6 @@
       { "threshold": 5152, "model": { "type": "model", "model": "lom:item/items/mixtape", "tints": [{ "type": "minecraft:dye", "default":-8388523}] } },
       { "threshold": 5153, "model": { "type": "model", "model": "lom:item/items/mixtape", "tints": [{ "type": "minecraft:dye", "default":-8388565}] } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

@@ -8,5 +8,6 @@
 		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/cindilynlotus_alt" } },
 		{ "when": "tailor", "model": { "type": "model", "model": "lom:item/gui/npcs/cindilynlotus_tailor" } }
 	  ]
-	}
+	},
+  "oversized_in_gui": true
 }

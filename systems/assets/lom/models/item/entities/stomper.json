@@ -2,12 +2,12 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"8": "block/pointed_dripstone_down_tip",
-		"9": "block/pointed_dripstone_down_frustum",
-		"10": "block/mangrove_planks",
-		"11": "block/birch_planks",
-		"13": "block/iron_block",
-		"14": "block/stripped_mangrove_log"
+		"8": "lom:item/block/pointed_dripstone_down_tip",
+		"9": "lom:item/block/pointed_dripstone_down_frustum",
+		"10": "lom:item/block/mangrove_planks",
+		"11": "lom:item/block/birch_planks",
+		"13": "lom:item/block/iron_block",
+		"14": "lom:item/block/stripped_mangrove_log"
 	},
 	"elements": [
 		{

@@ -2438,5 +2438,6 @@
       { "threshold": 14206, "model": { "type": "model", "model": "lom:item/gui/tools/pickaxe_gui_t6" } }
 
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench by Saurgy",
 	"textures": {
-		"4": "block/quartz_block_bottom",
+		"4": "lom:item/block/quartz_block_bottom",
 		"5": "lom:item/tools/skateboard-axlepng",
-		"6": "block/stripped_dark_oak_log",
+		"6": "lom:item/block/stripped_dark_oak_log",
 		"7": "lom:item/tools/skateboard-top",
 		"particle": "lom:item/tools/skateboard-top"
 	},

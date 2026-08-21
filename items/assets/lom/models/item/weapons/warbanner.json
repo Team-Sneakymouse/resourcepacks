@@ -3,13 +3,13 @@
 	"credit": "Made with Blockbench by crazygeek516",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/gold_block",
-		"1": "block/spruce_log",
-		"2": "block/iron_block",
-		"3": "block/jungle_planks",
+		"0": "lom:item/block/gold_block",
+		"1": "lom:item/block/spruce_log",
+		"2": "lom:item/block/iron_block",
+		"3": "lom:item/block/jungle_planks",
 		"5": "lom:item/weapons/warbanner1",
-		"6": "block/red_wool",
-		"particle": "block/gold_block"
+		"6": "lom:item/block/red_wool",
+		"particle": "lom:item/block/gold_block"
 	},
 	"elements": [
 		{

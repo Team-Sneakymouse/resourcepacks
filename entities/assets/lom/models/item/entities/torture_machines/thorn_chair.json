@@ -3,6 +3,7 @@
 	"credit": "Made with Blockbench by EliteCreatures",
 	"texture_size": [64, 64],
 	"textures": {
+		"missing": "lom:item/missing",
 		"0": "lom:item/entities/torture_machines/07_thorn_chair_texture",
 		"1": "lom:item/entities/torture_machines/14_spanish_donkey_texture",
 		"particle": "lom:item/entities/torture_machines/07_thorn_chair_texture"

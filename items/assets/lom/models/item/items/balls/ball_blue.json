@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench by MsDvil",
 	"textures": {
-		"0": "minecraft:block/blue_ice",
-		"particle": "minecraft:block/blue_ice"
+		"0": "lom:item/block/blue_ice",
+		"particle": "lom:item/block/blue_ice"
 	},
 	"elements": [
 		{

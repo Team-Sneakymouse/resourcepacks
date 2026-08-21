@@ -4,8 +4,8 @@
 	"parent": "lom:item/tools/skeletonkey",
 	"textures": {
 		"0": "lom:item/tools/skeletonkey_teeth_l2",
-		"2": "block/basalt_side",
-		"5": "block/basalt_side",
+		"2": "lom:item/block/basalt_side",
+		"5": "lom:item/block/basalt_side",
 		"6": "lom:item/tools/skeletonkey_teeth_r2",
 		"8": "lom:item/items/starshard",
 		"particle": "lom:item/tools/skeletonkey_teeth_l2"

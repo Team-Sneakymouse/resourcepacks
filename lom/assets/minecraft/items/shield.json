@@ -69,5 +69,6 @@
         "model": { "type": "model", "model": "lom:item/tools/glove" }
       }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

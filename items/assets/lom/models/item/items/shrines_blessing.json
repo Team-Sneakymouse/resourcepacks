@@ -5,7 +5,7 @@
 	"textures": {
 		"1": "lom:item/items/shrine_bottle",
 		"3": "lom:item/items/shrine_liquid",
-		"particle": "block/purple_terracotta"
+		"particle": "lom:item/block/purple_terracotta"
 	},
 	"elements": [
 		{

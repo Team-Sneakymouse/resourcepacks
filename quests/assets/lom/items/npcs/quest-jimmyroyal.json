@@ -43,5 +43,6 @@
 		{ "when": "trouble", "model": { "type": "model", "model": "lom:item/gui/npcs/quests/jimmy_quest_trouble" } },
 		{ "when": "worship", "model": { "type": "model", "model": "lom:item/gui/npcs/quests/jimmy_quest_worship" } }
 	  ]
-	}
+	},
+  "oversized_in_gui": true
 }

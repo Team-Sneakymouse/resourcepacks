@@ -3,14 +3,14 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"6": "block/black_concrete",
-		"7": "block/black_concrete_powder",
-		"8": "block/stripped_oak_log",
-		"9": "block/red_concrete",
-		"10": "block/red_concrete_powder",
-		"11": "block/nether_wart_block",
-		"12": "block/gold_block",
-		"particle": "block/black_concrete"
+		"6": "lom:item/block/black_concrete",
+		"7": "lom:item/block/black_concrete_powder",
+		"8": "lom:item/block/stripped_oak_log",
+		"9": "lom:item/block/red_concrete",
+		"10": "lom:item/block/red_concrete_powder",
+		"11": "lom:item/block/nether_wart_block",
+		"12": "lom:item/block/gold_block",
+		"particle": "lom:item/block/black_concrete"
 	},
 	"elements": [
 		{

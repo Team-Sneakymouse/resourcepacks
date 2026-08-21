@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/iron_block",
-		"1": "block/black_concrete",
-		"particle": "block/iron_block"
+		"0": "lom:item/block/iron_block",
+		"1": "lom:item/block/black_concrete",
+		"particle": "lom:item/block/iron_block"
 	},
 	"elements": [
 		{

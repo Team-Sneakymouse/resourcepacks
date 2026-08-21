@@ -298,5 +298,6 @@
       { "threshold": 10036, "model": { "type": "model", "model": "lom:item/items/mcguffins/yugioh6" } },
       { "threshold": 10037, "model": { "type": "model", "model": "lom:item/items/mcguffins/yugioh7" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

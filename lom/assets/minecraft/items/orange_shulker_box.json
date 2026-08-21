@@ -10,5 +10,6 @@
       { "threshold": 4, "model": { "type": "model", "model": "lom:item/items/crates/crate_worms" } },
       { "threshold": 5, "model": { "type": "model", "model": "lom:item/items/crates/crate_shell" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

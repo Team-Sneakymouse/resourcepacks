@@ -2,10 +2,11 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"texture_size": [64, 64],
 	"textures": {
+		"missing": "lom:item/missing",
 		"5": "lom:item/items/crates/label",
-		"inner": "block/chiseled_stone_bricks",
-		"outer": "block/stone_bricks",
-		"particle": "block/chiseled_stone_bricks",
+		"inner": "lom:item/block/chiseled_stone_bricks",
+		"outer": "lom:item/block/stone_bricks",
+		"particle": "lom:item/block/chiseled_stone_bricks",
 		"item": "lom:item/items/invisible"
 	},
 	"elements": [

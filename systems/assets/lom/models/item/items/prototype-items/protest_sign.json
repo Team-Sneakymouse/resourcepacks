@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench by eranos123",
 	"textures": {
-		"0": "block/oak_planks",
+		"0": "lom:item/block/oak_planks",
 		"1": "lom:item/items/prototype-items/against_sign",
-		"particle": "block/oak_planks"
+		"particle": "lom:item/block/oak_planks"
 	},
 	"elements": [
 		{

@@ -1,9 +1,12 @@
 {
-	"id": "00000000-5555-4321-a000-000000000002",
-	"name": "lom",
-	"pack": {
-		"pack_format": 46,
-		"supporetd_formats": [46, 55],
-		"description": "Lords of Minecraft 2 Resource Pack"
-	}
+  "id": "00000000-5555-4321-a000-000000000002",
+  "name": "lom",
+  "pack": {
+    "description": "Lords of Minecraft 2 Resource Pack",
+    "min_format": [
+      88,
+      0
+    ],
+    "max_format": 2147483647
+  }
 }

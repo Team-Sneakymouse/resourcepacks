@@ -23,5 +23,6 @@
         "tints": [ { "type": "minecraft:dye", "default": 16239891 } ]
       }}
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

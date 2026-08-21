@@ -2,11 +2,12 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"texture_size": [64, 64],
 	"textures": {
+		"missing": "lom:item/missing",
 		"4": "lom:item/items/crates/label",
-		"particle": "block/acacia_planks",
-		"top": "block/acacia_log_top",
-		"inner": "block/acacia_planks",
-		"outer": "block/orange_glazed_terracotta",
+		"particle": "lom:item/block/acacia_planks",
+		"top": "lom:item/block/acacia_log_top",
+		"inner": "lom:item/block/acacia_planks",
+		"outer": "lom:item/block/orange_glazed_terracotta",
 		"deco": "item/tropical_fish",
 		"item": "lom:item/items/invisible"
 	},

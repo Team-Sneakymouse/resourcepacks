@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "lom:item/entities/casino_lounges/magic_jukebox"
+      "model": "lom:block/dual_use/magic_jukebox"
     }
   }
 }

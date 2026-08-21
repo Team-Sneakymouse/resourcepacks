@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench By Astraliyte",
 	"textures": {
-		"0": "block/blackstone",
+		"0": "lom:item/block/blackstone",
 		"1": "lom:item/tools/homestone_symbol",
-		"particle": "block/blackstone"
+		"particle": "lom:item/block/blackstone"
 	},
 	"elements": [
 		{

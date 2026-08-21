@@ -2,16 +2,16 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by eranos123",
 	"textures": {
-		"2": "block/netherite_block",
-		"5": "block/beacon",
-		"6": "block/glass",
-		"7": "block/black_concrete",
-		"8": "block/nether_portal",
-		"11": "block/red_concrete",
-		"12": "block/gold_block",
-		"13": "block/iron_block",
-		"16": "block/redstone_lamp_on",
-		"particle": "block/purple_concrete"
+		"2": "lom:item/block/netherite_block",
+		"5": "lom:item/block/beacon",
+		"6": "lom:item/block/glass",
+		"7": "lom:item/block/black_concrete",
+		"8": "lom:item/block/nether_portal",
+		"11": "lom:item/block/red_concrete",
+		"12": "lom:item/block/gold_block",
+		"13": "lom:item/block/iron_block",
+		"16": "lom:item/block/redstone_lamp_on",
+		"particle": "lom:item/block/purple_concrete"
 	},
 	"elements": [
 		{

@@ -11,5 +11,6 @@
 		{ "when": "milleniumpuzzles", "model": { "type": "model", "model": "lom:item/gui/npcs/quests/johnmcguffin_quest_milleniumpuzzles" } },
 		{ "when": "ringsofpower", "model": { "type": "model", "model": "lom:item/gui/npcs/quests/johnmcguffin_quest_ringsofpower" } }
 	  ]
-	}
+	},
+  "oversized_in_gui": true
 }

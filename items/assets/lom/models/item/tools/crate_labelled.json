@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "lom:item/tools/crate_texture",
 		"1": "lom:item/tools/crate_label",
-		"2": "lom:item/tools/crate_labels/chesetest",
+		"2": "lom:item/items/invisible",
 		"particle": "lom:item/tools/crate_texture"
 	},
 	"elements": [

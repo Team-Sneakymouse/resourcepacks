@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "lom:item/tools/radio_texture",
 		"1": "lom:item/tools/radio_speaker",
-		"3": "block/red_shulker_box",
+		"3": "lom:item/block/red_shulker_box",
 		"5": "lom:item/tools/radio_ankh",
 		"particle": "lom:item/tools/radio_texture"
 	},

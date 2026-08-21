@@ -3,11 +3,11 @@
 	"credit": "Made with Blockbench by vidokou",
 	"textures": {
 		"4": "lom:item/icons/map/map-holy",
-		"5": "block/gold_block",
-		"6": "block/quartz_pillar",
-		"7": "lom:entity/banner/ankh",
-		"8": "block/stripped_mangrove_log",
-		"particle": "block/stripped_oak_log"
+		"5": "lom:item/block/gold_block",
+		"6": "lom:item/block/quartz_pillar_side",
+		"7": "lom:item/entity/banner/ankh",
+		"8": "lom:item/block/stripped_mangrove_log",
+		"particle": "lom:item/block/stripped_oak_log"
 	},
 	"elements": [
 		{

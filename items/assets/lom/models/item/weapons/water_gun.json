@@ -2,12 +2,12 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by eranos123",
 	"textures": {
-		"0": "block/black_concrete",
-		"1": "block/orange_shulker_box",
-		"2": "block/lime_shulker_box",
-		"3": "block/yellow_shulker_box",
-		"4": "block/white_shulker_box",
-		"particle": "block/black_concrete"
+		"0": "lom:item/block/black_concrete",
+		"1": "lom:item/block/orange_shulker_box",
+		"2": "lom:item/block/lime_shulker_box",
+		"3": "lom:item/block/yellow_shulker_box",
+		"4": "lom:item/block/white_shulker_box",
+		"particle": "lom:item/block/black_concrete"
 	},
 	"elements": [
 		{

@@ -19,5 +19,6 @@
 
       { "threshold": 1001, "model": { "type": "model", "model": "lom:item/items/straw" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

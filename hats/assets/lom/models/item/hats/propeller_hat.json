@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "lom:item/hats/propeller_hat1",
 		"1": "lom:item/hats/propeller_hat",
-		"2": "minecraft:block/anvil",
+		"2": "lom:item/block/anvil",
 		"particle": "lom:item/hats/propeller_hat1"
 	},
 	"elements": [

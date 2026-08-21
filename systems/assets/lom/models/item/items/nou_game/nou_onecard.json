@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [16, 23],
 	"textures": {
+		"missing": "lom:item/missing",
 		"1": "lom:item/items/nou_game/nougameback",
 		"2": "lom:item/items/nou_game/onecard"
 	},

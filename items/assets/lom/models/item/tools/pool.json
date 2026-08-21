@@ -2,11 +2,12 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench by Narkles",
 	"textures": {
-		"0": "block/light_blue_concrete",
-		"1": "block/yellow_concrete",
-		"4": "block/blue_stained_glass",
-		"12": "block/water_still",
-		"particle": "block/light_blue_concrete"
+		"missing": "lom:item/missing",
+		"0": "lom:item/block/light_blue_concrete",
+		"1": "lom:item/block/yellow_concrete",
+		"4": "lom:item/block/blue_stained_glass",
+		"12": "lom:item/block/water_still",
+		"particle": "lom:item/block/light_blue_concrete"
 	},
 	"elements": [
 		{

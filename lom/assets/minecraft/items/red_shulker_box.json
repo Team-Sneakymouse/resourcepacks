@@ -7,5 +7,6 @@
       { "threshold": 1, "model": { "type": "model", "model": "lom:item/items/crates/crate_firepetal" } },
       { "threshold": 2, "model": { "type": "model", "model": "lom:item/items/crates/crate_holyankh" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

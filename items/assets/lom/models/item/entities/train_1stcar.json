@@ -2,11 +2,12 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/anvil",
-		"5": "block/andesite",
-		"6": "block/red_shulker_box",
-		"9": "block/raw_gold_block",
-		"particle": "block/anvil"
+		"missing": "lom:item/missing",
+		"0": "lom:item/block/anvil",
+		"5": "lom:item/block/andesite",
+		"6": "lom:item/block/red_shulker_box",
+		"9": "lom:item/block/raw_gold_block",
+		"particle": "lom:item/block/anvil"
 	},
 	"elements": [
 		{

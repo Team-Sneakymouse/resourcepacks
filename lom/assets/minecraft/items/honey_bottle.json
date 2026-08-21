@@ -6,5 +6,6 @@
     "entries": [
       { "threshold": 1, "model": { "type": "model", "model": "lom:item/items/ale" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

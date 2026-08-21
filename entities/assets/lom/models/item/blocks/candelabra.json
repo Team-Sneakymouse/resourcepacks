@@ -2,10 +2,10 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench by 22yhjjjj",
 	"textures": {
-		"0": "block/red_candle_lit",
-		"1": "block/polished_blackstone_bricks",
-		"2": "block/chiseled_polished_blackstone",
-		"particle": "block/polished_blackstone_bricks"
+		"0": "lom:item/block/red_candle_lit",
+		"1": "lom:item/block/polished_blackstone_bricks",
+		"2": "lom:item/block/chiseled_polished_blackstone",
+		"particle": "lom:item/block/polished_blackstone_bricks"
 	},
 	"elements": [
 		{

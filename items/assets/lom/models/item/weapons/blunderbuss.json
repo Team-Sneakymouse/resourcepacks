@@ -2,9 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/anvil",
-		"1": "block/dark_oak_planks",
-		"particle": "block/anvil"
+		"0": "lom:item/block/anvil",
+		"1": "lom:item/block/dark_oak_planks",
+		"particle": "lom:item/block/anvil"
 	},
 	"elements": [
 		{

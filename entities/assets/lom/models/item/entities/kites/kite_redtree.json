@@ -3,11 +3,11 @@
 	"texture_size": [32, 32],
 	"parent": "lom:item/entities/kites/kite",
 	"textures": {
-		"particle": "block/red_wool",
-		"sail": "block/red_wool",
-		"frame": "block/stripped_oak_log",
-		"tail": "block/lime_wool",
-		"bow": "block/red_concrete",
+		"particle": "lom:item/block/red_wool",
+		"sail": "lom:item/block/red_wool",
+		"frame": "lom:item/block/stripped_oak_log",
+		"tail": "lom:item/block/lime_wool",
+		"bow": "lom:item/block/red_concrete",
 		"image": "lom:item/entities/kites/kite-xmastree"
 	}
 }

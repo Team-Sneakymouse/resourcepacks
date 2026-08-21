@@ -1,12 +1,13 @@
 {
 	"credit": "Made with Blockbench by vidokou",
 	"textures": {
-		"0": "block/orange_concrete",
-		"1": "block/sea_lantern",
-		"2": "block/black_concrete",
-		"6": "block/pink_glazed_terracotta",
-		"9": "block/magma",
-		"particle": "block/orange_concrete"
+		"missing": "lom:item/missing",
+		"0": "lom:item/block/orange_concrete",
+		"1": "lom:item/block/sea_lantern",
+		"2": "lom:item/block/black_concrete",
+		"6": "lom:item/block/pink_glazed_terracotta",
+		"9": "lom:item/block/magma",
+		"particle": "lom:item/block/orange_concrete"
 	},
 	"elements": [
 		{

@@ -3,11 +3,11 @@
 	"texture_size": [32, 32],
 	"parent": "lom:item/entities/kites/kite",
 	"textures": {
-		"particle": "block/white_wool",
-		"sail": "block/white_wool",
-		"frame": "block/stripped_oak_log",
-		"tail": "block/red_wool",
-		"bow": "block/raw_gold_block",
+		"particle": "lom:item/block/white_wool",
+		"sail": "lom:item/block/white_wool",
+		"frame": "lom:item/block/stripped_oak_log",
+		"tail": "lom:item/block/red_wool",
+		"bow": "lom:item/block/raw_gold_block",
 		"image": "lom:item/entities/kites/kite-ankh"
 	}
 }

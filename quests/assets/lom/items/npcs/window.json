@@ -22,5 +22,6 @@
       { "threshold": 16, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window16" } },
       { "threshold": 17, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window17" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

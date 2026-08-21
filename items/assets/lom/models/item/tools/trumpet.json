@@ -1,10 +1,11 @@
 {
 	"credit": "Made with Blockbench eranos123",
 	"textures": {
-		"2": "block/smooth_stone",
-		"3": "block/yellow_concrete",
-		"4": "block/black_concrete",
-		"particle": "block/black_concrete"
+		"missing": "lom:item/missing",
+		"2": "lom:item/block/smooth_stone",
+		"3": "lom:item/block/yellow_concrete",
+		"4": "lom:item/block/black_concrete",
+		"particle": "lom:item/block/black_concrete"
 	},
 	"elements": [
 		{

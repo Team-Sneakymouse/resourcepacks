@@ -2,11 +2,12 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"texture_size": [64, 64],
 	"textures": {
+		"missing": "lom:item/missing",
 		"4": "lom:item/items/crates/label",
-		"particle": "block/bee_nest_front_honey",
-		"inner": "block/bee_nest_front_honey",
-		"outer": "block/honey_block_top",
-		"inner_top": "block/honeycomb_block",
+		"particle": "lom:item/block/bee_nest_front_honey",
+		"inner": "lom:item/block/bee_nest_front_honey",
+		"outer": "lom:item/block/honey_block_top",
+		"inner_top": "lom:item/block/honeycomb_block",
 		"item": "lom:item/items/invisible"
 	},
 	"elements": [

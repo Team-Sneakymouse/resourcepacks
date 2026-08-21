@@ -3,8 +3,8 @@
 	"parent": "lom:item/items/prototype-items/protest_sign",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/oak_planks",
+		"0": "lom:item/block/oak_planks",
 		"1": "lom:item/tools/sign_aye",
-		"particle": "block/oak_planks"
+		"particle": "lom:item/block/oak_planks"
 	}
 }

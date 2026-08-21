@@ -2,13 +2,14 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"texture_size": [64, 64],
 	"textures": {
+		"missing": "lom:item/missing",
 		"8": "lom:item/items/crates/label",
-		"inner_brace": "block/cherry_leaves",
-		"inner": "block/cherry_planks",
-		"outer": "block/stripped_cherry_log",
-		"inner_top": "block/stripped_cherry_log_top",
-		"particle": "block/cherry_planks",
-		"inner_front": "lom:block/cherry_door_bottom",
+		"inner_brace": "lom:item/block/cherry_leaves",
+		"inner": "lom:item/block/cherry_planks",
+		"outer": "lom:item/block/stripped_cherry_log",
+		"inner_top": "lom:item/block/stripped_cherry_log_top",
+		"particle": "lom:item/block/cherry_planks",
+		"inner_front": "lom:item/block/cherry_door_bottom",
 		"item": "lom:item/items/invisible"
 	},
 	"elements": [
@@ -290,7 +291,7 @@
 			"to": [17, 18, 2],
 			"rotation": { "angle": 0, "axis": "y", "origin": [16, 2, 1] },
 			"faces": {
-				"north": { "uv": [16.25, 7.125, 7.125, 10.625], "texture": "#outer" },
+				"north": { "uv": [16, 7.125, 7.125, 10.625], "texture": "#outer" },
 				"east": { "uv": [2.125, 3, 7.75, 13.5], "texture": "#outer" },
 				"south": { "uv": [12.375, 7.125, 7.25, 12.625], "texture": "#outer" },
 				"west": { "uv": [6.375, 0.5, 6, 2], "texture": "#missing" },
@@ -345,7 +346,7 @@
 				"north": { "uv": [4.4375, 7.5, 1.375, 15.875], "texture": "#inner_brace" },
 				"east": { "uv": [4.375, 2, 4, 4.375], "texture": "#missing" },
 				"south": { "uv": [2.5625, 7.5, 1.5, 16], "texture": "#inner_brace" },
-				"west": { "uv": [11, -1.375, 8.125, 16], "texture": "#inner_brace" },
+				"west": { "uv": [11, 0, 8.125, 16], "texture": "#inner_brace" },
 				"up": { "uv": [5.25, 7.875, 5.3125, 7.5], "texture": "#missing" },
 				"down": { "uv": [7.5, 7.125, 7.5625, 7.5], "texture": "#missing" }
 			}

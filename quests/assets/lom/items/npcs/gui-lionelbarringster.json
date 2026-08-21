@@ -8,5 +8,6 @@
 		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/lionelbarringster_alt" } },
 		{ "when": "taxes", "model": { "type": "model", "model": "lom:item/gui/npcs/lionelbarringster_taxes" } }
 	  ]
-	}
+	},
+  "oversized_in_gui": true
 }

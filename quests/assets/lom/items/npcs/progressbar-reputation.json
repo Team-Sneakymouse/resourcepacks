@@ -55,5 +55,6 @@
       { "threshold": 490, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_rep90",  "tints": [ { "type": "minecraft:dye", "default": -43434 } ] } },
       { "threshold": 500, "model": { "type": "model", "model": "lom:item/gui/npcs/progressbar/progressbar_rep100", "tints": [ { "type": "minecraft:dye", "default": -43434 } ] } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

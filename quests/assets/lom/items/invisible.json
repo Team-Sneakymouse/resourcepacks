@@ -1,3 +1,4 @@
 {
-	"model": { "type": "model", "model": "lom:item/items/invisible" }
+	"model": { "type": "model", "model": "lom:item/items/invisible" },
+  "oversized_in_gui": true
 }

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"parent": "lom:item/items/balls/ball_blue",
 	"textures": {
-		"0": "minecraft:block/brain_coral_block",
-		"particle": "minecraft:block/brain_coral_block"
+		"0": "lom:item/block/brain_coral_block",
+		"particle": "lom:item/block/brain_coral_block"
 	}
 }

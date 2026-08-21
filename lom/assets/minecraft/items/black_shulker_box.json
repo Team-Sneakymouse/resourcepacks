@@ -9,5 +9,6 @@
       { "threshold": 3, "model": { "type": "model", "model": "lom:item/items/crates/crate_bone" } },
       { "threshold": 4, "model": { "type": "model", "model": "lom:item/items/crates/crate_darkpetal" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

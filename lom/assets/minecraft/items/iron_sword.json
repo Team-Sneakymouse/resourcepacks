@@ -8,5 +8,6 @@
       { "threshold": 2, "model": { "type": "model", "model": "abyss_pack:item/abyss_sword_white" } },
       { "threshold": 3, "model": { "type": "model", "model": "abyss_pack:item/abyss_sword_black" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

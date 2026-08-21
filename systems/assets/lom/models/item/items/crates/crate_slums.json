@@ -2,10 +2,11 @@
 	"credit": "Made with Blockbench by MsDvil",
 	"texture_size": [64, 64],
 	"textures": {
+		"missing": "lom:item/missing",
 		"3": "lom:item/items/crates/label",
-		"inner": "block/soul_soil",
-		"particle": "block/soul_soil",
-		"outer": "block/stripped_spruce_log",
+		"inner": "lom:item/block/soul_soil",
+		"particle": "lom:item/block/soul_soil",
+		"outer": "lom:item/block/stripped_spruce_log",
 		"item": "lom:item/items/invisible"
 	},
 	"elements": [

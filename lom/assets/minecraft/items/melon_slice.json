@@ -80,5 +80,6 @@
       { "threshold": 74, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/wine2" } },
       { "threshold": 75, "model": { "type": "model", "model": "lom:item/items/prototype-drinks/yellow_drink" } }
     ]
-  }
+  },
+  "oversized_in_gui": true
 }

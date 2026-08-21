@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
     "gui_light": "front",
 	"textures": {
-		"0": "block/dark_oak_planks",
-		"1": "block/hopper_outside",
-		"particle": "block/dark_oak_planks"
+		"0": "lom:item/block/dark_oak_planks",
+		"1": "lom:item/block/hopper_outside",
+		"particle": "lom:item/block/dark_oak_planks"
 	},
 	"elements": [
 		{

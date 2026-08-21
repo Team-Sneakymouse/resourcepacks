@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "lom:item/blocks/candelabra"
+      "model": "lom:block/dual_use/candelabra"
     }
   }
 }
