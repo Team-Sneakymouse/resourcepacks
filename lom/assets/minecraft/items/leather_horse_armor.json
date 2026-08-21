@@ -21,6 +21,16 @@
         "type": "model",
         "model": "lom:item/hats/simplehats/partyhat",
         "tints": [ { "type": "minecraft:dye", "default": 16239891 } ]
+      }},
+      { "threshold": 4, "model": {
+        "type": "model",
+        "model": "lom:item/entities/vidwindows/bar_casting",
+        "tints": [ { "type": "minecraft:dye", "default": 16239891 } ]
+      }},
+      { "threshold": 5, "model": {
+        "type": "model",
+        "model": "lom:item/entities/vidwindows/bar_fillcolor",
+        "tints": [ { "type": "minecraft:dye", "default": 16239891 } ]
       }}
     ]
   },
