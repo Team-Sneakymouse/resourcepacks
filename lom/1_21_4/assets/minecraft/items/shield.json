@@ -1,0 +1,73 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_true": { "type": "minecraft:special", "base": "minecraft:item/shield_blocking", "model": { "type": "minecraft:shield" } },
+      "on_false": { "type": "minecraft:special", "base": "minecraft:item/shield", "model": { "type": "minecraft:shield" } }
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": { "type": "model", "model": "lom:item/shields/buckler_blocking" },
+          "on_false": { "type": "model", "model": "lom:item/shields/buckler" }
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": { "type": "model", "model": "lom:item/shields/heater_blocking" },
+          "on_false": { "type": "model", "model": "lom:item/shields/heater" }
+        }
+      },
+      
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": { "type": "model", "model": "lom:item/shields/targe_blocking" },
+          "on_false": { "type": "model", "model": "lom:item/shields/targe" }
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": { "type": "model", "model": "lom:item/shields/rapier_blocking" },
+          "on_false": { "type": "model", "model": "lom:item/shields/rapier" }
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": { "type": "model", "model": "lom:item/shields/thewall_blocking" },
+          "on_false": { "type": "model", "model": "lom:item/shields/thewall" }
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": { "type": "model", "model": "lom:item/shields/carriage_wheel_blocking" },
+          "on_false": { "type": "model", "model": "lom:item/shields/carriage_wheel" }
+        }
+      },
+      {
+        "threshold": 7,
+        "model": { "type": "model", "model": "lom:item/tools/glove" }
+      }
+    ]
+  }
+}

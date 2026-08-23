@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench by MsDvil",
+	"parent": "lom:item/items/dvil_card",
+	"textures": {
+		"0": "lom:item/items/brucexmas",
+		"1": "block/white_concrete",
+		"2": "lom:item/items/xmasback",
+		"3": "lom:item/items/brucecard",
+		"particle": "lom:item/items/brucexmas"
+	}
+}

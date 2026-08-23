@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lom:item/entities/casino_lounges/magic_jukebox",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "lom:item/entities/casino_lounges/magic_jukebox",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lom:item/entities/casino_lounges/magic_jukebox",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lom:item/entities/casino_lounges/magic_jukebox",
+      "y": 270
+    }
+  }
+}

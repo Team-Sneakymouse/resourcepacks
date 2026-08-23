@@ -1,0 +1,27 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "lom:item/gui/tools/blacksmith_box_2",
+		"texture": "lom:item/gui/tools/blacksmith_box_2"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, -8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"east": {"uv": [10, 0, 10, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"down": {"uv": [0, 10, 16, 10], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

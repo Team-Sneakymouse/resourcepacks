@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [16, 23],
+	"textures": {
+		"1": "lom:item/items/nou_game/nougameback",
+		"2": "lom:item/items/nou_game/onecard"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 7],
+			"to": [9, 6, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 4.17391], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 4.17391], "texture": "#missing"},
+				"up": {"uv": [0, 0, 4, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 4, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [1, 7.75, 1.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-1, 7.75, 1.25]
+		},
+		"firstperson_righthand": {
+			"translation": [4, 7.75, 1.25]
+		},
+		"firstperson_lefthand": {
+			"translation": [2, 7.75, 1.25]
+		},
+		"ground": {
+			"translation": [1, 6, 2],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"gui": {
+			"translation": [2.75, 12.5, 0],
+			"scale": [2.5, 2.5, 2.5]
+		},
+		"head": {
+			"translation": [0.75, 14.75, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [-2.5, 12.5, -1.5],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	}
+}

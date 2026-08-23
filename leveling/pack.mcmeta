@@ -3,10 +3,15 @@
   "name": "leveling",
   "pack": {
     "description": "Leveling assets for Lords of Minecraft",
-    "min_format": [
+    "pack_format": 46,
+    "supported_formats": [
+      46,
+      64
+    ],
+    "min_format": 46,
+    "max_format": [
       88,
       0
-    ],
-    "max_format": 2147483647
+    ]
   }
 }

@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench by MsDvil",
+	"texture_size": [32, 32],
+	"parent": "lom:item/entities/kites/kite",
+	"textures": {
+		"particle": "block/light_blue_wool",
+		"sail": "block/light_blue_wool",
+		"frame": "block/stripped_oak_log",
+		"tail": "block/yellow_wool",
+		"bow": "block/orange_wool",
+		"image": "lom:item/items/invisible"
+	}
+}

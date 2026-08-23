@@ -1,0 +1,45 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "damage",
+    "fallback": { "type": "model", "model": "item/golden_hoe" },
+    "entries": [
+      {
+        "threshold": 0.1,
+        "model": { "type": "minecraft:model", "model": "lom:item/entities/willyswheels/alfa_romeo_spider" }
+      },
+      {
+        "threshold": 0.2,
+        "model": { "type": "minecraft:model", "model": "lom:item/entities/willyswheels/fire_engine" }
+      },
+      {
+        "threshold": 0.3,
+        "model": { "type": "minecraft:model", "model": "lom:item/entities/willyswheels/forklift" }
+      },
+      {
+        "threshold": 0.4,
+        "model": { "type": "minecraft:model", "model": "lom:item/entities/willyswheels/honda_s2000_suki" }
+      },
+      {
+        "threshold": 0.5,
+        "model": { "type": "minecraft:model", "model": "lom:item/entities/willyswheels/lamborghini" }
+      },
+      {
+        "threshold": 0.6,
+        "model": { "type": "minecraft:model", "model": "lom:item/entities/willyswheels/lamborghini_aventador_sv" }
+      },
+      {
+        "threshold": 0.7,
+        "model": { "type": "minecraft:model", "model": "lom:item/entities/willyswheels/london_bus" }
+      },
+      {
+        "threshold": 0.8,
+        "model": { "type": "minecraft:model", "model": "lom:item/entities/willyswheels/pizza_boy" }
+      },
+      {
+        "threshold": 0.9,
+        "model": { "type": "minecraft:model", "model": "lom:item/entities/willyswheels/lamborghini_aventador_pink" }
+      }
+    ]
+  }
+}

@@ -3,10 +3,23 @@
   "name": "lom",
   "pack": {
     "description": "Lords of Minecraft 2 Resource Pack",
-    "min_format": [
+    "pack_format": 46,
+    "supported_formats": [
+      46,
+      64
+    ],
+    "min_format": 46,
+    "max_format": [
       88,
       0
-    ],
-    "max_format": 2147483647
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": 46,
+        "directory": "1_21_4"
+      }
+    ]
   }
 }

@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "lom:item/gui/npcs/window/window1" },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window1" } },
+      { "threshold": 2, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window2" } },
+      { "threshold": 3, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window3" } },
+      { "threshold": 4, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window4" } },
+      { "threshold": 5, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window5" } },
+      { "threshold": 6, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window6" } },
+      { "threshold": 7, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window7" } },
+      { "threshold": 8, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window8" } },
+      { "threshold": 9, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window9" } },
+      { "threshold": 10, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window10" } },
+      { "threshold": 11, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window11" } },
+      { "threshold": 12, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window12" } },
+      { "threshold": 13, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window13" } },
+      { "threshold": 14, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window14" } },
+      { "threshold": 15, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window15" } },
+      { "threshold": 16, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window16" } },
+      { "threshold": 17, "model": { "type": "model", "model": "lom:item/gui/npcs/window/window17" } }
+    ]
+  }
+}
