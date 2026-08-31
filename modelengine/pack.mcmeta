@@ -2,18 +2,67 @@
   "id": "00000000-5555-4321-a000-00000000009",
   "name": "modelengine",
   "pack": {
-    "pack_format": 13,
-    "supported_formats": [13, 32767],
+    "pack_format": 15,
+    "min_format": 15,
+    "max_format": 32767,
+    "supported_formats": [15, 32767],
     "description": "Pre-zipped Model Engine Resource Pack"
   },
   "overlays": {
     "entries": [
       {
+        "min_format": 15,
+        "max_format": 36,
+        "formats": {
+          "min_inclusive": 15,
+          "max_inclusive": 36
+        },
+        "directory": "modelengine_1_19_4"
+      },
+      {
+        "min_format": 36,
+        "max_format": 32767,
         "formats": {
           "min_inclusive": 36,
-          "max_inclusive": 99
+          "max_inclusive": 32767
         },
-        "directory": "1_21_2"
+        "directory": "modelengine_1_21_2"
+      },
+      {
+        "min_format": 55,
+        "max_format": 32767,
+        "formats": {
+          "min_inclusive": 55,
+          "max_inclusive": 32767
+        },
+        "directory": "modelengine_1_21_5"
+      },
+      {
+        "min_format": 63,
+        "max_format": 32767,
+        "formats": {
+          "min_inclusive": 63,
+          "max_inclusive": 32767
+        },
+        "directory": "modelengine_1_21_6"
+      },
+      {
+        "min_format": 84,
+        "max_format": 32767,
+        "formats": {
+          "min_inclusive": 84,
+          "max_inclusive": 32767
+        },
+        "directory": "modelengine_26_1"
+      },
+      {
+        "min_format": 88,
+        "max_format": 32767,
+        "formats": {
+          "min_inclusive": 88,
+          "max_inclusive": 32767
+        },
+        "directory": "modelengine_26_2"
       }
     ]
   },

@@ -1,1 +1,1 @@
-{"sources":[{"source":"entity","prefix":"entity/","type":"directory"},{"pattern":{"namespace":"minecraft","path":"entity/fishing_hook"},"type":"filter"}]}
+{"sources":[{"source":"entity/models","prefix":"entity/models/","type":"directory"},{"pattern":{"namespace":"minecraft","path":"entity/fishing_hook"},"type":"filter"}]}
