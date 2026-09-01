@@ -296,5 +296,8 @@
 	"entity.panda.worried_ambient": {
 		"replace": true,
 		"sounds": []
+	},
+	"block.water.ambient": {
+		"replace": true
 	}
 }
