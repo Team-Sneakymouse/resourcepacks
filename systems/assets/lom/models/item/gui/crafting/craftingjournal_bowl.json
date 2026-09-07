@@ -1,5 +1,5 @@
 {
-  "parent": "lom:item/gui/6rows-front",
+  "parent": "lom:item/gui/page-left",
   "textures": {
     "texture": "lom:item/gui/crafting/craftingjournal_bowl"
   }

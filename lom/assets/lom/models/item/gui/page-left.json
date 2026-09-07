@@ -1,0 +1,27 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "lom:item/missing"
+	},
+	"elements": [
+		{
+			"name": "PlaneX1",
+			"from": [7.25, -8, -3.25],
+			"to": [7.251, 23.3, 18.625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 10]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#texture"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [0, -90, 0],
+			"translation": [27, -34.75, -8],
+			"scale": [0.0001, 4, 4]
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"parent": "lom:item/gui/page-left",
+	"textures": {
+		"texture": "lom:item/missing"
+	},
+	"display": {
+		"gui": {
+			"rotation": [0, -90, 0],
+			"translation": [42, -34.75, -8],
+			"scale": [0.0001, 4, 4]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/page-right",
+  "textures": {
+    "texture": "lom:item/gui/fishing/fishing_journal_achievements"
+  }
+}

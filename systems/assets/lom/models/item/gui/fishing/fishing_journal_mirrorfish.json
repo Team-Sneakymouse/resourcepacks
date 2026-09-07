@@ -1,5 +1,5 @@
 {
-  "parent": "lom:item/gui/fishing/fishing_journal",
+  "parent": "lom:item/gui/page-left",
   "textures": {
     "texture": "lom:item/gui/fishing/fishing_journal_mirrorfish"
   }
