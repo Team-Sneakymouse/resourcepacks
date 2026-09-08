@@ -1,0 +1,11 @@
+{
+  "oversized_in_gui": true,
+  "model": {
+    "type": "minecraft:select",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "lom:item/gui/auctionhouse" },
+    "cases": [
+      { "when": "background", "model": { "type": "model", "model": "lom:item/gui/auctionhouse" } }
+    ]
+  }
+}

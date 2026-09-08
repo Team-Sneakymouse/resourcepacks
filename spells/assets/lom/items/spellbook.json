@@ -1,0 +1,138 @@
+{
+  "oversized_in_gui": true,
+  "model": {
+    "type": "minecraft:select",
+    "property": "custom_model_data",
+    "fallback": { "type": "model", "model": "lom:item/tools/spellbook" },
+    "cases": [
+      { "when": "item", "model": {
+          "type": "condition",
+          "property": "minecraft:using_item",
+          "on_true": { "type": "model", "model": "lom:item/tools/magicbook_open" },
+          "on_false": { "type": "model", "model": "lom:item/tools/magicbook" }
+      } },
+      { "when": "item-dvil", "model": {
+          "type": "condition",
+          "property": "minecraft:using_item",
+          "on_true": { "type": "model", "model": "lom:item/tools/magicbook2_open" },
+          "on_false": { "type": "model", "model": "lom:item/tools/magicbook2" }
+      } },
+      { "when": "background", "model": { "type": "minecraft:select", "property": "custom_model_data", "index": 1, "fallback": { "type": "model", "model": "lom:item/gui/spellbook" }, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spellbook" }},
+          { "when": "bendfire", "model": { "type": "model", "model": "lom:item/gui/spells/bendfire-spellbook" }},
+          { "when": "blossom", "model": { "type": "model", "model": "lom:item/gui/spells/blossom-spellbook" }},
+          { "when": "bumble", "model": { "type": "model", "model": "lom:item/gui/spells/bumble-spellbook" }},
+          { "when": "conjurecheese", "model": { "type": "model", "model": "lom:item/gui/spells/conjurecheese-spellbook" }},
+          { "when": "envelopdarkness", "model": { "type": "model", "model": "lom:item/gui/spells/envelopdarkness-spellbook" }},
+          { "when": "illuminate", "model": { "type": "model", "model": "lom:item/gui/spells/illuminate-spellbook" }},
+          { "when": "opensesame", "model": { "type": "model", "model": "lom:item/gui/spells/opensesame-spellbook" }},
+          { "when": "songofhaste", "model": { "type": "model", "model": "lom:item/gui/spells/songofhaste-spellbook" }},
+          { "when": "soultap", "model": { "type": "model", "model": "lom:item/gui/spells/soultap-spellbook" }},
+          { "when": "splash", "model": { "type": "model", "model": "lom:item/gui/spells/splash-spellbook" }},
+          { "when": "splinterfate", "model": { "type": "model", "model": "lom:item/gui/spells/splinterfate-spellbook" }},
+          { "when": "stoneform", "model": { "type": "model", "model": "lom:item/gui/spells/stoneform-spellbook" }},
+          { "when": "summonchaos", "model": { "type": "model", "model": "lom:item/gui/spells/summonchaos-spellbook" }},
+          { "when": "summonreagents", "model": { "type": "model", "model": "lom:item/gui/spells/summonreagents-spellbook" }},
+          { "when": "truecast", "model": { "type": "model", "model": "lom:item/gui/spells/truecast-spellbook" }},
+          { "when": "wormhole", "model": { "type": "model", "model": "lom:item/gui/spells/wormhole-spellbook" }}
+        ]}
+      },
+      {
+        "when": "bendfire", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/bendfire" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/bendfire-alt" }}
+        ]}
+      },
+      {
+        "when": "blossom", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/blossom" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/blossom-alt" }}
+        ]}
+      },
+      {
+        "when": "bumble", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/bumble" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/bumble-alt" }}
+        ]}
+      },
+      {
+        "when": "conjurecheese", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/conjurecheese" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/conjurecheese-alt" }}
+        ]}
+      },
+      {
+        "when": "envelopdarkness", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/envelopdarkness" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/envelopdarkness-alt" }}
+        ]}
+      },
+      {
+        "when": "illuminate", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/illuminate" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/illuminate-alt" }}
+        ]}
+      },
+      {
+        "when": "opensesame", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/opensesame" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/opensesame-alt" }}
+        ]}
+      },
+      {
+        "when": "songofhaste", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/songofhaste" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/songofhaste-alt" }}
+        ]}
+      },
+      {
+        "when": "soultap", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/soultap" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/soultap-alt" }}
+        ]}
+      },
+      {
+        "when": "splash", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/splash" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/splash-alt" }}
+        ]}
+      },
+      {
+        "when": "splinterfate", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/splinterfate" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/splinterfate-alt" }}
+        ]}
+      },
+      {
+        "when": "stoneform", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/stoneform" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/stoneform-alt" }}
+        ]}
+      },
+      {
+        "when": "summonchaos", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/summonchaos" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/summonchaos-alt" }}
+        ]}
+      },
+      {
+        "when": "summonreagents", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/summonreagents" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/summonreagents-alt" }}
+        ]}
+      },
+      {
+        "when": "truecast", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/truecast" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/truecast-alt" }}
+        ]}
+      },
+      {
+        "when": "wormhole", "model": { "type": "minecraft:select", "property": "custom_model_data","index": 1, "cases": [
+          { "when": "base", "model": { "type": "model", "model": "lom:item/gui/spells/wormhole" }},
+          { "when": "alt", "model": { "type": "model", "model": "lom:item/gui/spells/wormhole-alt" }}
+        ]}
+      }
+    ]
+  }
+}
