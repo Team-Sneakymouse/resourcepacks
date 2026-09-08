@@ -1,0 +1,6 @@
+{
+  "parent": "lom:item/gui/page-left",
+  "textures": {
+    "texture": "lom:item/gui/crafting/craftingjournal_furnituresticky"
+  }
+}
