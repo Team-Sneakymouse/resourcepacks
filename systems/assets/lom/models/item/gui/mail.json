@@ -1,5 +1,5 @@
 {
-	"parent": "lom:item/gui/3rows-bottom",
+	"parent": "lom:item/gui/3rows-0",
 	"textures": {
 		"texture": "lom:item/gui/mail"
 	}
