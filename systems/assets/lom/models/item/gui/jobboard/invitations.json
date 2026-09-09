@@ -1,5 +1,5 @@
 {
-	"parent": "lom:item/gui/1rows",
+	"parent": "lom:item/gui/1rows-0",
 	"textures": {
 		"texture": "lom:item/gui/jobboard/invitations"
 	}

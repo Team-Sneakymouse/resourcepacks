@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:directory",
+      "source": "font/badges",
+      "prefix": "font/badges/"
+    }
+  ]
+}
