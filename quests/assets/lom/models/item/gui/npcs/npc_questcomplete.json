@@ -1,5 +1,5 @@
 {
-  "parent": "lom:item/gui/6rows-bottom",
+  "parent": "lom:item/gui/6rows-1",
   "textures": {
     "texture": "lom:item/gui/npcs/npc_questcomplete"
   }
