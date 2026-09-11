@@ -6,7 +6,11 @@
 	  "cases": [
 		{ "when": "main", "model": { "type": "model", "model": "lom:item/gui/npcs/carlthekobold_main" } },
 		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/carlthekobold_alt" } },
-		{ "when": "tailor", "model": { "type": "model", "model": "lom:item/gui/npcs/carlthekobold_tailor" } }
+		{ "when": "tailor", "model": { "type": "model", "model": "lom:item/gui/npcs/carlthekobold_tailor" } },
+		{ "when": "gambling_prep", "model": { "type": "model", "model": "lom:item/gui/npcs/carlthekobold_gambling_prep" } },
+		{ "when": "gambling_run", "model": { "type": "model", "model": "lom:item/gui/npcs/carlthekobold_gambling_run" } },
+		{ "when": "gambling_frame", "model": { "type": "model", "model": "lom:item/gui/npcs/carlthekobold_gambling_frame" } },
+		{ "when": "gambling_again", "model": { "type": "model", "model": "lom:item/gui/npcs/carlthekobold_gambling_again" } }
 	  ]
 	},
   "oversized_in_gui": true

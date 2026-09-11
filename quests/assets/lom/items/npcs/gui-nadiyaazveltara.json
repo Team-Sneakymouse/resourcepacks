@@ -6,9 +6,10 @@
 	  "cases": [
 		{ "when": "main", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_main" } },
 		{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_alt" } },
-		{ "when": "gambling1", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_gambling1" } },
-		{ "when": "gambling2", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_gambling2" } },
-		{ "when": "gambling3", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_gambling3" } },
+		{ "when": "gambling_prep", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_gambling_prep" } },
+		{ "when": "gambling_run", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_gambling_run" } },
+      	{ "when": "gambling_frame", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_gambling_frame" } },
+		{ "when": "gambling_again", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_gambling_again" } },
 		{ "when": "fence", "model": { "type": "model", "model": "lom:item/gui/npcs/nadiyaazveltara_fence" } }
 	  ]
 	},
