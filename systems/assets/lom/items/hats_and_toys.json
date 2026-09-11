@@ -1,0 +1,37 @@
+{
+  "oversized_in_gui": true,
+  "model": {
+    "type": "minecraft:select",
+    "property": "custom_model_data",
+    "cases": [
+      { "when": "wardrobe", "model": {
+        "type": "minecraft:select",
+        "property": "custom_model_data",
+        "fallback": { "type": "model", "model": "lom:item/gui/wardrobe" },
+        "index": 1,
+        "cases": [
+          { "when": "barrier", "model": { "type": "composite", "models": [
+            { "type": "model", "model": "lom:item/gui/wardrobe" },
+            { "type": "model", "model": "minecraft:item/barrier" }
+          ]}}
+        ]
+      }},
+      { "when": "toys", "model": {
+        "type": "minecraft:select",
+        "property": "custom_model_data",
+        "fallback": { "type": "model", "model": "lom:item/gui/wardrobe_toymenu" },
+        "index": 1,
+        "cases": [
+          { "when": "armor", "model": { "type": "composite", "models": [
+            { "type": "model", "model": "lom:item/gui/wardrobe" },
+            { "type": "model", "model": "minecraft:item/leather_chestplate" }
+          ]}},
+          { "when": "prototypekit", "model": { "type": "composite", "models": [
+            { "type": "model", "model": "lom:item/gui/wardrobe" },
+            { "type": "model", "model": "lom:item/tools/mlmprototyper" }
+          ]}}
+        ]
+      }}
+    ]
+  }
+}
