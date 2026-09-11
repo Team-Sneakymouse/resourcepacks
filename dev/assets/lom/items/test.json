@@ -1,0 +1,8 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:extended_view",
+	"on_true": {"type": "model", "model": "item/brick"},
+	"on_false": {"type": "model", "model": "item/diamond"}
+  }
+}
