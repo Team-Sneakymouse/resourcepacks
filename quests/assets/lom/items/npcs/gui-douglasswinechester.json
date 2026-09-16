@@ -1,0 +1,13 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "minecraft:select",
+		"property": "custom_model_data",
+		"cases": [
+			{ "when": "main", "model": { "type": "model", "model": "lom:item/gui/npcs/douglasswinechester_main" } },
+			{ "when": "alt", "model": { "type": "model", "model": "lom:item/gui/npcs/douglasswinechester_alt" } },
+			{ "when": "reforge1", "model": { "type": "model", "model": "lom:item/gui/npcs/douglasswinechester_reforge1" } },
+			{ "when": "reforge2", "model": { "type": "model", "model": "lom:item/gui/npcs/douglasswinechester_reforge2" } }
+		]
+	}
+}
