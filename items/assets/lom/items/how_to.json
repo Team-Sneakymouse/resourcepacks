@@ -1,0 +1,53 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "cases": [
+            {
+                "when": "blank",
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {  "type": "model", "model": "lom:item/items/how_to_blank_open" },
+                    "on_false": { "type": "model", "model": "lom:item/items/how_to_blank_closed" }
+                }
+            },
+            {
+                "when": "meme",
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {  "type": "model", "model": "lom:item/items/how_to_meme_open" },
+                    "on_false": { "type": "model", "model": "lom:item/items/how_to_meme_closed" }
+                }
+            },
+            {
+                "when": "stall",
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {  "type": "model", "model": "lom:item/items/how_to_stall_open" },
+                    "on_false": { "type": "model", "model": "lom:item/items/how_to_stall_closed" }
+                }
+            },
+            {
+                "when": "stand",
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {  "type": "model", "model": "lom:item/items/how_to_stand_open" },
+                    "on_false": { "type": "model", "model": "lom:item/items/how_to_stand_closed" }
+                }
+            },
+            {
+                "when": "wait",
+                "model": {
+                    "type": "condition",
+                    "property": "minecraft:using_item",
+                    "on_true": {  "type": "model", "model": "lom:item/items/how_to_wait_open" },
+                    "on_false": { "type": "model", "model": "lom:item/items/how_to_wait_closed" }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "lom:item/items/how_to_wait_closed",
+  "textures": {
+    "0": "lom:item/items/how_to_blank",
+    "1": "lom:item/block/white_wool",
+    "particle": "lom:item/items/how_to_blank"
+  }
+}
