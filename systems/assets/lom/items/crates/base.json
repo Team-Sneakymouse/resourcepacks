@@ -1,0 +1,7 @@
+{
+	"oversized_in_gui": true,
+	"model": {
+		"type": "model",
+		"model": "lom:item/items/crates/crate_stock"
+	}
+}
