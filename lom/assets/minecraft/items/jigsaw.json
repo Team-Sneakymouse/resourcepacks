@@ -2424,9 +2424,7 @@
       { "threshold": 14105, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_button_upgrade_active" } },
       { "threshold": 14106, "model": { "type": "model", "model": "lom:item/gui/tools/error" } },
       { "threshold": 14107, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_1_left" } },
-      { "threshold": 14108, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_1_right" } },
       { "threshold": 14109, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_2_left" } },
-      { "threshold": 14110, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_box_2_right" } },
       { "threshold": 14111, "model": { "type": "model", "model": "lom:item/gui/tools/blacksmith_button_tierup_active" } },
       
       { "threshold": 14200, "model": { "type": "model", "model": "lom:item/gui/tools/pickaxe_gui_t0" } },
